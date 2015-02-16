@@ -124,17 +124,23 @@ cards).
 
 This is an index card with one of the following:
 
- - A Bad Reputation
- - A Curse
- - A Letter
- - A Love
- - A Promise
- - A Rumour
- - A Warning
+#### A Bad Reputation
+
+#### A Curse
+
+#### A Letter
+
+#### A Love
+
+#### A Promise
+
+#### A Rumour
+
+#### A Warning
 
 At the start of the game, a special Future is placed on the table:
 
- - A Fairy
+#### A Fairy
 
 ## Face Cards
 
