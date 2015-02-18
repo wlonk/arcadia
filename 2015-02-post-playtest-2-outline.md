@@ -122,6 +122,8 @@ The GM may make and place a Future card on the table whenever circumstances
 dictate (typically when a player has spent tokens or had a compromise with the
 cards).
 
+**TODO**
+
 This is an index card with one of the following:
 
 #### A Bad Reputation
