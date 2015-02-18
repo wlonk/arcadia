@@ -186,6 +186,8 @@ points under them, and when you hit that point, you get the reward for it (1,
 3, 7 points or something).  Some might also have “burn this key” type points,
 after which you have to chose a new key.
 
+**TODO** rewrite some of these triggers, add variant rewards.
+
 ### Mad, Bad and Dangerous to Know
 
 You are a person of gigantic passions: great mirths and great melancholies.
@@ -285,6 +287,10 @@ the villain in your headcanon?
 It’ll be a struggle to make these gender-neutral; I think taking a page from
 Sagas of the Icelanders is probably the best bet: make most of them heavily
 gendered, and make a couple that are neutral.
+
+**TODO** Rewrite the non-actionable and too-similar card draw triggers. These
+are going to be _primary_ now that the cards are the only real
+action-resolution system. Need to be able to get them clearly.
 
 ### Lady
 
