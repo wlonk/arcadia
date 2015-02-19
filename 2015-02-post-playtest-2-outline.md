@@ -116,6 +116,13 @@ The GM may throw down cards to have an NPC get their way, or deal with a PC
 getting their way. The GM starts with a hand of two cards, plus one per PC.
 They draw a card whenever a PC **TODO**.
 
+    Meditation: I think that the better route is to have the GM just set
+    difficulties, however much I don't like that as a pattern. Iunno. I really
+    like the GM "rolling" against the players, rather than fixing difficulties.
+
+    So, where's that show up? Dogs. Cortex. In both cases, the GM gets a pool
+    based on fictional whatnot.
+
 ### Future Cards
 
 The GM may make and place a Future card on the table whenever circumstances
