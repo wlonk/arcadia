@@ -1,5 +1,12 @@
 # Arcadia
 
+## Todo:
+
+ - Refine text on card draws for active social roles
+ - Refine token draw amounts and triggers for active Dark Desires.
+ - Decide on token-as-HP costs for failures and qualified successes.
+ - PC XP and Face cards
+
 [TOC]
 
 ## About the Game
@@ -113,21 +120,37 @@ You may only play one influence card per strength of the relationship. **TODO**
 ## The GM
 
 The GM may throw down cards to have an NPC get their way, or deal with a PC
-getting their way. The GM starts with a hand of two cards, plus one per PC.
-They draw a card whenever a PC **TODO**.
+getting their way. 
 
-    Meditation: I think that the better route is to have the GM just set
-    difficulties, however much I don't like that as a pattern. Iunno. I really
-    like the GM "rolling" against the players, rather than fixing difficulties.
+The GM's deck has no face cards. Those are part of **Futures** (see below).
 
-    So, where's that show up? Dogs. Cortex. In both cases, the GM gets a pool
-    based on fictional whatnot.
+First, every NPC starts with one card. Write that card in the corner of the
+NPC's index card, and at the start of every session, pull it from the GM's deck
+and put it under that NPC's index card. Once per session, the NPC may spend
+that card for opposition, as though it came from the GM's hand.
+
+The value of the NPC's card is based on their social standing (higher value for
+higher standing), and the suit is based on the dominant character note of that
+NPC.
+
+Second, the GM's hand is about pacing, whereas PCs' hands are about performing
+their social role. This means that the events that trigger GM hand refreshes
+are tied to session length and structure, not fictional actions _per se_.
+
+So: the GM starts with the cards under NPCs, plus a hand of 2 + number of
+players. They may draw a new hand of this size once, at about the midpoint of
+the session. They should do this when they are either out of cards, or the
+action has come to a middle. They should discard and remaining cards before
+they do so.
 
 ### Future Cards
 
 The GM may make and place a Future card on the table whenever circumstances
 dictate (typically when a player has spent tokens or had a compromise with the
 cards).
+
+These get a card on them, which the GM can play when this future comes to bear.
+They only have face cards.
 
 **TODO**
 
