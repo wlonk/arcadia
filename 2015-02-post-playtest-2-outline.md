@@ -2,10 +2,14 @@
 
 ## Todo:
 
- - Refine text on card draws for active social roles
- - Refine token draw amounts and triggers for active Dark Desires.
- - Decide on token-as-HP costs for failures and qualified successes.
- - PC XP and Face cards
+ - (1) Refine Dharma card draws we're currently using
+ - (2) Refine Dark Desires we're currently using
+ - (3) Decide on token-as-HP costs for failures and qualified successes.
+ - (4) Face Cards
+ - (5) XP and advancement
+ - (6) Future Cards
+ - (7) Relationship strength
+
 
 [TOC]
 
@@ -324,7 +328,7 @@ gendered, and make a couple that are neutral.
 are going to be _primary_ now that the cards are the only real
 action-resolution system. Need to be able to get them clearly.
 
-### Lady
+### Lady (♀)
 
 A young lady, from a good family, with some hope of marriage. Your honour is
 your family’s honour. Your honour is both positive and negative: being
@@ -346,49 +350,7 @@ Tell us who is:
 
 Initial hand: 5
 
-### Gentleman
-
-A single man, in possession of a good fortune. Let a lady decide the degree of
-acquaintance. A servant cannot impinge upon your honour, but neither can you
-suffer insolence from them. Another gentleman insulting you, your family, or a
-lady of your close acquaintance is a stain on your honour.
-
-Draw a card when:
-
- - you display good judgment,
- - are warm and welcoming,
- - or defend the honour of someone close to you.
-
-Tell us who is:
-
- - Your cousin
- - The tradesman you owe the most
- - Your boon companion
-
-Initial hand: 5
-
-### Servant
-
-A young man or woman in service to someone of quality. Be neither seen nor
-heard, except when needed. Protect the honour of your master’s house in the
-broader world. Discharge your duty to the family first; there is always more
-you can do.
-
-Draw a card when:
-
- - you keep your master’s confidence,
- - act on their needs before they ask you,
- - or when you subordinate your own interests to those of your master.
-
-Tell us who is:
-
- - Your master
- - The apple of your eye
- - Your confidante
-
-Initial hand: 3
-
-### Governess
+### Governess (♀)
 
 A young lady of indifferent family, but with enough education to hold a
 position with a wealthy family as not-quite-a-servant. Set a good example for
@@ -409,11 +371,15 @@ Tell us who is:
 
 Initial hand: 4
 
-### Ward
+### Ward (♀)
 
 You are expected to be ...
 
 Draw a card when:
+
+ - you uphold or demonstrate the honour of your adoptive family,
+ - put your loyalty to your adoptive family first,
+ - or
 
  - you obey your parents or guardian,
  - reflect well upon your family,
@@ -427,7 +393,7 @@ Tell us who:
 
 Initial hand: 4
 
-### Spinster
+### Spinster (♀)
 
 You are expected to deviate from (reject? or wish fruitlessly you could conform
 to?) your society’s feminine ideal, have secret wealth or knowledge, and draw
@@ -447,7 +413,28 @@ Tell us who is:
 
 Initial hand: 4
 
-### Officer
+### Gentleman (♂)
+
+A single man, in possession of a good fortune. Let a lady decide the degree of
+acquaintance. A servant cannot impinge upon your honour, but neither can you
+suffer insolence from them. Another gentleman insulting you, your family, or a
+lady of your close acquaintance is a stain on your honour.
+
+Draw a card when:
+
+ - you display good judgment,
+ - are warm and welcoming,
+ - or defend the honour of someone close to you.
+
+Tell us who is:
+
+ - Your cousin
+ - The tradesman you owe the most
+ - Your boon companion
+
+Initial hand: 5
+
+### Officer (♂)
 
 You are expected to be disciplined, honorable and patriotic.
 
@@ -465,7 +452,7 @@ Tell us who:
 
 Initial hand: 4
 
-### Clergyman
+### Clergyman (♂)
 
 ...
 
@@ -483,7 +470,7 @@ Tell us who is:
 
 Initial hand: 4
 
-### Scholar
+### Scholar (♂)
 
 You are expected to be erudite, considered, and informed.
 
@@ -501,7 +488,28 @@ Tell us who is:
 
 Initial hand: 4
 
-### Invalid
+### Servant (♁)
+
+A young man or woman in service to someone of quality. Be neither seen nor
+heard, except when needed. Protect the honour of your master’s house in the
+broader world. Discharge your duty to the family first; there is always more
+you can do.
+
+Draw a card when:
+
+ - you keep your master’s confidence,
+ - act on their needs before they ask you,
+ - or when you subordinate your own interests to those of your master.
+
+Tell us who is:
+
+ - Your master
+ - The apple of your eye
+ - Your confidante
+
+Initial hand: 3
+
+### Invalid (♁)
 
 You are expected to be home-bound, solicitous of others’ health, and ...
 
@@ -519,7 +527,7 @@ Tell us who is:
 
 Initial hand: 4
 
-### Vagabond
+### Vagabond (♁)
 
 You are expected to be needy, itinerant, and thankful.
 
@@ -537,7 +545,7 @@ Tell us who:
 
 Initial hand: 3
 
-### Magician
+### Magician (♁)
 
 You are expected to be mysterious, wise, and unconventional.
 
