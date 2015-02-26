@@ -2,13 +2,12 @@
 
 ## Todo:
 
- - (1) Refine Dharma card draws we're currently using
- - (2) Refine Dark Desires we're currently using
- - (3) Decide on token-as-HP costs for failures and qualified successes.
- - (4) Face Cards
- - (5) XP and advancement
- - (6) Future Cards
- - (7) Relationship strength
+ - (1) Refine Dark Desires we're currently using
+ - (2) Decide on token-as-HP costs for failures and qualified successes.
+ - (3) Face Cards
+ - (4) XP and advancement
+ - (5) Future Cards
+ - (6) Relationship strength
 
 
 [TOC]
@@ -324,10 +323,6 @@ It’ll be a struggle to make these gender-neutral; I think taking a page from
 Sagas of the Icelanders is probably the best bet: make most of them heavily
 gendered, and make a couple that are neutral.
 
-**TODO** Rewrite the non-actionable and too-similar card draw triggers. These
-are going to be _primary_ now that the cards are the only real
-action-resolution system. Need to be able to get them clearly.
-
 ### Lady (♀)
 
 A young lady, from a good family, with some hope of marriage. Your honour is
@@ -373,17 +368,13 @@ Initial hand: 4
 
 ### Ward (♀)
 
-You are expected to be ...
+A young lady who...
 
 Draw a card when:
 
  - you uphold or demonstrate the honour of your adoptive family,
- - put your loyalty to your adoptive family first,
- - or
-
- - you obey your parents or guardian,
- - reflect well upon your family,
- - or demonstrate promise.
+ - obey your guardian,
+ - or pursue an appropriate courtship.
 
 Tell us who:
 
@@ -423,7 +414,7 @@ lady of your close acquaintance is a stain on your honour.
 Draw a card when:
 
  - you display good judgment,
- - are warm and welcoming,
+ - give others chances to show themselves off to advantage,
  - or defend the honour of someone close to you.
 
 Tell us who is:
@@ -478,7 +469,7 @@ Draw a card when:
 
  - you teach someone a valuable lesson,
  - are the voice of reason,
- - or when you learn something that furthers your studies.
+ - or you gain insight into a mystery.
 
 Tell us who is:
 
