@@ -2,13 +2,30 @@
 
 ## Todo:
 
- - (1) Refine Dark Desires we're currently using
- - (2) Decide on token-as-HP costs for failures and qualified successes.
- - (3) Face Cards
- - (4) XP and advancement
- - (5) Future Cards
- - (6) Relationship strength
-
+  - (1) Refine Dark Desires we're currently using
+ 
+  - (2) Face Cards
+ 
+    Face cards: make 8 more that are non-magical at this point.  
+    Lots of ways they can have an effect: when in deck, at purchase, when in
+    hand, when played, when in trash, etc. They can be fictional-effect primary.
+ 
+  - (3) XP and advancement
+ 
+  - (4) Future Cards
+ 
+    Right now, these are just a fictional condition and a card from the GM's
+    deck (always a face card) that can be brought to bear.
+  
+  - (5) Relationship strength
+  
+  - (6) Families
+ 
+    Can have powers/traits/resources/qualities that are accessible to members of
+    the family. Some may particularly effect or magnify with others in the
+    group. Marriage may let you adopt the other family's powers, but still count
+    as in your family for the in-group effects. Families may be grow-able with
+    sheets and XP and stuff.
 
 [TOC]
 
@@ -35,16 +52,17 @@ evolve and change as the characters grow.
 
 Let's start with how the players get ready:
 
-Shuffle the Social Roles, and deal three to each player. Each player chooses
-one from those they were dealt to play. Be comfortable with the fact that you
-may end up playing a character of a different gender than you are used to, or a
-different class. These provide a set of initial relationships, and a way to get
-more **Cards**. See below for how you use these.
+Shuffle the **Social Roles**, and deal three to each player. Each player
+chooses one from those they were dealt to play. Be comfortable with the fact
+that you may end up playing a character of a different gender than you are used
+to, or a different class. These provide a set of initial relationships, and a
+way to get more **Cards**. See below for how you use these.
 
 Each player chooses a name for their character.
 
-Each player chooses two Dark Desires for their character. These provide both an
-ambition, and a way to gain more **Tokens**. See below for how you use these.
+Each player chooses two **Dark Desires** for their character. These provide
+both an ambition, and a way to gain more **Tokens**. See below for how you use
+these.
 
 Go around, answering the relationship questions and filling out the community
 your characters live in. Be sure to share some characters: one person's boon
@@ -59,25 +77,29 @@ created. Now you will have some history with them.
 Decide how to allocate 10 points among extra cards, higher token cap, and more
 relationship slots.
 
+**TODO**:
+
+Family, location.
+
 ## Play
 
 You want to get your way:
 
- - Make someone feel hurt
- - Make someone feel impassioned
- - Make someone feel listened to
- - Make someone get out of your way
- - Make someone obey you
- - Make someone promise you something
- - Make someone reveal to you what they are thinking or feeling
- - Make someone see your point
+  - Make someone feel hurt
+  - Make someone feel impassioned
+  - Make someone feel listened to
+  - Make someone get out of your way
+  - Make someone obey you
+  - Make someone promise you something
+  - Make someone reveal to you what they are thinking or feeling
+  - Make someone see your point
 
 So, you can either spend a token for a:
 
- - Moment of enchantment
- - Moment of fury
- - Moment of honesty
- - Moment of insight
+  - Moment of enchantment
+  - Moment of fury
+  - Moment of honesty
+  - Moment of insight
 
 (When you spend a token, all players [yourself and the GM included] may discard
 a card and draw a new one.)
@@ -88,18 +110,23 @@ hit-points, so be careful!)
 Or put down a card, to set an obstacle. Your opponent may then put down one or
 more cards to counteract.
 
- - Narrate what you say or do in line with the (highest) card's suit
-    - Spades: Wit, charm
-    - Hearts: Calm, reason
-    - Clubs: Status, will
-    - Diamonds: Perception, taste
- - Your opponent may put down one or more cards, to total more than the card
-   you put down. If they put down more than one card, the GM may dictate some
-   additional cost or compromise:
-    - Lose one token per card played beyond the first.
-    - Some additional fictional cost, depending on circumstances (see Future
-      Cards, below, or an _Apocalypse World_ style 7-9 result.)
- - Face cards count as 10, may trigger special effects.
+  - Narrate what you say or do in line with the (highest) card's suit
+      - Spades: Wit, charm
+      - Hearts: Calm, reason
+      - Clubs: Status, will
+      - Diamonds: Perception, taste
+  - Your opponent may put down one or more cards, to total more than the card
+    you put down. If they put down more than one card, the GM may dictate some
+    additional cost or compromise:
+      - Lose one token per card played beyond the first.
+      - Some additional fictional cost, depending on circumstances (see Future
+        Cards, below, or an _Apocalypse World_ style 7-9 result.)
+  - Face cards count as 10, may trigger special effects.
+  - If the opponent cannot or will not put down cards, they are bested. The the
+    GM may impose a fictional cost (like a hard move) or make them lose some
+    tokens, depending on circumstances. Note: this is like stress in _Blades in
+    the Dark_, in that you can spend this resource to drive success, but can
+    also incur it as a cost.
 
 Sometimes, you will run out of cards in your deck. Just shuffle your discard
 and turn it back into your deck. You keep your cards and tokens between scenes.
@@ -146,6 +173,12 @@ the session. They should do this when they are either out of cards, or the
 action has come to a middle. They should discard and remaining cards before
 they do so.
 
+The GM should separate out the face cards, and keep them for Future Cards,
+reserving non-face cards for NPCs.
+
+Also, if you need an NPC, but don't know what they should be like, you can
+simply draw a card, interpret it, assign it to the new NPC. Like magic!
+
 ### Future Cards
 
 The GM may make and place a Future card on the table whenever circumstances
@@ -173,9 +206,9 @@ This is an index card with one of the following:
 
 #### A Warning
 
-At the start of the game, a special Future is placed on the table:
-
 #### A Fairy
+
+At the start of the game, a special Future is placed on the table: the fairy.
 
 ## Face Cards
 
@@ -183,7 +216,12 @@ At the start of the game, a special Future is placed on the table:
 
 ### Spades
 
-#### Jack
+#### Jack of Spades: the Whisperer
+
+When you play this card, name a rumour about another character. This rumour has
+spread throughout the community. Though most people believe it, the origin of
+the rumour remains unknown. It will persist until it comes to some sort of a
+head.
 
 #### Queen
 
@@ -191,27 +229,52 @@ At the start of the game, a special Future is placed on the table:
 
 ### Hearts
 
-#### Jack
+#### Jack of Hearts: the Rake
 
-#### Queen
+You have a way of slipping a reputation. You may discard this card to negate
+any concerns or effects of a bad reputation for a scene.
+
+#### Queen of Hearts: the Comforter
+
+People who come to you with their problems are soothed and come away
+strengthened. You may discard this card in a scene to give someone else three
+tokens (up to their limit).
 
 #### King
 
 ### Clubs
 
-#### Jack
+#### Jack of Clubs: the Mule
 
-#### Queen
+You are stubborn and will not let the opinions of others sway you. You may
+discard this card instead of losing any amount of tokens, when you would lose
+(not spend) tokens.
 
-#### King
+#### Queen of Clubs: the Companion
+
+You are strong, but strongest when acting beside another. When you act in
+support of a friend, you may discard this card to keep that friend from losing
+any tokens in the face of defeat.
+
+#### King of Clubs: the Nobleman
+
+You are of noble blood, though your present circumstances may be straitened.
+You may discard this card to command obedience in a one-on-one interaction.
 
 ### Diamonds
 
 #### Jack
 
-#### Queen
+#### Queen of Diamonds: the Seer
 
-#### King
+You have an uncanny insight. Discard this card to ask any other player (or the
+GM) a short question, which they must answer truthfully. This comes to your
+character as a flash of insight.
+
+#### King of Diamonds: the Creator
+
+Discard this card to create a poem, painting, performance or similar piece of
+art. This piece is worthy of one of the great talents of the age.
 
 ## Dark Desires
 
@@ -223,51 +286,51 @@ after which you have to chose a new key.
 
 **TODO** rewrite some of these triggers, add variant rewards.
 
-### Mad, Bad and Dangerous to Know
+### Mad, Bad and Dangerous to Know **TODO**
 
 You are a person of gigantic passions: great mirths and great melancholies.
 What is the outlet for your passions?
 
- - When you emotionally abandon someone
- - When you destroy the reputation of someone close to you towards your own
-   ends
- - When you kill someone in a fit of passion
+  - When you emotionally abandon someone
+  - When you destroy the reputation of someone close to you towards your own
+    ends
+  - When you kill someone in a fit of passion
 
 ###Forbidden love
 
 You love someone who you shouldn’t. Why shouldn’t you? Is it a matter of class,
 sex, or something else?
 
- - When you steal a kiss, touch, or other token of affection despite the risk
-   of discovery.
- - When you do something unsafe for your love.
- - When you reveal your love to the world?
+  - When you steal a kiss, touch, or other token of affection despite the risk
+    of discovery.
+  - When you do something unsafe for your love.
+  - When you reveal your love to the world?
 
 ### Unrequited love
 
 You love someone who does not or cannot love you back. What keeps you from
 their esteem?
 
- - When you put yourself in danger or difficulty to impress your beloved.
- - When you harm another to gain the favor of your beloved
- - When do something self-sacrificing for your love’s greater happiness
+  - When you put yourself in danger or difficulty to impress your beloved.
+  - When you harm another to gain the favor of your beloved
+  - When do something self-sacrificing for your love’s greater happiness
 
-### Vengeance
+### Vengeance **TODO**
 
 You wish to see another ruined. How did they harm you?
 
- - When you brood over slights, real or imagined
- - When you harm your foe at great cost to yourself
- - When your triumph over your nemesis is complete
+  - When you brood over slights, real or imagined
+  - When you harm your foe at great cost to yourself
+  - When your triumph over your nemesis is complete
 
 ### Secrets Man was not Meant to Know
 
 You desire understanding of the secrets of life and death—and not just to know,
 but to control. Why do you need this?
 
- - When you break the laws of God and Man
- - When you harm an innocent by your pursuits
- - When you create life out of nothingness.
+  - When you break the laws of God and Man
+  - When you harm an innocent by your pursuits
+  - When you create life out of nothingness.
 
 ### Ambition
 
@@ -282,31 +345,31 @@ position or life circumstance are not your fault, and are mere obstacles on the
 way to claiming your true place of importance. Who do you blame for your
 current lot?
 
- - When people tolerate your pretentions.
- - When you slight someone above your station and get away with it.
- - When you rise above your station.
+  - When people tolerate your pretentions.
+  - When you slight someone above your station and get away with it.
+  - When you rise above your station.
 
-### Decadence (Greed)
+### Decadence (Greed) **TODO**
 
 You have never had enough, and perhaps never will have enough. How does the
 money you do have escape your purse so quickly?
 
- - When you display your tastes excessively
- - When you harm or endanger yourself through your indulgence
- - When you pull another into your addictions inescapably
+  - When you display your tastes excessively
+  - When you harm or endanger yourself through your indulgence
+  - When you pull another into your addictions inescapably
 
 ### Luxury (Sensuality)
 
-### Playing puppeteer (Control)
+### Playing puppeteer (Control) **TODO**
 
 Like Emma, you see others’ lives as toys for your own amusement. You wish to
 arrange the lives of those around you just so. Who is the hero(ine) and who is
 the villain in your headcanon?
 
- - When you make someone beg, grovel or plead with you.
- - When someone agrees with you against their best interests and better
-   judgment.
- - When someone places their life, fortune or reputation on the line for your
+  - When you make someone beg, grovel or plead with you.
+  - When someone agrees with you against their best interests and better
+    judgment.
+  - When someone places their life, fortune or reputation on the line for your
    benefit.
 
 ### Leveling distinctions (Jealousy)
@@ -333,15 +396,15 @@ and obedient and respectful to those above you.
 
 Draw a card when:
 
- - you demonstrate your accomplishments,
- - ...
- - or make those around you feel at ease.
+  - you demonstrate your accomplishments,
+  - ...
+  - or make those around you feel at ease.
 
 Tell us who is:
 
- - Your father (or other pater familias)
- - Your lady’s maid
- - Your best friend
+  - Your father (or other pater familias)
+  - Your lady’s maid
+  - Your best friend
 
 Initial hand: 5
 
@@ -354,15 +417,15 @@ behavior of your charges.
 
 Draw a card when:
 
- - ...
- - ...
- - ...
+  - ...
+  - ...
+  - ...
 
 Tell us who is:
 
- - Your employer?
- - Your charge or charges?
- - Your best friend?
+  - Your employer?
+  - Your charge or charges?
+  - Your best friend?
 
 Initial hand: 4
 
@@ -372,15 +435,15 @@ A young lady who...
 
 Draw a card when:
 
- - you uphold or demonstrate the honour of your adoptive family,
- - obey your guardian,
- - or pursue an appropriate courtship.
+  - you uphold or demonstrate the honour of your adoptive family,
+  - obey your guardian,
+  - or pursue an appropriate courtship.
 
 Tell us who:
 
- - Is your guardian?
- - You rely on for financial support?
- - Sees you as a threat, obstacle or imposition?
+  - Is your guardian?
+  - You rely on for financial support?
+  - Sees you as a threat, obstacle or imposition?
 
 Initial hand: 4
 
@@ -392,15 +455,15 @@ strength from your relationships with other women.
 
 Draw a card when:
 
- - ...
- - ...
- - ...
+  - ...
+  - ...
+  - ...
 
 Tell us who is:
 
- - ...
- - Your dearest sister?
- - The one who got away?
+  - ...
+  - Your dearest sister?
+  - The one who got away?
 
 Initial hand: 4
 
@@ -413,15 +476,15 @@ lady of your close acquaintance is a stain on your honour.
 
 Draw a card when:
 
- - you display good judgment,
- - give others chances to show themselves off to advantage,
- - or defend the honour of someone close to you.
+  - you display good judgment,
+  - give others chances to show themselves off to advantage,
+  - or defend the honour of someone close to you.
 
 Tell us who is:
 
- - Your cousin
- - The tradesman you owe the most
- - Your boon companion
+  - Your cousin
+  - The tradesman you owe the most
+  - Your boon companion
 
 Initial hand: 5
 
@@ -431,15 +494,15 @@ You are expected to be disciplined, honorable and patriotic.
 
 Draw a card when:
 
- - ...
- - ...
- - ...
+  - ...
+  - ...
+  - ...
 
 Tell us who:
 
- - Is your commanding officer?
- - Did you leave behind?
- - ...
+  - Is your commanding officer?
+  - Did you leave behind?
+  - ...
 
 Initial hand: 4
 
@@ -449,15 +512,15 @@ Initial hand: 4
 
 Draw a card when:
 
- - ...
- - ...
- - ...
+  - ...
+  - ...
+  - ...
 
 Tell us who is:
 
- - ...
- - ...
- - ...
+  - ...
+  - ...
+  - ...
 
 Initial hand: 4
 
@@ -467,15 +530,15 @@ You are expected to be erudite, considered, and informed.
 
 Draw a card when:
 
- - you teach someone a valuable lesson,
- - are the voice of reason,
- - or you gain insight into a mystery.
+  - you teach someone a valuable lesson,
+  - are the voice of reason,
+  - or you gain insight into a mystery.
 
 Tell us who is:
 
- - Your rival?
- - Your school-chum?
- - Your pupil? (Whether they agree or not?)
+  - Your rival?
+  - Your school-chum?
+  - Your pupil? (Whether they agree or not?)
 
 Initial hand: 4
 
@@ -488,15 +551,15 @@ you can do.
 
 Draw a card when:
 
- - you keep your master’s confidence,
- - act on their needs before they ask you,
- - or when you subordinate your own interests to those of your master.
+  - you keep your master’s confidence,
+  - act on their needs before they ask you,
+  - or when you subordinate your own interests to those of your master.
 
 Tell us who is:
 
- - Your master
- - The apple of your eye
- - Your confidante
+  - Your master
+  - The apple of your eye
+  - Your confidante
 
 Initial hand: 3
 
@@ -506,15 +569,15 @@ You are expected to be home-bound, solicitous of others’ health, and ...
 
 Draw a card when:
 
- - ...
- - ...
- - ...
+  - ...
+  - ...
+  - ...
 
 Tell us who is:
 
- - Your physician?
- - Your source of comfort?
- - Thinks you’re playing it up for sympathy?
+  - Your physician?
+  - Your source of comfort?
+  - Thinks you’re playing it up for sympathy?
 
 Initial hand: 4
 
@@ -524,15 +587,15 @@ You are expected to be needy, itinerant, and thankful.
 
 Draw a card when:
 
- - ...
- - ...
- - ...
+  - ...
+  - ...
+  - ...
 
 Tell us who:
 
- - Is after you?
- - Is your drinking companion?
- - Gives you charity?
+  - Is after you?
+  - Is your drinking companion?
+  - Gives you charity?
 
 Initial hand: 3
 
@@ -542,14 +605,14 @@ You are expected to be mysterious, wise, and unconventional.
 
 Draw a card when:
 
- - ...
- - ...
- - ...
+  - ...
+  - ...
+  - ...
 
 Tell us who:
 
- - Is your patron?
- - Wishes to be your student?
- - ...
+  - Is your patron?
+  - Wishes to be your student?
+  - ...
 
 Initial hand: 4
