@@ -79,7 +79,7 @@ relationship slots.
 
 **TODO**:
 
-Family, location.
+Family, location. Weather?
 
 ## Play
 
@@ -145,7 +145,10 @@ character in your Social Role Relationships list is present, you can influence
 their action by playing a card and describing a brief flashback to an
 interaction the two of you had that might influence them one way or another.
 
-You may only play one influence card per strength of the relationship. **TODO**
+**TODO**:
+
+You may only play one influence card per strength of the relationship. Strength
+of relationship? What's that?
 
 ## The GM
 
@@ -188,9 +191,11 @@ cards).
 These get a card on them, which the GM can play when this future comes to bear.
 They only have face cards.
 
-**TODO**
-
 This is an index card with one of the following:
+
+**TODO**:
+
+Flesh these out.
 
 #### A Bad Reputation
 
@@ -212,7 +217,9 @@ At the start of the game, a special Future is placed on the table: the fairy.
 
 ## Face Cards
 
-**TODO**
+**TODO**:
+
+Flesh these out.
 
 ### Spades
 
@@ -284,16 +291,18 @@ points under them, and when you hit that point, you get the reward for it (1,
 3, 7 points or something).  Some might also have “burn this key” type points,
 after which you have to chose a new key.
 
-**TODO** rewrite some of these triggers, add variant rewards.
+**TODO**:
 
-### Mad, Bad and Dangerous to Know **TODO**
+Rewrite some of these triggers to be more proactive, and make rewards vary
+between different Dark Desires.
+
+### Mad, Bad and Dangerous to Know
 
 You are a person of gigantic passions: great mirths and great melancholies.
 What is the outlet for your passions?
 
-  - When you emotionally abandon someone
-  - When you destroy the reputation of someone close to you towards your own
-    ends
+  - When you emotionally abuse someone
+  - When you wreck the reputation of someone close to you towards your own ends
   - When you kill someone in a fit of passion
 
 ###Forbidden love
@@ -315,7 +324,7 @@ their esteem?
   - When you harm another to gain the favor of your beloved
   - When do something self-sacrificing for your love’s greater happiness
 
-### Vengeance **TODO**
+### Vengeance
 
 You wish to see another ruined. How did they harm you?
 
@@ -349,14 +358,14 @@ current lot?
   - When you slight someone above your station and get away with it.
   - When you rise above your station.
 
-### Decadence (Greed) **TODO**
+### Decadence
 
 You have never had enough, and perhaps never will have enough. How does the
 money you do have escape your purse so quickly?
 
   - When you display your tastes excessively
   - When you harm or endanger yourself through your indulgence
-  - When you pull another into your addictions inescapably
+  - When you become bored of what you have, and find a higher high.
 
 ### Luxury (Sensuality)
 
@@ -370,7 +379,7 @@ the villain in your headcanon?
   - When someone agrees with you against their best interests and better
     judgment.
   - When someone places their life, fortune or reputation on the line for your
-   benefit.
+    benefit.
 
 ### Leveling distinctions (Jealousy)
 
