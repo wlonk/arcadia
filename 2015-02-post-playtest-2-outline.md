@@ -240,9 +240,11 @@ head.
 You gain strength from another's misfortune. You may discard this card when
 someone has lost tokens to immediately gain that many, up to your maximum.
 
-#### King of Spades: the 
+#### King of Spades: the Nonesuch
 
-
+Discard this card and demonstrate a new fashion (for dance, drink, games,
+sport, conversation, clothing, behavior, what-have-you) and have it take off,
+at least in your local circles.
 
 ### Hearts
 
