@@ -235,9 +235,14 @@ spread throughout the community. Though most people believe it, the origin of
 the rumour remains unknown. It will persist until it comes to some sort of a
 head.
 
-#### Queen
+#### Queen of Spades: the Widow
 
-#### King
+You gain strength from another's misfortune. You may discard this card when
+someone has lost tokens to immediately gain that many, up to your maximum.
+
+#### King of Spades: the 
+
+
 
 ### Hearts
 
@@ -252,7 +257,10 @@ People who come to you with their problems are soothed and come away
 strengthened. You may discard this card in a scene to give someone else three
 tokens (up to their limit).
 
-#### King
+#### King of Hearts: the Philosopher
+
+Your reasoning is subtle and exquisite. You may discard this card to cause all
+who hear your explanation of something accept it as rational and likely.
 
 ### Clubs
 
@@ -275,7 +283,10 @@ You may discard this card to command obedience in a one-on-one interaction.
 
 ### Diamonds
 
-#### Jack
+#### Jack of Diamonds: the Tempter
+
+When you play this card, you may ask another player what you could offer them
+that would tempt them to do something against their better interests for.
 
 #### Queen of Diamonds: the Seer
 
