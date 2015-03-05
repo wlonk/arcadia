@@ -4,20 +4,16 @@
 
   - (1) Refine the Playing Puppeteer Dark Desire.
  
-  - (2) Face Cards
- 
-    Face cards: make 4 more that are non-magical at this point.
-
-  - (3) XP and advancement
+  - (2) XP and advancement
 
     Decide how you get XP, how much things cost.
  
-  - (4) Future Cards
+  - (3) Future Cards
  
     Right now, these are just a fictional condition and a card from the GM's
     deck (always a face card) that can be brought to bear.
   
-  - (5) Families
+  - (4) Families
  
     Can have powers/traits/resources/qualities that are accessible to members of
     the family. Some may particularly effect or magnify with others in the
@@ -25,7 +21,7 @@
     as in your family for the in-group effects. Families may be grow-able with
     sheets and XP and stuff.
   
-  - (6) Relationship strength
+  - (5) Relationship strength
 
     Is this a thing? How's it work?
 
