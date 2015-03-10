@@ -4,8 +4,6 @@
 
  1. _Dark Desires_
 
-    Refine the Playing Puppeteer Dark Desire.
-
     Rewrite some of these triggers to be more proactive, and make rewards vary
     between different Dark Desires.
  
@@ -381,11 +379,10 @@ Like Emma, you see others’ lives as toys for your own amusement. You wish to
 arrange the lives of those around you just so. Who is the hero(ine) and who is
 the villain in your headcanon?
 
+  - When you tell someone what you think they should do without saying it
+    overtly.
   - When you make someone beg, grovel or plead with you.
-  - When someone agrees with you against their best interests and better
-    judgment.
-  - When someone places their life, fortune or reputation on the line for your
-    benefit.
+  - When someone places their life, fortune or reputation in your hands.
 
 ### Leveling distinctions (Jealousy)
 
