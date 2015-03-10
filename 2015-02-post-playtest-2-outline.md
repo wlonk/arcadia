@@ -7,16 +7,7 @@
     Rewrite some of these triggers to be more proactive, and make rewards vary
     between different Dark Desires.
  
- 2. _XP and advancement_
-
-    Decide how you get XP, how much things cost.
- 
- 3. _Future Cards_
- 
-    Right now, these are just a fictional condition and a card from the GM's
-    deck (always a face card) that can be brought to bear.
-  
- 4. _Families_
+ 2. _Families_
  
     Can have powers/traits/resources/qualities that are accessible to members of
     the family. Some may particularly effect or magnify with others in the
@@ -27,13 +18,15 @@
     Names are kinda relevant here, too. "The mere use of a person's Christian
     name is electric."
   
- 5. _Relationship strength_
+ 3. _Relationship strength_
 
     Is this a thing? How's it work?
 
- 6. _Weather_
+ 4. _Weather_
 
- 7. _Location_
+ 5. _Location_
+
+ 6. _Magic and Fairies_
 
 [TOC]
 
@@ -151,6 +144,22 @@ interaction the two of you had that might influence them one way or another.
 
 You may only play one influence card per strength of the relationship.
 
+### Growth and Change
+
+When you have a Moment with a character in your Relationships slot, put a mark
+next to their name if there is not already a mark. When you have three marks,
+erase them all and add one XP.
+
+You can spend XP one-for-one to:
+
+  - Add to your max tokens.
+  - Add a number card to your deck.
+
+You can spend XP two-for-one to:
+
+  - Add a face card to your deck.
+  - Add a relationship slot and fill it in.
+
 ## The GM
 
 The GM may throw down cards to have an NPC get their way, or deal with a PC
@@ -190,27 +199,19 @@ dictate (typically when a player has spent tokens or had a compromise with the
 cards).
 
 These get a card on them, which the GM can play when this future comes to bear.
-They only have face cards.
+They only have face cards. They function much like NPCs: when this looming fate
+pertains, the GM may use the playing card on the Future Card instead of a card
+from their hand.
 
 This is an index card with one of the following:
 
-#### A Bad Reputation
-
-#### A Curse
-
-#### A Letter
-
-#### A Love
-
-#### A Promise
-
-#### A Rumour
-
-#### A Warning
-
-#### A Fairy
-
-At the start of the game, a special Future is placed on the table: the fairy.
+  - A Bad Reputation
+  - A Curse
+  - A Letter
+  - A Love
+  - A Promise
+  - A Rumour
+  - A Warning
 
 ## Face Cards
 
