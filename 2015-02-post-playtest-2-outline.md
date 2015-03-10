@@ -2,28 +2,40 @@
 
 ## Todo:
 
-  - (1) Refine the Playing Puppeteer Dark Desire.
+ 1. _Dark Desires_
+
+    Refine the Playing Puppeteer Dark Desire.
+
+    Rewrite some of these triggers to be more proactive, and make rewards vary
+    between different Dark Desires.
  
-  - (2) XP and advancement
+ 2. _XP and advancement_
 
     Decide how you get XP, how much things cost.
  
-  - (3) Future Cards
+ 3. _Future Cards_
  
     Right now, these are just a fictional condition and a card from the GM's
     deck (always a face card) that can be brought to bear.
   
-  - (4) Families
+ 4. _Families_
  
     Can have powers/traits/resources/qualities that are accessible to members of
     the family. Some may particularly effect or magnify with others in the
     group. Marriage may let you adopt the other family's powers, but still count
     as in your family for the in-group effects. Families may be grow-able with
     sheets and XP and stuff.
+
+    Names are kinda relevant here, too. "The mere use of a person's Christian
+    name is electric."
   
-  - (5) Relationship strength
+ 5. _Relationship strength_
 
     Is this a thing? How's it work?
+
+ 6. _Weather_
+
+ 7. _Location_
 
 [TOC]
 
@@ -74,10 +86,6 @@ created. Now you will have some history with them.
 
 Decide how to allocate 10 points among extra cards, higher token cap, and more
 relationship slots.
-
-**TODO**:
-
-Family, location. Weather?
 
 ## Play
 
@@ -143,10 +151,7 @@ character in your Social Role Relationships list is present, you can influence
 their action by playing a card and describing a brief flashback to an
 interaction the two of you had that might influence them one way or another.
 
-**TODO**:
-
-You may only play one influence card per strength of the relationship. Strength
-of relationship? What's that?
+You may only play one influence card per strength of the relationship.
 
 ## The GM
 
@@ -191,10 +196,6 @@ They only have face cards.
 
 This is an index card with one of the following:
 
-**TODO**:
-
-Flesh these out.
-
 #### A Bad Reputation
 
 #### A Curse
@@ -214,10 +215,6 @@ Flesh these out.
 At the start of the game, a special Future is placed on the table: the fairy.
 
 ## Face Cards
-
-**TODO**:
-
-Flesh these out.
 
 Lots of ways they can have an effect: when in deck, at purchase, when in hand,
 when played, when in trash, etc. They can be fictional-effect primary.
@@ -305,11 +302,6 @@ points under them, and when you hit that point, you get the reward for it (1,
 3, 7 points or something).  Some might also have “burn this key” type points,
 after which you have to chose a new key.
 
-**TODO**:
-
-Rewrite some of these triggers to be more proactive, and make rewards vary
-between different Dark Desires.
-
 ### Mad, Bad and Dangerous to Know
 
 You are a person of gigantic passions: great mirths and great melancholies.
@@ -383,7 +375,7 @@ money you do have escape your purse so quickly?
 
 ### Luxury (Sensuality)
 
-### Playing puppeteer (Control) **TODO**
+### Playing puppeteer (Control)
 
 Like Emma, you see others’ lives as toys for your own amusement. You wish to
 arrange the lives of those around you just so. Who is the hero(ine) and who is
