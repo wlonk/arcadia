@@ -22,6 +22,10 @@
 
     Is this a thing? How's it work?
 
+    Relatedly: the interesting consequences are what people think of you.
+    _Blades in the Dark_ might suggest some interesting modes for determining
+    that via mechanics.
+
  4. _Weather_
 
  5. _Location_
