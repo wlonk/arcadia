@@ -26,6 +26,9 @@
     _Blades in the Dark_ might suggest some interesting modes for determining
     that via mechanics.
 
+    For instance: is this action caring, polite, or rude? That adjusts the
+    range of possible outcomes and effects.
+
  4. _Weather_
 
  5. _Location_
