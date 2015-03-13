@@ -28,6 +28,8 @@
 
     For instance: is this action caring, polite, or rude? That adjusts the
     range of possible outcomes and effects.
+    
+    Basically: self-centered, balanced, other-centered.
 
  4. _Weather_
 
