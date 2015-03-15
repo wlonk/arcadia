@@ -26,16 +26,51 @@
     _Blades in the Dark_ might suggest some interesting modes for determining
     that via mechanics.
 
-    For instance: is this action caring, polite, or rude? That adjusts the
-    range of possible outcomes and effects.
+    For instance: is this action polite or rude? That adjusts the range of
+    possible outcomes and effects.
     
-    Basically: self-centered, balanced, other-centered.
+    Basically: self-centered or other-centered.
 
  4. _Weather_
 
  5. _Location_
 
  6. _Magic and Fairies_
+
+## Notes:
+
+Games are better when they ask questions than when they provide answers. This
+game asks this question:
+
+> There are three paths you can take: following your passions, following the
+> expectations of society, or finding a balance between them. All three come
+> with costs and benefits. Can you live with your choice?
+
+So all three of passions, position, or balance need to be viable games to play,
+with their own feels.
+
+Players have:
+
+  - Deck of cards
+  - Hand of cards
+  - Track of passion-fed willpower (what _else_ do we do with this? need to
+    make the passion-pursuing game satisfying.)
+  - Face card powers that can make massive turnarounds if used in the right way
+    at the right time. May allow sudden drains or returns of willpower, etc.
+
+Table/GM has:
+
+  - Future cards (with playing card) (perhaps call Consequences card?)
+  - NPC cards (with playing card)
+
+Interactions have:
+
+  - Obstacle card
+  - The Question: is this rude (outcomes will be Consequence cards) or polite
+    (outcomes will be willpower cost)
+  - Overcoming cards: one or more cards equalling or surpassing the value of
+    the obstacle. If there is one, you overcome completely! If there are more
+    than one, you generate a Consequence or lose willpower.
 
 [TOC]
 
