@@ -55,6 +55,10 @@ Players have:
   - Hand of cards
   - Track of passion-fed willpower (what _else_ do we do with this? need to
     make the passion-pursuing game satisfying.)
+      - When you run out of willpower, what happens? Define a per-character
+        stress-break? Does this impinge on "vice" (dark passion) territory?
+        Could I simplify passions to make both fit? How does that related to
+        the passion game?
   - Face card powers that can make massive turnarounds if used in the right way
     at the right time. May allow sudden drains or returns of willpower, etc.
 
