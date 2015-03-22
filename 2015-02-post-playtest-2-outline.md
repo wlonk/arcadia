@@ -59,6 +59,8 @@ Players have:
         stress-break? Does this impinge on "vice" (dark passion) territory?
         Could I simplify passions to make both fit? How does that related to
         the passion game?
+      - Here's the thing to do: you spend willpower to get effects. It's not
+        HP; it's effect-scale-juice.
   - Face card powers that can make massive turnarounds if used in the right way
     at the right time. May allow sudden drains or returns of willpower, etc.
 
