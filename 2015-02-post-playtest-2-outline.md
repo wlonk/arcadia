@@ -61,6 +61,9 @@ Players have:
         the passion game?
       - Here's the thing to do: you spend willpower to get effects. It's not
         HP; it's effect-scale-juice.
+      - Further note: perhaps cards and tokens are reversed? You should get
+        cards for pursuing your passions, and tokens for upholding your role?
+        Something to consider, anyway.
   - Face card powers that can make massive turnarounds if used in the right way
     at the right time. May allow sudden drains or returns of willpower, etc.
 
