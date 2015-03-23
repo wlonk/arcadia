@@ -81,6 +81,9 @@ Interactions have:
     the obstacle. If there is one, you overcome completely! If there are more
     than one, you generate a Consequence or lose willpower.
 
+NB: add a list of kinds of relationships, inc. the very important
+false-friends: Drawlight, Lucy Steele, etc.
+
 [TOC]
 
 ## About the Game
