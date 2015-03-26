@@ -2,12 +2,17 @@
 
 ## Todo:
 
- 1. _Dark Desires_
+ 1. _Tokens_
 
-    Rewrite some of these triggers to be more proactive, and make rewards vary
-    between different Dark Desires.
+    Make verbiage and numbers for tokens-to-buy-stakes.
+
+ 2. _Dark Desires_
  
- 2. _Families_
+    Change Dark Desires' reward amounts to scale per the Tokens, above.
+    Possibly vary per Dark Desire? Also, rewrite to keep them active and
+    doable.
+ 
+ 3. _Families_
  
     Can have powers/traits/resources/qualities that are accessible to members of
     the family. Some may particularly effect or magnify with others in the
@@ -18,7 +23,7 @@
     Names are kinda relevant here, too. "The mere use of a person's Christian
     name is electric."
   
- 3. _Relationship strength_
+ 4. _Relationship strength_
 
     Is this a thing? How's it work?
 
@@ -31,11 +36,11 @@
     
     Basically: self-centered or other-centered.
 
- 4. _Weather_
+ 5. _Weather_
 
- 5. _Location_
+ 6. _Location_
 
- 6. _Magic and Fairies_
+ 7. _Magic and Fairies_
 
 ## Notes:
 
@@ -61,9 +66,10 @@ Players have:
         the passion game?
       - Here's the thing to do: you spend willpower to get effects. It's not
         HP; it's effect-scale-juice.
-      - Further note: perhaps cards and tokens are reversed? You should get
-        cards for pursuing your passions, and tokens for upholding your role?
-        Something to consider, anyway.
+      - There is a special case: in PvP, one player puts forward tokens to
+        suggest stakes, and another may take the initiative from them, escalate
+        the scope, and put forward more tokens, thus requiring the _first_ to
+        put down a card instead. There may be two stakes at play there.
   - Face card powers that can make massive turnarounds if used in the right way
     at the right time. May allow sudden drains or returns of willpower, etc.
 
