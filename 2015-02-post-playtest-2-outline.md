@@ -2,17 +2,13 @@
 
 ## Todo:
 
- 1. _Tokens_
-
-    Make verbiage and numbers for tokens-to-buy-stakes.
-
- 2. _Dark Desires_
+ 1. _Dark Desires_
  
     Change Dark Desires' reward amounts to scale per the Tokens, above.
     Possibly vary per Dark Desire? Also, rewrite to keep them active and
     doable.
  
- 3. _Families_
+ 2. _Families_
  
     Can have powers/traits/resources/qualities that are accessible to members of
     the family. Some may particularly effect or magnify with others in the
@@ -23,7 +19,7 @@
     Names are kinda relevant here, too. "The mere use of a person's Christian
     name is electric."
   
- 4. _Relationship strength_
+ 3. _Relationship strength_
 
     Is this a thing? How's it work?
 
@@ -36,11 +32,11 @@
     
     Basically: self-centered or other-centered.
 
- 5. _Weather_
+ 4. _Weather_
 
- 6. _Location_
+ 5. _Location_
 
- 7. _Magic and Fairies_
+ 6. _Magic and Fairies_
 
 ## Notes:
 
