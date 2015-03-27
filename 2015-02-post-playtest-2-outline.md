@@ -23,15 +23,6 @@
 
     Is this a thing? How's it work?
 
-    Relatedly: the interesting consequences are what people think of you.
-    _Blades in the Dark_ might suggest some interesting modes for determining
-    that via mechanics.
-
-    For instance: is this action polite or rude? That adjusts the range of
-    possible outcomes and effects.
-    
-    Basically: self-centered or other-centered.
-
  4. _Weather_
 
  5. _Location_
