@@ -142,7 +142,7 @@ relationship slots.
 
 ## Play
 
-You want to get your way:
+When you want to get your way and:
 
   - Make someone feel hurt
   - Make someone feel impassioned
@@ -153,39 +153,48 @@ You want to get your way:
   - Make someone reveal to you what they are thinking or feeling
   - Make someone see your point
 
-So, you can either spend a token for a:
+You must spend tokens:
 
-  - Moment of enchantment
-  - Moment of fury
-  - Moment of honesty
-  - Moment of insight
+  - Zero tokens for a trivial or passing effect (this tier is more a
+    technicality than anything)
+  - One token for an effect that will last the scene.
+  - Two tokens for an effect that will last the session, or until undone.
+  - Three tokens for an effect that will last forever, or until undone.
 
-(When you spend a token, all players [yourself and the GM included] may discard
-a card and draw a new one.)
+If anyone wants to say "no", they can do so in one of two ways:
 
-(Spending tokens is usually an option of last-resort; they're also your
-hit-points, so be careful!)
+  - Another PC can put forward more tokens (but no more than three), and
+    escalate the emotional intensity of the situation. This can happen only
+    once. They then have taken the initiative and can define what effect is at
+    stake.
+  - Anyone (GM or PC) can put down a card as an obstacle. PCs can use cards
+    from their hands, the GM can use their hand, or any appropriate NPC or
+    Consequence cards.
 
-Or put down a card, to set an obstacle. Your opponent may then put down one or
-more cards to counteract.
+When you put down a card, describe what you say or do in line with the card's
+suit:
 
-  - Narrate what you say or do in line with the (highest) card's suit
-      - Spades: Wit, charm
-      - Hearts: Calm, reason
-      - Clubs: Status, will
-      - Diamonds: Perception, taste
-  - Your opponent may put down one or more cards, to total more than the card
-    you put down. If they put down more than one card, the GM may dictate some
-    additional cost or compromise:
-      - Lose one token per card played beyond the first.
-      - Some additional fictional cost, depending on circumstances (see Future
-        Cards, below, or an _Apocalypse World_ style 7-9 result.)
-  - Face cards count as 10, may trigger special effects.
-  - If the opponent cannot or will not put down cards, they are bested. The the
-    GM may impose a fictional cost (like a hard move) or make them lose some
-    tokens, depending on circumstances. Note: this is like stress in _Blades in
-    the Dark_, in that you can spend this resource to drive success, but can
-    also incur it as a cost.
+  - Spades: Wit, charm
+  - Hearts: Calm, reason
+  - Clubs: Status, will
+  - Diamonds: Perception, taste
+
+The other party may then attempt to overcome that obstacle. They have three options:
+
+  - Put down a card of equal or higher value. Describe how you overcome the
+    obstacle, following the suit of the card you played.
+  - Decline to put down any cards. Describe how you back down, concede, or fail.
+  - Put down one or more cards totalling to an equal or higher value than the
+    obstacle. Describe how you overcome the obstacle, following the suit of the
+    highest card you played (if cards are tied, choose). You have, however,
+    overcome the obstacle with compromise or cost.
+      - Decide whether to bear the cost yourself, or to externalize it. If you
+        bear the cost yourself, your inner reserves are drained: lose as many
+        tokens as cards you just played, minus one. If you externalize it, the
+        GM will make a Consequence card and attach a playing card from their
+        deck to the consequence. It will come back to bite you, or someone you
+        love.
+  - Face cards count as 10, and may trigger special effects.
 
 Sometimes, you will run out of cards in your deck. Just shuffle your discard
 and turn it back into your deck. You keep your cards and tokens between scenes.
@@ -194,8 +203,7 @@ Between sessions, note down how many cards you have, and how many tokens, but
 the particular cards and the makeup of your discard don't matter.
 
 If you have no tokens, you are down and out. You may recover some later, but
-not in this scene. You are pliable, the fight has gone out of you. You will
-acquiesce.
+not in this scene. You are pliable, the fight has gone out of you.
 
 ### Influence
 
