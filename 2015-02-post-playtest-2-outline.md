@@ -75,7 +75,7 @@ Players have:
 
 Table/GM has:
 
-  - Future cards (with playing card) (perhaps call Consequences card?)
+  - Consequence cards (with playing card) (perhaps call Consequences card?)
   - NPC cards (with playing card)
 
 Interactions have:
@@ -209,16 +209,17 @@ not in this scene. You are pliable, the fight has gone out of you.
 
 Even if you are not present in a scene, you may be able to play a card. If a
 character in your Social Role Relationships list is present, you can influence
-their action by playing a card and describing a brief flashback to an
-interaction the two of you had that might influence them one way or another.
+their action by playing a card as an obstacle or to overcome an obstacle and
+describing a brief flashback to an interaction the two of you had that might
+influence them one way or another.
 
 You may only play one influence card per strength of the relationship.
 
 ### Growth and Change
 
-When you have a Moment with a character in your Relationships slot, put a mark
-next to their name if there is not already a mark. When you have three marks,
-erase them all and add one XP.
+When you have a scene where you meaningfully interact with a character in one
+of your Relationships slots, put a mark next to their name if there is not
+already a mark. When you have three marks, erase them all and add one XP.
 
 You can spend XP one-for-one to:
 
@@ -235,7 +236,8 @@ You can spend XP two-for-one to:
 The GM may throw down cards to have an NPC get their way, or deal with a PC
 getting their way. 
 
-The GM's deck has no face cards. Those are part of **Futures** (see below).
+The GM's deck has no face cards. Those are part of **Consequences** (see
+below).
 
 First, every NPC starts with one card. Write that card in the corner of the
 NPC's index card, and at the start of every session, pull it from the GM's deck
@@ -256,28 +258,27 @@ the session. They should do this when they are either out of cards, or the
 action has come to a middle. They should discard and remaining cards before
 they do so.
 
-The GM should separate out the face cards, and keep them for Future Cards,
+The GM should separate out the face cards, and keep them for Consequence cards,
 reserving non-face cards for NPCs.
 
 Also, if you need an NPC, but don't know what they should be like, you can
 simply draw a card, interpret it, assign it to the new NPC. Like magic!
 
-### Future Cards
+### Consequence Cards
 
-The GM may make and place a Future card on the table whenever circumstances
-dictate (typically when a player has spent tokens or had a compromise with the
-cards).
+The GM may make and place a Consequence card on the table whenever
+circumstances dictate (typically when a player has spent tokens or had a
+compromise with the cards).
 
-These get a card on them, which the GM can play when this future comes to bear.
-They only have face cards. They function much like NPCs: when this looming fate
-pertains, the GM may use the playing card on the Future Card instead of a card
-from their hand.
+These get a card on them, which the GM can play when this consequence comes to
+bear.  They only have face cards. They function much like NPCs: when this
+looming fate pertains, the GM may use the playing card on the Consequence card
+instead of a card from their hand.
 
-This is an index card with one of the following:
+Some suggested consequences:
 
   - A Bad Reputation
   - A Curse
-  - A Letter
   - A Love
   - A Promise
   - A Rumour
