@@ -204,10 +204,10 @@ not in this scene. You are pliable, the fight has gone out of you.
 ### Influence
 
 Even if you are not present in a scene, you may be able to play a card. If a
-character in your Social Role Relationships list is present, you can influence
-their action by playing a card as an obstacle or to overcome an obstacle and
-describing a brief flashback to an interaction the two of you had that might
-influence them one way or another.
+character in your Relationships list is present, you can influence their action
+by playing a card as an obstacle or to overcome an obstacle and describing a
+brief flashback to an interaction the two of you had that might influence them
+one way or another.
 
 You may only play one influence card per strength of the relationship.
 
@@ -460,7 +460,7 @@ the villain in your headcanon?
 
 ### Nihilism
 
-## Social Roles (Dharmas)
+## Social Roles
 
 It’ll be a struggle to make these gender-neutral; I think taking a page from
 Sagas of the Icelanders is probably the best bet: make most of them heavily
