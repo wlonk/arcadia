@@ -8,7 +8,12 @@
     Possibly vary per Dark Desire? Also, rewrite to keep them active and
     doable.
  
- 2. _Families_
+ 2. _Face Cards_
+
+    Review these in light of current mechanics. Perhaps have some that let you
+    generate consequences for someone else?
+
+ 3. _Families_
  
     Can have powers/traits/resources/qualities that are accessible to members of
     the family. Some may particularly effect or magnify with others in the
@@ -19,15 +24,15 @@
     Names are kinda relevant here, too. "The mere use of a person's Christian
     name is electric."
   
- 3. _Relationship strength_
+ 4. _Relationship strength_
 
     Is this a thing? How's it work?
 
- 4. _Weather_
+ 5. _Weather_
 
- 5. _Location_
+ 6. _Location_
 
- 6. _Magic and Fairies_
+ 7. _Magic and Fairies_
 
 ## Notes:
 
