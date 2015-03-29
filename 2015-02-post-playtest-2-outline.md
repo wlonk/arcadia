@@ -442,9 +442,7 @@ the villain in your headcanon?
 
 ## Social Roles
 
-It’ll be a struggle to make these gender-neutral; I think taking a page from
-Sagas of the Icelanders is probably the best bet: make most of them heavily
-gendered, and make a couple that are neutral.
+Play one!
 
 ### Lady (♀)
 
