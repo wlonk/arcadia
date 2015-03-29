@@ -358,49 +358,33 @@ art. This piece is worthy of one of the great talents of the age.
 
 ## Dark Desires
 
-So, I’m envisioning these as functioning a bit like _Lady Blackbird_, _The
-Shadow of Yesterday_, or _Marvel Heroic Roleplaying_ keys: each has a few
-points under them, and when you hit that point, you get the reward for it (1,
-3, 7 points or something).  Some might also have “burn this key” type points,
-after which you have to chose a new key.
+When you hit a Dark Desire, get one token. If doing so exposes you to risk or
+danger, get two tokens instead.
 
 ### Mad, Bad and Dangerous to Know
 
 You are a person of gigantic passions: great mirths and great melancholies.
-What is the outlet for your passions?
+What is the outlet for your passions? Hit this desire when you engage in that
+outlet.
 
-  - When you emotionally abuse someone
-  - When you wreck the reputation of someone close to you towards your own ends
-  - When you kill someone in a fit of passion
-
-###Forbidden love
+### Forbidden love
 
 You love someone who you shouldn’t. Why shouldn’t you? Is it a matter of class,
-sex, or something else?
-
-  - When you steal a kiss, touch, or other token of affection despite the risk
-    of discovery.
-  - When you do something unsafe for your love.
-  - When you reveal your love to the world?
+sex, or something else? Hit this desire when you express your love to your
+lover.
 
 ### Unrequited love
 
 You love someone who does not or cannot love you back. What keeps you from
-their esteem?
-
-  - When you put yourself in danger or difficulty to impress your beloved.
-  - When you harm another to gain the favor of your beloved
-  - When do something self-sacrificing for your love’s greater happiness
+their esteem? Hit this desire when you make a decision based on this secret
+affection or when you somehow show it indirectly.
 
 ### Vengeance
 
-You wish to see another ruined. How did they harm you?
+You wish to see another ruined. How did they harm you? Hit this desire when you
+undermine, harm, or malign them.
 
-  - When you brood over slights, real or imagined
-  - When you harm your foe at great cost to yourself
-  - When your triumph over your nemesis is complete
-
-### Secrets Man was not Meant to Know
+### TODO Secrets Man was not Meant to Know
 
 You desire understanding of the secrets of life and death—and not just to know,
 but to control. Why do you need this?
@@ -409,13 +393,13 @@ but to control. Why do you need this?
   - When you harm an innocent by your pursuits
   - When you create life out of nothingness.
 
-### Ambition
+### TODO Ambition
 
 You wish to rise above your place, through marriage, valour, low cunning, or
 some means else. You will not be satisfied until a coronet (or perhaps, even, a
 crown!) rests on your head. Who do you need to best in this respect?
 
-### Entitlement (greed + ambition)
+### TODO Entitlement (greed + ambition)
 
 You are certain that the world owes you something more. The problems of your
 position or life circumstance are not your fault, and are mere obstacles on the
@@ -426,7 +410,7 @@ current lot?
   - When you slight someone above your station and get away with it.
   - When you rise above your station.
 
-### Decadence
+### TODO Decadence
 
 You have never had enough, and perhaps never will have enough. How does the
 money you do have escape your purse so quickly?
@@ -435,9 +419,9 @@ money you do have escape your purse so quickly?
   - When you harm or endanger yourself through your indulgence
   - When you become bored of what you have, and find a higher high.
 
-### Luxury (Sensuality)
+### TODO Luxury (Sensuality)
 
-### Playing puppeteer (Control)
+### TODO Playing puppeteer (Control)
 
 Like Emma, you see others’ lives as toys for your own amusement. You wish to
 arrange the lives of those around you just so. Who is the hero(ine) and who is
@@ -448,13 +432,13 @@ the villain in your headcanon?
   - When you make someone beg, grovel or plead with you.
   - When someone places their life, fortune or reputation in your hands.
 
-### Leveling distinctions (Jealousy)
+### TODO Leveling distinctions (Jealousy)
 
-### Lust for Glory (Pride)
+### TODO Lust for Glory (Pride)
 
-### A religious one? À la “spit in the eye of the devil/God”.
+### TODO A religious one? À la “spit in the eye of the devil/God”.
 
-### Nihilism
+### TODO Nihilism
 
 ## Social Roles
 
