@@ -2,7 +2,7 @@
 
 ## Todo:
 
- 1. _Dark Desires_
+ 1. _Desires_
  
     Rewrite to keep them active and doable.
  
@@ -48,14 +48,9 @@ Players have:
 
   - Deck of cards
   - Hand of cards
-  - Track of passion-fed willpower (what _else_ do we do with this? need to
-    make the passion-pursuing game satisfying.)
-      - When you run out of willpower, what happens? Define a per-character
-        stress-break? Does this impinge on "vice" (dark passion) territory?
-        Could I simplify passions to make both fit? How does that related to
-        the passion game?
-      - Here's the thing to do: you spend willpower to get effects. It's not
-        HP; it's effect-scale-juice.
+  - Track of passion-fed willpower
+      - You spend willpower to get effects. It's not HP; it's
+        effect-scale-juice.
       - There is a special case: in PvP, one player puts forward tokens to
         suggest stakes, and another may take the initiative from them, escalate
         the scope, and put forward more tokens, thus requiring the _first_ to
@@ -65,14 +60,12 @@ Players have:
 
 Table/GM has:
 
-  - Consequence cards (with playing card) (perhaps call Consequences card?)
+  - Consequences (with playing card)
   - NPC cards (with playing card)
 
 Interactions have:
 
   - Obstacle card
-  - The Question: is this rude (outcomes will be Consequence cards) or polite
-    (outcomes will be willpower cost)
   - Overcoming cards: one or more cards equalling or surpassing the value of
     the obstacle. If there is one, you overcome completely! If there are more
     than one, you generate a Consequence or lose willpower.
@@ -89,6 +82,9 @@ common, and many (but not most) people can perform some small cantrips.
 
 Your characters will pursue their various desires, navigating the Scylla of
 society's expectations and the Charybdis of their own improper desires.
+
+(Elinor and Marianne, Apollonian and Dionysian, Enlightenment and Romanticism,
+Head and Heart.)
 
 They will also likely draw the attention of a Fairy, a powerful creature of
 magic, fickle and dangerous.
@@ -113,9 +109,8 @@ way to get more **Cards**. See below for how you use these.
 
 Each player chooses a name for their character.
 
-Each player chooses two **Dark Desires** for their character. These provide
-both an ambition, and a way to gain more **Tokens**. See below for how you use
-these.
+Each player chooses two **Desires** for their character. These provide both an
+ambition, and a way to gain more **Tokens**. See below for how you use these.
 
 Go around, answering the relationship questions and filling out the community
 your characters live in. Be sure to share some characters: one person's boon
@@ -124,11 +119,15 @@ guardian. There is a balance to strike: you want enough supporting characters
 to make the world feel populated, but you want enough shared relationships to
 keep the main characters interacting with each other.
 
-Go around, answering the Dark Desire questions, using the characters already
+Go around, answering the Desire questions, using the characters already
 created. Now you will have some history with them.
 
 Decide how to allocate 10 points among extra cards, higher token cap, and more
 relationship slots.
+
+The GM gets ready by paying attention, asking pointed questions, and thinking
+about the situation as a whole. They should write down notable NPCs on index
+cards, and assign a card from their deck to each.
 
 ## Play
 
@@ -159,14 +158,14 @@ If anyone wants to say "no", they can do so in one of two ways:
     stake.
   - Anyone (GM or PC) can put down a card as an obstacle. PCs can use cards
     from their hands, the GM can use their hand, or any appropriate NPC or
-    Consequence cards.
+    Consequences.
 
 When you put down a card, describe what you say or do in line with the card's
 suit:
 
   - Spades: Wit, charm
   - Hearts: Calm, reason
-  - Clubs: Status, will
+  - Clubs: Will, status
   - Diamonds: Perception, taste
 
 The other party may then attempt to overcome that obstacle. They have three options:
@@ -181,9 +180,8 @@ The other party may then attempt to overcome that obstacle. They have three opti
       - Decide whether to bear the cost yourself, or to externalize it. If you
         bear the cost yourself, your inner reserves are drained: lose as many
         tokens as cards you just played, minus one. If you externalize it, the
-        GM will make a Consequence card and attach a playing card from their
-        deck to the consequence. It will come back to bite you, or someone you
-        love.
+        GM will make a Consequence and attach a playing card from their deck to
+        the consequence. It will come back to bite you, or someone you love.
   - Face cards count as 10, and may trigger special effects.
 
 Sometimes, you will run out of cards in your deck. Just shuffle your discard
@@ -203,7 +201,10 @@ by playing a card as an obstacle or to overcome an obstacle and describing a
 brief flashback to an interaction the two of you had that might influence them
 one way or another.
 
-You may only play one influence card per strength of the relationship.
+This card can be used to either set an obstacle, or to contribute (or wholly
+suffice) for overcoming an obstacle. You may not, however, play multiple cards
+to overcome an obstacle; the character in question must be willing to play the
+other cards needed, or you withdraw your card.
 
 ### Growth and Change
 
@@ -245,24 +246,24 @@ are tied to session length and structure, not fictional actions _per se_.
 So: the GM starts with the cards under NPCs, plus a hand of 2 + number of
 players. They may draw a new hand of this size once, at about the midpoint of
 the session. They should do this when they are either out of cards, or the
-action has come to a middle. They should discard and remaining cards before
+action has come to a middle. They should discard any remaining cards before
 they do so.
 
-The GM should separate out the face cards, and keep them for Consequence cards,
+The GM should separate out the face cards, and keep them for Consequences,
 reserving non-face cards for NPCs.
 
 Also, if you need an NPC, but don't know what they should be like, you can
 simply draw a card, interpret it, assign it to the new NPC. Like magic!
 
-### Consequence Cards
+### Consequences
 
-The GM may make and place a Consequence card on the table whenever
-circumstances dictate (typically when a player has spent tokens or had a
-compromise with the cards).
+The GM may make and place a Consequence on the table whenever circumstances
+dictate (typically when a player has spent tokens or had a compromise with the
+cards).
 
 These get a card on them, which the GM can play when this consequence comes to
-bear.  They only have face cards. They function much like NPCs: when this
-looming fate pertains, the GM may use the playing card on the Consequence card
+bear. They only have face cards. They function much like NPCs: when this
+looming fate pertains, the GM may use the playing card on the Consequence
 instead of a card from their hand.
 
 Some suggested consequences:
@@ -277,86 +278,80 @@ Some suggested consequences:
 ## Face Cards
 
 Lots of ways they can have an effect: when in deck, at purchase, when in hand,
-when played, when in trash, etc. They can be fictional-effect primary.
+when played, when in trash, etc. They can be fictional-effect primary. They can
+generate Consequences. They can replenish Willpower. They can screw with suit
+meanings.
 
-### Spades
-
-#### Jack of Spades: the Whisperer
+### Jack of Spades: the Whisperer
 
 When you play this card, name a rumour about another character. This rumour has
 spread throughout the community. Though most people believe it, the origin of
 the rumour remains unknown. It will persist until it comes to some sort of a
 head.
 
-#### Queen of Spades: the Widow
+### Queen of Spades: the Widow
 
 You gain strength from another's misfortune. You may discard this card when
 someone has lost tokens to immediately gain that many, up to your maximum.
 
-#### King of Spades: the Nonesuch
+### King of Spades: the Nonesuch
 
 Discard this card and demonstrate a new fashion (for dance, drink, games,
 sport, conversation, clothing, behavior, what-have-you) and have it take off,
 at least in your local circles.
 
-### Hearts
-
-#### Jack of Hearts: the Rake
+### Jack of Hearts: the Rake
 
 You have a way of slipping a reputation. You may discard this card to negate
 any concerns or effects of a bad reputation for a scene.
 
-#### Queen of Hearts: the Comforter
+### Queen of Hearts: the Comforter
 
 People who come to you with their problems are soothed and come away
 strengthened. You may discard this card in a scene to give someone else three
 tokens (up to their limit).
 
-#### King of Hearts: the Philosopher
+### King of Hearts: the Philosopher
 
 Your reasoning is subtle and exquisite. You may discard this card to cause all
 who hear your explanation of something accept it as rational and likely.
 
-### Clubs
-
-#### Jack of Clubs: the Mule
+### Jack of Clubs: the Mule
 
 You are stubborn and will not let the opinions of others sway you. You may
 discard this card instead of losing any amount of tokens, when you would lose
 (not spend) tokens.
 
-#### Queen of Clubs: the Companion
+### Queen of Clubs: the Companion
 
 You are strong, but strongest when acting beside another. When you act in
 support of a friend, you may discard this card to keep that friend from losing
 any tokens in the face of defeat.
 
-#### King of Clubs: the Nobleman
+### King of Clubs: the Nobleman
 
 You are of noble blood, though your present circumstances may be straitened.
 You may discard this card to command obedience in a one-on-one interaction.
 
-### Diamonds
-
-#### Jack of Diamonds: the Tempter
+### Jack of Diamonds: the Tempter
 
 When you play this card, you may ask another player what you could offer them
 that would tempt them to do something against their better interests for.
 
-#### Queen of Diamonds: the Seer
+### Queen of Diamonds: the Seer
 
 You have an uncanny insight. Discard this card to ask any other player (or the
 GM) a short question, which they must answer truthfully. This comes to your
 character as a flash of insight.
 
-#### King of Diamonds: the Creator
+### King of Diamonds: the Creator
 
 Discard this card to create a poem, painting, performance or similar piece of
 art. This piece is worthy of one of the great talents of the age.
 
-## Dark Desires
+## Desires
 
-When you hit a Dark Desire, get one token. If doing so exposes you to risk or
+When you hit a Desire, get one token. If doing so exposes you to risk or
 danger, get two tokens instead.
 
 ### Mad, Bad and Dangerous to Know
@@ -442,7 +437,7 @@ the villain in your headcanon?
 
 Play one!
 
-### Lady (♀)
+### TODO Lady (♀)
 
 A young lady, from a good family, with some hope of marriage. Your honour is
 your family’s honour. Your honour is both positive and negative: being
@@ -464,7 +459,7 @@ Tell us who is:
 
 Initial hand: 5
 
-### Governess (♀)
+### TODO Governess (♀)
 
 A young lady of indifferent family, but with enough education to hold a
 position with a wealthy family as not-quite-a-servant. Set a good example for
@@ -485,7 +480,7 @@ Tell us who is:
 
 Initial hand: 4
 
-### Ward (♀)
+### TODO Ward (♀)
 
 A young lady who...
 
@@ -503,7 +498,7 @@ Tell us who:
 
 Initial hand: 4
 
-### Spinster (♀)
+### TODO Spinster (♀)
 
 You are expected to deviate from (reject? or wish fruitlessly you could conform
 to?) your society’s feminine ideal, have secret wealth or knowledge, and draw
@@ -523,7 +518,7 @@ Tell us who is:
 
 Initial hand: 4
 
-### Gentleman (♂)
+### TODO Gentleman (♂)
 
 A single man, in possession of a good fortune. Let a lady decide the degree of
 acquaintance. A servant cannot impinge upon your honour, but neither can you
@@ -544,7 +539,7 @@ Tell us who is:
 
 Initial hand: 5
 
-### Officer (♂)
+### TODO Officer (♂)
 
 You are expected to be disciplined, honorable and patriotic.
 
@@ -562,7 +557,7 @@ Tell us who:
 
 Initial hand: 4
 
-### Clergyman (♂)
+### TODO Clergyman (♂)
 
 ...
 
@@ -580,7 +575,7 @@ Tell us who is:
 
 Initial hand: 4
 
-### Scholar (♂)
+### TODO Scholar (♂)
 
 You are expected to be erudite, considered, and informed.
 
@@ -598,7 +593,7 @@ Tell us who is:
 
 Initial hand: 4
 
-### Servant (♁)
+### TODO Servant (♁)
 
 A young man or woman in service to someone of quality. Be neither seen nor
 heard, except when needed. Protect the honour of your master’s house in the
@@ -619,7 +614,7 @@ Tell us who is:
 
 Initial hand: 3
 
-### Invalid (♁)
+### TODO Invalid (♁)
 
 You are expected to be home-bound, solicitous of others’ health, and ...
 
@@ -637,7 +632,7 @@ Tell us who is:
 
 Initial hand: 4
 
-### Vagabond (♁)
+### TODO Vagabond (♁)
 
 You are expected to be needy, itinerant, and thankful.
 
@@ -655,7 +650,7 @@ Tell us who:
 
 Initial hand: 3
 
-### Magician (♁)
+### TODO Magician (♁)
 
 You are expected to be mysterious, wise, and unconventional.
 
