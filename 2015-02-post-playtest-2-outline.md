@@ -429,10 +429,6 @@ the villain in your headcanon?
 
 ### TODO Lust for Glory (Pride)
 
-### TODO A religious one? À la “spit in the eye of the devil/God”.
-
-### TODO Nihilism
-
 ## Social Roles
 
 Play one!
