@@ -11,7 +11,13 @@
     Review these in light of current mechanics. Perhaps have some that let you
     generate consequences for someone else?
 
- 3. _Families_
+ 3. _Social Roles_
+
+    Fill these out, at least for currently active ones and obvious ones. Make
+    sure that card draws are mostly proactive; no more than one reactive draw
+    per.
+
+ 4. _Families_
  
     Can have powers/traits/resources/qualities that are accessible to members of
     the family. Some may particularly effect or magnify with others in the
@@ -22,15 +28,15 @@
     Names are kinda relevant here, too. "The mere use of a person's Christian
     name is electric."
   
- 4. _Relationship strength_
+ 5. _Relationship strength_
 
     Is this a thing? How's it work?
 
- 5. _Weather_
+ 6. _Weather_
 
- 6. _Location_
+ 7. _Location_
 
- 7. _Magic and Fairies_
+ 8. _Magic and Fairies_
 
 ## Notes:
 
