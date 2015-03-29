@@ -83,11 +83,13 @@ false-friends: Drawlight, Lucy Steele, etc.
 
 ## About the Game
 
-This is Regency England, but like _Shades of Milk and Honey_: parlour-magic is
-common, and many (but not most) people can perform some small cantrips.
+This is Regency England, but like _Shades of Milk and Honey_ or post-revival
+_Jonathan Strange & Mr Norrell_: parlour-magic is common, and many (but not
+most) people can perform some small cantrips.
 
 Your characters will pursue their various desires, navigating the Scylla of
-society's expectations and the Charybdis of their own improper desires.
+society's expectations and the Charybdis of their own potentially improper
+desires.
 
 (Elinor and Marianne, Apollonian and Dionysian, Enlightenment and Romanticism,
 Head and Heart.)
