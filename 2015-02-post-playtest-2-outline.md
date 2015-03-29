@@ -4,9 +4,7 @@
 
  1. _Dark Desires_
  
-    Change Dark Desires' reward amounts to scale per the Tokens, above.
-    Possibly vary per Dark Desire? Also, rewrite to keep them active and
-    doable.
+    Rewrite to keep them active and doable.
  
  2. _Face Cards_
 
