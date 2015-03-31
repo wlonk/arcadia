@@ -282,6 +282,10 @@ Some suggested consequences:
   - A Promise
   - A Rumour
   - A Warning
+  - Anger
+  - Illness
+  - Intoxication
+  - Shame
 
 ## Face Cards
 
