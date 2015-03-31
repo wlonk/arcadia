@@ -79,6 +79,8 @@ Interactions have:
 NB: add a list of kinds of relationships, inc. the very important
 false-friends: Drawlight, Lucy Steele, etc.
 
+NB: Chapter 15 of Emma. Just, all of it.
+
 [TOC]
 
 ## About the Game
