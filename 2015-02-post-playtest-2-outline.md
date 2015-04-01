@@ -368,11 +368,17 @@ art. This piece is worthy of one of the great talents of the age.
 When you hit a Desire, get one token. If doing so exposes you to risk or
 danger, get two tokens instead.
 
+NB: I’d like to change the language; “hit” a desire seems wrong. “Satisfy”
+feels too final.
+
+NB: I need to think about buying off desires, completing them and replacing
+them. It’s an important kind of character development.
+
 ### Mad, Bad and Dangerous to Know
 
 You are a person of gigantic passions: great mirths and great melancholies.
-What is the outlet for your passions? Hit this desire when you engage in that
-outlet.
+What is the outlet for your passions? Hit this desire every time someone
+devoted to you suffers because of your relationship.
 
 ### Forbidden love
 
@@ -391,53 +397,40 @@ affection or when you somehow show it indirectly.
 You wish to see another ruined. How did they harm you? Hit this desire when you
 undermine, harm, or malign them.
 
-### TODO Secrets Man was not Meant to Know
+### Secrets Man was not Meant to Know
 
 You desire understanding of the secrets of life and death—and not just to know,
-but to control. Why do you need this?
+but to control. Why do you need this? Hit this desire when you break the laws
+of God and Man.
 
-  - When you break the laws of God and Man
-  - When you harm an innocent by your pursuits
-  - When you create life out of nothingness.
-
-### TODO Ambition
+### Ambition
 
 You wish to rise above your place, through marriage, valour, low cunning, or
 some means else. You will not be satisfied until a coronet (or perhaps, even, a
-crown!) rests on your head. Who do you need to best in this respect?
+crown!) rests on your head. Who do you need to best in this respect? Hit this
+desire when you raise or assert your status.
 
-### TODO Entitlement (greed + ambition)
+### Entitlement
 
 You are certain that the world owes you something more. The problems of your
 position or life circumstance are not your fault, and are mere obstacles on the
 way to claiming your true place of importance. Who do you blame for your
-current lot?
+current lot? Hit this desire when you obtain something that you envy another for.
 
-  - When people tolerate your pretentions.
-  - When you slight someone above your station and get away with it.
-  - When you rise above your station.
+### Decadence
 
-### TODO Decadence
+You need something desperately, unreasonably: gambling, sex, drugs, or
+something else, as appropriate. What is it? Hit this desire when you get your
+fix.
 
-You have never had enough, and perhaps never will have enough. How does the
-money you do have escape your purse so quickly?
-
-  - When you display your tastes excessively
-  - When you harm or endanger yourself through your indulgence
-  - When you become bored of what you have, and find a higher high.
-
-### TODO Luxury (Sensuality)
-
-### TODO Playing puppeteer (Control)
+### Playing puppeteer
 
 Like Emma, you see others’ lives as toys for your own amusement. You wish to
 arrange the lives of those around you just so. Who is the hero(ine) and who is
-the villain in your headcanon?
+the villain in your headcanon? Hit this desire when you get someone to do what
+you want without asking or telling them.
 
-  - When you tell someone what you think they should do without saying it
-    overtly.
-  - When you make someone beg, grovel or plead with you.
-  - When someone places their life, fortune or reputation in your hands.
+### TODO Luxury (Sensuality)
 
 ### TODO Leveling distinctions (Jealousy)
 
