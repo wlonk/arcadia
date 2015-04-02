@@ -9,21 +9,26 @@
     I’d like to change the language; “hit” a desire seems wrong. “Satisfy”
     feels too final.
 
-    I need to think about buying off desires, completing them and replacing
-    them. It’s an important kind of character development.
+    End of season, you can change your Desires. Add an advancement question
+    about this.
 
  2. _Face Cards_
 
     Review these in light of current mechanics. Perhaps have some that let you
     generate consequences for someone else?
 
- 3. _Social Roles_
+ 3. _XP and Advancement_
+
+    End-of-season questionnaire, inc. "Have you challenged your desires" or
+    whatever.
+
+ 4. _Social Roles_
 
     Fill these out, at least for currently active ones and obvious ones. Make
     sure that card draws are mostly proactive; no more than one reactive draw
     per.
 
- 4. _Families_
+ 5. _Families_
  
     Can have powers/traits/resources/qualities that are accessible to members
     of the family. Some may particularly effect or magnify with others in the
@@ -34,15 +39,15 @@
     Names are kinda relevant here, too. "The mere use of a person's Christian
     name is electric."
   
- 5. _Relationship strength_
+ 6. _Relationship strength_
 
     Is this a thing? How's it work?
 
- 6. _Weather_
+ 7. _Weather_
 
- 7. _Location_
+ 8. _Location_
 
- 8. _Magic and Fairies_
+ 9. _Magic and Fairies_
 
 ## Notes:
 
@@ -226,9 +231,9 @@ other cards needed, or you withdraw your card.
 
 ### Growth and Change
 
-When you have a scene where you meaningfully interact with a character in one
-of your Relationships slots, put a mark next to their name if there is not
-already a mark. When you have three marks, erase them all and add one XP.
+At the end of a season, each character should go through this questionnaire:
+
+  - TODO get some XP for questions?
 
 You can spend XP one-for-one to:
 
