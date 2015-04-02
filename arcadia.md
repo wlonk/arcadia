@@ -4,8 +4,19 @@
 
  0. _Redo character sheet_
 
+    Add:
+
+      - token draw reference
+      - token spend reference
+      - suit reference
+      - desires
+      - social role
+      - deck build
+      - face cards
+      - tokens (current/max)
+
  1. _Desires_
- 
+
     Rewrite to keep them active and doable.
 
     I’d like to change the language; “hit” a desire seems wrong. “Satisfy”
@@ -31,7 +42,7 @@
     per.
 
  5. _Families_
- 
+
     Can have powers/traits/resources/qualities that are accessible to members
     of the family. Some may particularly effect or magnify with others in the
     group. Marriage may let you adopt the other family's powers, but still
@@ -40,7 +51,7 @@
 
     Names are kinda relevant here, too. "The mere use of a person's Christian
     name is electric."
-  
+
  6. _Relationship strength_
 
     Is this a thing? How's it work?
@@ -250,7 +261,7 @@ You can spend XP two-for-one to:
 ## The GM
 
 The GM may throw down cards to have an NPC get their way, or deal with a PC
-getting their way. 
+getting their way.
 
 The GM's deck has no face cards. Those are part of **Consequences** (see
 below).
