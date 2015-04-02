@@ -12,7 +12,6 @@
     I need to think about buying off desires, completing them and replacing
     them. It’s an important kind of character development.
 
- 
  2. _Face Cards_
 
     Review these in light of current mechanics. Perhaps have some that let you
