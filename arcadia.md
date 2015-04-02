@@ -19,11 +19,11 @@
 
  4. _Families_
  
-    Can have powers/traits/resources/qualities that are accessible to members of
-    the family. Some may particularly effect or magnify with others in the
-    group. Marriage may let you adopt the other family's powers, but still count
-    as in your family for the in-group effects. Families may be grow-able with
-    sheets and XP and stuff.
+    Can have powers/traits/resources/qualities that are accessible to members
+    of the family. Some may particularly effect or magnify with others in the
+    group. Marriage may let you adopt the other family's powers, but still
+    count as in your family for the in-group effects. Families may be grow-able
+    with sheets and XP and stuff.
 
     Names are kinda relevant here, too. "The mere use of a person's Christian
     name is electric."
@@ -178,11 +178,13 @@ suit:
   - Clubs: Will, status
   - Diamonds: Perception, taste
 
-The other party may then attempt to overcome that obstacle. They have three options:
+The other party may then attempt to overcome that obstacle. They have three
+options:
 
   - Put down a card of equal or higher value. Describe how you overcome the
     obstacle, following the suit of the card you played.
-  - Decline to put down any cards. Describe how you back down, concede, or fail.
+  - Decline to put down any cards. Describe how you back down, concede, or
+    fail.
   - Put down one or more cards totalling to an equal or higher value than the
     obstacle. Describe how you overcome the obstacle, following the suit of the
     highest card you played (if cards are tied, choose). You have, however,
@@ -415,7 +417,8 @@ desire when you raise or assert your status.
 You are certain that the world owes you something more. The problems of your
 position or life circumstance are not your fault, and are mere obstacles on the
 way to claiming your true place of importance. Who do you blame for your
-current lot? Hit this desire when you obtain something that you envy another for.
+current lot? Hit this desire when you obtain something that you envy another
+for.
 
 ### Decadence
 
