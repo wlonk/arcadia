@@ -2,6 +2,8 @@
 
 ## Todo:
 
+ 0. _Redo character sheet_
+
  1. _Desires_
  
     Rewrite to keep them active and doable.
