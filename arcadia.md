@@ -5,6 +5,13 @@
  1. _Desires_
  
     Rewrite to keep them active and doable.
+
+    I’d like to change the language; “hit” a desire seems wrong. “Satisfy”
+    feels too final.
+
+    I need to think about buying off desires, completing them and replacing
+    them. It’s an important kind of character development.
+
  
  2. _Face Cards_
 
@@ -369,12 +376,6 @@ art. This piece is worthy of one of the great talents of the age.
 
 When you hit a Desire, get one token. If doing so exposes you to risk or
 danger, get two tokens instead.
-
-NB: I’d like to change the language; “hit” a desire seems wrong. “Satisfy”
-feels too final.
-
-NB: I need to think about buying off desires, completing them and replacing
-them. It’s an important kind of character development.
 
 ### Mad, Bad and Dangerous to Know
 
