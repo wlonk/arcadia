@@ -82,6 +82,8 @@ false-friends: Drawlight, Lucy Steele, etc.
 
 NB: Chapter 15 of Emma. Just, all of it.
 
+NB: This is a game that lives or dies by the dialogue. Speak in character!
+
 [TOC]
 
 ## About the Game
