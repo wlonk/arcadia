@@ -2,30 +2,23 @@
 
 ## Todo:
 
- 1. _Desires_
-
-    Rewrite to keep them active and doable.
-
-    End of season, you can change your Desires. Add an advancement question
-    about this.
-
- 2. _Face Cards_
+ 1. _Face Cards_
 
     Review these in light of current mechanics. Perhaps have some that let you
     generate consequences for someone else?
 
- 3. _XP and Advancement_
+ 2. _XP and Advancement_
 
     End-of-season questionnaire, inc. "Have you challenged your desires" or
     whatever.
 
- 4. _Social Roles_
+ 3. _Social Roles_
 
     Fill these out, at least for currently active ones and obvious ones. Make
     sure that card draws are mostly proactive; no more than one reactive draw
     per.
 
- 5. _Families_
+ 4. _Families_
 
     Can have powers/traits/resources/qualities that are accessible to members
     of the family. Some may particularly effect or magnify with others in the
@@ -36,15 +29,15 @@
     Names are kinda relevant here, too. "The mere use of a person's Christian
     name is electric."
 
- 6. _Relationship strength_
+ 5. _Relationship strength_
 
     Is this a thing? How's it work?
 
- 7. _Weather_
+ 6. _Weather_
 
- 8. _Location_
+ 7. _Location_
 
- 9. _Magic and Fairies_
+ 8. _Magic and Fairies_
 
 ## Notes:
 
@@ -438,11 +431,25 @@ arrange the lives of those around you just so. Who is the hero(ine) and who is
 the villain in your headcanon? Sate this desire when you get someone to do what
 you want without asking or telling them.
 
-### TODO Luxury (Sensuality)
+### Leveling distinctions
 
-### TODO Leveling distinctions (Jealousy)
+You believe in the Natural Rights of Man (and probably Woman). You believe that
+all are, at a fundamental level, equal. Who do you believe has put themselves
+above others, to the detriment of all? Sate this desire when you pointedly
+ignore distinctions of rank and position.
 
-### TODO Lust for Glory (Pride)
+### Gloryhound
+
+You live for the applause, or the bows and curtseys. You want to be recognized
+for your skill, bravery, and good looks. Who do you most look up to? Sate this
+desire when you get others to applaud you for your good qualities.
+
+### Luxury
+
+The feel of silk, the smell of spices, the pleasure of a wild and picturesque
+landscape. You seek sensual and luxurious pleasures. What is your particular
+weakness, and who knows it? Sate this desire when you take pleasure in material
+goods beyond your means.
 
 ## Social Roles
 
