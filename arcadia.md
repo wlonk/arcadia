@@ -2,19 +2,6 @@
 
 ## Todo:
 
- 0. _Redo character sheet_
-
-    Add:
-
-      - token draw reference
-      - token spend reference
-      - suit reference
-      - desires
-      - social role
-      - deck build
-      - face cards
-      - tokens (current/max)
-
  1. _Desires_
 
     Rewrite to keep them active and doable.
