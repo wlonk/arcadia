@@ -498,13 +498,15 @@ Tell us who is:
 
 Initial hand: 4
 
-### TODO Ward (♀)
+### Ward (♀)
 
-A young lady who...
+A young lady who has been sent to live with relatives. Either her parents are
+dead, or simply unable to raise her in the proper fashion. She is in the
+family, but perhaps not quite _of_ it.
 
 Draw a card when:
 
-  - you uphold or demonstrate the honour of your adoptive family,
+  - demonstrate your accomplishments,
   - obey your guardian,
   - or pursue an appropriate courtship.
 
@@ -536,7 +538,7 @@ Tell us who is:
 
 Initial hand: 4
 
-### TODO Gentleman (♂)
+### Gentleman (♂)
 
 A single man, in possession of a good fortune. Let a lady decide the degree of
 acquaintance. A servant cannot impinge upon your honour, but neither can you
@@ -593,7 +595,7 @@ Tell us who is:
 
 Initial hand: 4
 
-### TODO Scholar (♂)
+### Scholar (♂)
 
 You are expected to be erudite, considered, and informed.
 
@@ -601,7 +603,7 @@ Draw a card when:
 
   - you teach someone a valuable lesson,
   - are the voice of reason,
-  - or you gain insight into a mystery.
+  - or you gain insight into a quandary.
 
 Tell us who is:
 
