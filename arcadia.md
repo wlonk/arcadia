@@ -6,9 +6,6 @@
 
     Rewrite to keep them active and doable.
 
-    I’d like to change the language; “hit” a desire seems wrong. “Satisfy”
-    feels too final.
-
     End of season, you can change your Desires. Add an advancement question
     about this.
 
@@ -378,43 +375,46 @@ art. This piece is worthy of one of the great talents of the age.
 
 ## Desires
 
-When you hit a Desire, get one token. If doing so exposes you to risk or
+When you sate a Desire, get one token. If doing so exposes you to risk or
 danger, get two tokens instead.
+
+These change slowly, if at all. At the end of a season, you may get the chance
+to change one or both Desires.
 
 ### Mad, Bad and Dangerous to Know
 
 You are a person of gigantic passions: great mirths and great melancholies.
-What is the outlet for your passions? Hit this desire every time someone
+What is the outlet for your passions? Sate this desire every time someone
 devoted to you suffers because of your relationship.
 
 ### Forbidden love
 
-You love someone who you shouldn’t. Why shouldn’t you? Is it a matter of class,
-sex, or something else? Hit this desire when you express your love to your
+You love someone who you shouldn't. Why shouldn't you? Is it a matter of class,
+sex, or something else? Sate this desire when you express your love to your
 lover.
 
 ### Unrequited love
 
 You love someone who does not or cannot love you back. What keeps you from
-their esteem? Hit this desire when you make a decision based on this secret
+their esteem? Sate this desire when you make a decision based on this secret
 affection or when you somehow show it indirectly.
 
 ### Vengeance
 
-You wish to see another ruined. How did they harm you? Hit this desire when you
-undermine, harm, or malign them.
+You wish to see another ruined. How did they harm you? Sate this desire when
+you undermine, harm, or malign them.
 
 ### Secrets Man was not Meant to Know
 
 You desire understanding of the secrets of life and death—and not just to know,
-but to control. Why do you need this? Hit this desire when you break the laws
+but to control. Why do you need this? Sate this desire when you break the laws
 of God and Man.
 
 ### Ambition
 
 You wish to rise above your place, through marriage, valour, low cunning, or
 some means else. You will not be satisfied until a coronet (or perhaps, even, a
-crown!) rests on your head. Who do you need to best in this respect? Hit this
+crown!) rests on your head. Who do you need to best in this respect? Sate this
 desire when you raise or assert your status.
 
 ### Entitlement
@@ -422,20 +422,20 @@ desire when you raise or assert your status.
 You are certain that the world owes you something more. The problems of your
 position or life circumstance are not your fault, and are mere obstacles on the
 way to claiming your true place of importance. Who do you blame for your
-current lot? Hit this desire when you obtain something that you envy another
+current lot? Sate this desire when you obtain something that you envy another
 for.
 
 ### Decadence
 
 You need something desperately, unreasonably: gambling, sex, drugs, or
-something else, as appropriate. What is it? Hit this desire when you get your
+something else, as appropriate. What is it? Sate this desire when you get your
 fix.
 
 ### Playing puppeteer
 
-Like Emma, you see others’ lives as toys for your own amusement. You wish to
+Like Emma, you see others' lives as toys for your own amusement. You wish to
 arrange the lives of those around you just so. Who is the hero(ine) and who is
-the villain in your headcanon? Hit this desire when you get someone to do what
+the villain in your headcanon? Sate this desire when you get someone to do what
 you want without asking or telling them.
 
 ### TODO Luxury (Sensuality)
@@ -451,7 +451,7 @@ Play one!
 ### TODO Lady (♀)
 
 A young lady, from a good family, with some hope of marriage. Your honour is
-your family’s honour. Your honour is both positive and negative: being
+your family's honour. Your honour is both positive and negative: being
 beautiful, charming, witty and accomplished can brighten it; being wanton,
 vain, shallow or crude can tarnish it. Be gentle and kind to those beneath you,
 and obedient and respectful to those above you.
@@ -465,7 +465,7 @@ Draw a card when:
 Tell us who is:
 
   - Your father (or other pater familias)
-  - Your lady’s maid
+  - Your lady's maid
   - Your best friend
 
 Initial hand: 5
@@ -512,7 +512,7 @@ Initial hand: 4
 ### TODO Spinster (♀)
 
 You are expected to deviate from (reject? or wish fruitlessly you could conform
-to?) your society’s feminine ideal, have secret wealth or knowledge, and draw
+to?) your society's feminine ideal, have secret wealth or knowledge, and draw
 strength from your relationships with other women.
 
 Draw a card when:
@@ -607,13 +607,13 @@ Initial hand: 4
 ### TODO Servant (♁)
 
 A young man or woman in service to someone of quality. Be neither seen nor
-heard, except when needed. Protect the honour of your master’s house in the
+heard, except when needed. Protect the honour of your master's house in the
 broader world. Discharge your duty to the family first; there is always more
 you can do.
 
 Draw a card when:
 
-  - you keep your master’s confidence,
+  - you keep your master's confidence,
   - act on their needs before they ask you,
   - or when you subordinate your own interests to those of your master.
 
@@ -627,7 +627,7 @@ Initial hand: 3
 
 ### TODO Invalid (♁)
 
-You are expected to be home-bound, solicitous of others’ health, and ...
+You are expected to be home-bound, solicitous of others' health, and ...
 
 Draw a card when:
 
@@ -639,7 +639,7 @@ Tell us who is:
 
   - Your physician?
   - Your source of comfort?
-  - Thinks you’re playing it up for sympathy?
+  - Thinks you're playing it up for sympathy?
 
 Initial hand: 4
 
