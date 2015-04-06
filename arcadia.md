@@ -12,13 +12,7 @@
     End-of-season questionnaire, inc. "Have you challenged your desires" or
     whatever.
 
- 3. _Social Roles_
-
-    Fill these out, at least for currently active ones and obvious ones. Make
-    sure that card draws are mostly proactive; no more than one reactive draw
-    per.
-
- 4. _Families_
+ 3. _Families_
 
     Can have powers/traits/resources/qualities that are accessible to members
     of the family. Some may particularly effect or magnify with others in the
@@ -29,9 +23,15 @@
     Names are kinda relevant here, too. "The mere use of a person's Christian
     name is electric."
 
- 5. _Relationship strength_
+ 4. _Relationship strength_
 
     Is this a thing? How's it work?
+
+ 5. _Social Roles_
+
+    Fill these out, at least for currently active ones and obvious ones. Make
+    sure that card draws are mostly proactive; no more than one reactive draw
+    per.
 
  6. _Weather_
 
