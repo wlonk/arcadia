@@ -304,16 +304,16 @@ meanings.
 ### Jack of Spades: the Whisperer
 
 When you play this card, name a rumour about another character. This rumour has
-spread throughout the community. Though most people believe it, the origin of
-the rumour remains unknown. It will persist until it comes to some sort of a
-head.
+or will spread throughout the community. Though most people believe it, the
+origin of the rumour remains unknown. The GM should make a Consequence
+describing the rumour, and place a card on it.
 
 ### Queen of Spades: the Widow
 
 You gain strength from another's misfortune. You may discard this card when
-someone has lost tokens to immediately gain that many, up to your maximum.
+someone suffers misfortune to gain three tokens (up to your limit).
 
-### King of Spades: the Nonesuch
+### TODO King of Spades: the Nonesuch
 
 Discard this card and demonstrate a new fashion (for dance, drink, games,
 sport, conversation, clothing, behavior, what-have-you) and have it take off,
@@ -330,40 +330,40 @@ People who come to you with their problems are soothed and come away
 strengthened. You may discard this card in a scene to give someone else three
 tokens (up to their limit).
 
-### King of Hearts: the Philosopher
+### TODO King of Hearts: the Philosopher
 
 Your reasoning is subtle and exquisite. You may discard this card to cause all
 who hear your explanation of something accept it as rational and likely.
 
-### Jack of Clubs: the Mule
+### TODO Jack of Clubs: the Mule
 
 You are stubborn and will not let the opinions of others sway you. You may
 discard this card instead of losing any amount of tokens, when you would lose
 (not spend) tokens.
 
-### Queen of Clubs: the Companion
+### TODO Queen of Clubs: the Companion
 
 You are strong, but strongest when acting beside another. When you act in
 support of a friend, you may discard this card to keep that friend from losing
 any tokens in the face of defeat.
 
-### King of Clubs: the Nobleman
+### TODO King of Clubs: the Nobleman
 
 You are of noble blood, though your present circumstances may be straitened.
 You may discard this card to command obedience in a one-on-one interaction.
 
-### Jack of Diamonds: the Tempter
+### TODO Jack of Diamonds: the Tempter
 
 When you play this card, you may ask another player what you could offer them
 that would tempt them to do something against their better interests for.
 
-### Queen of Diamonds: the Seer
+### TODO Queen of Diamonds: the Seer
 
 You have an uncanny insight. Discard this card to ask any other player (or the
 GM) a short question, which they must answer truthfully. This comes to your
 character as a flash of insight.
 
-### King of Diamonds: the Creator
+### TODO King of Diamonds: the Creator
 
 Discard this card to create a poem, painting, performance or similar piece of
 art. This piece is worthy of one of the great talents of the age.
