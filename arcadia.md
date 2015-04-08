@@ -197,7 +197,8 @@ options:
         tokens as cards you just played, minus one. If you externalize it, the
         GM will make a Consequence and attach a playing card from their deck to
         the consequence. It will come back to bite you, or someone you love.
-  - Face cards count as 10, and may trigger special effects.
+  - From a player, face cards only trigger special effects. From the GM, they
+    simply count as 10s.
 
 Sometimes, you will run out of cards in your deck. Just shuffle your discard
 and turn it back into your deck. You keep your cards and tokens between scenes.
@@ -335,29 +336,30 @@ tokens (up to their limit).
 Your reasoning is subtle and exquisite. You may discard this card to cause all
 who hear your explanation of something accept it as rational and likely.
 
-### TODO Jack of Clubs: the Mule
+### Jack of Clubs: the Mule
 
 You are stubborn and will not let the opinions of others sway you. You may
-discard this card instead of losing any amount of tokens, when you would lose
-(not spend) tokens.
+discard this card to raise the stakes instead of spending tokens.
 
-### TODO Queen of Clubs: the Companion
+### Queen of Clubs: the Companion
 
 You are strong, but strongest when acting beside another. When you act in
-support of a friend, you may discard this card to keep that friend from losing
-any tokens in the face of defeat.
+support of a friend, you may play this card to add five to the value of
+whatever card they have played. This does not count as using multiple cards to
+overcome an obstacle.
 
 ### TODO King of Clubs: the Nobleman
 
 You are of noble blood, though your present circumstances may be straitened.
 You may discard this card to command obedience in a one-on-one interaction.
 
-### TODO Jack of Diamonds: the Tempter
+### Jack of Diamonds: the Tempter
 
-When you play this card, you may ask another player what you could offer them
-that would tempt them to do something against their better interests for.
+When you play this card, you may make a particular offer to another PC
+particularly tempting. If they agree, and carry through on it, they may regain
+three tokens, up to their maximum.
 
-### TODO Queen of Diamonds: the Seer
+### Queen of Diamonds: the Seer
 
 You have an uncanny insight. Discard this card to ask any other player (or the
 GM) a short question, which they must answer truthfully. This comes to your
