@@ -2,17 +2,12 @@
 
 ## Todo:
 
- 1. _Face Cards_
-
-    Review these in light of current mechanics. Perhaps have some that let you
-    generate consequences for someone else?
-
- 2. _XP and Advancement_
+ 1. _XP and Advancement_
 
     End-of-season questionnaire, inc. "Have you challenged your desires" or
     whatever.
 
- 3. _Families_
+ 2. _Families_
 
     Can have powers/traits/resources/qualities that are accessible to members
     of the family. Some may particularly effect or magnify with others in the
@@ -23,21 +18,21 @@
     Names are kinda relevant here, too. "The mere use of a person's Christian
     name is electric."
 
- 4. _Relationship strength_
+ 3. _Relationship strength_
 
     Is this a thing? How's it work?
 
- 5. _Social Roles_
+ 4. _Social Roles_
 
     Fill these out, at least for currently active ones and obvious ones. Make
     sure that card draws are mostly proactive; no more than one reactive draw
     per.
 
- 6. _Weather_
+ 5. _Weather_
 
- 7. _Location_
+ 6. _Location_
 
- 8. _Magic and Fairies_
+ 7. _Magic and Fairies_
 
 ## Notes:
 
@@ -314,11 +309,11 @@ describing the rumour, and place a card on it.
 You gain strength from another's misfortune. You may discard this card when
 someone suffers misfortune to gain three tokens (up to your limit).
 
-### TODO King of Spades: the Nonesuch
+### King of Spades: The Nonesuch
 
-Discard this card and demonstrate a new fashion (for dance, drink, games,
-sport, conversation, clothing, behavior, what-have-you) and have it take off,
-at least in your local circles.
+Your behavior is exquisite. When you discard this card, you may hold the
+undivided attention of everyone who can see or hear you as long as you are
+dancing, talking, or otherwise positioning yourself as a center of attention.
 
 ### Jack of Hearts: the Rake
 
@@ -331,10 +326,11 @@ People who come to you with their problems are soothed and come away
 strengthened. You may discard this card in a scene to give someone else three
 tokens (up to their limit).
 
-### TODO King of Hearts: the Philosopher
+### King of Hearts: The Philosopher
 
-Your reasoning is subtle and exquisite. You may discard this card to cause all
-who hear your explanation of something accept it as rational and likely.
+Your reasoning is exquisite. When you discard this card, you may convince an
+individual or a small audience of a single truth. The GM should make a
+Consequence for them reflecting this belief.
 
 ### Jack of Clubs: the Mule
 
@@ -348,10 +344,11 @@ support of a friend, you may play this card to add five to the value of
 whatever card they have played. This does not count as using multiple cards to
 overcome an obstacle.
 
-### TODO King of Clubs: the Nobleman
+### King of Clubs: The Nobleman
 
-You are of noble blood, though your present circumstances may be straitened.
-You may discard this card to command obedience in a one-on-one interaction.
+Your dignity is exquisite. When you discard this card, you may insist on
+obedience for one interaction with immediate scope. Debts will be forgiven,
+doors will be opened, forgiveness will be given.
 
 ### Jack of Diamonds: the Tempter
 
@@ -365,10 +362,11 @@ You have an uncanny insight. Discard this card to ask any other player (or the
 GM) a short question, which they must answer truthfully. This comes to your
 character as a flash of insight.
 
-### TODO King of Diamonds: the Creator
+### King of Diamonds: The Artist
 
-Discard this card to create a poem, painting, performance or similar piece of
-art. This piece is worthy of one of the great talents of the age.
+Your taste and skill are exquisite. When you discard this card, you may create
+a work of staggering beauty: a poem, a painting, a song, whatever is
+appropriate. All who experience it will be moved.
 
 ## Desires
 
