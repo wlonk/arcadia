@@ -36,6 +36,45 @@
 
 ## Notes:
 
+PCs need to get their face cards more.
+
+Tokens are wrong; they shouldn't decide lastingness. One suggestion is that the
+GM's card-plays could be restricted by the number of tokens spent. How's this
+work for PCs?
+
+Token spends need clearer fictional triggers. The GM needs surface to impose
+opposition.
+
+Think about the GM's side more. NPC cards and Consequence cards and maybe some
+cards from a deck to add to that? The current form is very reactive: NPCs can't
+_want_, they can't _impose_, they can't _request_ with mechanical weight. This
+is frustrating and I want to change it.
+
+Make some GM principles and moves. Something like that to keep the GM clear on
+what they can do when is important.
+
+Possibly stronger scene framing to motivate GM draws and pacing? Actually,
+_definitely_ stronger scene framing, including interpretation of cards. Where
+are we? Who is here, including which NPCs? What relationships are in play? What
+is potentially at stake?
+
+Just add NPCs when you need, don't worry about connectedness of graph. They
+will eventually connect.
+
+**Reinclude** "it's not going to be that easy", for PCs and GM.
+
+Season-start goals. Tie to end-of-season advancement. Write down people's
+concrete goals! GM should do same for some NPCs.
+
+What I'd really like is a game where you set some goals, and then in the
+moment, the mechanics make surprising nuance, change, variation happen.
+
+(Considering vignt-un idea, where the NPCs have an intrinsic card + 1 dealt
+card, PCs get one face down and one or more face up. But that's focusing on the
+wrong area of play for the moment, I think.)
+
+---
+
 Games are better when they ask questions than when they provide answers. This
 game asks this question:
 
