@@ -137,6 +137,33 @@ The GM gets ready by paying attention, asking pointed questions, and thinking
 about the situation as a whole. They should write down notable NPCs on index
 cards, and assign a card from their deck to each.
 
+## Names
+
+There is a very particular character to English names.
+
+Masculine names may include Charles, Clive, Cyril, Edward, Frank, George,
+Henry, Hugh, James, John, Malcolm, Nathaniel, Nigel, Philip, Ralph, Richard,
+Robert, Rupert, Simon, Stephen, Thomas, Wesley, William, or many surnames.
+
+Feminine names may include Alice, Anne, Augusta, Caroline, Catherine, Dorcas,
+Elizabeth, Emma, Georgiana, Gillian, Grace, Harriet, Imogen, Isabella, Jane,
+Lucy, Lydia, Madeline, Mary, Matilda, Patricia, Philippa, Regina, Susan, or
+feminized versions of many masculine names.
+
+Surnames may include Ambrose, Arkwright, Collins, d’Arcy, Ent, Fairfax,
+Farquhar, Fawkes, Fetherstonhaugh, Fogg, Forster, Fox, Gardiner, Godown, Guest,
+Hartpence, Hillpot, Hunt, King, Knightly, Lawshe, Lequear, Lestrange, Lloyd,
+Mason, Orcutt, Philips, Quick, Rochester, Silverthorn, Smith, St. John, Stout,
+Urquhart, Westenra, Wintermute, Woodhouse, Woolverton.
+
+Estates names may include Beaulieu, Bracken, Brakebills, Brock, Dinmore,
+Exmoor, Gosford, Hatfield, Hurtfew, Longbourne, Longmere, Mansfield, Mereworth,
+Norris, Pemberley, Radbourne, Savoy, Shipley, Stowe, Sulgrave, Tattershall,
+Thornlea, Thorpe Constantine, Trent, Upper Braithwaite, Walton.
+
+Estates may be described as Court, Park, Place, Castle, House, Manor, Abbey,
+Hall, Lodge, Grove, Downs, Hill, Priory, Grange, Parsonage.
+
 ## Play
 
 When you want to get your way and:
