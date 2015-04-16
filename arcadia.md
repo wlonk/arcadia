@@ -577,7 +577,7 @@ lady of your close acquaintance is a stain on your honour.
 Draw a card when:
 
   - you display good judgment,
-  - give others chances to show themselves off to advantage,
+  - act warm and welcoming,
   - or defend the honour of someone close to you.
 
 Tell us who is:
