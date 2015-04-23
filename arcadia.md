@@ -76,6 +76,8 @@ moment, the mechanics make surprising nuance, change, variation happen.
 card, PCs get one face down and one or more face up. But that's focusing on the
 wrong area of play for the moment, I think.)
 
+New season should include new characters.
+
 ---
 
 Games are better when they ask questions than when they provide answers. This
