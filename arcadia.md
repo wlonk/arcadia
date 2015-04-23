@@ -36,6 +36,9 @@
 
 ## Notes:
 
+What's clear: I need to make it easier to manage and embody a community of
+NPCs, with their own desires, feelings, relationships.
+
 PCs need to get their face cards more.
 
 Tokens are wrong; they shouldn't decide lastingness. One suggestion is that the
