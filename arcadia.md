@@ -45,6 +45,48 @@
 
 ## Notes:
 
+GMing notes:
+
+Make the NPCs real:
+
+  * Desires
+  * Relationships
+  * Feelings
+
+Make htem have distinct relationships with each of the PCs.
+
+Make them want things from and of the PCs, and act towards those desires. What
+do they do offscreen?
+
+Bad Behavior:
+
+Anyone might _like_ or _want_ bad behavior, but there are gossamer chains
+keeping them from acknowledging this. It's social conspiracy from the other
+direction: as long as everyone keeps up the facade of decorum, the first to
+break it suffers.
+
+People will avoid them, mistrust them, warn others about them, possibly deny
+them resources. And this can extend to the violator's family!
+
+When someone acts badly, as the GM, note it. It will come back to haunt them.
+If it gets out (and it will get out), make them feel it. (Cousin Violet rages
+at Thomas that he has ruined Madeline's chances of a good marriage, etc.)
+
+Who thinks they can benefit? Who is harmed?
+
+GM: Keep an eye out for "it won't be so easy" moments. You should especially
+use _NPCs_ and _promises_ and _feelings_ to make this happen.
+
+Season transitions? Cast renewal, etc?
+
+Things for players to get as stakes? Tie to token expenditures? Make these
+worth fighting against.
+
+List concrete outcomes of compromises and failures, at least for NPC
+opposition.
+
+---
+
 What's clear: I need to make it easier to manage and embody a community of
 NPCs, with their own desires, feelings, relationships.
 
