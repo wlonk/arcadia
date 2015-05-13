@@ -45,6 +45,12 @@
 
 ## Notes:
 
+To answer:
+
+  * Why is this hard?
+  * How is this risky? (Or, perhaps, how is this uncertain?) (In some ways,
+    like MC hard moves.)
+
 GMing notes:
 
 Make the NPCs real:
@@ -84,8 +90,6 @@ worth fighting against.
 
 List concrete outcomes of compromises and failures, at least for NPC
 opposition.
-
----
 
 What's clear: I need to make it easier to manage and embody a community of
 NPCs, with their own desires, feelings, relationships.
