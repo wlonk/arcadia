@@ -51,6 +51,13 @@ To answer:
   * How is this risky? (Or, perhaps, how is this uncertain?) (In some ways,
     like MC hard moves.)
 
+The GM must keep their eyes open for moments to say "that won't be so easy,
+because..." and then name a risk. The reason should inform the risk. Perhaps it
+will damage a relationship, strengthen an undesirable one, cause a
+misunderstanding, hurt feelings, or leave your own inner resources tapped.
+
+Things that likely generate these difficulties: NPCs, feelings, promises.
+
 GMing notes:
 
 Make the NPCs real:
@@ -59,7 +66,7 @@ Make the NPCs real:
   * Relationships
   * Feelings
 
-Make htem have distinct relationships with each of the PCs.
+Make them have distinct relationships with each of the PCs.
 
 Make them want things from and of the PCs, and act towards those desires. What
 do they do offscreen?
