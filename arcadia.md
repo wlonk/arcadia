@@ -2,21 +2,17 @@
 
 ## Todo:
 
- 1. _GM Rules_
-
-    Make these push towards complication, consequences, convolution.
-
- 2. _Breathing Space_
+ 1. _Breathing Space_
 
     Think about how to make the rules allow more fictional space in between the
     crunchy bits. Not direct tokens-and-cards to tokens-and-cards.
 
- 3. _XP and Advancement_
+ 2. _XP and Advancement_
 
     End-of-season questionnaire, inc. "Have you challenged your desires" or
     whatever.
 
- 4. _Families_
+ 3. _Families_
 
     Can have powers/traits/resources/qualities that are accessible to members
     of the family. Some may particularly effect or magnify with others in the
@@ -27,79 +23,32 @@
     Names are kinda relevant here, too. "The mere use of a person's Christian
     name is electric."
 
- 5. _Relationship strength_
-
-    Is this a thing? How's it work?
-
- 6. _Social Roles_
+ 4. _Social Roles_
 
     Fill these out, at least for currently active ones and obvious ones. Make
     sure that card draws are mostly proactive; no more than one reactive draw
     per.
 
- 7. _Weather_
+ 5. _Weather_
 
- 8. _Location_
+ 6. _Location_
 
- 9. _Magic and Fairies_
+ 7. _Magic and Fairies_
 
 ## Notes:
 
-To answer:
-
-  * Why is this hard?
-  * How is this risky? (Or, perhaps, how is this uncertain?) (In some ways,
-    like MC hard moves.)
-
-The GM must keep their eyes open for moments to say "that won't be so easy,
-because..." and then name a risk. The reason should inform the risk. Perhaps it
-will damage a relationship, strengthen an undesirable one, cause a
-misunderstanding, hurt feelings, or leave your own inner resources tapped.
-
-Things that likely generate these difficulties: NPCs, feelings, promises.
-
-GMing notes:
-
-Make the NPCs real:
-
-  * Desires
-  * Relationships
-  * Feelings
-
-Make them have distinct relationships with each of the PCs.
-
-Make them want things from and of the PCs, and act towards those desires. What
-do they do offscreen?
-
-Bad Behavior:
-
-Anyone might _like_ or _want_ bad behavior, but there are gossamer chains
-keeping them from acknowledging this. It's social conspiracy from the other
-direction: as long as everyone keeps up the facade of decorum, the first to
-break it suffers.
-
-People will avoid them, mistrust them, warn others about them, possibly deny
-them resources. And this can extend to the violator's family!
-
-When someone acts badly, as the GM, note it. It will come back to haunt them.
-If it gets out (and it will get out), make them feel it. (Cousin Violet rages
-at Thomas that he has ruined Madeline's chances of a good marriage, etc.)
-
-Who thinks they can benefit? Who is harmed?
-
-GM: Keep an eye out for "it won't be so easy" moments. You should especially
-use _NPCs_ and _promises_ and _feelings_ to make this happen.
-
 Season transitions? Cast renewal, etc?
+
+New season should include new characters.
+
+Season-start goals. Tie to end-of-season advancement. Write down people's
+concrete goals! GM should do same for some NPCs.
 
 Things for players to get as stakes? Tie to token expenditures? Make these
 worth fighting against.
 
 List concrete outcomes of compromises and failures, at least for NPC
 opposition.
-
-What's clear: I need to make it easier to manage and embody a community of
-NPCs, with their own desires, feelings, relationships.
 
 PCs need to get their face cards more.
 
@@ -110,14 +59,6 @@ work for PCs?
 Token spends need clearer fictional triggers. The GM needs surface to impose
 opposition.
 
-Think about the GM's side more. NPC cards and Consequence cards and maybe some
-cards from a deck to add to that? The current form is very reactive: NPCs can't
-_want_, they can't _impose_, they can't _request_ with mechanical weight. This
-is frustrating and I want to change it.
-
-Make some GM principles and moves. Something like that to keep the GM clear on
-what they can do when is important.
-
 Possibly stronger scene framing to motivate GM draws and pacing? Actually,
 _definitely_ stronger scene framing, including interpretation of cards. Where
 are we? Who is here, including which NPCs? What relationships are in play? What
@@ -125,22 +66,6 @@ is potentially at stake?
 
 Just add NPCs when you need, don't worry about connectedness of graph. They
 will eventually connect.
-
-**Reinclude** "it's not going to be that easy", for PCs and GM.
-
-Season-start goals. Tie to end-of-season advancement. Write down people's
-concrete goals! GM should do same for some NPCs.
-
-What I'd really like is a game where you set some goals, and then in the
-moment, the mechanics make surprising nuance, change, variation happen.
-
-(Considering vignt-un idea, where the NPCs have an intrinsic card + 1 dealt
-card, PCs get one face down and one or more face up. But that's focusing on the
-wrong area of play for the moment, I think.)
-
-New season should include new characters.
-
----
 
 Games are better when they ask questions than when they provide answers. This
 game asks this question:
@@ -151,32 +76,6 @@ game asks this question:
 
 So all three of passions, position, or balance need to be viable games to play,
 with their own feels.
-
-Players have:
-
-  - Deck of cards
-  - Hand of cards
-  - Track of passion-fed willpower
-      - You spend willpower to get effects. It's not HP; it's
-        effect-scale-juice.
-      - There is a special case: in PvP, one player puts forward tokens to
-        suggest stakes, and another may take the initiative from them, escalate
-        the scope, and put forward more tokens, thus requiring the _first_ to
-        put down a card instead. There may be two stakes at play there.
-  - Face card powers that can make massive turnarounds if used in the right way
-    at the right time. May allow sudden drains or returns of willpower, etc.
-
-Table/GM has:
-
-  - Consequences (with playing card)
-  - NPC cards (with playing card)
-
-Interactions have:
-
-  - Obstacle card
-  - Overcoming cards: one or more cards equalling or surpassing the value of
-    the obstacle. If there is one, you overcome completely! If there are more
-    than one, you generate a Consequence or lose willpower.
 
 NB: add a list of kinds of relationships, inc. the very important
 false-friends: Drawlight, Lucy Steele, etc.
@@ -298,8 +197,7 @@ If anyone wants to say "no", they can do so in one of two ways:
     once. They then have taken the initiative and can define what effect is at
     stake.
   - Anyone (GM or PC) can put down a card as an obstacle. PCs can use cards
-    from their hands, the GM can use their hand, or any appropriate NPC or
-    Consequences.
+    from their hands, the GM can use their hand, or any appropriate NPC.
 
 When you put down a card, describe what you say or do in line with the card's
 suit:
@@ -321,10 +219,9 @@ options:
     highest card you played (if cards are tied, choose). You have, however,
     overcome the obstacle with compromise or cost.
       - Decide whether to bear the cost yourself, or to externalize it. If you
-        bear the cost yourself, your inner reserves are drained: lose as many
-        tokens as cards you just played, minus one. If you externalize it, the
-        GM will make a Consequence and attach a playing card from their deck to
-        the consequence. It will come back to bite you, or someone you love.
+        bear the cost yourself, your inner reserves are drained. If you
+        externalize it, the GM will keep track of the consequences. It will
+        come back to bite you, or someone you love.
   - From a player, face cards only trigger special effects. From the GM, they
     simply count as 10s.
 
@@ -368,49 +265,56 @@ You can spend XP two-for-one to:
 
 ## The GM
 
-The GM may throw down cards to have an NPC get their way, or deal with a PC
-getting their way.
+The GM's role is to stir the pot; the players need to be kept on their toes, in
+a state of dynamic tension. The initial situation will help. As the GM, your
+best tool in the initial situation is pointed questions: make sure that
+everyone has complex relationships with each other, and conflicting
+relationships with NPCs.
 
-The GM's deck has no face cards. Those are part of **Consequences** (see
-below).
+After the initial situation, the GM has two main tools to keep the situation
+complex: NPCs and feelings. At every moment, stay alert for the possibility of
+saying "that won't be so easy" and provide a "because" that comes back to an
+NPC (their expectations, feelings, relationship with the PC), or the PC's own
+feelings.
 
-First, every NPC starts with one card. Write that card in the corner of the
-NPC's index card, and at the start of every session, pull it from the GM's deck
-and put it under that NPC's index card. Once per session, the NPC may spend
-that card for opposition, as though it came from the GM's hand.
+> There are some games where the GM pushes, and then asks "what do you do
+> now?". This is not, usually, that game. In this game, players will be
+> proactive, and you will complicate their attempts at action. The players have
+> a lot of control over the outcomes of those moments of uncertainty, so by
+> prodding them regularly, you ask them which complications they're willing to
+> accept and which they're willing to spend resources to overcome.
 
-The value of the NPC's card is based on their social standing (higher value for
-higher standing), and the suit is based on the dominant character note of that
-NPC.
+> Of course, you can and should _also_ prompt them to action with requests,
+> demands, expectations from NPCs!
 
-Second, the GM's hand is about pacing, whereas PCs' hands are about performing
-their social role. This means that the events that trigger GM hand refreshes
-are tied to session length and structure, not fictional actions _per se_.
+In each moment of uncertainty, answer (for yourself) two questions:
 
-So: the GM starts with the cards under NPCs, plus a hand of 2 + number of
-players. They may draw a new hand of this size once, at about the midpoint of
-the session. They should do this when they are either out of cards, or the
-action has come to a middle. They should discard any remaining cards before
-they do so.
+  * How is this hard? Is it because of conflicted feelings, acting out of
+    place, physical difficulty, or something else?
+  * How is this risky? What might happen in the worst case? Maybe the PC will
+    feel worse, a relationship will be strained, a misunderstanding will arise,
+    the PC will develop a bad reputation, someone will be out a large sum of
+    money, or something else.
 
-The GM should separate out the face cards, and keep them for Consequences,
-reserving non-face cards for NPCs.
+The NPCs, present or otherwise, are a rich source of these complications. The
+NPCs have desires and feelings and relationships of their own, and you should
+absolutely position them between PCs to generate conflict. PC-NPC-PC triangles,
+right?
 
-Also, if you need an NPC, but don't know what they should be like, you can
-simply draw a card, interpret it, assign it to the new NPC. Like magic!
+### In Concrete Terms
 
-### Consequences
+Whenever the GM sees an opportunity, they can say "It won't be so easy!",
+explain why, and put down a card representing that difficulty. They may use a
+card from their hand, or a card from an NPC (which see below).
 
-The GM may make and place a Consequence on the table whenever circumstances
-dictate (typically when a player has spent tokens or had a compromise with the
-cards).
+The GM starts with two cards, plus one per PC. They refresh their hand once at
+the start of each session, and once in the middle. It is a pacing mechanism.
 
-These get a card on them, which the GM can play when this consequence comes to
-bear. They only have face cards. They function much like NPCs: when this
-looming fate pertains, the GM may use the playing card on the Consequence
-instead of a card from their hand.
+You also have a face card for each NPC. These cards are each usable once per
+session.
 
-Some suggested consequences:
+The GM may also use a character's situation or feelings as an obstacle. Some
+suggested difficult states:
 
   - A Bad Reputation
   - A Curse
