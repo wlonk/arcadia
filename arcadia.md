@@ -327,6 +327,10 @@ suggested difficult states:
   - Intoxication
   - Shame
 
+### Techniques and Tools
+
+**Acting is Reacting**: keep the camera on the listener, not the speaker.
+
 ## Face Cards
 
 Lots of ways they can have an effect: when in deck, at purchase, when in hand,
