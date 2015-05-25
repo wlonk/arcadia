@@ -310,8 +310,11 @@ card from their hand, or a card from an NPC (which see below).
 The GM starts with two cards, plus one per PC. They refresh their hand once at
 the start of each session, and once in the middle. It is a pacing mechanism.
 
-You also have a face card for each NPC. These cards are each usable once per
-session.
+You also have a card for each NPC. These cards are each usable once per
+session. These cards do not live in your deck, but are extracted and kept by
+the NPCs' index cards. At the end of a season, you can re-assign these cards
+based on the evolving roles of the NPCs in question. If you need a new NPC on
+short notice, simply draw a card for them, and interpret it.
 
 The GM may also use a character's situation or feelings as an obstacle. Some
 suggested difficult states:
@@ -337,6 +340,14 @@ Lots of ways they can have an effect: when in deck, at purchase, when in hand,
 when played, when in trash, etc. They can be fictional-effect primary. They can
 generate Consequences. They can replenish Willpower. They can screw with suit
 meanings.
+
+When you get a face card, do not put it into your deck. Each game, you put your
+face cards out in front of you. When you use its power, tap it. You can't use
+it again while it's tapped. They untap at the start of a season.
+
+TODO: other untap triggers.
+
+TODO: tapped effects, ranging from weakened to negative.
 
 ### Jack of Spades: the Whisperer
 
