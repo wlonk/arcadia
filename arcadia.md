@@ -33,6 +33,10 @@
 
  6. _Location_
 
+    There are three major places: town, country, seaside. Each comes with its
+    own constraints and options. But also, sense-of-place. Landscape, houses,
+    history. The eerieness of the English countryside.
+
  7. _Magic and Fairies_
 
 ## Notes:
