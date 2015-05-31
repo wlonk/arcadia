@@ -2,15 +2,18 @@
 
 ## Todo:
 
- 1. _Breathing Space_
+ 1. _Mechanics_
 
-    Think about how to make the rules allow more fictional space in between the
-    crunchy bits. Not direct tokens-and-cards to tokens-and-cards.
+    Token draw needs to be upped.
 
  2. _XP and Advancement_
 
     End-of-season questionnaire, inc. "Have you challenged your desires" or
     whatever.
+
+    Relatedly, new season should include rewriting goals and re-assigning NPC
+    cards. Possibly adding some new NPCs, especially if relationships with any
+    existing NPCs have been resolved.
 
  3. _Families_
 
@@ -29,7 +32,13 @@
     sure that card draws are mostly proactive; no more than one reactive draw
     per.
 
+    Remember the negatives, though: "don't trash-talk people", etc. for
+    Gentleman.
+
  5. _Weather_
+
+    Important for making things feel really _English_. Ties to the Romantic and
+    the mysterious, too.
 
  6. _Location_
 
@@ -39,44 +48,22 @@
 
  7. _Magic and Fairies_
 
+    What does this do _for the story_? It's clear what it does for the
+    characters in the story, less so for the players.
+
 ## Notes:
 
-Season transitions? Cast renewal, etc?
-
-New season should include new characters.
-
-Season-start goals. Tie to end-of-season advancement. Write down people's
-concrete goals! GM should do same for some NPCs.
-
-Things for players to get as stakes? Tie to token expenditures? Make these
-worth fighting against.
-
-List concrete outcomes of compromises and failures, at least for NPC
-opposition.
-
 PCs need to get their face cards more.
-
-Tokens are wrong; they shouldn't decide lastingness. One suggestion is that the
-GM's card-plays could be restricted by the number of tokens spent. How's this
-work for PCs?
 
 Token spends need clearer fictional triggers. The GM needs surface to impose
 opposition.
 
-Possibly stronger scene framing to motivate GM draws and pacing? Actually,
-_definitely_ stronger scene framing, including interpretation of cards. Where
-are we? Who is here, including which NPCs? What relationships are in play? What
-is potentially at stake?
-
-Just add NPCs when you need, don't worry about connectedness of graph. They
-will eventually connect.
-
 Games are better when they ask questions than when they provide answers. This
 game asks this question:
 
-> There are three paths you can take: following your passions, following the
-> expectations of society, or finding a balance between them. All three come
-> with costs and benefits. Can you live with your choice?
+There are three paths you can take: following your passions, following the
+expectations of society, or finding a balance between them. All three come with
+costs and benefits. Can you live with your choice?
 
 So all three of passions, position, or balance need to be viable games to play,
 with their own feels.
@@ -142,6 +129,9 @@ created. Now you will have some history with them.
 Decide how to allocate 10 points among extra cards, higher token cap, and more
 relationship slots.
 
+Players' decks start with the cards 2, 3, 4, 5 in each suit, plus the ones they
+bought.
+
 The GM gets ready by paying attention, asking pointed questions, and thinking
 about the situation as a whole. They should write down notable NPCs on index
 cards, and assign a card from their deck to each.
@@ -175,59 +165,31 @@ Hall, Lodge, Grove, Downs, Hill, Priory, Grange, Parsonage.
 
 ## Play
 
-When you want to get your way and:
+In the course of play, you may want something from another character. This may
+be to counter a demand they place on you, or a wholly new demand of your own.
+Simply spend one, two, or three tokens, depending on the scope of the demand. A
+single token is for a small demand or compromise, two tokens for a major demand
+or compromise, and three for an absolute demand or no compromise.
 
-  - Make someone feel hurt
-  - Make someone feel impassioned
-  - Make someone feel listened to
-  - Make someone get out of your way
-  - Make someone obey you
-  - Make someone promise you something
-  - Make someone reveal to you what they are thinking or feeling
-  - Make someone see your point
+You get what you ask for unless the GM, or another player involved, says "but
+it won't be so easy". They then put down a card from their hand (though the GM
+may also use an NPC card, see below). They describe how their character or NPC
+opposes (though the GM may also describe how social forces or your own
+character's feelings get in the way, see below).
 
-You must spend tokens:
+You then have three options:
 
-  - Zero tokens for a trivial or passing effect (this tier is more a
-    technicality than anything)
-  - One token for an effect that will last the scene.
-  - Two tokens for an effect that will last the session, or until undone.
-  - Three tokens for an effect that will last forever, or until undone.
+  - Concede. Accept the rebuttal and back down. Describe how you fail or are
+    overcome yourself, and sell it.
+  - Resist effectively. Play a single card of equal or higher value to the card
+    opposing you (Jacks are 11, Queens are 12, Kings are 13, Aces are 14), and
+    describe how you completely overcome the obstacle. Sell it!
+  - Resist at cost. Play more than one card totalling more than the opposing
+    card (again, same values for Jack, Queen, King, Ace). Describe how you
+    overcome the obstacle, but the other player may describe the cost you
+    suffer or the risk that comes to pass.
 
-If anyone wants to say "no", they can do so in one of two ways:
-
-  - Another PC can put forward more tokens (but no more than three), and
-    escalate the emotional intensity of the situation. This can happen only
-    once. They then have taken the initiative and can define what effect is at
-    stake.
-  - Anyone (GM or PC) can put down a card as an obstacle. PCs can use cards
-    from their hands, the GM can use their hand, or any appropriate NPC.
-
-When you put down a card, describe what you say or do in line with the card's
-suit:
-
-  - Spades: Wit, charm
-  - Hearts: Calm, reason
-  - Clubs: Will, status
-  - Diamonds: Perception, taste
-
-The other party may then attempt to overcome that obstacle. They have three
-options:
-
-  - Put down a card of equal or higher value. Describe how you overcome the
-    obstacle, following the suit of the card you played.
-  - Decline to put down any cards. Describe how you back down, concede, or
-    fail.
-  - Put down one or more cards totalling to an equal or higher value than the
-    obstacle. Describe how you overcome the obstacle, following the suit of the
-    highest card you played (if cards are tied, choose). You have, however,
-    overcome the obstacle with compromise or cost.
-      - Decide whether to bear the cost yourself, or to externalize it. If you
-        bear the cost yourself, your inner reserves are drained. If you
-        externalize it, the GM will keep track of the consequences. It will
-        come back to bite you, or someone you love.
-  - From a player, face cards only trigger special effects. From the GM, they
-    simply count as 10s.
+In any case, the tokens you spent are gone.
 
 Sometimes, you will run out of cards in your deck. Just shuffle your discard
 and turn it back into your deck. You keep your cards and tokens between scenes.
@@ -267,6 +229,10 @@ You can spend XP two-for-one to:
   - Add a face card to your deck.
   - Add a relationship slot and fill it in.
 
+You can spend XP three-for-one to:
+
+  - Add an ace to your deck.
+
 ## The GM
 
 The GM's role is to stir the pot; the players need to be kept on their toes, in
@@ -289,13 +255,16 @@ feelings.
 > accept and which they're willing to spend resources to overcome.
 
 > Of course, you can and should _also_ prompt them to action with requests,
-> demands, expectations from NPCs!
+> demands, expectations from NPCs! This is crucial. Make NPCs expect things of
+> the PCs, make them demand and assume. Make them plead, request, impose. Only
+> by doing this will you be able to prompt the PCs to spend tokens, allowing
+> you to wheel around with the occasional "that won't be so easy"!
 
 In each moment of uncertainty, answer (for yourself) two questions:
 
-  * How is this hard? Is it because of conflicted feelings, acting out of
+  - How is this hard? Is it because of conflicted feelings, acting out of
     place, physical difficulty, or something else?
-  * How is this risky? What might happen in the worst case? Maybe the PC will
+  - How is this risky? What might happen in the worst case? Maybe the PC will
     feel worse, a relationship will be strained, a misunderstanding will arise,
     the PC will develop a bad reputation, someone will be out a large sum of
     money, or something else.
@@ -337,6 +306,23 @@ suggested difficult states:
 ### Techniques and Tools
 
 **Acting is Reacting**: keep the camera on the listener, not the speaker.
+
+**Breathing Space**: not every scene should involve "that won't be so easy".
+Scenes like that tend to be dramatic up-beats, where the character faces the
+things that make their story interesting and their life difficult. After, allow
+them a scene of downtime, showcasing their Desires or their Social Role. Then
+cut to another character and focus on their story a little.
+
+**Let them be human**: the social norms of the period are real and present, but
+even in Austen's work, you sometimes see people breaking these norms without
+remark. Humans are humans and every supposed rule of a society has occasional
+exceptions. Sometimes first names are used, sometimes servants aren't woken in
+the middle of the night.
+
+**Who's Who**: when you need a new NPC, simply draw a card, interpret it,
+describe the character and assign them that card. At the end of the season,
+when NPC cards are re-assigned, their card may change, but for now, be guided
+by how fate describes them.
 
 ## Face Cards
 
