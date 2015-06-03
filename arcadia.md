@@ -657,7 +657,7 @@ Tell us who is:
 
 Initial hand: 4
 
-### TODO Servant (♁)
+### TODO Servant (⚲)
 
 A young man or woman in service to someone of quality. Be neither seen nor
 heard, except when needed. Protect the honour of your master's house in the
@@ -678,7 +678,7 @@ Tell us who is:
 
 Initial hand: 3
 
-### TODO Invalid (♁)
+### TODO Invalid (⚲)
 
 You are expected to be home-bound, solicitous of others' health, and ...
 
@@ -696,7 +696,7 @@ Tell us who is:
 
 Initial hand: 4
 
-### TODO Vagabond (♁)
+### TODO Vagabond (⚲)
 
 You are expected to be needy, itinerant, and thankful.
 
@@ -714,7 +714,7 @@ Tell us who:
 
 Initial hand: 3
 
-### TODO Magician (♁)
+### TODO Magician (⚲)
 
 You are expected to be mysterious, wise, and unconventional.
 
