@@ -68,6 +68,9 @@
 
     And then the fairy can make demands of you, that cost tokens to resist?
 
+    Perhaps a fairy's demand cuts them off from tokens until they complete it,
+    like putting your soul in hock in _Poison'd_.
+
 ## Notes:
 
 PCs need to get their face cards more.
