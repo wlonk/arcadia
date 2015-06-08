@@ -51,6 +51,23 @@
     What does this do _for the story_? It's clear what it does for the
     characters in the story, less so for the players.
 
+    John's suggestion is that the current mechanics can be reflavored to
+    reflect magic. That the PCs have access to tokens, which they can use to
+    press unconventional desires into being, marks them as special, as
+    fairy-touched. Perhaps the Desires are how they refuel, but the grace of
+    the fairy is why they can do anything with these tokens in the first place.
+
+    So, every few uses, they have to settle up with the fairy, do what it
+    wants.
+
+    Perhaps, even, tokens are not spent to set stakes, but rather to overcome
+    card situations entirely. You get fewer, get them more rarely, but can use
+    them to blow contests out of the water. Probably start with zero? So, the
+    GM simply says "that might not be so easy" when you press that you want
+    something (no tokens needed), and then you spend cards or a token.
+
+    And then the fairy can make demands of you, that cost tokens to resist?
+
 ## Notes:
 
 PCs need to get their face cards more.
