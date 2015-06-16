@@ -1,5 +1,15 @@
 # Arcadia
 
+2015-06-15 BRAINSTORM: under all possible designs, you must be able to ante
+with zero tokens, even if the possible stakes are diminished or costly. Under
+all possible designs, you must be able to be dealt in with no cards, even if
+that means pure risk.
+
+So if we do the ante tokens to set stakes, blackjack thing, you can ante zero,
+and you can be dealt in entirely randomly. If we do the high card thing, you
+can ante zero, but you probably need at least one card to resist a challenge
+(the zero cards thing is if you go unchallenged). See?
+
 ## Todo:
 
  1. _Mechanics_
