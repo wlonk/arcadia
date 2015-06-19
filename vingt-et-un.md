@@ -76,6 +76,14 @@ bounds of propriety. The scene _may_ continue without you, if appropriate, but
 each other player also pull back their tokens, discard all the cards in front
 of them, and back down, with no cost, if they wish.
 
+At the end of the scene, each player evaluates whether they fulfilled any of
+the card draws for their social role. If so, they draw a card. They do not have
+to have fought for stakes to do this. There is no maximum hand size.
+
+Then, each player evaluates whether they fulfilled any of the token draws for
+their two desires. They may draw one token for each desire they hit, so zero,
+one, or two.
+
 ## Face cards
 
 Your character will have a number of particular powers that are tied to face
