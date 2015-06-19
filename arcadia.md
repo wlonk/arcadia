@@ -354,6 +354,14 @@ describe the character and assign them that card. At the end of the season,
 when NPC cards are re-assigned, their card may change, but for now, be guided
 by how fate describes them.
 
+**Understatement**: you can achieve a feeling of magical realism by maintaining
+understatement, a calm matter-of-fact aspect to describing magic. To paraphrase
+Mark Twain, do not "glance around from face to face, collecting applause". This
+is what Gabriel García Márquez describes as speaking "with a brick face". You
+are simply observing these wondrous things, but not being awes by them.
+Conversely, if you want the game to feel more like a gothic novel, do just the
+opposite: make it clear how overcome you are by what you are describing.
+
 ## Face Cards
 
 Lots of ways they can have an effect: when in deck, at purchase, when in hand,
