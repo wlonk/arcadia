@@ -362,6 +362,16 @@ are simply observing these wondrous things, but not being awes by them.
 Conversely, if you want the game to feel more like a gothic novel, do just the
 opposite: make it clear how overcome you are by what you are describing.
 
+**Elide the smalltalk**: It's easy to think of empty smalltalk as a staple of
+the Austenian genre, but you'll notice that, with the notable exception of
+_Emma_, where it serves a particular purpose, smalltalk is usually quoted only
+indirectly: "they talked of the weather" rather than a blow-by-blow direct
+quotation. You can do that too. "After pleasantries are exchanged, Col.
+Colquhoun gets to his purpose, and asks you if you have heard the news from
+Hastings, that Miss Redgrave is apparently becoming very close with a Mr.
+Hawkins. He's trying to get a reaction out of you. He wants to know if you have
+feelings for her."
+
 ## Face Cards
 
 Lots of ways they can have an effect: when in deck, at purchase, when in hand,
