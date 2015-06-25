@@ -19,7 +19,7 @@ python \
     -x markdown.extensions.smarty \
     -x markdown.extensions.footnotes \
     -x markdown.extensions.tables \
-    $@
+    "$@"
 
 cat << UNTIL
 </body>
