@@ -2,6 +2,10 @@
 
 By way of _vingt-et-un_.
 
+## Table of Contents
+
+[TOC]
+
 ## Characters
 
 Characters have social roles (which give them cards in hand) and desires (which
