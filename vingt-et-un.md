@@ -17,19 +17,58 @@ When you first make characters, there are formal relationships defined by your
 social role and emotional relationships defined by your desires. Use these to
 mix everyone up into one nice tangled community.
 
+At the start of the game, characters have a number of cards based on their
+social role, and four tokens.
+
 ## The GM
 
 The GM controls the NPCs and provides adversity. It's their role to reinforce
 the strictures of society, the dangers of magic, and the difficulties of human
 relationships.
 
-See [Techniques and Tools](arcadia.md#techniques-and-tools) for some GM
-techniques.
-
 The GM should write down what we know about NPCs on their index cards, and
 particularly how they feel about the PCs and each other. This will help them
 drive the action from the NPCs' point of view. Remember to think about and
 communicate what will happen if the PCs don't act.
+
+### Techniques and Tools
+
+**Acting is Reacting**: keep the camera on the listener, not the speaker.
+
+**Breathing Space**: not every scene should involve "that won't be so easy".
+Scenes like that tend to be dramatic up-beats, where the character faces the
+things that make their story interesting and their life difficult. After, allow
+them a scene of downtime, showcasing their Desires or their Social Role. Then
+cut to another character and focus on their story a little.
+
+**Let them be human**: the social norms of the period are real and present, but
+even in Austen's work, you sometimes see people breaking these norms without
+remark. Humans are humans and every supposed rule of a society has occasional
+exceptions. Sometimes first names are used, sometimes servants aren't woken in
+the middle of the night.
+
+**Who's Who**: when you need a new NPC, simply draw a card, interpret it,
+describe the character and assign them that card. At the end of the season,
+when NPC cards are re-assigned, their card may change, but for now, be guided
+by how fate describes them.
+
+**Understatement**: you can achieve a feeling of magical realism by maintaining
+understatement, a calm matter-of-fact aspect to describing magic. To paraphrase
+Mark Twain, do not "glance around from face to face, collecting applause". This
+is what Gabriel García Márquez describes as speaking "with a brick face". You
+are simply observing these wondrous things, but not being awes by them.
+Conversely, if you want the game to feel more like a gothic novel, do just the
+opposite: make it clear how overcome you are by what you are describing.
+
+**Elide the smalltalk**: It's easy to think of empty smalltalk as a staple of
+the Austenian genre, but you'll notice that, with the notable exception of
+_Emma_, where it serves a particular purpose, smalltalk is usually quoted only
+indirectly: "they talked of the weather" rather than a blow-by-blow direct
+quotation. You can do that too. "After pleasantries are exchanged, Col.
+Colquhoun gets to his purpose, and asks you if you have heard the news from
+Hastings, that Miss Redgrave is apparently becoming very close with a Mr.
+Hawkins. He's trying to get a reaction out of you. He wants to know if you have
+feelings for her."
 
 ## Scenes
 
@@ -43,7 +82,7 @@ their moment.
 To push for stakes, name what you want (try not to directly oppose someone
 else, more on this later), and push forward enough tokens.
 
-  * If you want an absolute outcome, something absolute and without compromise,
+  * If you want an absolute outcome, something complete and without compromise,
     put forward three tokens.
   * If you want a significant outcome, something clearly in your favour, put
     forward two tokens.
@@ -76,13 +115,42 @@ bounds of propriety. The scene _may_ continue without you, if appropriate, but
 each other player also pull back their tokens, discard all the cards in front
 of them, and back down, with no cost, if they wish.
 
+There are three outcomes for each non-GM participant:
+
+  * _Bust_: You have crossed a line that should not be crossed. You do not get
+    your stakes, and the GM may impose some cost on you.
+  * _Under the dealer_: you get what you want, but the GM may impose a cost.
+  * _Above the dealer_: you get what you want, and the GM does not impose a
+    cost.
+
+What are these "costs"? Well, the GM chooses, based on what's most appropriate
+at that moment:
+
+  * Significantly change an NPC's relationship with the PC. It's up to the GM
+    to play this to the hilt!
+  * Make the PC suffer some emotional toll (exhaustion, shame, anger, anxiety,
+    etc.) It's up to the player to play this to the hilt, until it's resolved!
+  * Change the PC's reputation, typically for the worse, among some group of
+    people. This is like changing someone's relationship, but a bit softer and
+    broader.
+  * Some other appropriate cost: money, health, etc.
+
+A note on stakes: I said not to make them directly contradictory, and promised
+to explain why. The short version is that, with multiple PCs involved, you each
+might come in above the dealer, so your stakes must be at least broadly
+mutually compatible. If you need to resolve a disagreement in how the stakes
+pan out, the person with the higher total without going bust gets to decide.
+But consensus and collaboration should be the order of the day.
+
 At the end of the scene, each player evaluates whether they fulfilled any of
 the card draws for their social role. If so, they draw a card. They do not have
-to have fought for stakes to do this. There is no maximum hand size.
+to have fought for stakes to do this. There is no maximum hand size. You do not
+keep your hands between sessions, though.
 
 Then, each player evaluates whether they fulfilled any of the token draws for
 their two desires. They may draw one token for each desire they hit, so zero,
-one, or two.
+one, or two. You may not have more than ten tokens, but you keep them between
+sessions.
 
 ## Face cards
 
@@ -100,6 +168,8 @@ a bargain with a being from the Otherworld.
 This probably uses suits or something? It's not blackjack at any rate. It's
 also likely driven more by tokens than cards.
 
+TODO
+
 ## Seasons, Growth, and Change
 
 At the end of each season (a bunch of sessions with a coherent arc), go through
@@ -107,3 +177,391 @@ a questionnaire and ask the table about each character: whether they have done
 this, or that, etc. They will gain XP based on that, which they can use to
 modify their face card powers and possibly some other things. They may also
 change out a desire, and should redefine their relationships with the NPCs.
+
+TODO
+
+## Appendix: Face Cards
+
+### Jack of Spades: the Whisperer
+
+When you play this card, name a rumour about another character. This rumour has
+or will spread throughout the community. Though most people believe it, the
+origin of the rumour remains unknown.
+
+### Queen of Spades: the Widow
+
+You gain strength from another's misfortune. You may use this card when someone
+suffers misfortune to gain three tokens (up to the usual limit of ten).
+
+### King of Spades: The Nonesuch
+
+Your behavior is exquisite. When you use this card, you may hold the undivided
+attention of everyone who can see or hear you as long as you are dancing,
+talking, or otherwise positioning yourself as a center of attention.
+
+### Jack of Hearts: the Rake
+
+You have a way of slipping a reputation. You may use this card to negate any
+concerns or effects of a bad reputation for a scene.
+
+### Queen of Hearts: the Comforter
+
+People who come to you with their problems are soothed and come away
+strengthened. You may use this card in a scene to give someone else three
+tokens (up to the usual limit of ten).
+
+### King of Hearts: The Philosopher
+
+Your reasoning is exquisite. When you use this card, you may convince an
+individual or a small audience of a single truth.
+
+### Jack of Clubs: the Mule
+
+You are stubborn and will not let the opinions of others sway you. TODO
+
+### Queen of Clubs: the Companion
+
+You are strong, but strongest when acting beside another. When you act in
+support of a friend, you may TODO
+
+### King of Clubs: The Nobleman
+
+Your dignity is exquisite. When you use this card, you may insist on obedience
+for one interaction with immediate scope. Debts will be forgiven, doors will be
+opened, forgiveness will be given.
+
+### Jack of Diamonds: the Tempter
+
+When you use this card, you may make a particular offer to another PC
+particularly tempting. If they agree, and carry through on it, they may regain
+three tokens, up to the usual maximum.
+
+### Queen of Diamonds: the Seer
+
+You have an uncanny insight. Use this card to ask any other player (or the GM)
+a short question, which they must answer truthfully. This comes to your
+character as a flash of insight.
+
+### King of Diamonds: The Artist
+
+Your taste and skill are exquisite. When you use this card, you may create a
+work of staggering beauty: a poem, a painting, a song, whatever is appropriate.
+All who experience it will be moved.
+
+## Appendix: Desires
+
+TODO edit these. They should be non-evil, but socially difficult. Active, too.
+
+### Mad, Bad and Dangerous to Know
+
+You are a person of gigantic passions: great mirths and great melancholies.
+What is the outlet for your passions? Sate this desire every time someone
+devoted to you suffers because of your relationship.
+
+### Forbidden love
+
+You love someone who you shouldn't. Why shouldn't you? Is it a matter of class,
+sex, or something else? Sate this desire when you express your love to your
+lover.
+
+### Unrequited love
+
+You love someone who does not or cannot love you back. What keeps you from
+their esteem? Sate this desire when you make a decision based on this secret
+affection or when you somehow show it indirectly.
+
+### Vengeance
+
+You wish to see another ruined. How did they harm you? Sate this desire when
+you undermine, harm, or malign them.
+
+### Secrets Man was not Meant to Know
+
+You desire understanding of the secrets of life and death—and not just to know,
+but to control. Why do you need this? Sate this desire when you break the laws
+of God and Man.
+
+### Ambition
+
+You wish to rise above your place, through marriage, valour, low cunning, or
+some means else. You will not be satisfied until a coronet (or perhaps, even, a
+crown!) rests on your head. Who do you need to best in this respect? Sate this
+desire when you raise or assert your status.
+
+### Entitlement
+
+You are certain that the world owes you something more. The problems of your
+position or life circumstance are not your fault, and are mere obstacles on the
+way to claiming your true place of importance. Who do you blame for your
+current lot? Sate this desire when you obtain something that you envy another
+for.
+
+### Decadence
+
+You need something desperately, unreasonably: gambling, sex, drugs, or
+something else, as appropriate. What is it? Sate this desire when you get your
+fix.
+
+### Playing puppeteer
+
+Like Emma, you see others' lives as toys for your own amusement. You wish to
+arrange the lives of those around you just so. Who is the hero(ine) and who is
+the villain in your headcanon? Sate this desire when you get someone to do what
+you want without asking or telling them.
+
+### Leveling distinctions
+
+You believe in the Natural Rights of Man (and probably Woman). You believe that
+all are, at a fundamental level, equal. Who do you believe has put themselves
+above others, to the detriment of all? Sate this desire when you pointedly
+ignore distinctions of rank and position.
+
+### Gloryhound
+
+You live for the applause, or the bows and curtseys. You want to be recognized
+for your skill, bravery, and good looks. Who do you most look up to? Sate this
+desire when you get others to applaud you for your good qualities.
+
+### Luxury
+
+The feel of silk, the smell of spices, the pleasure of a wild and picturesque
+landscape. You seek sensual and luxurious pleasures. What is your particular
+weakness, and who knows it? Sate this desire when you take pleasure in material
+goods beyond your means.
+
+## Appendix: Social Roles
+
+TODO edit a number of these.
+
+### TODO Lady (♀)
+
+A young lady, from a good family, with some hope of marriage. Your honour is
+your family's honour. Your honour is both positive and negative: being
+beautiful, charming, witty and accomplished can brighten it; being wanton,
+vain, shallow or crude can tarnish it. Be gentle and kind to those beneath you,
+and obedient and respectful to those above you.
+
+Draw a card when:
+
+  - you demonstrate your accomplishments,
+  - ...
+  - or make those around you feel at ease.
+
+Tell us who is:
+
+  - Your father (or other pater familias)
+  - Your lady's maid
+  - Your best friend
+
+Initial hand: 5
+
+### TODO Governess (♀)
+
+A young lady of indifferent family, but with enough education to hold a
+position with a wealthy family as not-quite-a-servant. Set a good example for
+the children. Demonstrate your refinement and accomplishments. Ensure the moral
+behavior of your charges.
+
+Draw a card when:
+
+  - ...
+  - ...
+  - ...
+
+Tell us who is:
+
+  - Your employer?
+  - Your charge or charges?
+  - Your best friend?
+
+Initial hand: 4
+
+### Ward (♀)
+
+A young lady who has been sent to live with relatives. Either her parents are
+dead, or simply unable to raise her in the proper fashion. She is in the
+family, but perhaps not quite _of_ it.
+
+Draw a card when:
+
+  - demonstrate your accomplishments,
+  - obey your guardian,
+  - or pursue an appropriate courtship.
+
+Tell us who:
+
+  - Is your guardian?
+  - You rely on for financial support?
+  - Sees you as a threat, obstacle or imposition?
+
+Initial hand: 4
+
+### TODO Spinster (♀)
+
+You are expected to deviate from (reject? or wish fruitlessly you could conform
+to?) your society's feminine ideal, have secret wealth or knowledge, and draw
+strength from your relationships with other women.
+
+Draw a card when:
+
+  - ...
+  - ...
+  - ...
+
+Tell us who is:
+
+  - ...
+  - Your dearest sister?
+  - The one who got away?
+
+Initial hand: 4
+
+### Gentleman (♂)
+
+A single man, in possession of a good fortune. Let a lady decide the degree of
+acquaintance. A servant cannot impinge upon your honour, but neither can you
+suffer insolence from them. Another gentleman insulting you, your family, or a
+lady of your close acquaintance is a stain on your honour.
+
+Draw a card when:
+
+  - you display good judgment,
+  - act warm and welcoming,
+  - or defend the honour of someone close to you.
+
+Tell us who is:
+
+  - Your cousin
+  - The tradesman you owe the most
+  - Your boon companion
+
+Initial hand: 5
+
+### TODO Officer (♂)
+
+You are expected to be disciplined, honorable and patriotic.
+
+Draw a card when:
+
+  - ...
+  - ...
+  - ...
+
+Tell us who:
+
+  - Is your commanding officer?
+  - Did you leave behind?
+  - ...
+
+Initial hand: 4
+
+### TODO Clergyman (♂)
+
+...
+
+Draw a card when:
+
+  - ...
+  - ...
+  - ...
+
+Tell us who is:
+
+  - ...
+  - ...
+  - ...
+
+Initial hand: 4
+
+### Scholar (♂)
+
+You are expected to be erudite, considered, and informed.
+
+Draw a card when:
+
+  - you teach someone a valuable lesson,
+  - are the voice of reason,
+  - or you gain insight into a quandary.
+
+Tell us who is:
+
+  - Your rival?
+  - Your school-chum?
+  - Your pupil? (Whether they agree or not?)
+
+Initial hand: 4
+
+### TODO Servant (⚲)
+
+A young man or woman in service to someone of quality. Be neither seen nor
+heard, except when needed. Protect the honour of your master's house in the
+broader world. Discharge your duty to the family first; there is always more
+you can do.
+
+Draw a card when:
+
+  - you keep your master's confidence,
+  - act on their needs before they ask you,
+  - or when you subordinate your own interests to those of your master.
+
+Tell us who is:
+
+  - Your master
+  - The apple of your eye
+  - Your confidante
+
+Initial hand: 3
+
+### TODO Invalid (⚲)
+
+You are expected to be home-bound, solicitous of others' health, and ...
+
+Draw a card when:
+
+  - ...
+  - ...
+  - ...
+
+Tell us who is:
+
+  - Your physician?
+  - Your source of comfort?
+  - Thinks you're playing it up for sympathy?
+
+Initial hand: 4
+
+### TODO Vagabond (⚲)
+
+You are expected to be needy, itinerant, and thankful.
+
+Draw a card when:
+
+  - ...
+  - ...
+  - ...
+
+Tell us who:
+
+  - Is after you?
+  - Is your drinking companion?
+  - Gives you charity?
+
+Initial hand: 3
+
+### TODO Magician (⚲)
+
+You are expected to be mysterious, wise, and unconventional.
+
+Draw a card when:
+
+  - ...
+  - ...
+  - ...
+
+Tell us who:
+
+  - Is your patron?
+  - Wishes to be your student?
+  - ...
+
+Initial hand: 4
