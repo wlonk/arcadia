@@ -28,7 +28,7 @@ techniques.
 
 The GM should write down what we know about NPCs on their index cards, and
 particularly how they feel about the PCs and each other. This will help them
-drive the action from the NPCs point of view. Remember to think about and
+drive the action from the NPCs' point of view. Remember to think about and
 communicate what will happen if the PCs don't act.
 
 ## Scenes
