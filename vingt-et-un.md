@@ -105,6 +105,17 @@ of them, and then is dealt another card face up.
 Continue to play the scene. Certain actions (escalations, basically) mean that
 you will take another face-up card. Everything else is a pass (for now).
 
+Get another card whenever you:
+
+  * Call in a debt
+  * Dazzle
+  * Drop some gossip
+  * Insult
+  * Lean on a reputation
+  * Open up about your feelings
+  * Pull rank
+  * Threaten
+
 The GM must hit whenever a PC does, unless their hand (including the hole card)
 totals 17 or more.
 
@@ -122,21 +133,23 @@ of them, and back down, with no cost, if they wish.
 There are three outcomes for each non-GM participant:
 
   * _Bust_: You have crossed a line that should not be crossed. You do not get
-    your stakes, and the GM may impose some cost on you.
+    your stakes, and the GM may impose some cost on you. ("No, and...")
   * _Under the dealer_: you get what you want, but the GM may impose a cost.
+    ("Yes, but...")
   * _Above the dealer_: you get what you want, and the GM does not impose a
-    cost.
+    cost. ("Yes.")
 
 What are these "costs"? Well, the GM chooses, based on what's most appropriate
 at that moment:
 
-  * Significantly change an NPC's relationship with the PC. It's up to the GM
-    to play this to the hilt!
+  * Significantly change an NPC's relationship with the PC. _It's up to the GM
+    to play this to the hilt!_
   * Make the PC suffer some emotional toll (exhaustion, shame, anger, anxiety,
-    etc.) It's up to the player to play this to the hilt, until it's resolved!
+    etc.) _It's up to the player to play this to the hilt, until it's
+    resolved!_
   * Change the PC's reputation, typically for the worse, among some group of
-    people. This is like changing someone's relationship, but a bit softer and
-    broader.
+    people. _This is like changing someone's relationship, but a bit softer and
+    broader._
   * Some other appropriate cost: money, health, etc.
 
 A note on stakes: I said not to make them directly contradictory, and promised
