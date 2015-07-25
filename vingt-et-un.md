@@ -21,8 +21,8 @@ When you first make characters, there are formal relationships defined by your
 social role and emotional relationships defined by your desires. Use these to
 mix everyone up into one nice tangled community.
 
-At the start of the game, characters have a number of cards based on their
-social role, and four tokens.
+At the start of the game, characters have a number of tokens based on their
+social role, and four cards.
 
 ## The GM
 
@@ -84,28 +84,46 @@ If they pass, they may not jump in until a new scene begins. They have missed
 their moment.
 
 To push for stakes, name what you want (try not to directly oppose someone
-else, more on this later), and push forward enough tokens.
-
-  * If you want an absolute outcome, something complete and without compromise,
-    put forward three tokens.
-  * If you want a significant outcome, something clearly in your favour, put
-    forward two tokens.
-  * If you want a moderate outcome, something with a spin in your favour, put
-    forward one token.
-  * If you want a minor outcome, doing little more than skirting the worst, you
-    do not need to put forward any tokens.
+else, more on this later).
 
 Then, deal cards.
 
 The GM gets two cards, one face down.
 
-Each player who has bought in plays a card from their hand face down in front
-of them, and then is dealt another card face up.
+Each player who has bought in is dealt a card face-up, then may play a card
+face-down from their hand, or opt to by dealt one instead. You will want to
+play a low card if you think you can or should go a number of rounds, pushing
+the other person towards going bust. You will want to play a high card if you
+think you can start out very near 21.
 
-Continue to play the scene. Certain actions (escalations, basically) mean that
-you will take another face-up card. Everything else is a pass (for now).
+Continue to play the scene. If you want another card, push: provoke, ask,
+challenge the other character. If you don't want another card, resist:
+prevaricate, deflect, deny the other character.
 
-Get another card whenever you:
+The GM must hit whenever a PC does, unless their hand (including the hole card)
+totals 17 or more. TODO: this may need to allow the GM to push more?
+
+When everyone has passed, reveal the hole cards. Anyone with a total greater
+than the GM's total, but less than 21, gets their stakes. Anyone with a total
+less than the GM's (and less than 21) gets their stakes at cost. They may
+escalate to try again with a new deal.
+
+If at any point you go bust, immediately reveal your hole card. You have gone
+too far, and do not get your stakes. Narrate how you have overstepped the
+bounds of propriety. You may either take the cost now, or escalate to try a new
+deal.
+
+There are three outcomes for each non-GM participant:
+
+  * _Bust_: You have crossed a line that should not be crossed. You do not get
+    your stakes, and the GM may impose a cost on you from either the current
+    tier or one higher.
+  * _Under the dealer_: you get what you want, but the GM may impose a cost
+    from the current tier.
+  * _Above the dealer_: you get what you want, and the GM does not impose a
+    cost.
+
+To escalate:
 
   * Call in a debt
   * Dazzle
@@ -116,31 +134,13 @@ Get another card whenever you:
   * Pull rank
   * Threaten
 
-The GM must hit whenever a PC does, unless their hand (including the hole card)
-totals 17 or more.
-
-When the questions of the stakes must be answered, or everyone has passed,
-reveal the hole cards. Anyone with a total greater than the GM's total, but
-less than 21, gets their stakes. Anyone with a total less than the GM's (and
-less than 21) gets their stakes at cost.
-
-If at any point you go bust, immediately reveal your hole card. You have gone
-too far, and do not get your stakes. Narrate how you have overstepped the
-bounds of propriety. The scene _may_ continue without you, if appropriate, but
-each other player also pull back their tokens, discard all the cards in front
-of them, and back down, with no cost, if they wish.
-
-There are three outcomes for each non-GM participant:
-
-  * _Bust_: You have crossed a line that should not be crossed. You do not get
-    your stakes, and the GM may impose some cost on you. ("No, and...")
-  * _Under the dealer_: you get what you want, but the GM may impose a cost.
-    ("Yes, but...")
-  * _Above the dealer_: you get what you want, and the GM does not impose a
-    cost. ("Yes.")
-
 What are these "costs"? Well, the GM chooses, based on what's most appropriate
 at that moment:
+
+TODO: Tier these. One, two, three.
+
+TODO: Work in token expenditure to resist costs, or impose them on your
+opposition.
 
   * Significantly change an NPC's relationship with the PC. _It's up to the GM
     to play this to the hilt!_
@@ -159,15 +159,14 @@ mutually compatible. If you need to resolve a disagreement in how the stakes
 pan out, the person with the higher total without going bust gets to decide.
 But consensus and collaboration should be the order of the day.
 
-At the end of the scene, each player evaluates whether they fulfilled any of
-the card draws for their social role. If so, they draw a card. They do not have
-to have fought for stakes to do this. There is no maximum hand size. You do not
-keep your hands between sessions, though.
+At the end of the scene (which may include many exchanges), each player
+evaluates whether they fulfilled any of the conditions for their social role.
+If so, they take a token. They do not have to have fought for stakes to do
+this.
 
-Then, each player evaluates whether they fulfilled any of the token draws for
-their two desires. They may draw one token for each desire they hit, so zero,
-one, or two. You may not have more than ten tokens, but you keep them between
-sessions.
+Then, each player evaluates whether they fulfilled any of the conditions for
+their two desires. They may draw one card for each desire they hit, so zero,
+one, or two.
 
 ## Face cards
 
