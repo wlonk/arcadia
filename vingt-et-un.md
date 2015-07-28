@@ -35,6 +35,24 @@ particularly how they feel about the PCs and each other. This will help them
 drive the action from the NPCs' point of view. Remember to think about and
 communicate what will happen if the PCs don't act.
 
+### The Dance
+
+Have you ever danced an English country dance? There are two rows of people,
+ladies on one side, gents on the other, facing each other. Each couple (the
+lady and gent standing across the set from each other) will spend most of the
+dance with each other, but will share a bit of the dance with all the people on
+the other side, weaving in and out and always coming back to dance with their
+partner.
+
+This game can be like that, though perhaps with somewhat more complex figures
+in the dance. Characters will often find themselves in pairs (or perhaps
+triads), swirling around together, until they circle back out and return to
+their partner, the character with whom they have the most dramatic tension. I
+find that envisioning the game in these terms helps me keep things from staying
+in one spot too long: I can look at the characters and think "who hasn't Miss
+Redgrave dealt with lately? What might Mr. Scopes _want_ from her?" It's very
+pleasing.
+
 ### Techniques and Tools
 
 **Acting is Reacting**: keep the camera on the listener, not the speaker.
@@ -151,6 +169,12 @@ opposition.
     people. _This is like changing someone's relationship, but a bit softer and
     broader._
   * Some other appropriate cost: money, health, etc.
+
+TODO: for each one, give ways it might be recovered. So:
+
+  * Strained relationship (a heart-to-heart)
+  * Damaged relationship (an honest and complete apology)
+  * Poisoned relationship (perhaps not at all)
 
 A note on stakes: I said not to make them directly contradictory, and promised
 to explain why. The short version is that, with multiple PCs involved, you each
