@@ -127,9 +127,9 @@ less than the GM's (and less than 21) gets their stakes at cost. They may
 escalate to try again with a new deal.
 
 If at any point you go bust, immediately reveal your hole card. You have gone
-too far, and do not get your stakes. Narrate how you have overstepped the
-bounds of propriety. You may either take the cost now, or escalate to try a new
-deal.
+too far, and do not get your stakes. You may either fail now, in which case
+narrate how you have overstepped the bounds of propriety, or you may escalate
+to try a new deal. TODO: how is it worth it to try again?
 
 There are three outcomes for each non-GM participant:
 
@@ -137,7 +137,7 @@ There are three outcomes for each non-GM participant:
     your stakes, and the GM may impose a cost on you from either the current
     tier or one higher.
   * _Under the dealer_: you get what you want, but the GM may impose a cost
-    from the current tier.
+    from the current tier, or offer you a compromise.
   * _Above the dealer_: you get what you want, and the GM does not impose a
     cost.
 
@@ -182,6 +182,13 @@ might come in above the dealer, so your stakes must be at least broadly
 mutually compatible. If you need to resolve a disagreement in how the stakes
 pan out, the person with the higher total without going bust gets to decide.
 But consensus and collaboration should be the order of the day.
+
+If you want something directly from another PC as stakes, you may ask for it,
+but you may never demand it. They always retain a choice. If you win (either
+fully or with compromise), you may present your stakes to the player of the
+character in question. If they agree, they gain a token for their trouble. If
+they do not, they must pay you a token. If you went bust, they are under no
+obligations to you at all.
 
 At the end of the scene (which may include many exchanges), each player
 evaluates whether they fulfilled any of the conditions for their social role.
