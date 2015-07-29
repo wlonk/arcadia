@@ -232,6 +232,10 @@ choose one to four):
     them.
   * The spell will leave its mark upon the caster, that all may know who worked
     it.
+  * The spell must be cast at a particular juncture of the stars: at an
+    equinox, solstice, or similar time.
+  * The spell requires something particular from nature: mistletoe, moss-oak,
+    or fly agaric are common examples.
   * The spell may not be undone.
   * The spell will do more or less what you intend. There's no way to know
     which until it is cast.
