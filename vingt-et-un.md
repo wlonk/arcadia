@@ -239,6 +239,8 @@ choose one to four):
   * The spell may not be undone.
   * The spell will do more or less what you intend. There's no way to know
     which until it is cast.
+  * The spell requires certain weather conditions (rain, snow, or lightning
+    most probably).
   * The spell requires bargaining with a fairy.
 
 ## Seasons, Growth, and Change
@@ -248,6 +250,14 @@ a questionnaire and ask the table about each character: whether they have done
 this, or that, etc. They will gain XP based on that, which they can use to
 modify their face card powers and possibly some other things. They may also
 change out a desire, and should redefine their relationships with the NPCs.
+
+TODO
+
+### Weather
+
+It would hardly be England without weather. If you are uncertain as to the
+weather at any point in the game, simply draw a card and consult the table
+below:
 
 TODO
 
