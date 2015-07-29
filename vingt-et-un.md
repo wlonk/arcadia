@@ -217,6 +217,23 @@ also likely driven more by tokens than cards.
 
 TODO
 
+When you cast a spell, describe the effect you hope to achieve, and the GM will
+tell you which of the following are required to make it happen (choose one or
+more):
+
+  * The spell must be performed in the dead of night.
+  * The spell must be performed in absolute solitude.
+  * The spell must be performed with a coven of assistants.
+  * The spell is blasphemous, and may bar the caster from Heaven.
+  * The spell requires the blood, bones, hair, teeth, or other body parts of a
+    hanged man.
+  * The spell will leave its mark upon the caster, that all may know who worked
+    it.
+  * The spell may not be undone.
+  * The spell will do more or less what you intend. There's no way to know
+    which until it is cast.
+  * The spell requires bargaining with a fairy.
+
 ## Seasons, Growth, and Change
 
 At the end of each season (a bunch of sessions with a coherent arc), go through
