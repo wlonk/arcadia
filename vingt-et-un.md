@@ -79,7 +79,7 @@ understatement, a calm matter-of-fact aspect to describing magic. To paraphrase
 Mark Twain, do not "glance around from face to face, collecting applause". This
 is what Gabriel García Márquez describes as speaking "with a brick face". You
 are simply observing these wondrous things, but not being awes by them.
-Conversely, if you want the game to feel more like a gothic novel, do just the
+Conversely, if you want the game to feel more like a Gothic novel, do just the
 opposite: make it clear how overcome you are by what you are describing.
 
 **Elide the smalltalk**: It's easy to think of empty smalltalk as a staple of
@@ -448,7 +448,7 @@ Draw a card when:
 
 Tell us who is:
 
-  - Your father (or other pater familias)
+  - Your father (or other _pater familias_)
   - Your lady's maid
   - Your best friend
 
@@ -661,6 +661,6 @@ Tell us who:
 
   - Is your patron?
   - Wishes to be your student?
-  - ...
+  - Owes you the most for your magical aid?
 
 Initial hand: 4
