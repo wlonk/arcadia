@@ -227,6 +227,9 @@ choose one to four):
   * The spell is blasphemous, and may bar the caster from Heaven.
   * The spell requires the blood, bones, hair, teeth, or other body parts of a
     hanged man.
+  * The spell must be cast naked.
+  * The spell requires some sacrifice from the caster, something precious to
+    them.
   * The spell will leave its mark upon the caster, that all may know who worked
     it.
   * The spell may not be undone.
