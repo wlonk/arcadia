@@ -78,7 +78,7 @@ by how fate describes them.
 understatement, a calm matter-of-fact aspect to describing magic. To paraphrase
 Mark Twain, do not "glance around from face to face, collecting applause". This
 is what Gabriel García Márquez describes as speaking "with a brick face". You
-are simply observing these wondrous things, but not being awes by them.
+are simply observing these wondrous things, but not being awed by them.
 Conversely, if you want the game to feel more like a Gothic novel, do just the
 opposite: make it clear how overcome you are by what you are describing.
 
