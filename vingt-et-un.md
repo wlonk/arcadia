@@ -213,7 +213,7 @@ the King's madness. Many face card powers are magical, but also, you may invoke
 a bargain with a being from the Otherworld.
 
 This probably uses suits or something? It's not blackjack at any rate. It's
-also likely driven more by tokens than cards.
+also likely driven more by cards than tokens.
 
 TODO
 
