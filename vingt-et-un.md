@@ -277,7 +277,18 @@ It would hardly be England without weather. If you are uncertain as to the
 weather at any point in the game, simply draw a card and consult the table
 below:
 
-TODO
+  * Clear
+  * Rain
+  * Snow
+  * Overcast
+  * Patches of cloud and sun
+  * Mist
+  * Thick fog
+  * Drizzly
+  * Thunder and lightning
+  * Changeable and threatening
+  * Torrential downpour
+  * Windy
 
 ## Appendix: Face Cards
 
