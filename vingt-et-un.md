@@ -218,8 +218,8 @@ also likely driven more by tokens than cards.
 TODO
 
 When you cast a spell, describe the effect you hope to achieve, and the GM will
-tell you which of the following are required to make it happen (choose one or
-more):
+tell you which of the following are required to make it happen (they will
+choose one to four):
 
   * The spell must be performed in the dead of night.
   * The spell must be performed in absolute solitude.
