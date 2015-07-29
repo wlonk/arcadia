@@ -243,6 +243,24 @@ choose one to four):
     most probably).
   * The spell requires bargaining with a fairy.
 
+Once you can fulfil the conditions, the spell will take effect. How _exactly_
+should be described collaboratively. For example, if you wish to build a
+bridge, perhaps it rises from the river, water rushing off of it. Or the stones
+roll down from the hills of their own accord. Or all the best craftsmen and
+artisans for three towns around find themselves roused from their beds by an
+uncontrollable itch to make a bridge, and the deed is somehow done in one
+night. Or perhaps, the town merely awakens the next morning to find that the
+bridge that has always been there is, unsurprisingly, still there. Whichever
+suits the spell and the mood of the table best.
+
+As another example, if you wish to keep a particular person in town, perhaps
+they may come down ill, and be unable to travel. Or the weather may stay
+terribly inclement for weeks at a time, washing out the roads. Or you may weave
+a subtle labyrinth around the village, causing anyone who tries to leave to be
+turned around and find themselves back at their doorstep, with the urgent
+certainty that they had business to attend to at the house and couldn't
+possibly leave.
+
 ## Seasons, Growth, and Change
 
 At the end of each season (a bunch of sessions with a coherent arc), go through
