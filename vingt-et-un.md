@@ -233,27 +233,32 @@ When you cast a spell, describe the effect you hope to achieve, and the GM will
 tell you which of the following are required to make it happen (they will
 choose one to four):
 
-  * The spell must be performed in the dead of night.
-  * The spell must be performed in absolute solitude.
-  * The spell must be performed with a coven of assistants.
-  * The spell is blasphemous, and may bar the caster from Heaven.
-  * The spell requires the blood, bones, hair, teeth, or other body parts of a
-    hanged man.
-  * The spell must be cast naked.
-  * The spell requires some sacrifice from the caster, something precious to
-    them.
-  * The spell will leave its mark upon the caster, that all may know who worked
-    it.
-  * The spell must be cast at a particular juncture of the stars: at an
-    equinox, solstice, or similar time.
-  * The spell requires something particular from nature: mistletoe, moss-oak,
-    or fly agaric are common examples.
-  * The spell may not be undone.
-  * The spell will do more or less what you intend. There's no way to know
-    which until it is cast.
-  * The spell requires certain weather conditions (rain, snow, or lightning
-    most probably).
-  * The spell requires bargaining with a fairy.
+  * A temporal constraint:
+      * The spell must be performed in the dead of night.
+      * The spell must be cast at a particular juncture of the stars: at an
+        equinox, solstice, or similar time.
+      * The spell requires certain weather conditions (rain, snow, or lightning
+        most probably).
+  * A ritual constraint:
+      * The spell must be performed in absolute solitude.
+      * The spell must be performed with a coven of assistants.
+      * The spell must be cast naked.
+  * A material constraint:
+      * The spell requires the blood, bones, hair, teeth, or other body parts
+        of a hanged man.
+      * The spell requires something particular from nature: mistletoe,
+        moss-oak, or fly agaric are common examples.
+      * The spell requires some sacrifice from the caster, something precious to
+        them.
+  * A wild outcome:
+      * The spell will do more or less what you intend. There's no way to know
+        which until it is cast.
+      * The spell will leave its mark upon the caster, that all may know who
+        worked it.
+  * A grave consequence:
+      * The spell may not be undone.
+      * The spell is blasphemous, and may bar the caster from Heaven.
+      * The spell requires bargaining with a fairy.
 
 Once you can fulfil the conditions, the spell will take effect. How _exactly_
 should be described collaboratively. For example, if you wish to build a
