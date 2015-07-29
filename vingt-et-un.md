@@ -452,7 +452,7 @@ Tell us who is:
   - Your lady's maid
   - Your best friend
 
-Initial hand: 5
+Initial tokens: 5
 
 ### TODO Governess (♀)
 
@@ -473,7 +473,7 @@ Tell us who is:
   - Your charge or charges?
   - Your best friend?
 
-Initial hand: 4
+Initial tokens: 4
 
 ### Ward (♀)
 
@@ -493,7 +493,7 @@ Tell us who:
   - You rely on for financial support?
   - Sees you as a threat, obstacle or imposition?
 
-Initial hand: 4
+Initial tokens: 4
 
 ### TODO Spinster (♀)
 
@@ -513,7 +513,7 @@ Tell us who is:
   - Your dearest sister?
   - The one who got away?
 
-Initial hand: 4
+Initial tokens: 4
 
 ### Gentleman (♂)
 
@@ -534,7 +534,7 @@ Tell us who is:
   - The tradesman you owe the most
   - Your boon companion
 
-Initial hand: 5
+Initial tokens: 5
 
 ### TODO Officer (♂)
 
@@ -552,7 +552,7 @@ Tell us who:
   - Did you leave behind?
   - ...
 
-Initial hand: 4
+Initial tokens: 4
 
 ### TODO Clergyman (♂)
 
@@ -570,7 +570,7 @@ Tell us who is:
   - ...
   - ...
 
-Initial hand: 4
+Initial tokens: 4
 
 ### Scholar (♂)
 
@@ -588,7 +588,7 @@ Tell us who is:
   - Your school-chum?
   - Your pupil? (Whether they agree or not?)
 
-Initial hand: 4
+Initial tokens: 4
 
 ### TODO Servant (⚲)
 
@@ -609,7 +609,7 @@ Tell us who is:
   - The apple of your eye
   - Your confidante
 
-Initial hand: 3
+Initial tokens: 3
 
 ### TODO Invalid (⚲)
 
@@ -627,7 +627,7 @@ Tell us who is:
   - Your source of comfort?
   - Thinks you're playing it up for sympathy?
 
-Initial hand: 4
+Initial tokens: 4
 
 ### TODO Vagabond (⚲)
 
@@ -645,7 +645,7 @@ Tell us who:
   - Is your drinking companion?
   - Gives you charity?
 
-Initial hand: 3
+Initial tokens: 3
 
 ### TODO Magician (⚲)
 
@@ -663,4 +663,4 @@ Tell us who:
   - Wishes to be your student?
   - Owes you the most for your magical aid?
 
-Initial hand: 4
+Initial tokens: 4
