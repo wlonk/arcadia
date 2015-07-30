@@ -255,6 +255,10 @@ choose one to four):
         which until it is cast.
       * The spell will leave its mark upon the caster, that all may know who
         worked it.
+  * A limiting condition:
+      * The spell will unravel at midnight.
+      * The spell will not work on consecrated ground.
+      * The spell will not work on those who are pure.
   * A grave consequence:
       * The spell may not be undone.
       * The spell is blasphemous, and may bar the caster from Heaven.
