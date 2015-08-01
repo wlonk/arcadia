@@ -264,6 +264,8 @@ choose one to four):
         which until it is cast.
       * The spell will leave its mark upon the caster, that all may know who
         worked it.
+      * The spell requires a balance of forces: fire for water, hate for love,
+        life for life.
   * A limiting condition:
       * The spell will unravel at midnight.
       * The spell will not work on consecrated ground.
