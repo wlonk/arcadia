@@ -615,6 +615,9 @@ Initial tokens: 4
 
 ### Scholar (♂)
 
+TODO replace this with the Fop. The scholar pushes away from the core of the
+game.
+
 You are expected to be erudite, considered, and informed.
 
 Draw a card when:
