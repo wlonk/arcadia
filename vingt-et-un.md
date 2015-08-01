@@ -229,6 +229,15 @@ It's also likely driven more by cards than tokens.
 
 TODO
 
+Each social role has a particular situation in which they can cast a spell. To
+cast a spell, you must also discard a card (and you must have at least one to
+discard!):
+
+  * Spades for understanding, insight, or visions.
+  * Hearts for emotions, protection, or spirituality.
+  * Clubs for physical or mental strength.
+  * Diamonds for prosperity or fortune.
+
 When you cast a spell, describe the effect you hope to achieve, and the GM will
 tell you which of the following are required to make it happen (they will
 choose one to four):
