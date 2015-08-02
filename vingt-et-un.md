@@ -293,6 +293,33 @@ turned around and find themselves back at their doorstep, with the urgent
 certainty that they had business to attend to at the house and couldn't
 possibly leave.
 
+### Effects
+
+TODO expand and clarify this.
+
+  0.  The Fool: luck
+  1.  The Magician: sight
+  2.  The High Priestess: secrets
+  3.  The Empress: healing
+  4.  The Emperor: authority
+  5.  The Hierophant: wisdom
+  6.  The Lovers: passion
+  7.  The Chariot: travel
+  8.  Strength: courage
+  9.  The Hermit: barriers
+  10. The Wheel of Fortune: change
+  11. Justice: truth
+  12. The Hanged Man: travel between worlds
+  13. Death: necromancy
+  14. Temperance: transmutation
+  15. The Devil: lies
+  16. The Tower: destruction
+  17. The Star: navigation
+  18. The Moon: illusion
+  19. The Sun: dispelling
+  20. Judgment: prophesy
+  21. The World: transformation
+
 ## Seasons, Growth, and Change
 
 At the end of each season (a bunch of sessions with a coherent arc), go through
