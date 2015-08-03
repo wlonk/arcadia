@@ -307,7 +307,7 @@ TODO expand and clarify this.
   7.  The Chariot: travel
   8.  Strength: courage
   9.  The Hermit: barriers
-  10. The Wheel of Fortune: change
+  10. The Wheel of Fortune: prophesy
   11. Justice: truth
   12. The Hanged Man: travel between worlds
   13. Death: necromancy
@@ -317,7 +317,7 @@ TODO expand and clarify this.
   17. The Star: navigation
   18. The Moon: illusion
   19. The Sun: dispelling
-  20. Judgment: prophesy
+  20. Judgment: resurrection
   21. The World: transformation
 
 ## Seasons, Growth, and Change
