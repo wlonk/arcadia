@@ -144,7 +144,6 @@ There are three outcomes for each non-GM participant:
 To escalate:
 
   * Call in a debt
-  * Dazzle
   * Drop some gossip
   * Insult
   * Lean on a reputation
@@ -154,8 +153,6 @@ To escalate:
 
 What are these "costs"? Well, the GM chooses, based on what's most appropriate
 at that moment:
-
-TODO: Tier these. One, two, three.
 
 TODO: Work in token expenditure to resist costs, or impose them on your
 opposition.
@@ -170,11 +167,27 @@ opposition.
     broader._
   * Some other appropriate cost: money, health, etc.
 
+TODO: Maybe this should be inverted, consequences by tier, not tiers by
+consequence.
+
 TODO: for each one, give ways it might be recovered. So:
 
-  * Strained relationship (a heart-to-heart)
-  * Damaged relationship (an honest and complete apology)
-  * Poisoned relationship (perhaps not at all)
+  * Relationships:
+     1. Strained relationship (a heart-to-heart)
+     2. Damaged relationship (an honest and complete apology)
+     3. Poisoned relationship (perhaps not at all)
+  * Emotional toll:
+     1. Awkwardness
+     2. Anxiety
+     3. Shame or anger
+  * Reputations:
+     1. Rumours
+     2. Bad
+     3. Ruined
+  * Health:
+     1. Bruised
+     2. Injured
+     3. Dead
 
 A note on stakes: I said not to make them directly contradictory, and promised
 to explain why. The short version is that, with multiple PCs involved, you each
@@ -227,7 +240,7 @@ and rain once again bring visitors. Magic is returning to England.
 This system probably uses suits or something? It's not blackjack at any rate.
 It's also likely driven more by cards than tokens.
 
-TODO
+TODO: link spell types and suits, set casting conditions for social roles.
 
 Each social role has a particular situation in which they can cast a spell. To
 cast a spell, you must also discard a card (and you must have at least one to
@@ -328,7 +341,7 @@ this, or that, etc. They will gain XP based on that, which they can use to
 modify their face card powers and possibly some other things. They may also
 change out a desire, and should redefine their relationships with the NPCs.
 
-TODO
+TODO: Actually make growth questions.
 
 ### Weather
 
