@@ -94,54 +94,56 @@ feelings for her."
 
 ## Scenes
 
-Each scene, the player of any character present may opt to push for stakes.
-Otherwise, what the GM says is final, and they can be brutal.
+### Minor beats
 
-If someone pushes for stakes, everyone else present may opt to take part, too.
-If they pass, they may not jump in until a new scene begins. They have missed
-their moment.
+Pay a token when you need to do any of the ~4 basic things (misdirect, what
+else? TODO.) These beats build tension and context for major beats.
 
-To push for stakes, name what you want (try not to directly oppose someone
-else, more on this later).
+### Major beats
 
-Then, deal cards.
+When there's something big at stake, you've got a major beat. Each player who
+wants in gets one card dealt from the deck face-down, as does the GM if there
+are NPCs opposing. Each player (and the GM, if they're in) then gets one card
+face-up. The PCs may take this card from their hand, or from the deck. They
+may, in fact, take any _one_ face-up card in a major beat from their hand, and
+it can be the first one (but you probably will want it to be a later one than
+the first).
 
-The GM gets two cards, one face down.
+Everyone sets their stakes:
 
-Each player who has bought in is dealt a card face-up, then may play a card
-face-down from their hand, or opt to by dealt one instead. You will want to
-play a low card if you think you can or should go a number of rounds, pushing
-the other person towards going bust. You will want to play a high card if you
-think you can start out very near 21.
+  * I want (here name another character) to tell me the truth about (here name
+    a topic at hand).
+  * I want (here name another character) to leave me alone.
+  * I want (here name another character) to do something particular.
+  * I want (here name another character) to feel a particular way (intrigued,
+    ashamed, angry, upset, comforted).
 
-Continue to play the scene. If you want another card, push: provoke, ask,
-challenge the other character. If you don't want another card, resist:
-prevaricate, deflect, deny the other character.
+Then you play the scene forward. Certain actions will get you another card,
+certain other actions will not.
 
-The GM must hit whenever a PC does, unless their hand (including the hole card)
-totals 17 or more. TODO: this may need to allow the GM to push more?
+  * If you are yang, provoking, forward, challenging, get a card. The GM will
+    also get a card whenever anyone does this, unless they stand at 17 or
+    above.
+  * If you are yin, deflecting, prevaricating, resisting, do not get a card.
 
-When everyone has passed, reveal the hole cards. Anyone with a total greater
-than the GM's total, but less than 21, gets their stakes. Anyone with a total
-less than the GM's (and less than 21) gets their stakes at cost. They may
-escalate to try again with a new deal.
+Your cards, including the face down card, will total some value. Face cards are
+worth 10, number cards are worth their printed value, and aces are worth 1 or
+11, which must be declared when the ace is dealt, unless it is face down, in
+which case it may be decided only when revealed.
 
-If at any point you go bust, immediately reveal your hole card. You have gone
-too far, and do not get your stakes. You may either fail now, in which case
-narrate how you have overstepped the bounds of propriety, or you may escalate
-to try a new deal. TODO: how is it worth it to try again?
+When everyone has gone, reveal cards. If you are higher than your opposition,
+you get what you want. If you are lower, you get what you want at cost.
 
-There are three outcomes for each non-GM participant:
+If at any point anyone goes bust (has a total over 21), they must reveal their
+hole card and declare that they are bust. If they are the GM, the PCs get what
+they wanted. If they are a PC, they may either accept the loss, or declare that
+they escalate: describe how you up the emotional intensity of the scene via one
+of the actions listed below, acknowledge that the cost you may suffer will
+increase, discard your cards, and get a new deal: one face down card, and one
+face up.  The face up card, or any single cards later in this deal, may again
+come from your hand.
 
-  * _Bust_: You have crossed a line that should not be crossed. You do not get
-    your stakes, and the GM may impose a cost on you from either the current
-    tier or one higher.
-  * _Under the dealer_: you get what you want, but the GM may impose a cost
-    from the current tier, or offer you a compromise.
-  * _Above the dealer_: you get what you want, and the GM does not impose a
-    cost.
-
-To escalate:
+Escalations:
 
   * Call in a debt
   * Drop some gossip
@@ -151,26 +153,8 @@ To escalate:
   * Pull rank
   * Threaten
 
-What are these "costs"? Well, the GM chooses, based on what's most appropriate
-at that moment:
-
-TODO: Work in token expenditure to resist costs, or impose them on your
-opposition.
-
-  * Significantly change an NPC's relationship with the PC. _It's up to the GM
-    to play this to the hilt!_
-  * Make the PC suffer some emotional toll (exhaustion, shame, anger, anxiety,
-    etc.) _It's up to the player to play this to the hilt, until it's
-    resolved!_
-  * Change the PC's reputation, typically for the worse, among some group of
-    people. _This is like changing someone's relationship, but a bit softer and
-    broader._
-  * Some other appropriate cost: money, health, etc.
-
-TODO: Maybe this should be inverted, consequences by tier, not tiers by
-consequence.
-
-TODO: for each one, give ways it might be recovered. So:
+There may be no more than three total escalations in a major beat. The
+potential costs for each level are as below:
 
   * Relationships:
      1. Strained relationship (a heart-to-heart)
@@ -189,24 +173,39 @@ TODO: for each one, give ways it might be recovered. So:
      2. Injured
      3. Dead
 
-A note on stakes: I said not to make them directly contradictory, and promised
-to explain why. The short version is that, with multiple PCs involved, you each
-might come in above the dealer, so your stakes must be at least broadly
-mutually compatible. If you need to resolve a disagreement in how the stakes
-pan out, the person with the higher total without going bust gets to decide.
-But consensus and collaboration should be the order of the day.
+  * Generic costs TODO:
+      * Significantly change an NPC's relationship with the PC. _It's up to the
+        GM to play this to the hilt!_
+      * Make the PC suffer some emotional toll (exhaustion, shame, anger,
+        anxiety, etc.) _It's up to the player to play this to the hilt, until
+        it's resolved!_
+      * Change the PC's reputation, typically for the worse, among some group
+        of people. _This is like changing someone's relationship, but a bit
+        softer and broader._
+      * Some other appropriate cost: money, health, etc.
 
-If you want something directly from another PC as stakes, you may ask for it,
-but you may never demand it. They always retain a choice. If you win (either
-fully or with compromise), you may present your stakes to the player of the
-character in question. If they agree, they gain a token for their trouble. If
-they do not, they must pay you a token. If you went bust, they are under no
-obligations to you at all.
+TODO: Maybe this should be inverted, consequences by tier, not tiers by
+consequence.
 
-At the end of the scene (which may include many exchanges), each player
-evaluates whether they fulfilled any of the conditions for their social role.
-If so, they take a token. They do not have to have fought for stakes to do
-this.
+TODO: for each one, give ways it might be recovered. So:
+
+If you come in below your opposition, or go bust, the GM will tell you what
+cost you suffer, as appropriate for your escalation level. You may spend two
+tokens to reduce your cost by one level. You may only do this once.
+
+You may also spend a number of tokens equal to the current escalation level to
+impose an equal cost on the victor. If you are at the first escalation level,
+spend one token to make it such that, though they might win, your opponent also
+suffers rumours, for example.
+
+TODO deal with PvP and forcing another PC to take certain kinds of action or
+feel certain things.
+
+---
+
+At the end of the scene (which may include many beats), each player evaluates
+whether they fulfilled any of the conditions for their social role. If so, they
+take a token. They do not have to have fought for stakes to do this.
 
 Then, each player evaluates whether they fulfilled any of the conditions for
 their two desires. They may draw one card for each desire they hit, so zero,
