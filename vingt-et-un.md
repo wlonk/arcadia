@@ -273,7 +273,7 @@ choose one to four):
       * The spell requires some sacrifice from the caster, something precious to
         them.
   * A wild outcome:
-      * The spell will do more or less what you intend. There's no way to know
+      * The spell will do more or less than you intend. There's no way to know
         which until it is cast.
       * The spell will leave its mark upon the caster, that all may know who
         worked it.
