@@ -94,13 +94,6 @@ feelings for her."
 
 ## Scenes
 
-### Minor beats
-
-Pay a token when you need to do any of the ~4 basic things (misdirect, what
-else? TODO.) These beats build tension and context for major beats.
-
-### Major beats
-
 TODO: There's a problem: blackjack asks you to consider cards only in the
 context of other cards, but having a hand asks you to consider the cards
 individually. This is an attention sink. A possible alternative, spit-balling,
@@ -111,18 +104,17 @@ conflict, you take a card. When you hit a passion, you may choose to drop your
 accumulated hand, which otherwise stays in front of you. When you cast a spell,
 you discard a card of a particular suit, per spell type. When you bust, discard
 your hand. When you bust or cost, you may spend tokens to deflect or spread
-around the cost. This might also obviate minor beats? It gets rid of
-escalation, which I'm OK with.  It means the best you can hope for out of the
-gate is success-at-a-cost, which I'm OK with. It means you need to do things to
-power spells. It means you have no hand to consider in the old way.
+around the cost. It gets rid of escalation, which I'm OK with.  It means the
+best you can hope for out of the gate is success-at-a-cost, which I'm OK with.
+It means you need to do things to power spells. It means you have no hand to
+consider in the old way.
 
-When there's something big at stake, you've got a major beat. Each player who
-wants in gets one card dealt from the deck face-down, as does the GM if there
-are NPCs opposing. Each player (and the GM, if they're in) then gets one card
-face-up. The PCs may take this card from their hand, or from the deck. They
-may, in fact, take any _one_ face-up card in a major beat from their hand, and
-it can be the first one (but you probably will want it to be a later one than
-the first).
+When there's something big at stake, each player who wants in gets one card
+dealt from the deck face-down, as does the GM if there are NPCs opposing. Each
+player (and the GM, if they're in) then gets one card face-up. The PCs may take
+this card from their hand, or from the deck. They may, in fact, take any _one_
+face-up card in a conflict from their hand, and it can be the first one (but
+you probably will want it to be a later one than the first).
 
 Everyone sets their stakes:
 
@@ -168,8 +160,8 @@ Escalations:
   * Pull rank
   * Threaten
 
-There may be no more than three total escalations in a major beat. The
-potential costs for each level are as below:
+There may be no more than three total escalations in a conflict. The potential
+costs for each level are as below:
 
   * Relationships:
      1. Strained relationship (a heart-to-heart)
