@@ -119,6 +119,17 @@ feelings for her."
 > kinds of action or differentiation might be. There's the _Apocalypse World_
 > approach of "the thing you do", there's the _Poison'd_ approach of "the
 > context in which you do it", etc.
+>
+> So, mechanically, you have to have a way to adjust the outcomes _for this
+> flip_ without having a knock-on effect on all future flips.
+>
+> You also have to figure out what kinds of things there are to do. Or
+> manners/contexts. Whatever.
+>
+>   * When you must conceal, deceive or act with cunning. (Spades?)
+>   * When you must act with force, decisiveness, or energy. (Clubs?)
+>   * When you must endure or keep calm in the face of provocation. (Hearts?)
+>   * When you must see clearly or understand another. (Diamonds?)
 
 When there's something big at stake, each player who wants in gets one card
 dealt from the deck face-down, as does the GM if there are NPCs opposing. Each
