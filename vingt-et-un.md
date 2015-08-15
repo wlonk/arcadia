@@ -94,20 +94,31 @@ feelings for her."
 
 ## Scenes
 
-TODO: There's a problem: blackjack asks you to consider cards only in the
-context of other cards, but having a hand asks you to consider the cards
-individually. This is an attention sink. A possible alternative, spit-balling,
-drawn from _Murderous Ghosts_: Aces are 1 or 11 (decide when you get them),
-face cards are 10. Busts are 1-6 or 27+, success-at-cost is 7-15, success is
-16-26. (These numbers are somewhat math'd.) When you push forward in a
-conflict, you take a card. When you hit a passion, you may choose to drop your
-accumulated hand, which otherwise stays in front of you. When you cast a spell,
-you discard a card of a particular suit, per spell type. When you bust, discard
-your hand. When you bust or cost, you may spend tokens to deflect or spread
-around the cost. It gets rid of escalation, which I'm OK with.  It means the
-best you can hope for out of the gate is success-at-a-cost, which I'm OK with.
-It means you need to do things to power spells. It means you have no hand to
-consider in the old way.
+> TODO: There's a problem: blackjack asks you to consider cards only in the
+> context of other cards, but having a hand asks you to consider the cards
+> individually. This is an attention sink. A possible alternative,
+> spit-balling, drawn from _Murderous Ghosts_: Aces are 1 or 11 (decide when
+> you get them), face cards are 10. Busts are 1-6 or 27+, success-at-cost is
+> 7-15, success is 16-26. (These numbers are somewhat math'd.) When you push
+> forward in a conflict, you take a card. When you hit a passion, you may
+> choose to drop your accumulated hand, which otherwise stays in front of you.
+> When you cast a spell, you discard a card of a particular suit, per spell
+> type. When you bust, discard your hand. When you bust or cost, you may spend
+> tokens to deflect or spread around the cost. It gets rid of escalation, which
+> I'm OK with.  It means the best you can hope for out of the gate is
+> success-at-a-cost, which I'm OK with.  It means you need to do things to
+> power spells. It means you have no hand to consider in the old way.
+>
+> Stras reminds me though, that it's imperative to inject into this some way
+> for different characters to be pushed towards different sorts of actions. If
+> everyone in _Apocalypse World_ just rolled one move with the same stat
+> modifier, it would be pretty boring; some characters want to be hard, some
+> want to be hot, etc. This borrows from _Murderous Ghosts, which is
+> importantly a single-player game. So make sure that there's some kind of
+> differentiation. To do this, I will need to think deeply about what the basic
+> kinds of action or differentiation might be. There's the _Apocalypse World_
+> approach of "the thing you do", there's the _Poison'd_ approach of "the
+> context in which you do it", etc.
 
 When there's something big at stake, each player who wants in gets one card
 dealt from the deck face-down, as does the GM if there are NPCs opposing. Each
