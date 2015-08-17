@@ -179,11 +179,12 @@ Elizabeth, Emma, Georgiana, Gillian, Grace, Harriet, Imogen, Isabella, Jane,
 Lucy, Lydia, Madeline, Mary, Matilda, Patricia, Philippa, Regina, Susan, or
 feminized versions of many masculine names.
 
-Surnames may include Ambrose, Arkwright, Collins, d'Arcy, Ent, Fairfax,
-Farquhar, Fawkes, Fetherstonhaugh, Fogg, Forster, Fox, Gardiner, Godown, Guest,
-Hartpence, Hillpot, Hunt, King, Knightly, Lawshe, Lequear, Lestrange, Lloyd,
-Mason, Orcutt, Philips, Quick, Rochester, Silverthorn, Smith, St. John, Stout,
-Urquhart, Westenra, Wintermute, Woodhouse, Woolverton.
+Surnames may include Ambrose, Arkwright, Cavendish, Collins, d'Arcy, Ent,
+Fairfax, Farquhar, Fawkes, Fetherstonhaugh, Fogg, Forster, Fox, Gardiner,
+Godown, Guest, Hartpence, Hillpot, Hunt, King, Knightly, Lawshe, Lequear,
+Lestrange, Lloyd, Mason, Orcutt, Philips, Quick, Rochester, Silverthorn, Smith,
+Spencer, St. John, Stout, Urquhart, Westenra, Wintermute, Woodhouse,
+Woolverton.
 
 Estates names may include Beaulieu, Bracken, Brakebills, Brock, Dinmore,
 Exmoor, Gosford, Hatfield, Hurtfew, Longbourne, Longmere, Mansfield, Mereworth,
