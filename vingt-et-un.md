@@ -113,7 +113,7 @@ feelings for her."
 > for different characters to be pushed towards different sorts of actions. If
 > everyone in _Apocalypse World_ just rolled one move with the same stat
 > modifier, it would be pretty boring; some characters want to be hard, some
-> want to be hot, etc. This borrows from _Murderous Ghosts, which is
+> want to be hot, etc. This borrows from _Murderous Ghosts_, which is
 > importantly a single-player game. So make sure that there's some kind of
 > differentiation. To do this, I will need to think deeply about what the basic
 > kinds of action or differentiation might be. There's the _Apocalypse World_
@@ -122,6 +122,8 @@ feelings for her."
 >
 > So, mechanically, you have to have a way to adjust the outcomes _for this
 > flip_ without having a knock-on effect on all future flips.
+>
+> Maybe: assign
 >
 > You also have to figure out what kinds of things there are to do. Or
 > manners/contexts. Whatever.
