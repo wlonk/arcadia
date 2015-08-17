@@ -123,15 +123,20 @@ feelings for her."
 > So, mechanically, you have to have a way to adjust the outcomes _for this
 > flip_ without having a knock-on effect on all future flips.
 >
-> Maybe: assign
+> Try:
 >
-> You also have to figure out what kinds of things there are to do. Or
+> Assign a strength and a weakness among Spades, Hearts, Clubs, and Diamonds.
+> When you are doing a thing in your strength, if you encounter a cost, you may
+> negate it with one token. If you do a thing in a weakness, it costs three.
+> Otherwise, it costs two.
+>
+> A designer also has to figure out what kinds of things there are to do. Or
 > manners/contexts. Whatever.
 >
->   * When you must conceal, deceive or act with cunning. (Spades?)
->   * When you must act with force, decisiveness, or energy. (Clubs?)
->   * When you must endure or keep calm in the face of provocation. (Hearts?)
->   * When you must see clearly or understand another. (Diamonds?)
+>   * When you must conceal, deceive or act with cunning. (Spades)
+>   * When you must endure or keep calm in the face of provocation. (Hearts)
+>   * When you must act with force, decisiveness, or energy. (Clubs)
+>   * When you must see clearly or understand another. (Diamonds)
 
 When there's something big at stake, each player who wants in gets one card
 dealt from the deck face-down, as does the GM if there are NPCs opposing. Each
