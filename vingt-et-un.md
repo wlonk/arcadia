@@ -94,6 +94,29 @@ feelings for her."
 
 ## Scenes
 
+Have one deck.
+
+Each player (GM included) has tokens equal to their starting rank.
+
+When one character wants something from another, they can demand it. When you
+demand something, put forward one or more tokens (you get tokens from upholding
+your social role). Each time you put forward tokens, draw one card per token.
+Each time you put forward tokens, describe how you push your case.
+
+The other player may then pass or push. They may push forward one or more
+tokens, and draw that many cards (and press _their_ case), or they may pass,
+and describe how they prevaricate, deflect, or hold fast.
+
+You may also get one card per exchange without a token, by using a trait. TODO.
+
+Once both players have passed in a row, each player may reveal one or two
+cards. The player with the higher total gets what they wanted, and recovers the
+tokens they put forward. The other player must put their tokens back in the
+pot, and concede. 
+
+The loser may, instead of conceding, choose to escalate. TODO.
+
+TODO what do passions give you? Probably this, but for dealing with the fairy?
 
 ## Face cards
 
