@@ -110,22 +110,21 @@ and describe how they prevaricate, deflect, or hold fast.
 You may also get one card per exchange without a token, by using a trait. TODO.
 
 Once both players have passed in a row, each player may reveal one or two
-cards. The player with the higher total gets what they wanted, and recovers the
-tokens they put forward. The other player must put their tokens back in the
-pot, and concede. 
+cards. The player with the higher total gets what they wanted, and recovers
+half the tokens they put forward, rounding up. The other player must put their
+tokens back in the pot, and concede. 
 
 The loser may, instead of conceding, choose to escalate. TODO.
 
-TODO what do passions give you? Probably this, but for dealing with the fairy?
+Your passion points can be spent in just the same way to bargain with the fairy
+(where stakes and escalation can be different), and they can be used in a
+limited way to deal with other Christians: you can spend one in a conflict for
+a burst of passion, in which case you add one random card off the top of the
+deck to your two, but if your total is over 21, you are bust and lose
+automatically. You may only do this when the cards are down, of course.
 
-Your passion points can be spent to bargain with the fairy (where stakes and
-escalation can be different), and they can be used in a limited way to deal
-with other Christians: you can spend one in a conflict for a burst of passion,
-in which case you add one random card off the top of the deck to your two, but
-if your total is over 21, you are bust and lose automatically.
-
-You have to narrate in a trait to use a passion point. Maybe other ways to
-encourage different kinds of action? Stats, right? Numbers that slant, but
+TODO: You have to narrate in a trait to use a passion point. Maybe other ways
+to encourage different kinds of action? Stats, right? Numbers that slant, but
 don't force, you towards different kinds of activity.
 
 ## Face cards
