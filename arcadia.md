@@ -1,338 +1,57 @@
 # Arcadia
 
-2015-06-15 BRAINSTORM: under all possible designs, you must be able to ante
-with zero tokens, even if the possible stakes are diminished or costly. Under
-all possible designs, you must be able to be dealt in with no cards, even if
-that means pure risk.
+A game of magic, manners, and madness.
 
-So if we do the ante tokens to set stakes, blackjack thing, you can ante zero,
-and you can be dealt in entirely randomly. If we do the high card thing, you
-can ante zero, but you probably need at least one card to resist a challenge
-(the zero cards thing is if you go unchallenged). See?
-
-## Todo:
-
- 1. _Mechanics_
-
-    Token draw needs to be upped.
-
- 2. _XP and Advancement_
-
-    End-of-season questionnaire, inc. "Have you challenged your desires" or
-    whatever.
-
-    Relatedly, new season should include rewriting goals and re-assigning NPC
-    cards. Possibly adding some new NPCs, especially if relationships with any
-    existing NPCs have been resolved.
-
- 3. _Families_
-
-    Can have powers/traits/resources/qualities that are accessible to members
-    of the family. Some may particularly effect or magnify with others in the
-    group. Marriage may let you adopt the other family's powers, but still
-    count as in your family for the in-group effects. Families may be grow-able
-    with sheets and XP and stuff.
-
-    Names are kinda relevant here, too. "The mere use of a person's Christian
-    name is electric."
-
- 4. _Social Roles_
-
-    Fill these out, at least for currently active ones and obvious ones. Make
-    sure that card draws are mostly proactive; no more than one reactive draw
-    per.
-
-    Remember the negatives, though: "don't trash-talk people", etc. for
-    Gentleman.
-
- 5. _Weather_
-
-    Important for making things feel really _English_. Ties to the Romantic and
-    the mysterious, too.
-
- 6. _Location_
-
-    There are three major places: town, country, seaside. Each comes with its
-    own constraints and options. But also, sense-of-place. Landscape, houses,
-    history. The eerieness of the English countryside.
-
- 7. _Magic and Fairies_
-
-    What does this do _for the story_? It's clear what it does for the
-    characters in the story, less so for the players.
-
-    John's suggestion is that the current mechanics can be reflavored to
-    reflect magic. That the PCs have access to tokens, which they can use to
-    press unconventional desires into being, marks them as special, as
-    fairy-touched. Perhaps the Desires are how they refuel, but the grace of
-    the fairy is why they can do anything with these tokens in the first place.
-
-    So, every few uses, they have to settle up with the fairy, do what it
-    wants.
-
-    Perhaps, even, tokens are not spent to set stakes, but rather to overcome
-    card situations entirely. You get fewer, get them more rarely, but can use
-    them to blow contests out of the water. Probably start with zero? So, the
-    GM simply says "that might not be so easy" when you press that you want
-    something (no tokens needed), and then you spend cards or a token.
-
-    And then the fairy can make demands of you, that cost tokens to resist?
-
-    Perhaps a fairy's demand cuts them off from tokens until they complete it,
-    like putting your soul in hock in _Poison'd_.
-
-## Notes:
-
-PCs need to get their face cards more.
-
-Token spends need clearer fictional triggers. The GM needs surface to impose
-opposition.
-
-Games are better when they ask questions than when they provide answers. This
-game asks this question:
-
-There are three paths you can take: following your passions, following the
-expectations of society, or finding a balance between them. All three come with
-costs and benefits. Can you live with your choice?
-
-So all three of passions, position, or balance need to be viable games to play,
-with their own feels.
-
-NB: add a list of kinds of relationships, inc. the very important
-false-friends: Drawlight, Lucy Steele, etc.
-
-NB: Chapter 15 of Emma. Just, all of it.
-
-NB: This is a game that lives or dies by the dialogue. Speak in character!
+## Table of Contents
 
 [TOC]
 
-## About the Game
+## Characters
 
-This is Regency England, but like _Shades of Milk and Honey_ or post-revival
-_Jonathan Strange & Mr Norrell_: parlour-magic is common, and many (but not
-most) people can perform some small cantrips.
+Characters have social roles (which give them cards in hand) and desires (which
+give them tokens to ante). TODO: "clout"? Something more period?
 
-Your characters will pursue their various desires, navigating the Scylla of
-society's expectations and the Charybdis of their own potentially improper
-desires.
+Characters have access to special powers on face cards.
 
-(Elinor and Marianne, Apollonian and Dionysian, Enlightenment and Romanticism,
-Head and Heart.)
+Characters have relationships with NPCs and each other.
 
-They will also likely draw the attention of a Fairy, a powerful creature of
-magic, fickle and dangerous.
+Characters probably have traits they can use to finesse the numbers.
 
-## Getting Started
+When you first make characters, there are formal relationships defined by your
+social role and emotional relationships defined by your desires. Use these to
+mix everyone up into one nice tangled community.
 
-One player will be the GM. It is their job to provide adversity, stir the pot,
-and keep the status quo from settling. They play with a slightly different set
-of rules.
-
-The other players will be the main characters. It is their job to see their
-characters safely to the realization of their goals, or to see those goals
-evolve and change as the characters grow.
-
-Let's start with how the players get ready:
-
-Shuffle the **Social Roles**, and deal three to each player. Each player
-chooses one from those they were dealt to play. Be comfortable with the fact
-that you may end up playing a character of a different gender than you are used
-to, or a different class. These provide a set of initial relationships, and a
-way to get more **Cards**. See below for how you use these.
-
-Each player chooses a name for their character.
-
-Each player chooses two **Desires** for their character. These provide both an
-ambition, and a way to gain more **Tokens**. See below for how you use these.
-
-Go around, answering the relationship questions and filling out the community
-your characters live in. Be sure to share some characters: one person's boon
-companion may be another's cousin, one person's rival may be another's
-guardian. There is a balance to strike: you want enough supporting characters
-to make the world feel populated, but you want enough shared relationships to
-keep the main characters interacting with each other.
-
-Go around, answering the Desire questions, using the characters already
-created. Now you will have some history with them.
-
-Decide how to allocate 10 points among extra cards, higher token cap, and more
-relationship slots.
-
-Players' decks start with the cards 2, 3, 4, 5 in each suit, plus the ones they
-bought.
-
-The GM gets ready by paying attention, asking pointed questions, and thinking
-about the situation as a whole. They should write down notable NPCs on index
-cards, and assign a card from their deck to each.
-
-## Names
-
-There is a very particular character to English names.
-
-Masculine names may include Charles, Clive, Cyril, Edward, Frank, George,
-Henry, Hugh, James, John, Malcolm, Nathaniel, Nigel, Philip, Ralph, Richard,
-Robert, Rupert, Simon, Stephen, Thomas, Wesley, William, or many surnames.
-
-Feminine names may include Alice, Anne, Augusta, Caroline, Catherine, Dorcas,
-Elizabeth, Emma, Georgiana, Gillian, Grace, Harriet, Imogen, Isabella, Jane,
-Lucy, Lydia, Madeline, Mary, Matilda, Patricia, Philippa, Regina, Susan, or
-feminized versions of many masculine names.
-
-Surnames may include Ambrose, Arkwright, Cavendish, Collins, d'Arcy, Ent,
-Fairfax, Farquhar, Fawkes, Fetherstonhaugh, Fogg, Forster, Fox, Gardiner,
-Godown, Guest, Hartpence, Hillpot, Hunt, King, Knightly, Lawshe, Lequear,
-Lestrange, Lloyd, Mason, Orcutt, Philips, Quick, Rochester, Silverthorn, Smith,
-Spencer, St. John, Stout, Urquhart, Westenra, Wintermute, Woodhouse,
-Woolverton.
-
-Estates names may include Beaulieu, Bracken, Brakebills, Brock, Dinmore,
-Exmoor, Gosford, Hatfield, Hurtfew, Longbourne, Longmere, Mansfield, Mereworth,
-Norris, Pemberley, Radbourne, Savoy, Shipley, Stowe, Sulgrave, Tattershall,
-Thornlea, Thorpe Constantine, Trent, Upper Braithwaite, Walton.
-
-Estates may be described as Court, Park, Place, Castle, House, Manor, Abbey,
-Hall, Lodge, Grove, Downs, Hill, Priory, Grange, Parsonage.
-
-## Play
-
-In the course of play, you may want something from another character. This may
-be to counter a demand they place on you, or a wholly new demand of your own.
-Simply spend one, two, or three tokens, depending on the scope of the demand. A
-single token is for a small demand or compromise, two tokens for a major demand
-or compromise, and three for an absolute demand or no compromise.
-
-You get what you ask for unless the GM, or another player involved, says "but
-it won't be so easy". They then put down a card from their hand (though the GM
-may also use an NPC card, see below). They describe how their character or NPC
-opposes (though the GM may also describe how social forces or your own
-character's feelings get in the way, see below).
-
-You then have three options:
-
-  - Concede. Accept the rebuttal and back down. Describe how you fail or are
-    overcome yourself, and sell it.
-  - Resist effectively. Play a single card of equal or higher value to the card
-    opposing you (Jacks are 11, Queens are 12, Kings are 13, Aces are 14), and
-    describe how you completely overcome the obstacle. Sell it!
-  - Resist at cost. Play more than one card totalling more than the opposing
-    card (again, same values for Jack, Queen, King, Ace). Describe how you
-    overcome the obstacle, but the other player may describe the cost you
-    suffer or the risk that comes to pass.
-
-In any case, the tokens you spent are gone.
-
-Sometimes, you will run out of cards in your deck. Just shuffle your discard
-and turn it back into your deck. You keep your cards and tokens between scenes.
-
-Between sessions, note down how many cards you have, and how many tokens, but
-the particular cards and the makeup of your discard don't matter.
-
-If you have no tokens, you are down and out. You may recover some later, but
-not in this scene. You are pliable, the fight has gone out of you.
-
-### Influence
-
-Even if you are not present in a scene, you may be able to play a card. If a
-character in your Relationships list is present, you can influence their action
-by playing a card as an obstacle or to overcome an obstacle and describing a
-brief flashback to an interaction the two of you had that might influence them
-one way or another.
-
-This card can be used to either set an obstacle, or to contribute (or wholly
-suffice) for overcoming an obstacle. You may not, however, play multiple cards
-to overcome an obstacle; the character in question must be willing to play the
-other cards needed, or you withdraw your card.
-
-### Growth and Change
-
-At the end of a season, each character should go through this questionnaire:
-
-  - TODO get some XP for questions?
-
-You can spend XP one-for-one to:
-
-  - Add to your max tokens.
-  - Add a number card to your deck.
-
-You can spend XP two-for-one to:
-
-  - Add a face card to your deck.
-  - Add a relationship slot and fill it in.
-
-You can spend XP three-for-one to:
-
-  - Add an ace to your deck.
+At the start of the game, characters have a number of tokens based on their
+social role, and four cards.
 
 ## The GM
 
-The GM's role is to stir the pot; the players need to be kept on their toes, in
-a state of dynamic tension. The initial situation will help. As the GM, your
-best tool in the initial situation is pointed questions: make sure that
-everyone has complex relationships with each other, and conflicting
-relationships with NPCs.
+The GM controls the NPCs and provides adversity. It's their role to reinforce
+the strictures of society, the dangers of magic, and the difficulties of human
+relationships.
 
-After the initial situation, the GM has two main tools to keep the situation
-complex: NPCs and feelings. At every moment, stay alert for the possibility of
-saying "that won't be so easy" and provide a "because" that comes back to an
-NPC (their expectations, feelings, relationship with the PC), or the PC's own
-feelings.
+The GM should write down what we know about NPCs on their index cards, and
+particularly how they feel about the PCs and each other. This will help them
+drive the action from the NPCs' point of view. Remember to think about and
+communicate what will happen if the PCs don't act.
 
-> There are some games where the GM pushes, and then asks "what do you do
-> now?". This is not, usually, that game. In this game, players will be
-> proactive, and you will complicate their attempts at action. The players have
-> a lot of control over the outcomes of those moments of uncertainty, so by
-> prodding them regularly, you ask them which complications they're willing to
-> accept and which they're willing to spend resources to overcome.
+### The Dance
 
-> Of course, you can and should _also_ prompt them to action with requests,
-> demands, expectations from NPCs! This is crucial. Make NPCs expect things of
-> the PCs, make them demand and assume. Make them plead, request, impose. Only
-> by doing this will you be able to prompt the PCs to spend tokens, allowing
-> you to wheel around with the occasional "that won't be so easy"!
+Have you ever danced an English country dance? There are two rows of people,
+ladies on one side, gents on the other, facing each other. Each couple (the
+lady and gent standing across the set from each other) will spend most of the
+dance with each other, but will share a bit of the dance with all the people on
+the other side, weaving in and out and always coming back to dance with their
+partner.
 
-In each moment of uncertainty, answer (for yourself) two questions:
-
-  - How is this hard? Is it because of conflicted feelings, acting out of
-    place, physical difficulty, or something else?
-  - How is this risky? What might happen in the worst case? Maybe the PC will
-    feel worse, a relationship will be strained, a misunderstanding will arise,
-    the PC will develop a bad reputation, someone will be out a large sum of
-    money, or something else.
-
-The NPCs, present or otherwise, are a rich source of these complications. The
-NPCs have desires and feelings and relationships of their own, and you should
-absolutely position them between PCs to generate conflict. PC-NPC-PC triangles,
-right?
-
-### In Concrete Terms
-
-Whenever the GM sees an opportunity, they can say "It won't be so easy!",
-explain why, and put down a card representing that difficulty. They may use a
-card from their hand, or a card from an NPC (which see below).
-
-The GM starts with two cards, plus one per PC. They refresh their hand once at
-the start of each session, and once in the middle. It is a pacing mechanism.
-
-You also have a card for each NPC. These cards are each usable once per
-session. These cards do not live in your deck, but are extracted and kept by
-the NPCs' index cards. At the end of a season, you can re-assign these cards
-based on the evolving roles of the NPCs in question. If you need a new NPC on
-short notice, simply draw a card for them, and interpret it.
-
-The GM may also use a character's situation or feelings as an obstacle. Some
-suggested difficult states:
-
-  - A Bad Reputation
-  - A Curse
-  - A Love
-  - A Promise
-  - A Rumour
-  - A Warning
-  - Anger
-  - Illness
-  - Intoxication
-  - Shame
+This game can be like that, though perhaps with somewhat more complex figures
+in the dance. Characters will often find themselves in pairs (or perhaps
+triads), swirling around together, until they circle back out and return to
+their partner, the character with whom they have the most dramatic tension. I
+find that envisioning the game in these terms helps me keep things from staying
+in one spot too long: I can look at the characters and think "who hasn't Miss
+Redgrave dealt with lately? What might Mr. Scopes _want_ from her?" It's very
+pleasing.
 
 ### Techniques and Tools
 
@@ -359,8 +78,8 @@ by how fate describes them.
 understatement, a calm matter-of-fact aspect to describing magic. To paraphrase
 Mark Twain, do not "glance around from face to face, collecting applause". This
 is what Gabriel García Márquez describes as speaking "with a brick face". You
-are simply observing these wondrous things, but not being awes by them.
-Conversely, if you want the game to feel more like a gothic novel, do just the
+are simply observing these wondrous things, but not being awed by them.
+Conversely, if you want the game to feel more like a Gothic novel, do just the
 opposite: make it clear how overcome you are by what you are describing.
 
 **Elide the smalltalk**: It's easy to think of empty smalltalk as a staple of
@@ -373,99 +92,263 @@ Hastings, that Miss Redgrave is apparently becoming very close with a Mr.
 Hawkins. He's trying to get a reaction out of you. He wants to know if you have
 feelings for her."
 
-## Face Cards
+## Scenes
 
-Lots of ways they can have an effect: when in deck, at purchase, when in hand,
-when played, when in trash, etc. They can be fictional-effect primary. They can
-generate Consequences. They can replenish Willpower. They can screw with suit
-meanings.
+Have one deck.
 
-When you get a face card, do not put it into your deck. Each game, you put your
-face cards out in front of you. When you use its power, tap it. You can't use
-it again while it's tapped. They untap at the start of a season.
+Each player (GM included) has tokens equal to their starting rank.
 
-TODO: other untap triggers.
+When one character wants something from another, they can demand it. When you
+demand something, put forward one or more tokens (you get tokens from upholding
+your social role). Each time you put forward tokens, draw one card per token.
+Each time you put forward tokens, describe how you push your case.
 
-TODO: tapped effects, ranging from weakened to negative.
+The other player may then pass or push. They may push forward one or more
+tokens, and draw that many cards (and press _their_ case), or they may pass,
+and describe how they prevaricate, deflect, or hold fast.
+
+You may also get one card per exchange without a token, by using a trait. TODO.
+
+Once both players have passed in a row, each player may reveal one or two
+cards. The player with the higher total gets what they wanted, and recovers
+half the tokens they put forward, rounding up. The other player must put their
+tokens back in the pot, and concede. 
+
+The loser may, instead of conceding, choose to escalate. TODO. A desperate
+declaration, a passionate plea, an earnest entreaty.
+
+Your passion points can be spent in just the same way to bargain with the fairy
+(where stakes and escalation can be different), and they can be used in a
+limited way to deal with other Christians: you can spend one in a conflict for
+a burst of passion, in which case you add one random card off the top of the
+deck to your two, but if your total is over 21, you are bust and lose
+automatically. You may only do this when the cards are down, of course.
+
+TODO: You have to narrate in a trait to use a passion point. Maybe other ways
+to encourage different kinds of action? Stats, right? Numbers that slant, but
+don't force, you towards different kinds of activity.
+
+## Face cards
+
+Your character will have a number of particular powers that are tied to face
+cards. If at any point that face card is showing, you may use that power. If
+that face card is your hole card, you may choose to reveal it to use that
+power.
+
+## Magic
+
+There has always been another England. It lurks on the edge of perception, it
+appears when you don't look right at it. Alfred Watkins sensed something of it
+when he wrote _The Old Straight Track_. William Blake referred to it when he
+wrote of "our clouded hills". This is an older, stranger, _other_ England. It
+may as well be called Annwn, Avalon, or _orbis alius_.
+
+But as the Enlightenment opens many doors, so too does it close some. No one
+has accidentally or purposely walked into that other world for a long time now.
+The old fairy roads that led out of England have been long closed. Until---that
+is, until now.
+
+Perhaps it is the king's madness that has changed things, or perhaps it is the
+renewal of worship of old king Ludd in the North. Perhaps it is simply that the
+stars are right. But the Old Roads are opening, mirrors and rivers and clouds
+and rain once again bring visitors. Magic is returning to England.
+
+This system probably uses suits or something? It's not blackjack at any rate.
+It's also likely driven more by cards than tokens.
+
+TODO: link spell types and suits, set casting conditions for social roles.
+
+Each social role has a particular situation in which they can cast a spell. To
+cast a spell, you must also discard a card (and you must have at least one to
+discard!):
+
+  * Spades for understanding, insight, or visions.
+  * Hearts for emotions, protection, or spirituality.
+  * Clubs for physical or mental strength.
+  * Diamonds for prosperity or fortune.
+
+When you cast a spell, describe the effect you hope to achieve, and the GM will
+tell you which of the following are required to make it happen (they will
+choose one to four):
+
+  * A temporal constraint:
+      * The spell must be performed in the dead of night.
+      * The spell must be cast at a particular juncture of the stars: at an
+        equinox, solstice, or similar time.
+      * The spell requires certain weather conditions (rain, snow, or lightning
+        most probably).
+  * A ritual constraint:
+      * The spell must be performed in absolute solitude.
+      * The spell must be performed with a coven of assistants.
+      * The spell must be cast naked.
+  * A material constraint:
+      * The spell requires the blood, bones, hair, teeth, or other body parts
+        of a hanged man.
+      * The spell requires something particular from nature: mistletoe,
+        moss-oak, or fly agaric are common examples.
+      * The spell requires some sacrifice from the caster, something precious to
+        them.
+  * A wild outcome:
+      * The spell will do more or less than you intend. There's no way to know
+        which until it is cast.
+      * The spell will leave its mark upon the caster, that all may know who
+        worked it.
+      * The spell requires a balance of forces: fire for water, hate for love,
+        life for life.
+  * A limiting condition:
+      * The spell will unravel at midnight.
+      * The spell will not work on consecrated ground.
+      * The spell will not work on those who are pure.
+  * A grave consequence:
+      * The spell may not be undone.
+      * The spell is blasphemous, and may bar the caster from Heaven.
+      * The spell requires bargaining with a fairy.
+
+Once you can fulfil the conditions, the spell will take effect. How _exactly_
+should be described collaboratively. For example, if you wish to build a
+bridge, perhaps it rises from the river, water rushing off of it. Or the stones
+roll down from the hills of their own accord. Or all the best craftsmen and
+artisans for three towns around find themselves roused from their beds by an
+uncontrollable itch to make a bridge, and the deed is somehow done in one
+night. Or perhaps, the town merely awakens the next morning to find that the
+bridge that has always been there is, unsurprisingly, still there. Whichever
+suits the spell and the mood of the table best.
+
+As another example, if you wish to keep a particular person in town, perhaps
+they may come down ill, and be unable to travel. Or the weather may stay
+terribly inclement for weeks at a time, washing out the roads. Or you may weave
+a subtle labyrinth around the village, causing anyone who tries to leave to be
+turned around and find themselves back at their doorstep, with the urgent
+certainty that they had business to attend to at the house and couldn't
+possibly leave.
+
+### Effects
+
+TODO expand and clarify this.
+
+  0.  The Fool: luck
+  1.  The Magician: sight
+  2.  The High Priestess: secrets
+  3.  The Empress: healing
+  4.  The Emperor: authority
+  5.  The Hierophant: wisdom
+  6.  The Lovers: passion
+  7.  The Chariot: travel
+  8.  Strength: courage
+  9.  The Hermit: barriers
+  10. The Wheel of Fortune: prophesy
+  11. Justice: truth
+  12. The Hanged Man: travel between worlds
+  13. Death: necromancy
+  14. Temperance: transmutation
+  15. The Devil: lies
+  16. The Tower: destruction
+  17. The Star: navigation
+  18. The Moon: illusion
+  19. The Sun: dispelling
+  20. Judgment: resurrection
+  21. The World: transformation
+
+## Seasons, Growth, and Change
+
+At the end of each season (a bunch of sessions with a coherent arc), go through
+a questionnaire and ask the table about each character: whether they have done
+this, or that, etc. They will gain XP based on that, which they can use to
+modify their face card powers and possibly some other things. They may also
+change out a desire, and should redefine their relationships with the NPCs.
+
+TODO: Actually make growth questions.
+
+### Weather
+
+It would hardly be England without weather. If you are uncertain as to the
+weather at any point in the game, simply draw a card and consult the table
+below:
+
+  * Clear
+  * Rain
+  * Snow
+  * Overcast
+  * Patches of cloud and sun
+  * Mist
+  * Thick fog
+  * Drizzly
+  * Thunder and lightning
+  * Changeable and threatening
+  * Torrential downpour
+  * Windy
+
+## Appendix: Face Cards
 
 ### Jack of Spades: the Whisperer
 
 When you play this card, name a rumour about another character. This rumour has
 or will spread throughout the community. Though most people believe it, the
-origin of the rumour remains unknown. The GM should make a Consequence
-describing the rumour, and place a card on it.
+origin of the rumour remains unknown.
 
 ### Queen of Spades: the Widow
 
-You gain strength from another's misfortune. You may discard this card when
-someone suffers misfortune to gain three tokens (up to your limit).
+You gain strength from another's misfortune. You may use this card when someone
+suffers misfortune to gain three tokens (up to the usual limit of ten).
 
 ### King of Spades: The Nonesuch
 
-Your behavior is exquisite. When you discard this card, you may hold the
-undivided attention of everyone who can see or hear you as long as you are
-dancing, talking, or otherwise positioning yourself as a center of attention.
+Your behavior is exquisite. When you use this card, you may hold the undivided
+attention of everyone who can see or hear you as long as you are dancing,
+talking, or otherwise positioning yourself as a center of attention.
 
 ### Jack of Hearts: the Rake
 
-You have a way of slipping a reputation. You may discard this card to negate
-any concerns or effects of a bad reputation for a scene.
+You have a way of slipping a reputation. You may use this card to negate any
+concerns or effects of a bad reputation for a scene.
 
 ### Queen of Hearts: the Comforter
 
 People who come to you with their problems are soothed and come away
-strengthened. You may discard this card in a scene to give someone else three
-tokens (up to their limit).
+strengthened. You may use this card in a scene to give someone else three
+tokens (up to the usual limit of ten).
 
 ### King of Hearts: The Philosopher
 
-Your reasoning is exquisite. When you discard this card, you may convince an
-individual or a small audience of a single truth. The GM should make a
-Consequence for them reflecting this belief.
+Your reasoning is exquisite. When you use this card, you may convince an
+individual or a small audience of a single truth.
 
 ### Jack of Clubs: the Mule
 
-You are stubborn and will not let the opinions of others sway you. You may
-discard this card to raise the stakes instead of spending tokens.
+You are stubborn and will not let the opinions of others sway you. TODO
 
 ### Queen of Clubs: the Companion
 
 You are strong, but strongest when acting beside another. When you act in
-support of a friend, you may play this card to add five to the value of
-whatever card they have played. This does not count as using multiple cards to
-overcome an obstacle.
+support of a friend, you may TODO
 
 ### King of Clubs: The Nobleman
 
-Your dignity is exquisite. When you discard this card, you may insist on
-obedience for one interaction with immediate scope. Debts will be forgiven,
-doors will be opened, forgiveness will be given.
+Your dignity is exquisite. When you use this card, you may insist on obedience
+for one interaction with immediate scope. Debts will be forgiven, doors will be
+opened, forgiveness will be given.
 
 ### Jack of Diamonds: the Tempter
 
-When you play this card, you may make a particular offer to another PC
+When you use this card, you may make a particular offer to another PC
 particularly tempting. If they agree, and carry through on it, they may regain
-three tokens, up to their maximum.
+three tokens, up to the usual maximum.
 
 ### Queen of Diamonds: the Seer
 
-You have an uncanny insight. Discard this card to ask any other player (or the
-GM) a short question, which they must answer truthfully. This comes to your
+You have an uncanny insight. Use this card to ask any other player (or the GM)
+a short question, which they must answer truthfully. This comes to your
 character as a flash of insight.
 
 ### King of Diamonds: The Artist
 
-Your taste and skill are exquisite. When you discard this card, you may create
-a work of staggering beauty: a poem, a painting, a song, whatever is
-appropriate. All who experience it will be moved.
+Your taste and skill are exquisite. When you use this card, you may create a
+work of staggering beauty: a poem, a painting, a song, whatever is appropriate.
+All who experience it will be moved.
 
-## Desires
+## Appendix: Desires
 
-When you sate a Desire, get one token. If doing so exposes you to risk or
-danger, get two tokens instead.
-
-These change slowly, if at all. At the end of a season, you may get the chance
-to change one or both Desires.
+TODO edit these. They should be non-evil, but socially difficult. Active, too.
 
 ### Mad, Bad and Dangerous to Know
 
@@ -544,9 +427,9 @@ landscape. You seek sensual and luxurious pleasures. What is your particular
 weakness, and who knows it? Sate this desire when you take pleasure in material
 goods beyond your means.
 
-## Social Roles
+## Appendix: Social Roles
 
-Play one!
+TODO edit a number of these.
 
 ### TODO Lady (♀)
 
@@ -564,11 +447,11 @@ Draw a card when:
 
 Tell us who is:
 
-  - Your father (or other pater familias)
+  - Your father (or other _pater familias_)
   - Your lady's maid
   - Your best friend
 
-Initial hand: 5
+Initial tokens: 5
 
 ### TODO Governess (♀)
 
@@ -589,7 +472,7 @@ Tell us who is:
   - Your charge or charges?
   - Your best friend?
 
-Initial hand: 4
+Initial tokens: 4
 
 ### Ward (♀)
 
@@ -609,7 +492,7 @@ Tell us who:
   - You rely on for financial support?
   - Sees you as a threat, obstacle or imposition?
 
-Initial hand: 4
+Initial tokens: 4
 
 ### TODO Spinster (♀)
 
@@ -629,7 +512,7 @@ Tell us who is:
   - Your dearest sister?
   - The one who got away?
 
-Initial hand: 4
+Initial tokens: 4
 
 ### Gentleman (♂)
 
@@ -650,7 +533,7 @@ Tell us who is:
   - The tradesman you owe the most
   - Your boon companion
 
-Initial hand: 5
+Initial tokens: 5
 
 ### TODO Officer (♂)
 
@@ -668,7 +551,7 @@ Tell us who:
   - Did you leave behind?
   - ...
 
-Initial hand: 4
+Initial tokens: 4
 
 ### TODO Clergyman (♂)
 
@@ -686,9 +569,12 @@ Tell us who is:
   - ...
   - ...
 
-Initial hand: 4
+Initial tokens: 4
 
 ### Scholar (♂)
+
+TODO replace this with the Dandy. The scholar pushes away from the core of the
+game.
 
 You are expected to be erudite, considered, and informed.
 
@@ -704,7 +590,7 @@ Tell us who is:
   - Your school-chum?
   - Your pupil? (Whether they agree or not?)
 
-Initial hand: 4
+Initial tokens: 4
 
 ### TODO Servant (⚲)
 
@@ -725,7 +611,7 @@ Tell us who is:
   - The apple of your eye
   - Your confidante
 
-Initial hand: 3
+Initial tokens: 3
 
 ### TODO Invalid (⚲)
 
@@ -743,7 +629,7 @@ Tell us who is:
   - Your source of comfort?
   - Thinks you're playing it up for sympathy?
 
-Initial hand: 4
+Initial tokens: 4
 
 ### TODO Vagabond (⚲)
 
@@ -761,7 +647,7 @@ Tell us who:
   - Is your drinking companion?
   - Gives you charity?
 
-Initial hand: 3
+Initial tokens: 3
 
 ### TODO Magician (⚲)
 
@@ -777,6 +663,167 @@ Tell us who:
 
   - Is your patron?
   - Wishes to be your student?
-  - ...
+  - Owes you the most for your magical aid?
 
-Initial hand: 4
+Initial tokens: 4
+## Appendix: Names
+
+There is a very particular character to English names. Many of these, of
+course, aren't actually English. I will leave it to the reader to learn what
+subtler gradations of class and geography are encoded in these and other names.
+
+Masculine names may include:
+
+  * Charles
+  * Clive
+  * Cyril
+  * Edward
+  * Frank
+  * George
+  * Henry
+  * Hugh
+  * James
+  * John
+  * Malcolm
+  * Nathaniel
+  * Nigel
+  * Philip
+  * Ralph (pron. "Rafe")
+  * Richard
+  * Robert
+  * Rupert
+  * Simon
+  * Stephen
+  * Thomas
+  * Wesley
+  * William
+  * Valentine
+  * or many surnames.
+
+Feminine names may include
+
+  * Alice
+  * Anne
+  * Augusta
+  * Caroline
+  * Catherine
+  * Dorcas
+  * Elizabeth
+  * Emma
+  * Georgiana
+  * Gillian
+  * Grace
+  * Harriet
+  * Imogen
+  * Isabella
+  * Jane
+  * Lucy
+  * Lydia
+  * Madeline
+  * Mary
+  * Matilda
+  * Patricia
+  * Philippa
+  * Regina
+  * Susan
+  * or feminized versions of many masculine names.
+
+Surnames may include
+
+  * Ambrose
+  * Arkwright
+  * Bates
+  * Blagg
+  * Bingley
+  * Briggs
+  * Cavendish
+  * Collins
+  * Colquhoun
+  * d'Arcy
+  * Ent
+  * Fairfax
+  * Farquhar
+  * Fawkes
+  * Fetherstonhaugh (pron. "Fanshaw")
+  * Fitzgibbon
+  * Fitzhugh
+  * Fogg
+  * Forster
+  * Fox
+  * Gardiner
+  * Godown
+  * Greatrakes
+  * Guest
+  * Hartpence
+  * Hillpot
+  * Hunt
+  * King
+  * Knightley
+  * Lawshe
+  * Lequear
+  * Lestrange
+  * Lloyd
+  * Mason
+  * Orcutt
+  * Philips
+  * Quick
+  * Renbourne
+  * Rochester
+  * Silverthorn
+  * Smith
+  * Spencer
+  * St. John (pron. "Sinjin")
+  * Stout
+  * Thompson
+  * Urquhart (pron. "Urkit")
+  * Westenra
+  * Wintermute
+  * Woodhouse
+  * Woolverton
+
+Estates names may include
+
+  * Beaulieu (pron. "Byoo-lee")
+  * Bracken
+  * Brakebills
+  * Brock
+  * Dinmore
+  * Exmoor
+  * Gosford
+  * Hatfield
+  * Hurtfew
+  * Longbourne
+  * Longmere
+  * Mansfield
+  * Mereworth
+  * Norris
+  * Pemberley
+  * Radbourne
+  * Savoy
+  * Shipley
+  * Stowe
+  * Sulgrave
+  * Tattershall
+  * Thornlea
+  * Thorpe Constantine
+  * Trent
+  * Upper Braithwaite
+  * Walton
+
+Estates may be described as
+
+  * Court
+  * Park
+  * Place
+  * Castle
+  * House
+  * Manor
+  * Abbey
+  * Hall
+  * Lodge
+  * Grove
+  * Downs
+  * Hill
+  * Priory
+  * Grange
+  * Parsonage
