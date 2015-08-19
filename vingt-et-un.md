@@ -1,6 +1,6 @@
 # Arcadia
 
-By way of _vingt-et-un_.
+A game of magic, manners, and madness.
 
 ## Table of Contents
 
