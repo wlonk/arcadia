@@ -737,6 +737,7 @@ Surnames may include
   * Bingley
   * Briggs
   * Cavendish
+  * Chater
   * Collins
   * Colquhoun
   * d'Arcy
@@ -756,6 +757,7 @@ Surnames may include
   * Guest
   * Hartpence
   * Hillpot
+  * Hodge
   * Hunt
   * King
   * Knightley
@@ -765,6 +767,7 @@ Surnames may include
   * Lloyd
   * Mason
   * Orcutt
+  * Phayre
   * Philips
   * Quick
   * Renbourne
