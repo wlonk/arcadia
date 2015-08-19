@@ -114,7 +114,8 @@ cards. The player with the higher total gets what they wanted, and recovers
 half the tokens they put forward, rounding up. The other player must put their
 tokens back in the pot, and concede. 
 
-The loser may, instead of conceding, choose to escalate. TODO.
+The loser may, instead of conceding, choose to escalate. TODO. A desperate
+declaration, a passionate plea, an earnest entreaty.
 
 Your passion points can be spent in just the same way to bargain with the fairy
 (where stakes and escalation can be different), and they can be used in a
