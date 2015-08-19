@@ -665,3 +665,164 @@ Tell us who:
   - Owes you the most for your magical aid?
 
 Initial tokens: 4
+## Appendix: Names
+
+There is a very particular character to English names. Many of these, of
+course, aren't actually English. I will leave it to the reader to learn what
+subtler gradations of class and geography are encoded in these and other names.
+
+Masculine names may include:
+
+  * Charles
+  * Clive
+  * Cyril
+  * Edward
+  * Frank
+  * George
+  * Henry
+  * Hugh
+  * James
+  * John
+  * Malcolm
+  * Nathaniel
+  * Nigel
+  * Philip
+  * Ralph (pron. "Rafe")
+  * Richard
+  * Robert
+  * Rupert
+  * Simon
+  * Stephen
+  * Thomas
+  * Wesley
+  * William
+  * Valentine
+  * or many surnames.
+
+Feminine names may include
+
+  * Alice
+  * Anne
+  * Augusta
+  * Caroline
+  * Catherine
+  * Dorcas
+  * Elizabeth
+  * Emma
+  * Georgiana
+  * Gillian
+  * Grace
+  * Harriet
+  * Imogen
+  * Isabella
+  * Jane
+  * Lucy
+  * Lydia
+  * Madeline
+  * Mary
+  * Matilda
+  * Patricia
+  * Philippa
+  * Regina
+  * Susan
+  * or feminized versions of many masculine names.
+
+Surnames may include
+
+  * Ambrose
+  * Arkwright
+  * Bates
+  * Blagg
+  * Bingley
+  * Briggs
+  * Cavendish
+  * Collins
+  * Colquhoun
+  * d'Arcy
+  * Ent
+  * Fairfax
+  * Farquhar
+  * Fawkes
+  * Fetherstonhaugh (pron. "Fanshaw")
+  * Fitzgibbon
+  * Fitzhugh
+  * Fogg
+  * Forster
+  * Fox
+  * Gardiner
+  * Godown
+  * Greatrakes
+  * Guest
+  * Hartpence
+  * Hillpot
+  * Hunt
+  * King
+  * Knightley
+  * Lawshe
+  * Lequear
+  * Lestrange
+  * Lloyd
+  * Mason
+  * Orcutt
+  * Philips
+  * Quick
+  * Renbourne
+  * Rochester
+  * Silverthorn
+  * Smith
+  * Spencer
+  * St. John (pron. "Sinjin")
+  * Stout
+  * Thompson
+  * Urquhart (pron. "Urkit")
+  * Westenra
+  * Wintermute
+  * Woodhouse
+  * Woolverton
+
+Estates names may include
+
+  * Beaulieu (pron. "Byoo-lee")
+  * Bracken
+  * Brakebills
+  * Brock
+  * Dinmore
+  * Exmoor
+  * Gosford
+  * Hatfield
+  * Hurtfew
+  * Longbourne
+  * Longmere
+  * Mansfield
+  * Mereworth
+  * Norris
+  * Pemberley
+  * Radbourne
+  * Savoy
+  * Shipley
+  * Stowe
+  * Sulgrave
+  * Tattershall
+  * Thornlea
+  * Thorpe Constantine
+  * Trent
+  * Upper Braithwaite
+  * Walton
+
+Estates may be described as
+
+  * Court
+  * Park
+  * Place
+  * Castle
+  * House
+  * Manor
+  * Abbey
+  * Hall
+  * Lodge
+  * Grove
+  * Downs
+  * Hill
+  * Priory
+  * Grange
+  * Parsonage
