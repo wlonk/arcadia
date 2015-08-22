@@ -96,7 +96,13 @@ feelings for her."
 
 Have one deck.
 
-Each player (GM included) has tokens equal to their starting rank.
+Each player has role tokens equal to their starting rank. Each player also
+starts with two passion tokens.
+
+The GM starts with role tokens on each NPC based on their rank. They do not get
+passion tokens: those are representative of the unique power and passions that
+the PCs possess that draw the fairy's interest. NPCs regain tokens differently
+from PCs. TODO.
 
 When one character wants something from another, they can demand it. When you
 demand something, put forward one or more tokens (you get tokens from upholding
@@ -107,26 +113,39 @@ The other player may then pass or push. They may push forward one or more
 tokens, and draw that many cards (and press _their_ case), or they may pass,
 and describe how they prevaricate, deflect, or hold fast.
 
-You may also get one card per exchange without a token, by using a trait. TODO.
+You may also get one card per exchange without a token, by using a trait. TODO:
+This is necessary because otherwise you can be put in a blocked position,
+unable to act. Having a way out is important.
 
 Once both players have passed in a row, each player may reveal one or two
 cards. The player with the higher total gets what they wanted, and recovers
 half the tokens they put forward, rounding up. The other player must put their
 tokens back in the pot, and concede. 
 
-The loser may, instead of conceding, choose to escalate. TODO. A desperate
-declaration, a passionate plea, an earnest entreaty.
+The loser may, instead of conceding, choose to escalate. They make a desperate
+declaration, a passionate plea, or an earnest entreaty. They spend a passion
+point. They may then flip one card from the top of the deck and add it to their
+total. If the total is over 21, they lose at cost. If the total is still below
+their opponent's, they just lose. If it is above, the other person may now
+choose to further escalate (and spend their own passion point, and flip a card
+themselves, as above), or graciously accept defeat.
 
-Your passion points can be spent in just the same way to bargain with the fairy
-(where stakes and escalation can be different), and they can be used in a
-limited way to deal with other Christians: you can spend one in a conflict for
-a burst of passion, in which case you add one random card off the top of the
-deck to your two, but if your total is over 21, you are bust and lose
-automatically. You may only do this when the cards are down, of course.
+When bargaining with a fairy, you do not spend social points. Instead, you buy
+cards with passion points, and may put down up to three. You may not escalate
+as above.
+
+TODO: Details on losing at cost. It's like, don't get the stakes, and take
+fallout. Use old fallout rules, about reputations, relationships, etc, getting
+damaged?
 
 TODO: You have to narrate in a trait to use a passion point. Maybe other ways
 to encourage different kinds of action? Stats, right? Numbers that slant, but
 don't force, you towards different kinds of activity.
+
+When another player thinks that you have played your character's passion
+particularly well, they may award you a passion token. When the GM thinks that
+you have played your character's role particularly well, they may award you a
+role token. TODO this will need tightening.
 
 ## Face cards
 
