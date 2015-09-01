@@ -109,6 +109,9 @@ demand something, put forward one or more tokens (you get tokens from upholding
 your social role). Each time you put forward tokens, draw one card per token.
 Each time you put forward tokens, describe how you push your case.
 
+You can demand behavior: apology, support, etc, but not feelings (i.e. you
+cannot demand "love me", but you can demand "propose to me").
+
 The other player may then pass or push. They may push forward one or more
 tokens, and draw that many cards (and press _their_ case), or they may pass,
 and describe how they prevaricate, deflect, or hold fast.
@@ -137,6 +140,17 @@ as above.
 TODO: Details on losing at cost. It's like, don't get the stakes, and take
 fallout. Use old fallout rules, about reputations, relationships, etc, getting
 damaged?
+
+  - A Bad Reputation
+  - A Curse
+  - A Lovers
+  - A Promise
+  - A Rumour
+  - A Warning
+  - Anger
+  - Illness
+  - Intoxication
+  - Shame
 
 TODO: You have to narrate in a trait to use a passion point. Maybe other ways
 to encourage different kinds of action? Stats, right? Numbers that slant, but
