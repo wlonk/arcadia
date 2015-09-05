@@ -167,7 +167,7 @@ Noticing things is a very important part of the genre. When your character
 needs to notice something, ask the person in question (the GM if it is about an
 NPC or the world at large, another player if it is about a PC) whether they let
 something slip. Flip a card from the top of the deck. Based on your social
-tier, you may or may not notice something:
+tier, you may or may not notice something. If your character starts with:
 
   * 5 role tokens: notice on an A, 2, 3, 4.
   * 4 role tokens: notice on an A, 2, 3, 4, 5, 6, 7.
