@@ -8,21 +8,18 @@ A game of magic, manners, and madness.
 
 ## Characters
 
-Characters have social roles (which give them cards in hand) and desires (which
-give them tokens to ante). TODO: "clout"? Something more period?
-
-Characters have access to special powers on face cards.
+Characters have social roles (which give them role tokens) and desires (which
+give them passion tokens). TODO: Give these real names. "clout"? Something more
+period?
 
 Characters have relationships with NPCs and each other.
-
-Characters probably have traits they can use to finesse the numbers.
 
 When you first make characters, there are formal relationships defined by your
 social role and emotional relationships defined by your desires. Use these to
 mix everyone up into one nice tangled community.
 
-At the start of the game, characters have a number of tokens based on their
-social role, and four cards.
+At the start of the game, characters have a number of role tokens based on
+their social role, and two passion tokens.
 
 ## The GM
 
@@ -102,7 +99,8 @@ starts with two passion tokens.
 The GM starts with role tokens on each NPC based on their rank. They do not get
 passion tokens: those are representative of the unique power and passions that
 the PCs possess that draw the fairy's interest. NPCs regain tokens differently
-from PCs. TODO.
+from PCs. NPCs get two tokens at the end of any scene, up to their max (based
+on social role).
 
 When one character wants something from another, they can demand it. When you
 demand something, put forward one or more tokens (you get tokens from upholding
@@ -115,10 +113,6 @@ cannot demand "love me", but you can demand "propose to me").
 The other player may then pass or push. They may push forward one or more
 tokens, and draw that many cards (and press _their_ case), or they may pass,
 and describe how they prevaricate, deflect, or hold fast.
-
-You may also get one card per exchange without a token, by using a trait. TODO:
-This is necessary because otherwise you can be put in a blocked position,
-unable to act. Having a way out is important.
 
 Once both players have passed in a row, each player may reveal one or two
 cards. The player with the higher total gets what they wanted, and recovers
@@ -152,14 +146,47 @@ damaged?
   - Intoxication
   - Shame
 
-TODO: You have to narrate in a trait to use a passion point. Maybe other ways
-to encourage different kinds of action? Stats, right? Numbers that slant, but
-don't force, you towards different kinds of activity.
+The GM chooses when a scene is over, and frames the next scene, though in both
+cases they should consider input from the players. All the rules in
+_Smallville_ p. 52 on ending scenes apply. They should also keep an eye out for
+folks who are getting low on tokens and may need a chance to replenish.
 
-When another player thinks that you have played your character's passion
-particularly well, they may award you a passion token. When the GM thinks that
-you have played your character's role particularly well, they may award you a
-role token. TODO this will need tightening.
+### Replenishment
+
+At the end of a scene, go around and ask the other players your questions: "Did
+I defend the honor of anyone close to me?" etc. For each question that the
+group agrees you did, get a role token. Get one more for just showing up.
+
+Then, tell the group whether you pursued either of your passions. For each one
+you pursued, get a passion token.
+
+Both of these will require some discussion and interpretation of what just
+happened.
+
+### Perception
+
+Noticing things is a very important part of the genre. When your character
+needs to notice something, ask the person in question (the GM if it is about an
+NPC or the world at large, another player if it is about a PC) whether they let
+something slip. Flip a card from the top of the deck. Based on your social
+tier, you may or may not notice something:
+
+  * 5 role tokens: notice on an A, 2, 3, 4.
+  * 4 role tokens: notice on an A, 2, 3, 4, 5, 6, 7.
+  * 3 role tokens: notice on an A, 2, 3, 4, 5, 6, 7, 8, 9.
+
+If you succeed, you may ask them one question based on the suit of the card:
+
+  * Spades: a secret (where do you go when you walk alone?)
+  * Hearts: a passion (who do you love?)
+  * Clubs: a sorrow (what do you regret?)
+  * Diamonds: a principle (what could get you to betray someone?)
+
+They must then answer honestly, and describe how they let it slip:
+
+  * A gaze
+  * A blush
+  * A word
 
 ## Face cards
 
