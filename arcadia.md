@@ -416,7 +416,7 @@ goods beyond your means.
 
 TODO edit a number of these.
 
-### TODO Lady (♀)
+### Queen of Spades: Lady (♀)
 
 A young lady, from a good family, with some hope of marriage. Your honour is
 your family's honour. Your honour is both positive and negative: being
@@ -438,7 +438,7 @@ Tell us who is:
 
 Initial tokens: 5
 
-### TODO Governess (♀)
+### Queen of Hearts: Governess (♀)
 
 A young lady of indifferent family, but with enough education to hold a
 position with a wealthy family as not-quite-a-servant. Set a good example for
@@ -459,7 +459,7 @@ Tell us who is:
 
 Initial tokens: 4
 
-### Ward (♀)
+### Queen of Clubs: Ward (♀)
 
 A young lady who has been sent to live with relatives. Either her parents are
 dead, or simply unable to raise her in the proper fashion. She is in the
@@ -479,7 +479,7 @@ Tell us who:
 
 Initial tokens: 4
 
-### TODO Spinster (♀)
+### Queen of Diamonds: Spinster (♀)
 
 You are expected to deviate from (reject? or wish fruitlessly you could conform
 to?) your society's feminine ideal, have secret wealth or knowledge, and draw
@@ -499,7 +499,7 @@ Tell us who is:
 
 Initial tokens: 4
 
-### Gentleman (♂)
+### King of Spades: Gentleman (♂)
 
 A single man, in possession of a good fortune. Let a lady decide the degree of
 acquaintance. A servant cannot impinge upon your honour, but neither can you
@@ -520,7 +520,7 @@ Tell us who is:
 
 Initial tokens: 5
 
-### TODO Officer (♂)
+### King of Hearts: Officer (♂)
 
 You are expected to be disciplined, honorable and patriotic.
 
@@ -538,7 +538,7 @@ Tell us who:
 
 Initial tokens: 4
 
-### TODO Clergyman (♂)
+### King of Clubs: Clergyman (♂)
 
 ...
 
@@ -556,28 +556,25 @@ Tell us who is:
 
 Initial tokens: 4
 
-### Scholar (♂)
+### King of Diamonds: Dandy (♂)
 
-TODO replace this with the Dandy. The scholar pushes away from the core of the
-game.
-
-You are expected to be erudite, considered, and informed.
+You are expected to be...
 
 Draw a card when:
 
-  - you teach someone a valuable lesson,
-  - are the voice of reason,
-  - or you gain insight into a quandary.
+  - ...,
+  - ...,
+  - or ...
 
 Tell us who is:
 
   - Your rival?
-  - Your school-chum?
-  - Your pupil? (Whether they agree or not?)
+  - ...
+  - ...
 
 Initial tokens: 4
 
-### TODO Servant (⚲)
+### Jack of Spades: Servant (⚲)
 
 A young man or woman in service to someone of quality. Be neither seen nor
 heard, except when needed. Protect the honour of your master's house in the
@@ -598,7 +595,7 @@ Tell us who is:
 
 Initial tokens: 3
 
-### TODO Invalid (⚲)
+### Jack of Hearts: Invalid (⚲)
 
 You are expected to be home-bound, solicitous of others' health, and ...
 
@@ -616,7 +613,7 @@ Tell us who is:
 
 Initial tokens: 4
 
-### TODO Vagabond (⚲)
+### Jack of Clubs: Vagabond (⚲)
 
 You are expected to be needy, itinerant, and thankful.
 
@@ -634,7 +631,7 @@ Tell us who:
 
 Initial tokens: 3
 
-### TODO Magician (⚲)
+### Jack of Diamonds: Magician (⚲)
 
 You are expected to be mysterious, wise, and unconventional.
 
@@ -651,6 +648,7 @@ Tell us who:
   - Owes you the most for your magical aid?
 
 Initial tokens: 4
+
 ## Appendix: Names
 
 There is a very particular character to English names. Many of these, of
