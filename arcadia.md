@@ -188,13 +188,6 @@ They must then answer honestly, and describe how they let it slip:
   * A blush
   * A word
 
-## Face cards
-
-Your character will have a number of particular powers that are tied to face
-cards. If at any point that face card is showing, you may use that power. If
-that face card is your hole card, you may choose to reveal it to use that
-power.
-
 ## Magic
 
 There has always been another England. It lurks on the edge of perception, it
@@ -337,74 +330,6 @@ below:
   * Changeable and threatening
   * Torrential downpour
   * Windy
-
-## Appendix: Face Cards
-
-### Jack of Spades: the Whisperer
-
-When you play this card, name a rumour about another character. This rumour has
-or will spread throughout the community. Though most people believe it, the
-origin of the rumour remains unknown.
-
-### Queen of Spades: the Widow
-
-You gain strength from another's misfortune. You may use this card when someone
-suffers misfortune to gain three tokens (up to the usual limit of ten).
-
-### King of Spades: The Nonesuch
-
-Your behavior is exquisite. When you use this card, you may hold the undivided
-attention of everyone who can see or hear you as long as you are dancing,
-talking, or otherwise positioning yourself as a center of attention.
-
-### Jack of Hearts: the Rake
-
-You have a way of slipping a reputation. You may use this card to negate any
-concerns or effects of a bad reputation for a scene.
-
-### Queen of Hearts: the Comforter
-
-People who come to you with their problems are soothed and come away
-strengthened. You may use this card in a scene to give someone else three
-tokens (up to the usual limit of ten).
-
-### King of Hearts: The Philosopher
-
-Your reasoning is exquisite. When you use this card, you may convince an
-individual or a small audience of a single truth.
-
-### Jack of Clubs: the Mule
-
-You are stubborn and will not let the opinions of others sway you. TODO
-
-### Queen of Clubs: the Companion
-
-You are strong, but strongest when acting beside another. When you act in
-support of a friend, you may TODO
-
-### King of Clubs: The Nobleman
-
-Your dignity is exquisite. When you use this card, you may insist on obedience
-for one interaction with immediate scope. Debts will be forgiven, doors will be
-opened, forgiveness will be given.
-
-### Jack of Diamonds: the Tempter
-
-When you use this card, you may make a particular offer to another PC
-particularly tempting. If they agree, and carry through on it, they may regain
-three tokens, up to the usual maximum.
-
-### Queen of Diamonds: the Seer
-
-You have an uncanny insight. Use this card to ask any other player (or the GM)
-a short question, which they must answer truthfully. This comes to your
-character as a flash of insight.
-
-### King of Diamonds: The Artist
-
-Your taste and skill are exquisite. When you use this card, you may create a
-work of staggering beauty: a poem, a painting, a song, whatever is appropriate.
-All who experience it will be moved.
 
 ## Appendix: Desires
 
