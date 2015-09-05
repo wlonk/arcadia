@@ -760,6 +760,7 @@ Surnames may include
   * Spencer
   * St. John (pron. "Sinjin")
   * Stout
+  * Stubbe
   * Thompson
   * Urquhart (pron. "Urkit")
   * Westenra
@@ -769,7 +770,9 @@ Surnames may include
 
 Estates names may include
 
+  * Bal
   * Beaulieu (pron. "Byoo-lee")
+  * Blackdour
   * Bracken
   * Brakebills
   * Brock
@@ -778,15 +781,21 @@ Estates names may include
   * Gosford
   * Hatfield
   * Hurtfew
+  * Ivystead
+  * Lethenwood
   * Longbourne
   * Longmere
+  * Malblair
   * Mansfield
   * Mereworth
   * Norris
   * Pemberley
   * Radbourne
+  * Rookwich
   * Savoy
+  * Scarhurst
   * Shipley
+  * Stanvern
   * Stowe
   * Sulgrave
   * Tattershall
@@ -795,21 +804,23 @@ Estates names may include
   * Trent
   * Upper Braithwaite
   * Walton
+  * Warcross
 
 Estates may be described as
 
-  * Court
-  * Park
-  * Place
-  * Castle
-  * House
-  * Manor
   * Abbey
-  * Hall
-  * Lodge
-  * Grove
+  * Castle
+  * Court
+  * Croft
   * Downs
-  * Hill
-  * Priory
   * Grange
+  * Grove
+  * Hall
+  * Hill
+  * House
+  * Lodge
+  * Manor
+  * Park
   * Parsonage
+  * Place
+  * Priory
