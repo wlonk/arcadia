@@ -204,19 +204,7 @@ renewal of worship of old king Ludd in the North. Perhaps it is simply that the
 stars are right. But the Old Roads are opening, mirrors and rivers and clouds
 and rain once again bring visitors. Magic is returning to England.
 
-This system probably uses suits or something? It's not blackjack at any rate.
-It's also likely driven more by cards than tokens.
-
-TODO: link spell types and suits, set casting conditions for social roles.
-
-Each social role has a particular situation in which they can cast a spell. To
-cast a spell, you must also discard a card (and you must have at least one to
-discard!):
-
-  * Spades for understanding, insight, or visions.
-  * Hearts for emotions, protection, or spirituality.
-  * Clubs for physical or mental strength.
-  * Diamonds for prosperity or fortune.
+TODO: Each social role has a particular situation in which they can cast a spell.
 
 When you cast a spell, describe the effect you hope to achieve, and the GM will
 tell you which of the following are required to make it happen (they will
