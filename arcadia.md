@@ -2,8 +2,6 @@
 
 A game of magic, manners, and madness.
 
-## Table of Contents
-
 [TOC]
 
 ## Characters
