@@ -151,9 +151,11 @@ folks who are getting low on tokens and may need a chance to replenish.
 
 ### Replenishment
 
-At the end of a scene, go around and ask the other players your questions: "Did
-I defend the honor of anyone close to me?" etc. For each question that the
-group agrees you did, get a role token. Get one more for just showing up.
+At the end of a scene, go around and ask the other players (not including the
+GM) whether you acted like your social role. You can use your bullet points to
+guide them if they are uncertain. For each other player who agrees you did, get
+a role token. Get one more for just showing up. (TODO: Maybe wanna make this
+secretive, to avoid groupthink? Perhaps scale per number of players?)
 
 Then, tell the group whether you pursued either of your passions. For each one
 you pursued, get a passion token.
