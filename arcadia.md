@@ -149,9 +149,8 @@ tokens, and draw that many cards (and press _their_ case), or they may pass,
 and describe how they prevaricate, deflect, or hold fast.
 
 Once both players have passed in a row, each player may reveal one or two
-cards. The player with the higher total gets what they wanted, and recovers
-half the tokens they put forward, rounding up. The other player must put their
-tokens back in the pot, and concede. 
+cards. The player with the higher total gets what they wanted. The other player
+must and concede. 
 
 The loser may, instead of conceding, choose to escalate. They make a desperate
 declaration, a passionate plea, or an earnest entreaty. They spend a passion
