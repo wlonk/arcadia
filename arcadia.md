@@ -2,6 +2,42 @@
 
 A game of magic, manners, and madness.
 
+## Notes:
+
+Allie: Reputations need to be a first-class object, and the surface they click
+on to is token-gain. If your reputation is damaged, token gain can become much
+harder.
+
+Kit: Perception rolls: what happens when you fail? How does it drive forward?
+Adjust ranges. Maybe have a "let something slip" mechanic in conflicts? Suits
+on perception roles are wrong as they stand, too. Clarifying questions are
+usually very targeted.
+
+The gossip session turns too much into groupthink. I think you need to ask the
+table to agree on whether you hit each of your three things. It needs to be
+very clearly structured: you go around and ask "did I do X?" and only if no one
+can really tell, can you offer your own interpretation. Also, social role
+bullet points need to be clarified a bit.
+
+Ties: higher rank wins.
+
+Khaled: "The fairy should change our incentives. We could maybe have to choose
+whether to sacrifice what we've been doing to risk a greater payoff and greater
+fall from the fairy." The fairy should have some system for straight up
+bargains and deals.
+
+Can the fairy intensify passions? "The fairy tempts you, and so your passions
+start to consume you."
+
+Kate: "The fairy needs to be a sea-change, for everyone at once." That means
+that there needs to be something like the _Dread_ tower, something inevitable
+but uncertain, that triggers the fairy's arrival. Tied to passions probably?
+Anyway, once the fairy shows up, something _really_ changes.
+
+Allie and Kate: Too many points, not enough expenditure.
+
+Kit: PC-NPC-PC triangles.
+
 [TOC]
 
 ## Characters
