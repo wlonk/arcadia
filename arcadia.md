@@ -4,16 +4,6 @@ A game of magic, manners, and madness.
 
 ## Notes:
 
-Allie: Reputations need to be a first-class object, and the surface they click
-on to is token-gain. If your reputation is damaged, token gain can become much
-harder.
-
-The gossip session turns too much into groupthink. I think you need to ask the
-table to agree on whether you hit each of your three things. It needs to be
-very clearly structured: you go around and ask "did I do X?" and only if no one
-can really tell, can you offer your own interpretation. Also, social role
-bullet points need to be clarified a bit.
-
 Ties: higher rank wins.
 
 Khaled: "The fairy should change our incentives. We could maybe have to choose
