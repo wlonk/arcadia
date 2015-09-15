@@ -315,10 +315,13 @@ TODO expand and clarify this.
 At the end of each season (a bunch of sessions with a coherent arc), go through
 a questionnaire and ask the table about each character: whether they have done
 this, or that, etc. They will gain XP based on that, which they can use to
-modify their face card powers and possibly some other things. They may also
-change out a desire, and should redefine their relationships with the NPCs.
+modify their reputations and relationships and possibly some other things. They
+may also change out a desire, and should redefine their relationships with the
+NPCs.
 
 TODO: Actually make growth questions.
+
+Perhaps XP can also be used to expand Perception questions?
 
 ### Weather
 
