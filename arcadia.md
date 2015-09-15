@@ -127,8 +127,8 @@ feelings for her."
 
 Have one deck.
 
-Each player has role tokens equal to their starting rank. Each player also
-starts with two passion tokens.
+Each player starts the game with role tokens equal to their starting rank. Each
+player also starts with two passion tokens.
 
 The GM starts with role tokens on each NPC based on their rank. They do not get
 passion tokens: those are representative of the unique power and passions that
@@ -186,17 +186,18 @@ folks who are getting low on tokens and may need a chance to replenish.
 
 ### Replenishment
 
-At the end of a scene, go around and ask the other players (not including the
-GM) whether you acted like your social role. You can use your bullet points to
-guide them if they are uncertain. For each other player who agrees you did, get
-a role token. Get one more for just showing up. (TODO: Maybe wanna make this
-secretive, to avoid groupthink? Perhaps scale per number of players?)
+At the end of every scene, hold a gossip session. Go around the table, and each
+player reads off their three social role bullet points. For each point that the
+table agrees they did, they get one token. The player in the spotlight _cannot_
+voice their opinion or suggest what they did that they think earns them a point
+unless everyone else at the table draws a blank and cannot decide one way or
+another. Everyone else, however, absolutely should discuss the spotlight
+character's behavior in as animated a fashion as they like!
 
-Then, tell the group whether you pursued either of your passions. For each one
-you pursued, get a passion token.
-
-Both of these will require some discussion and interpretation of what just
-happened.
+Then, the spotlight character tells the group whether they pursued either of
+their passions. For each one they pursued, they get a passion token. What's
+important here is that they explain how their actions were in support of the
+passion, and thus contextualize them for the table.
 
 ### Perception
 
