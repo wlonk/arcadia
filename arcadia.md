@@ -50,6 +50,10 @@ mix everyone up into one nice tangled community.
 At the start of the game, characters have a number of role tokens based on
 their social role, and two passion tokens.
 
+TODO: Define relationships.
+
+TODO: Define reputations. They affect how you gain social role tokens.
+
 ## The GM
 
 The GM controls the NPCs and provides adversity. It's their role to reinforce
