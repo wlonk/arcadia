@@ -4,8 +4,6 @@ A game of magic, manners, and madness.
 
 ## Notes:
 
-Ties: higher rank wins.
-
 Khaled: "The fairy should change our incentives. We could maybe have to choose
 whether to sacrifice what we've been doing to risk a greater payoff and greater
 fall from the fairy." The fairy should have some system for straight up
@@ -139,7 +137,9 @@ and describe how they prevaricate, deflect, or hold fast.
 
 Once both players have passed in a row, each player may reveal one or two
 cards. The player with the higher total gets what they wanted. The other player
-must and concede. 
+must concede. In the case of a tie, the higher-status person wins. In the case
+of a further tie, men win. In the case of a further further tie, the highest
+single card wins.
 
 The loser may, instead of conceding, choose to escalate. They make a desperate
 declaration, a passionate plea, or an earnest entreaty. They spend a passion
