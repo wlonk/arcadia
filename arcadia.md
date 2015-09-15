@@ -8,11 +8,6 @@ Allie: Reputations need to be a first-class object, and the surface they click
 on to is token-gain. If your reputation is damaged, token gain can become much
 harder.
 
-Kit: Perception rolls: what happens when you fail? How does it drive forward?
-Adjust ranges. Maybe have a "let something slip" mechanic in conflicts? Suits
-on perception roles are wrong as they stand, too. Clarifying questions are
-usually very targeted.
-
 The gossip session turns too much into groupthink. I think you need to ask the
 table to agree on whether you hit each of your three things. It needs to be
 very clearly structured: you go around and ask "did I do X?" and only if no one
@@ -201,22 +196,17 @@ passion, and thus contextualize them for the table.
 
 ### Perception
 
-Noticing things is a very important part of the genre. When your character
-needs to notice something, ask the person in question (the GM if it is about an
-NPC or the world at large, another player if it is about a PC) whether they let
-something slip. Flip a card from the top of the deck. Based on your social
-tier, you may or may not notice something. If your character starts with:
+Whether a character can correctly read another is a crucial part of the genre.
+When you wish to read another character, a kind of conflict ensues. Intimacy
+invites intimacy, so one or both of you will get to ask questions of the other.
+This conflict, however, is more about a moment, and doesn't allow for the same
+kind of back-and-forth and escalation as a normal conflict.
 
-  * 5 role tokens: notice on an A, 2, 3, 4.
-  * 4 role tokens: notice on an A, 2, 3, 4, 5, 6, 7.
-  * 3 role tokens: notice on an A, 2, 3, 4, 5, 6, 7, 8, 9.
+TODO: The suits probably matter here. The lower class person has more questions
+on their list. How/whether you get to ask them is independent of class.
 
-If you succeed, you may ask them one question based on the suit of the card:
-
-  * Spades: a secret (where do you go when you walk alone?)
-  * Hearts: a passion (who do you love?)
-  * Clubs: a sorrow (what do you regret?)
-  * Diamonds: a principle (what could get you to betray someone?)
+TODO: It should be possible for both sides to get a question, I think. The
+strength of the relationship increases the chance of success.
 
 They must then answer honestly, and describe how they let it slip:
 
