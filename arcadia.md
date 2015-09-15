@@ -19,7 +19,7 @@ Anyway, once the fairy shows up, something _really_ changes.
 
 Allie and Kate: Too many points, not enough expenditure.
 
-Kit: PC-NPC-PC triangles.
+Kit: PC-NPC-PC triangles. This is the fairy's bread and butter.
 
 [TOC]
 
