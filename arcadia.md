@@ -25,7 +25,14 @@ their social role, and two passion tokens.
 
 TODO: Define relationships.
 
-TODO: Define reputations. They affect how you gain social role tokens.
+TODO: Define reputations for each social role.
+
+Reputations: every social role has three role-token triggers. You can, under
+certain circumstances, ruin your reputation. Each trigger has a bad reputation
+associated with it; simply check the box for that bad reputation, and you no
+longer gain role tokens through that behavior. A gentleman might become, for
+instance, a rake, a drunkard, or a bully, and in each case, forfeit a way of
+gaining social role tokens.
 
 ## The GM
 
