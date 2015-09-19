@@ -182,23 +182,44 @@ passion, and thus contextualize them for the table.
 
 ### Perception
 
-Whether a character can correctly read another is a crucial part of the genre.
-When you wish to read another character, a kind of conflict ensues. Intimacy
-invites intimacy, so one or both of you will get to ask questions of the other.
-This conflict, however, is more about a moment, and doesn't allow for the same
-kind of back-and-forth and escalation as a normal conflict.
+When you want to read another character, describe how you're probing or
+observing, and you each draw a card per point of relationship you have with
+that character. Each red card lets you ask one question from the lists
+available to you.
 
-TODO: The suits probably matter here. The lower class person has more questions
-on their list. How/whether you get to ask them is independent of class.
+TODO determine the fine gradations of class.
 
-TODO: It should be possible for both sides to get a question, I think. The
-strength of the relationship increases the chance of success.
+When you are reading someone of a lower class than yourself, you may ask any of
+the following:
+
+  * What's your character really feeling? You need only answer with one word
+    ("anger", "fear", "satisfaction", "discomfort", etc.)
+  * Is your character telling the truth? You need only answer "yes" or "no".
+
+When you are reading someone of the same class as yourself, you may ask any of
+the following, or any from an earlier list:
+
+  * How could I get your character to ____?
+  * What does your character worry might happen?
+  * What does your character wish I'd do?
+
+When you are reading someone of a higher class than yourself, you may ask any
+of the following, or any from an earlier list:
+
+  * What does your character intend to do?
+  * How could I put your character in my debt?
+  * What is your character hiding?
 
 They must then answer honestly, and describe how they let it slip:
 
   * A gaze
   * A blush
   * A word
+
+If you fail to ask any questions, your probing or assumptions have damaged your
+relationship. Describe how, and reduce your relationship by 1.
+
+TODO how do you raise relationship, how do you lose it outside of this?
 
 ## Magic
 
