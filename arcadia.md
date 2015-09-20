@@ -200,6 +200,10 @@ available to you.
 
 TODO determine the fine gradations of class.
 
+TODO perhaps make this more about cost, than about whether-you-can. You
+basically roll to see how much it'll cost you, and you can't fully back out.
+Cost can exist in terms of relationship or maybe reputation.
+
 All of these questions pertain very much to the moment; we only ever get
 partial views of each other. This means that some questions, while they might
 in a broader sense have an answer, in the moment, they might not.
