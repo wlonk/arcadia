@@ -204,6 +204,18 @@ TODO perhaps make this more about cost, than about whether-you-can. You
 basically roll to see how much it'll cost you, and you can't fully back out.
 Cost can exist in terms of relationship or maybe reputation.
 
+TODO Alex points out that this is about "your knack for knowing what someone
+else wants", and I add "and how they feel". This is a useful frame for what
+we're doing here.
+
+TODO THIS IS THE THING! It's about what advantage you can take from it, isn't
+it?  I mean, it's about telling the table truths, but the table... wants to
+know. Allie and I just finished season 2 of _The Americans_, and one thing I
+was talking about is how deceiving the audience and then doing a big reveal
+never works as well as you think it will. It works better in an RPG sometimes,
+because you're participants as well as audience, but basically, this is about
+"can you get advantage from this knowledge"
+
 All of these questions pertain very much to the moment; we only ever get
 partial views of each other. This means that some questions, while they might
 in a broader sense have an answer, in the moment, they might not.
