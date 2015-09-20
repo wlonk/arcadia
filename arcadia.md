@@ -10,8 +10,8 @@ How do your relationships start out?
 
 How do you damage and recover and change:
 
-  * Reputations
-  * Relationships
+  * Reputations (action?)
+  * Relationships (gifts, selflessness, etc.)
 
 How does the fairy meaningfully change your incentive space? Your passions?
 
