@@ -6,6 +6,17 @@ A game of magic, manners, and madness.
 
 Allie and Kate: Too many points, not enough expenditure.
 
+How do your relationships start out?
+
+How do you damage and recover and change:
+
+  * Reputations
+  * Relationships
+
+How does the fairy meaningfully change your incentive space? Your passions?
+
+Re-edit passions.
+
 [TOC]
 
 ## Characters
@@ -188,6 +199,10 @@ that character. Each red card lets you ask one question from the lists
 available to you.
 
 TODO determine the fine gradations of class.
+
+All of these questions pertain very much to the moment; we only ever get
+partial views of each other. This means that some questions, while they might
+in a broader sense have an answer, in the moment, they might not.
 
 When you are reading someone of a lower class than yourself, you may ask any of
 the following:
