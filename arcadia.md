@@ -350,6 +350,13 @@ arrive, smelling your passion and seeking to feed on it.
 > start to consume you."
 > 
 > Kit: PC-NPC-PC triangles. This is the fairy's bread and butter.
+>
+> Kit: Everyone is low-privilege relative to the fairy. You have to navigate
+> its preferences; direct action will never avail you.
+>
+> Alex: Right, but none of the PCs is below the fairy's notice. So they'll
+> gladly do things for any PCs, as long as the PC amuses them. But whatever
+> they do is clumsy, and involves becoming more and more ensnared by the fairy.
 
 Some fairies:
 
