@@ -601,8 +601,8 @@ and obedient and respectful to those above you.
 | Draw a card when                     | Unless you are |
 |--------------------------------------|----------------|
 | you demonstrate your accomplishments | ...            |
-| ...                                  | ...            |
 | make those around you feel at ease   | ...            |
+| ...                                  | ...            |
 
 Tell us who is:
 
