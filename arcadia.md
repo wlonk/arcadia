@@ -584,17 +584,17 @@ You are expected to deviate from (reject? or wish fruitlessly you could conform
 to?) your society's feminine ideal, have secret wealth or knowledge, and draw
 strength from your relationships with other women.
 
-Draw a card when:
-
-  - no one really listens to you,
-  - you speak a truth no one else will,
-  - or you provide a compassionate ear for other women.
+| Draw a card when                                | Unless you are |
+|-------------------------------------------------|----------------|
+| no one really listens to you                    | a blatherskite |
+| you speak a truth no one else will              | a liar         |
+| you provide a compassionate ear for other women | a gossip       |
 
 Tell us who is:
 
-  - Your benefactor?
-  - Your dearest sister?
-  - The one who got away?
+  - Your benefactor
+  - Your dearest sister
+  - The one who got away
 
 Initial tokens: 4
 
@@ -605,11 +605,11 @@ acquaintance. A servant cannot impinge upon your honour, but neither can you
 suffer insolence from them. Another gentleman insulting you, your family, or a
 lady of your close acquaintance is a stain on your honour.
 
-Draw a card when:
-
-  - you display good judgment,
-  - act warm and welcoming,
-  - or defend the honour of someone close to you.
+| Draw a card when                          | Unless you are |
+|-------------------------------------------|----------------|
+| you display good judgment                 | a fool         |
+| act warm and welcoming                    | a creeper      |
+| defend the honour of someone close to you | a bully        |
 
 Tell us who is:
 
@@ -623,11 +623,11 @@ Initial tokens: 5
 
 You are expected to be disciplined, honorable and patriotic.
 
-Draw a card when:
-
-  - you display valour in the face of danger,
-  - XXX
-  - ...
+| Draw a card when                         | Unless you are |
+|------------------------------------------|----------------|
+| you display valour in the face of danger | reckless       |
+| you are gallant towards ladies           | a rake         |
+| put King and country first               | proud          |
 
 Tell us who:
 
