@@ -311,7 +311,7 @@ choose one to four):
   * A grave consequence:
       * The spell may not be undone.
       * The spell is blasphemous, and may bar the caster from Heaven.
-      * The spell requires bargaining with a fairy.
+      * The spell requires bargaining with a fairy. TODO: maybe they all do?
 
 Once you can fulfil the conditions, the spell will take effect. How _exactly_
 should be described collaboratively. For example, if you wish to build a
