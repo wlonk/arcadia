@@ -523,11 +523,11 @@ beautiful, charming, witty and accomplished can brighten it; being wanton,
 vain, shallow or crude can tarnish it. Be gentle and kind to those beneath you,
 and obedient and respectful to those above you.
 
-Draw a card when:
-
-  - you demonstrate your accomplishments,
-  - ...
-  - or make those around you feel at ease.
+| Draw a card when                     | Unless you are |
+|--------------------------------------|----------------|
+| you demonstrate your accomplishments | ...            |
+| ...                                  | ...            |
+| make those around you feel at ease   | ...            |
 
 Tell us who is:
 
@@ -544,17 +544,17 @@ position with a wealthy family as not-quite-a-servant. Set a good example for
 the children. Demonstrate your refinement and accomplishments. Ensure the moral
 behavior of your charges.
 
-Draw a card when:
-
-  - ...
-  - ...
-  - ...
+| Draw a card when | Unless you are |
+|------------------|----------------|
+| ...              | ...            |
+| ...              | ...            |
+| ...              | ...            |
 
 Tell us who is:
 
-  - Your employer?
-  - Your charge or charges?
-  - Your best friend?
+  - Your employer
+  - Your charge or charges
+  - Your best friend
 
 Initial tokens: 4
 
@@ -564,17 +564,17 @@ A young lady who has been sent to live with relatives. Either her parents are
 dead, or simply unable to raise her in the proper fashion. She is in the
 family, but perhaps not quite _of_ it.
 
-Draw a card when:
-
-  - demonstrate your accomplishments,
-  - obey your guardian,
-  - or pursue an appropriate courtship.
+| Draw a card when                 | Unless you are |
+|----------------------------------|----------------|
+| demonstrate your accomplishments | ...            |
+| obey your guardian               | ...            |
+| pursue an appropriate courtship  | ...            |
 
 Tell us who:
 
-  - Is your guardian?
-  - You rely on for financial support?
-  - Sees you as a threat, obstacle or imposition?
+  - Is your guardian
+  - You rely on for financial support
+  - Sees you as a threat, obstacle or imposition
 
 Initial tokens: 4
 
@@ -641,11 +641,11 @@ Initial tokens: 4
 
 ...
 
-Draw a card when:
-
-  - ...
-  - ...
-  - ...
+| Draw a card when | Unless you are |
+|------------------|----------------|
+| ...              | ...            |
+| ...              | ...            |
+| ...              | ...            |
 
 Tell us who is:
 
@@ -659,15 +659,15 @@ Initial tokens: 4
 
 You are expected to be...
 
-Draw a card when:
-
-  - ...,
-  - ...,
-  - or ...
+| Draw a card when | Unless you are |
+|------------------|----------------|
+| ...              | ...            |
+| ...              | ...            |
+| ...              | ...            |
 
 Tell us who is:
 
-  - Your rival?
+  - Your rival
   - ...
   - ...
 
@@ -680,11 +680,11 @@ heard, except when needed. Protect the honour of your master's house in the
 broader world. Discharge your duty to the family first; there is always more
 you can do.
 
-Draw a card when:
-
-  - you keep your master's confidence,
-  - act on their needs before they ask you,
-  - or when you subordinate your own interests to those of your master.
+| Draw a card when                                                | Unless you are |
+|-----------------------------------------------------------------|----------------|
+| you keep your master's confidence                               | ...            |
+| act on their needs before they ask you                          | ...            |
+| when you subordinate your own interests to those of your master | ...            |
 
 Tell us who is:
 
@@ -698,17 +698,17 @@ Initial tokens: 3
 
 You are expected to be home-bound, solicitous of others' health, and ...
 
-Draw a card when:
-
-  - ...
-  - ...
-  - ...
+| Draw a card when   | Unless you are |
+|--------------------|----------------|
+| ...                | ...            |
+| ...                | ...            |
+| ...                | ...            |
 
 Tell us who is:
 
-  - Your physician?
-  - Your source of comfort?
-  - Thinks you're playing it up for sympathy?
+  - Your physician
+  - Your source of comfort
+  - Thinks you're playing it up for sympathy
 
 Initial tokens: 4
 
@@ -716,17 +716,17 @@ Initial tokens: 4
 
 You are expected to be needy, itinerant, and thankful.
 
-Draw a card when:
-
-  - ...
-  - ...
-  - ...
+| Draw a card when   | Unless you are |
+|--------------------|----------------|
+| ...                | ...            |
+| ...                | ...            |
+| ...                | ...            |
 
 Tell us who:
 
-  - Is after you?
-  - Is your drinking companion?
-  - Gives you charity?
+  - Is after you
+  - Is your drinking companion
+  - Gives you charity
 
 Initial tokens: 3
 
@@ -734,17 +734,17 @@ Initial tokens: 3
 
 You are expected to be mysterious, wise, and unconventional.
 
-Draw a card when:
-
-  - ...
-  - ...
-  - ...
+| Draw a card when   | Unless you are |
+|--------------------|----------------|
+| Offer magical help | a fraud        |
+| ...                | ...            |
+| ...                | ...            |
 
 Tell us who:
 
-  - Is your patron?
-  - Wishes to be your student?
-  - Owes you the most for your magical aid?
+  - Is your patron
+  - Wishes to be your student
+  - Owes you the most for your magical aid
 
 Initial tokens: 4
 
