@@ -13,9 +13,9 @@ How do you damage and recover and change:
   * Reputations (action?)
   * Relationships (gifts, selflessness, etc.)
 
-How does the fairy meaningfully change your incentive space? Your passions?
+How does the fairy meaningfully change your incentive space? Your desires?
 
-Re-edit passions.
+Re-edit desires.
 
 [TOC]
 
@@ -187,9 +187,9 @@ another. Everyone else, however, absolutely should discuss the spotlight
 character's behavior in as animated a fashion as they like!
 
 Then, the spotlight character tells the group whether they pursued either of
-their passions. For each one they pursued, they get a passion token. What's
+their desires. For each one they pursued, they get a passion token. What's
 important here is that they explain how their actions were in support of the
-passion, and thus contextualize them for the table.
+desire, and thus contextualize them for the table.
 
 ### Perception
 
@@ -331,22 +331,22 @@ possibly leave.
 
 ### The Fairy
 
-The more you pursue and exercise your passions, the sooner the fairy will
+The more you pursue and exercise your desires, the sooner the fairy will
 arrive, smelling your passion and seeking to feed on it.
 
 > #### TODO:
 > 
 > Kate: "The fairy needs to be a sea-change, for everyone at once." That means
 > that there needs to be something like the _Dread_ tower, something inevitable
-> but uncertain, that triggers the fairy's arrival. Tied to passions probably?
+> but uncertain, that triggers the fairy's arrival. Tied to desires probably?
 > Anyway, once the fairy shows up, something _really_ changes.
 > 
-> Khaled: "The fairy should change our incentives. We could maybe have to choose
-> whether to sacrifice what we've been doing to risk a greater payoff and greater
-> fall from the fairy." The fairy should have some system for straight up
-> bargains and deals.
+> Khaled: "The fairy should change our incentives. We could maybe have to
+> choose whether to sacrifice what we've been doing to risk a greater payoff
+> and greater fall from the fairy." The fairy should have some system for
+> straight up bargains and deals.
 > 
-> Can the fairy intensify passions? "The fairy tempts you, and so your passions
+> Can the fairy intensify desires? "The fairy tempts you, and so your desires
 > start to consume you."
 > 
 > Kit: PC-NPC-PC triangles. This is the fairy's bread and butter.
