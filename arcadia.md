@@ -515,6 +515,81 @@ goods beyond your means.
 
 TODO edit a number of these.
 
+### King of Spades: Gentleman (♂)
+
+A single man, in possession of a good fortune. Let a lady decide the degree of
+acquaintance. A servant cannot impinge upon your honour, but neither can you
+suffer insolence from them. Another gentleman insulting you, your family, or a
+lady of your close acquaintance is a stain on your honour.
+
+| Draw a card when                          | Unless you are |
+|-------------------------------------------|----------------|
+| you display good judgment                 | a fool         |
+| act warm and welcoming                    | a creeper      |
+| defend the honour of someone close to you | a bully        |
+
+Tell us who is:
+
+  - Your cousin
+  - The tradesman you owe the most
+  - Your boon companion
+
+Initial tokens: 5
+
+### King of Hearts: Officer (♂)
+
+You are expected to be disciplined, honorable and patriotic.
+
+| Draw a card when                         | Unless you are |
+|------------------------------------------|----------------|
+| you display valour in the face of danger | reckless       |
+| you are gallant towards ladies           | a rake         |
+| put King and country first               | proud          |
+
+Tell us who:
+
+  - Is your commanding officer?
+  - Did you leave behind?
+  - ...
+
+Initial tokens: 4
+
+### King of Clubs: Clergyman (♂)
+
+...
+
+| Draw a card when | Unless you are |
+|------------------|----------------|
+| ...              | ...            |
+| ...              | ...            |
+| ...              | ...            |
+
+Tell us who is:
+
+  - ...
+  - ...
+  - ...
+
+Initial tokens: 4
+
+### King of Diamonds: Dandy (♂)
+
+You are expected to be...
+
+| Draw a card when | Unless you are |
+|------------------|----------------|
+| ...              | ...            |
+| ...              | ...            |
+| ...              | ...            |
+
+Tell us who is:
+
+  - Your rival
+  - ...
+  - ...
+
+Initial tokens: 4
+
 ### Queen of Spades: Lady (♀)
 
 A young lady, from a good family, with some hope of marriage. Your honour is
@@ -595,81 +670,6 @@ Tell us who is:
   - Your benefactor
   - Your dearest sister
   - The one who got away
-
-Initial tokens: 4
-
-### King of Spades: Gentleman (♂)
-
-A single man, in possession of a good fortune. Let a lady decide the degree of
-acquaintance. A servant cannot impinge upon your honour, but neither can you
-suffer insolence from them. Another gentleman insulting you, your family, or a
-lady of your close acquaintance is a stain on your honour.
-
-| Draw a card when                          | Unless you are |
-|-------------------------------------------|----------------|
-| you display good judgment                 | a fool         |
-| act warm and welcoming                    | a creeper      |
-| defend the honour of someone close to you | a bully        |
-
-Tell us who is:
-
-  - Your cousin
-  - The tradesman you owe the most
-  - Your boon companion
-
-Initial tokens: 5
-
-### King of Hearts: Officer (♂)
-
-You are expected to be disciplined, honorable and patriotic.
-
-| Draw a card when                         | Unless you are |
-|------------------------------------------|----------------|
-| you display valour in the face of danger | reckless       |
-| you are gallant towards ladies           | a rake         |
-| put King and country first               | proud          |
-
-Tell us who:
-
-  - Is your commanding officer?
-  - Did you leave behind?
-  - ...
-
-Initial tokens: 4
-
-### King of Clubs: Clergyman (♂)
-
-...
-
-| Draw a card when | Unless you are |
-|------------------|----------------|
-| ...              | ...            |
-| ...              | ...            |
-| ...              | ...            |
-
-Tell us who is:
-
-  - ...
-  - ...
-  - ...
-
-Initial tokens: 4
-
-### King of Diamonds: Dandy (♂)
-
-You are expected to be...
-
-| Draw a card when | Unless you are |
-|------------------|----------------|
-| ...              | ...            |
-| ...              | ...            |
-| ...              | ...            |
-
-Tell us who is:
-
-  - Your rival
-  - ...
-  - ...
 
 Initial tokens: 4
 
