@@ -695,11 +695,11 @@ Initial tokens: 4
 
 You are expected to be mysterious, wise, and unconventional.
 
-| Draw a card when   | Unless you are |
-|--------------------|----------------|
-| Offer magical help | a fraud        |
-| ...                | ...            |
-| ...                | ...            |
+| Draw a card when                        | Unless you are |
+|-----------------------------------------|----------------|
+| Offer magical help                      | a fraud        |
+| Defend your secrets at any cost         | corrupted      |
+| Are weird and eccentric and off-putting | a lunatic      |
 
 Tell us who:
 
