@@ -673,7 +673,43 @@ Tell us who is:
 
 Initial tokens: 4
 
-### Jack of Spades: Servant (⚲)
+### Jack of Spades: Invalid (⚲)
+
+You are expected to be home-bound, solicitous of others' health, and ...
+
+| Draw a card when   | Unless you are |
+|--------------------|----------------|
+| ...                | ...            |
+| ...                | ...            |
+| ...                | ...            |
+
+Tell us who is:
+
+  - Your physician
+  - Your source of comfort
+  - Thinks you're playing it up for sympathy
+
+Initial tokens: 4
+
+### Jack of Hearts: Magician (⚲)
+
+You are expected to be mysterious, wise, and unconventional.
+
+| Draw a card when   | Unless you are |
+|--------------------|----------------|
+| Offer magical help | a fraud        |
+| ...                | ...            |
+| ...                | ...            |
+
+Tell us who:
+
+  - Is your patron
+  - Wishes to be your student
+  - Owes you the most for your magical aid
+
+Initial tokens: 4
+
+### Jack of Clubs: Servant (⚲)
 
 A young man or woman in service to someone of quality. Be neither seen nor
 heard, except when needed. Protect the honour of your master's house in the
@@ -694,25 +730,7 @@ Tell us who is:
 
 Initial tokens: 3
 
-### Jack of Hearts: Invalid (⚲)
-
-You are expected to be home-bound, solicitous of others' health, and ...
-
-| Draw a card when   | Unless you are |
-|--------------------|----------------|
-| ...                | ...            |
-| ...                | ...            |
-| ...                | ...            |
-
-Tell us who is:
-
-  - Your physician
-  - Your source of comfort
-  - Thinks you're playing it up for sympathy
-
-Initial tokens: 4
-
-### Jack of Clubs: Vagabond (⚲)
+### Jack of Diamonds: Vagabond (⚲)
 
 You are expected to be needy, itinerant, and thankful.
 
@@ -729,24 +747,6 @@ Tell us who:
   - Gives you charity
 
 Initial tokens: 3
-
-### Jack of Diamonds: Magician (⚲)
-
-You are expected to be mysterious, wise, and unconventional.
-
-| Draw a card when   | Unless you are |
-|--------------------|----------------|
-| Offer magical help | a fraud        |
-| ...                | ...            |
-| ...                | ...            |
-
-Tell us who:
-
-  - Is your patron
-  - Wishes to be your student
-  - Owes you the most for your magical aid
-
-Initial tokens: 4
 
 ## Appendix: Names
 
