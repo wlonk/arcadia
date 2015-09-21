@@ -10,7 +10,8 @@ How do your relationships start out?
 
 How do you damage and recover and change:
 
-  * Reputations (action?)
+  * Reputations (Action? Association? What your friends and family do has to
+    matter.)
   * Relationships (gifts, selflessness, etc.)
 
 How does the fairy meaningfully change your incentive space? Your desires?
@@ -25,7 +26,8 @@ Characters have social roles (which give them role tokens) and desires (which
 give them passion tokens). TODO: Give these real names. "clout"? Something more
 period?
 
-Characters have relationships with NPCs and each other.
+Characters have relationships with NPCs and each other. Relationships are rated
+from one to three.
 
 When you first make characters, there are formal relationships defined by your
 social role and emotional relationships defined by your desires. Use these to
@@ -357,6 +359,10 @@ arrive, smelling your passion and seeking to feed on it.
 > Alex: Right, but none of the PCs is below the fairy's notice. So they'll
 > gladly do things for any PCs, as long as the PC amuses them. But whatever
 > they do is clumsy, and involves becoming more and more ensnared by the fairy.
+>
+> The fairy can probably make bargains with you: it'll do X, if you do Y, and
+> if you renege, it can withhold something (Passion tokens? Access to desires?
+> The latter feels more parallel to Reputations.)
 
 Some fairies:
 
@@ -580,13 +586,13 @@ strength from your relationships with other women.
 
 Draw a card when:
 
-  - ...
-  - ...
-  - ...
+  - no one really listens to you,
+  - you speak a truth no one else will,
+  - or you provide a compassionate ear for other women.
 
 Tell us who is:
 
-  - ...
+  - Your benefactor?
   - Your dearest sister?
   - The one who got away?
 
@@ -619,8 +625,8 @@ You are expected to be disciplined, honorable and patriotic.
 
 Draw a card when:
 
-  - ...
-  - ...
+  - you display valour in the face of danger,
+  - XXX
   - ...
 
 Tell us who:
