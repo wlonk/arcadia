@@ -92,11 +92,6 @@ remark. Humans are humans and every supposed rule of a society has occasional
 exceptions. Sometimes first names are used, sometimes servants aren't woken in
 the middle of the night.
 
-**Who's Who**: when you need a new NPC, simply draw a card, interpret it,
-describe the character and assign them that card. At the end of the season,
-when NPC cards are re-assigned, their card may change, but for now, be guided
-by how fate describes them.
-
 **Understatement**: you can achieve a feeling of magical realism by maintaining
 understatement, a calm matter-of-fact aspect to describing magic. To paraphrase
 Mark Twain, do not "glance around from face to face, collecting applause". This
