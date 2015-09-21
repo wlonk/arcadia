@@ -534,7 +534,7 @@ Tell us who is:
   - The tradesman you owe the most
   - Your boon companion
 
-Initial tokens: 5
+Initial social role tokens: 5
 
 ### King of Hearts: Officer (♂)
 
@@ -552,7 +552,7 @@ Tell us who:
   - Did you leave behind?
   - ...
 
-Initial tokens: 4
+Initial social role tokens: 4
 
 ### King of Clubs: Clergyman (♂)
 
@@ -570,7 +570,7 @@ Tell us who is:
   - ...
   - ...
 
-Initial tokens: 4
+Initial social role tokens: 4
 
 ### King of Diamonds: Dandy (♂)
 
@@ -588,7 +588,7 @@ Tell us who is:
   - ...
   - ...
 
-Initial tokens: 4
+Initial social role tokens: 4
 
 ### Queen of Spades: Lady (♀)
 
@@ -610,7 +610,7 @@ Tell us who is:
   - Your lady's maid
   - Your best friend
 
-Initial tokens: 5
+Initial social role tokens: 5
 
 ### Queen of Hearts: Governess (♀)
 
@@ -631,7 +631,7 @@ Tell us who is:
   - Your charge or charges
   - Your best friend
 
-Initial tokens: 4
+Initial social role tokens: 4
 
 ### Queen of Clubs: Ward (♀)
 
@@ -651,7 +651,7 @@ Tell us who:
   - You rely on for financial support
   - Sees you as a threat, obstacle or imposition
 
-Initial tokens: 4
+Initial social role tokens: 4
 
 ### Queen of Diamonds: Spinster (♀)
 
@@ -671,7 +671,7 @@ Tell us who is:
   - Your dearest sister
   - The one who got away
 
-Initial tokens: 4
+Initial social role tokens: 4
 
 ### Jack of Spades: Invalid (⚲)
 
@@ -689,7 +689,7 @@ Tell us who is:
   - Your source of comfort
   - Thinks you're playing it up for sympathy
 
-Initial tokens: 4
+Initial social role tokens: 4
 
 ### Jack of Hearts: Magician (⚲)
 
@@ -707,7 +707,7 @@ Tell us who:
   - Wishes to be your student
   - Owes you the most for your magical aid
 
-Initial tokens: 4
+Initial social role tokens: 4
 
 ### Jack of Clubs: Servant (⚲)
 
@@ -728,7 +728,7 @@ Tell us who is:
   - The apple of your eye
   - Your confidante
 
-Initial tokens: 3
+Initial social role tokens: 3
 
 ### Jack of Diamonds: Vagabond (⚲)
 
@@ -746,7 +746,7 @@ Tell us who:
   - Is your drinking companion
   - Gives you charity
 
-Initial tokens: 3
+Initial social role tokens: 3
 
 ## Appendix: Names
 
