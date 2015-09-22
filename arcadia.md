@@ -23,8 +23,7 @@ Re-edit desires.
 ## Characters
 
 Characters have social roles (which give them role tokens) and desires (which
-give them passion tokens). TODO: Give these real names. "clout"? Something more
-period?
+give them passion tokens).
 
 Characters have relationships with NPCs and each other. Relationships are rated
 from one to three.
@@ -37,8 +36,6 @@ At the start of the game, characters have a number of role tokens based on
 their social role, and two passion tokens.
 
 TODO: Define relationships.
-
-TODO: Define reputations for each social role.
 
 Reputations: every social role has three role-token triggers. You can, under
 certain circumstances, ruin your reputation. Each trigger has a bad reputation
@@ -128,12 +125,14 @@ demand something, put forward one or more tokens (you get tokens from upholding
 your social role). Each time you put forward tokens, draw one card per token.
 Each time you put forward tokens, describe how you push your case.
 
-You can demand behavior: apology, support, etc, but not feelings (i.e. you
+You can demand behavior: apology, support, etc., but not feelings (i.e. you
 cannot demand "love me", but you can demand "propose to me").
 
 The other player may then pass or push. They may push forward one or more
 tokens, and draw that many cards (and press _their_ case), or they may pass,
 and describe how they prevaricate, deflect, or hold fast.
+
+NPCs always get one card for free.
 
 Once both players have passed in a row, each player may reveal one or two
 cards. The player with the higher total gets what they wanted. The other player
@@ -150,23 +149,14 @@ choose to further escalate (and spend their own passion point, and flip a card
 themselves, as above), or graciously accept defeat.
 
 When bargaining with a fairy, you do not spend social points. Instead, you buy
-cards with passion points, and may put down up to three. You may not escalate
+cards with passion tokens, and may put down up to three. You may not escalate
 as above.
 
-TODO: Details on losing at cost. It's like, don't get the stakes, and take
-fallout. Use old fallout rules, about reputations, relationships, etc, getting
-damaged?
-
-  - A Bad Reputation
-  - A Curse
-  - A Lovers
-  - A Promise
-  - A Rumour
-  - A Warning
-  - Anger
-  - Illness
-  - Intoxication
-  - Shame
+When you lose at cost, you have damaged one of your reputations or the
+relationship at hand. Choose whichever is most appropriate. If you have damaged
+a reputation, mark off a box next to it. Once a reputation has three boxes
+marked, you cannot use it during Replenishment (see below) until you have fully
+recovered it. If you have damaged a relationship, mark a suit by it.
 
 The GM chooses when a scene is over, and frames the next scene, though in both
 cases they should consider input from the players. All the rules in
@@ -188,6 +178,9 @@ their desires. For each one they pursued, they get a passion token. What's
 important here is that they explain how their actions were in support of the
 desire, and thus contextualize them for the table.
 
+NPCs who were present in the scene each recover two role tokens if they are
+below their starting value, one if they are at or above it.
+
 ### Perception
 
 When you want to read another character, describe how you're probing or
@@ -195,23 +188,37 @@ observing, and you each draw a card per point of relationship you have with
 that character. Each red card lets you ask one question from the lists
 available to you.
 
-TODO determine the fine gradations of class.
-
-TODO perhaps make this more about cost, than about whether-you-can. You
-basically roll to see how much it'll cost you, and you can't fully back out.
-Cost can exist in terms of relationship or maybe reputation.
-
-TODO Alex points out that this is about "your knack for knowing what someone
-else wants", and I add "and how they feel". This is a useful frame for what
-we're doing here.
-
-TODO THIS IS THE THING! It's about what advantage you can take from it, isn't
-it?  I mean, it's about telling the table truths, but the table... wants to
-know. Allie and I just finished season 2 of _The Americans_, and one thing I
-was talking about is how deceiving the audience and then doing a big reveal
-never works as well as you think it will. It works better in an RPG sometimes,
-because you're participants as well as audience, but basically, this is about
-"can you get advantage from this knowledge"
+> #### TODO
+>
+> Determine the fine gradations of class. This applies to both reading and who
+> wins ties, in [Scenes](#scenes), above.
+>
+> Perhaps make this more about cost, than about whether-you-can. You basically
+> roll to see how much it'll cost you, and you can't fully back out.  Cost can
+> exist in terms of relationship or maybe reputation.
+>
+> Alex points out that this is about "your knack for knowing what someone else
+> wants", and I add "and how they feel". This is a useful frame for what we're
+> doing here.
+>
+> THIS IS THE THING! It's about what advantage you can take from it, isn't it?
+> I mean, it's about telling the table truths, but the table _wants_ to know.
+> Allie and I just finished season 2 of _The Americans_, and one thing I was
+> talking about is how deceiving the audience and then doing a big reveal never
+> works as well as you think it will. It works better in an RPG sometimes,
+> because you're participants as well as audience, but basically, this is about
+> "can you get advantage from this knowledge"
+>
+> Make this have mixed outcomes. You can ask questions, but get some lies, or
+> counter-questions, or something, based on the number of suits of damage on
+> the relationship. (See [Scenes](#scenes) above.)
+>
+> So, you can ask up to one question per point of relationship strength, and
+> then you flip one card per question. Each card that comes up a suit of that
+> relationship's damage can be a lie.
+>
+> This means that relationships have _strength_ and _health_ as separate
+> concepts. You can intensify a relationship and you can heal them, either.
 
 All of these questions pertain very much to the moment; we only ever get
 partial views of each other. This means that some questions, while they might
