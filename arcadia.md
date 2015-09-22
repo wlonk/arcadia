@@ -152,11 +152,10 @@ When bargaining with a fairy, you do not spend social points. Instead, you buy
 cards with passion tokens, and may put down up to three. You may not escalate
 as above.
 
-When you lose at cost, you have damaged one of your reputations or the
-relationship at hand. Choose whichever is most appropriate. If you have damaged
-a reputation, mark off a box next to it. Once a reputation has three boxes
-marked, you cannot use it during Replenishment (see below) until you have fully
-recovered it. If you have damaged a relationship, mark a suit by it.
+When you lose at cost, you have damaged one of your reputations. Choose
+whichever is most appropriate and mark off a box next to it. Once a reputation
+has three boxes marked, you cannot use it during Replenishment (see below)
+until you have fully recovered it.
 
 The GM chooses when a scene is over, and frames the next scene, though in both
 cases they should consider input from the players. All the rules in
