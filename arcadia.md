@@ -35,7 +35,9 @@ mix everyone up into one nice tangled community.
 At the start of the game, characters have a number of role tokens based on
 their social role, and two passion tokens.
 
-TODO: Define relationships.
+> #### TODO
+>
+> Define relationships.
 
 Reputations: every social role has three role-token triggers. You can, under
 certain circumstances, ruin your reputation. Each trigger has a bad reputation
@@ -253,7 +255,9 @@ They must then answer honestly, and describe how they let it slip:
 If you fail to ask any questions, your probing or assumptions have damaged your
 relationship. Describe how, and reduce your relationship by 1.
 
-TODO how do you raise relationship, how do you lose it outside of this?
+> #### TODO
+>
+> How do you raise relationship, how do you lose it outside of this?
 
 ## Magic
 
@@ -275,7 +279,9 @@ and rain once again bring visitors. Magic is returning to England.
 
 ### Casting Spells
 
-TODO: Each social role has a particular situation in which they can cast a spell.
+> #### TODO
+>
+> Each social role has a particular situation in which they can cast a spell.
 
 When you cast a spell, describe the effect you hope to achieve, and the GM will
 tell you which of the following are required to make it happen (they will
@@ -312,7 +318,11 @@ choose one to four):
   * A grave consequence:
       * The spell may not be undone.
       * The spell is blasphemous, and may bar the caster from Heaven.
-      * The spell requires bargaining with a fairy. TODO: maybe they all do?
+      * The spell requires bargaining with a fairy.
+
+> #### TODO
+>
+> Maybe they all require the fairy, right? So that shouldn't be on the list.
 
 Once you can fulfil the conditions, the spell will take effect. How _exactly_
 should be described collaboratively. For example, if you wish to build a
@@ -374,7 +384,9 @@ Some fairies:
 
 ### Effects
 
-TODO expand and clarify this.
+> #### TODO
+>
+> Expand and clarify this list.
 
   0.  The Fool: luck
   1.  The Magician: sight
@@ -408,7 +420,9 @@ modify their reputations and relationships and possibly some other things. They
 may also change out a desire, and should redefine their relationships with the
 NPCs.
 
-TODO: Actually make growth questions.
+> #### TODO
+>
+> Actually make growth questions.
 
 Perhaps XP can also be used to expand Perception questions?
 
@@ -433,7 +447,9 @@ below:
 
 ## Appendix: Desires
 
-TODO edit these. They should be non-evil, but socially difficult. Active, too.
+> #### TODO
+>
+> Edit these. They should be non-evil, but socially difficult. Active, too.
 
 ### Mad, Bad and Dangerous to Know
 
@@ -514,7 +530,9 @@ goods beyond your means.
 
 ## Appendix: Social Roles
 
-TODO edit a number of these.
+> #### TODO
+>
+> Edit a number of these.
 
 ### King of Spades: Gentleman (♂)
 
