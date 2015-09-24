@@ -370,7 +370,7 @@ Some fairies:
 
 > #### TODO
 >
-> Expand and clarify this list.
+> Expand and clarify this list of major-arcana-to-spell-topics.
 
   0.  The Fool: luck
   1.  The Magician: sight
@@ -433,7 +433,8 @@ below:
 
 > #### TODO
 >
-> Edit these. They should be non-evil, but socially difficult. Active, too.
+> Edit these desires. They should be non-evil, but socially difficult. Active,
+> too.
 
 ### Mad, Bad and Dangerous to Know
 
@@ -516,7 +517,7 @@ goods beyond your means.
 
 > #### TODO
 >
-> Edit a number of these.
+> Edit social roles.
 
 ### King of Spades: Gentleman (♂)
 
