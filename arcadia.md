@@ -35,9 +35,18 @@ mix everyone up into one nice tangled community.
 At the start of the game, characters have a number of role tokens based on
 their social role, and two passion tokens.
 
-> #### TODO
->
-> Define relationships.
+Every relationship a character has is rated from one to four:
+
+  1. A near-stranger; someone to whom you've just been introduced.
+  2. A casual acquaintance; someone you know around town.
+  3. A good friend; someone whose company you seek.
+  4. A boon companion or lover; someone whose absence you could not do without.
+
+At the start of the game, your relationships will be specified by your choices
+during character creation.
+
+At the end of a session, you may adjust any relationships you have, by mutual
+accord of both parties involved.
 
 Reputations: every social role has three role-token triggers. You can, under
 certain circumstances, ruin your reputation. Each trigger has a bad reputation
@@ -184,42 +193,15 @@ below their starting value, one if they are at or above it.
 
 ### Perception
 
-When you want to read another character, describe how you're probing or
-observing, and you each draw a card per point of relationship you have with
-that character. Each red card lets you ask one question from the lists
-available to you.
-
-> #### TODO
->
-> Determine the fine gradations of class. This applies to both reading and who
-> wins ties, in [Scenes](#scenes), above.
->
-> Perhaps make this more about cost, than about whether-you-can. You basically
-> roll to see how much it'll cost you, and you can't fully back out.  Cost can
-> exist in terms of relationship or maybe reputation.
->
-> Alex points out that this is about "your knack for knowing what someone else
-> wants", and I add "and how they feel". This is a useful frame for what we're
-> doing here.
->
-> THIS IS THE THING! It's about what advantage you can take from it, isn't it?
-> I mean, it's about telling the table truths, but the table _wants_ to know.
-> Allie and I just finished season 2 of _The Americans_, and one thing I was
-> talking about is how deceiving the audience and then doing a big reveal never
-> works as well as you think it will. It works better in an RPG sometimes,
-> because you're participants as well as audience, but basically, this is about
-> "can you get advantage from this knowledge"
->
-> Make this have mixed outcomes. You can ask questions, but get some lies, or
-> counter-questions, or something, based on the number of suits of damage on
-> the relationship. (See [Scenes](#scenes) above.)
->
-> So, you can ask up to one question per point of relationship strength, and
-> then you flip one card per question. Each card that comes up a suit of that
-> relationship's damage can be a lie.
->
-> This means that relationships have _strength_ and _health_ as separate
-> concepts. You can intensify a relationship and you can heal them, either.
+When you read another person, ask them a question from those allowed based on
+your relative rank. Then, draw one to four cards, depending on the strength of
+your relationship. You are looking for a card that matches their suit (see the
+card associations of the social roles; the GM can adjudicate for NPCs). If you
+don't get such a card, you may have an inkling, and should describe what you
+think to be the answer. If you do get such a card, you know positively. The
+other person must answer your question truthfully, and you may take that answer
+as advantage once when you later try to get that character to do something.
+("Advantage" gives you one free card in a conflict.)
 
 All of these questions pertain very much to the moment; we only ever get
 partial views of each other. This means that some questions, while they might
@@ -251,13 +233,6 @@ They must then answer honestly, and describe how they let it slip:
   * A gaze
   * A blush
   * A word
-
-If you fail to ask any questions, your probing or assumptions have damaged your
-relationship. Describe how, and reduce your relationship by 1.
-
-> #### TODO
->
-> How do you raise relationship, how do you lose it outside of this?
 
 ## Magic
 
