@@ -26,7 +26,7 @@ Characters have social roles (which give them role tokens) and desires (which
 give them passion tokens).
 
 Characters have relationships with NPCs and each other. Relationships are rated
-from one to three.
+from one to four.
 
 When you first make characters, there are formal relationships defined by your
 social role and emotional relationships defined by your desires. Use these to
@@ -34,6 +34,8 @@ mix everyone up into one nice tangled community.
 
 At the start of the game, characters have a number of role tokens based on
 their social role, and two passion tokens.
+
+### Relationships
 
 Every relationship a character has is rated from one to four:
 
@@ -48,12 +50,19 @@ during character creation.
 At the end of a session, you may adjust any relationships you have, by mutual
 accord of both parties involved.
 
-Reputations: every social role has three role-token triggers. You can, under
-certain circumstances, ruin your reputation. Each trigger has a bad reputation
-associated with it; simply check the box for that bad reputation, and you no
-longer gain role tokens through that behavior. A gentleman might become, for
-instance, a rake, a drunkard, or a bully, and in each case, forfeit a way of
-gaining social role tokens.
+Relationships are constrained, though. You cannot be intimates with the entire
+world. At any time, you may have no more than two level four relationships,
+three level three, and five level two. Yes, these numbers are small; it's a
+game, the cast is likewise small.
+
+### Reputations
+
+Every social role has three role-token triggers. You can, under certain
+circumstances, ruin your reputation. Each trigger has a bad reputation
+associated with it; once you have checked all the boxes next to a reputation,
+you have earned it and you no longer gain role tokens through that behavior. A
+gentleman might become, for instance, a fool, a libertine, or a bully, and in
+each case, forfeit a way of gaining social role tokens.
 
 ## The GM
 
@@ -519,7 +528,7 @@ lady of your close acquaintance is a stain on your honour.
 | Draw a card when                          | Unless you are |
 |-------------------------------------------|----------------|
 | you display good judgment                 | a fool         |
-| act warm and welcoming                    | a creeper      |
+| act warm and welcoming                    | a libertine    |
 | defend the honour of someone close to you | a bully        |
 
 Tell us who is:
