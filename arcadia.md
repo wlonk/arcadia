@@ -46,7 +46,7 @@ circumstances, ruin your reputation. Each trigger has a bad reputation
 associated with it; once you have checked all the boxes next to a reputation,
 you have earned it and you no longer gain role tokens through that behavior. A
 gentleman might become, for instance, a fool, a libertine, or a bully, and in
-each case, forfeit a way of gaining social role tokens.
+each case, forfeit a way of gaining role tokens.
 
 ## The GM
 
@@ -59,19 +59,26 @@ particularly how they feel about the PCs and each other. This will help them
 drive the action from the NPCs' point of view. Remember to think about and
 communicate what will happen if the PCs don't act.
 
-In a conflict, the PCs' reputations and self-images are at risk. An emotional
-outburst can damage either. If they never make an outburst, they stand a real
-chance of not getting what they want. So, outbursts are saying "this is worth
-the risk". And if it never is worth the risk for someone, _push harder_.
-Loveless marriages, disownment and penury, abusive masters, all this and more
-are real risks. Think about what will happen if the PCs don't intervene for
-their own interests, and push for that.
+In a conflict, an emotional outburst puts a PC's reputation at risk. If they
+never make an outburst, they stand a real chance of not getting what they want.
+So, outbursts are saying "this is worth the risk". And if it never is worth the
+risk for someone, _push harder_.  Loveless marriages, disownment and penury,
+abusive masters, all this and more are real risks. Think about what will happen
+if the PCs don't intervene for their own interests, and push for that.
+
+_Yes this is a vicious cycle._ If you damage your reputation, getting more role
+tokens becomes harder, and thus you are more likely to have to risk your
+reputation in future.
 
 > #### TODO
 >
 > Need to put my designer-thumb more on the Devil's side of the scales in
 > conflicts, to make it more true that you need to outburst. Also, perhaps,
 > mechanize risks to self-conception?
+>
+> Also, of course, reputations need to be by-association: the actions of your
+> family and the friends you keep can influence your reputation. No, it's not
+> fair. Yes, it's the point.
 
 Now, the fairy offers absolution, victory, revenge, power. But it is a cat
 playing with mice, a child playing with dolls. It has no real conception of
@@ -139,24 +146,23 @@ feelings for her."
 
 Have one deck.
 
-Each player starts the game with role tokens equal to their starting rank. Each
+Each player starts the game with role tokens based on their social role. Each
 player also starts with two passion tokens.
 
 The GM starts with role tokens on each NPC based on their rank. They do not get
 passion tokens: those are representative of the unique power and passions that
 the PCs possess that draw the fairy's interest. NPCs regain tokens differently
-from PCs. NPCs get two tokens at the end of any scene, up to their max (based
-on social role).
+from PCs. For that, see [Gossip](#gossip) below.
 
 When one character wants something from another, they can demand it. When you
-demand something, put forward one or more tokens (you get tokens from upholding
-your social role). Each time you put forward tokens, draw one card per token.
-Each time you put forward tokens, describe how you push your case.
+demand something, put forward one or more role tokens. Each time you put
+forward role tokens, draw one card per token.  Each time you put forward
+tokens, describe how you push your case.
 
 You can demand behavior: apology, support, etc., but not feelings (i.e. you
 cannot demand "love me", but you can demand "propose to me").
 
-The other player may then pass or push. They may push forward one or more
+The other player may then pass or push. They may push forward one or more role
 tokens, and draw that many cards (and press _their_ case), or they may pass,
 and describe how they prevaricate, deflect, or hold fast.
 
@@ -168,6 +174,8 @@ must concede. In the case of a tie, the higher-status person wins. In the case
 of a further tie, men win. In the case of a further further tie, the highest
 single card wins.
 
+(For the purposes of calculating totals, aces are 1, face cards are 10.)
+
 The loser may, instead of conceding, choose to escalate. They make a desperate
 declaration, a passionate plea, or an earnest entreaty. They spend a passion
 point. They may then flip one card from the top of the deck and add it to their
@@ -177,8 +185,8 @@ choose to further escalate (and spend their own passion point, and flip a card
 themselves, as above), or graciously accept defeat.
 
 When bargaining with a fairy, you do not spend social points. Instead, you buy
-cards with passion tokens, and may put down up to three. You may not escalate
-as above.
+cards with passion tokens, and may put forward up to three cards at the moment
+of truth. You may not escalate as above.
 
 When you lose at cost, you have damaged one of your reputations. Choose
 whichever is most appropriate and mark off a box next to it. Once a reputation
@@ -194,11 +202,11 @@ folks who are getting low on tokens and may need a chance to replenish.
 
 At the end of every scene, hold a gossip session. Go around the table, and each
 player reads off their three social role bullet points. For each point that the
-table agrees they did, they get one token. The player in the spotlight _cannot_
-voice their opinion or suggest what they did that they think earns them a point
-unless everyone else at the table draws a blank and cannot decide one way or
-another. Everyone else, however, absolutely should discuss the spotlight
-character's behavior in as animated a fashion as they like!
+table agrees they did, they get one role token. The player in the spotlight
+_cannot_ voice their opinion or suggest what they did that they think earns
+them a point unless everyone else at the table draws a blank and cannot decide
+one way or another. Everyone else, however, absolutely should discuss the
+spotlight character's behavior in as animated a fashion as they like!
 
 Then, the spotlight character tells the group whether they pursued either of
 their desires. For each one they pursued, they get a passion token. What's
@@ -285,6 +293,10 @@ access to one of your desires. It will no longer nourish you.
 > that there needs to be something like the _Dread_ tower, something inevitable
 > but uncertain, that triggers the fairy's arrival. Tied to desires probably?
 > Anyway, once the fairy shows up, something _really_ changes.
+>
+> I think that the real trigger for "does the fairy show up" is this: is
+> someone in enough of a bind that they might say "yes" to a fairy bargain? If
+> not, push them harder, until someone is.
 > 
 > Khaled: "The fairy should change our incentives. We could maybe have to
 > choose whether to sacrifice what we've been doing to risk a greater payoff
@@ -294,8 +306,6 @@ access to one of your desires. It will no longer nourish you.
 > Can the fairy intensify desires? "The fairy tempts you, and so your desires
 > start to consume you."
 > 
-> Kit: PC-NPC-PC triangles. This is the fairy's bread and butter.
->
 > Kit: Everyone is low-privilege relative to the fairy. You have to navigate
 > its preferences; direct action will never avail you.
 >
