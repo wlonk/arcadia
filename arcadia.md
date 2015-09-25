@@ -316,6 +316,22 @@ access to one of your desires. It will no longer nourish you.
 > The fairy can probably make bargains with you: it'll do X, if you do Y, and
 > if you renege, it can withhold something (Passion tokens? Access to desires?
 > The latter feels more parallel to Reputations.)
+>
+> Amir points out that in order to make bargains, the fairy has to have needs
+> and wants, and I point out that in order to be dramatically meaningful, they
+> have to relate to the town and people you're playing with. So the fairy wants
+> you to help it, and will help you in exchange, but this is not good-faith
+> negotiation.
+>
+> How, then, do you defeat a fairy? By playing its promises, bargains, and
+> constraints against each other. Cú Chulainn's geasa, for instance.
+>
+> So, together, these are the positive and negative stakes for the fairy, thus
+> making them dramatically tractable.
+>
+> An example fairy need: "Someone in this town has an old heirloom that the
+> fairy needs to overthrow their enemy in a kingdom on the far side of hell.
+> What is it, and why can't they just take it?"
 
 Some fairies:
 
