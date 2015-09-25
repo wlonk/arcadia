@@ -450,9 +450,9 @@ acquaintance. A servant cannot impinge upon your honour, but neither can you
 suffer insolence from them. Another gentleman insulting you, your family, or a
 lady of your close acquaintance is a stain on your honour.
 
-| Draw a card when                          | Unless you are |
+| Draw a card when you                      | Unless you are |
 |-------------------------------------------|----------------|
-| you display good judgment                 | a fool         |
+| display good judgment                     | a fool         |
 | act warm and welcoming                    | a libertine    |
 | defend the honour of someone close to you | a bully        |
 
@@ -468,11 +468,11 @@ Initial social role tokens: 5
 
 You are expected to be disciplined, honorable and patriotic.
 
-| Draw a card when                         | Unless you are |
-|------------------------------------------|----------------|
-| you display valour in the face of danger | reckless       |
-| you are gallant towards ladies           | a rake         |
-| put King and country first               | proud          |
+| Draw a card when you                 | Unless you are |
+|--------------------------------------|----------------|
+| display valour in the face of danger | reckless       |
+| are gallant towards ladies           | a rake         |
+| put King and country first           | proud          |
 
 Tell us who:
 
@@ -486,11 +486,11 @@ Initial social role tokens: 4
 
 ...
 
-| Draw a card when | Unless you are |
-|------------------|----------------|
-| ...              | ...            |
-| ...              | ...            |
-| ...              | ...            |
+| Draw a card when you | Unless you are |
+|----------------------|----------------|
+| ...                  | ...            |
+| ...                  | ...            |
+| ...                  | ...            |
 
 Tell us who is:
 
@@ -504,11 +504,11 @@ Initial social role tokens: 4
 
 You are expected to be...
 
-| Draw a card when | Unless you are |
-|------------------|----------------|
-| ...              | ...            |
-| ...              | ...            |
-| ...              | ...            |
+| Draw a card when you | Unless you are |
+|----------------------|----------------|
+| ...                  | ...            |
+| ...                  | ...            |
+| ...                  | ...            |
 
 Tell us who is:
 
@@ -526,11 +526,11 @@ beautiful, charming, witty and accomplished can brighten it; being wanton,
 vain, shallow or crude can tarnish it. Be gentle and kind to those beneath you,
 and obedient and respectful to those above you.
 
-| Draw a card when                     | Unless you are |
-|--------------------------------------|----------------|
-| you demonstrate your accomplishments | ...            |
-| make those around you feel at ease   | ...            |
-| ...                                  | ...            |
+| Draw a card when you               | Unless you are |
+|------------------------------------|----------------|
+| demonstrate your accomplishments   | ...            |
+| make those around you feel at ease | ...            |
+| ...                                | ...            |
 
 Tell us who is:
 
@@ -547,11 +547,11 @@ position with a wealthy family as not-quite-a-servant. Set a good example for
 the children. Demonstrate your refinement and accomplishments. Ensure the moral
 behavior of your charges.
 
-| Draw a card when | Unless you are |
-|------------------|----------------|
-| ...              | ...            |
-| ...              | ...            |
-| ...              | ...            |
+| Draw a card when you | Unless you are |
+|----------------------|----------------|
+| ...                  | ...            |
+| ...                  | ...            |
+| ...                  | ...            |
 
 Tell us who is:
 
@@ -567,7 +567,7 @@ A young lady who has been sent to live with relatives. Either her parents are
 dead, or simply unable to raise her in the proper fashion. She is in the
 family, but perhaps not quite _of_ it.
 
-| Draw a card when                 | Unless you are |
+| Draw a card when you             | Unless you are |
 |----------------------------------|----------------|
 | demonstrate your accomplishments | ...            |
 | obey your guardian               | ...            |
@@ -583,9 +583,9 @@ Initial social role tokens: 4
 
 ### Queen of Diamonds: Spinster (♀)
 
-You are expected to deviate from (reject? or wish fruitlessly you could conform
-to?) your society's feminine ideal, have secret wealth or knowledge, and draw
-strength from your relationships with other women.
+You are expected to deviate from your society's feminine ideal, have secret
+wealth or knowledge, and draw strength from your relationships with other
+women.
 
 | Draw a card when                                | Unless you are |
 |-------------------------------------------------|----------------|
@@ -605,11 +605,11 @@ Initial social role tokens: 4
 
 You are expected to be home-bound, solicitous of others' health, and ...
 
-| Draw a card when   | Unless you are |
-|--------------------|----------------|
-| ...                | ...            |
-| ...                | ...            |
-| ...                | ...            |
+| Draw a card when you | Unless you are |
+|----------------------|----------------|
+| ...                  | ...            |
+| ...                  | ...            |
+| ...                  | ...            |
 
 Tell us who is:
 
@@ -623,7 +623,7 @@ Initial social role tokens: 4
 
 You are expected to be mysterious, wise, and unconventional.
 
-| Draw a card when                        | Unless you are |
+| Draw a card when you                    | Unless you are |
 |-----------------------------------------|----------------|
 | Offer magical help                      | a fraud        |
 | Defend your secrets at any cost         | corrupted      |
@@ -644,11 +644,11 @@ heard, except when needed. Protect the honour of your master's house in the
 broader world. Discharge your duty to the family first; there is always more
 you can do.
 
-| Draw a card when                                                | Unless you are |
-|-----------------------------------------------------------------|----------------|
-| you keep your master's confidence                               | ...            |
-| act on their needs before they ask you                          | ...            |
-| when you subordinate your own interests to those of your master | ...            |
+| Draw a card when you                                   | Unless you are |
+|--------------------------------------------------------|----------------|
+| keep your master's confidence                          | ...            |
+| act on their needs before they ask you                 | ...            |
+| subordinate your own interests to those of your master | ...            |
 
 Tell us who is:
 
@@ -662,11 +662,11 @@ Initial social role tokens: 3
 
 You are expected to be needy, itinerant, and thankful.
 
-| Draw a card when   | Unless you are |
-|--------------------|----------------|
-| ...                | ...            |
-| ...                | ...            |
-| ...                | ...            |
+| Draw a card when you | Unless you are |
+|----------------------|----------------|
+| ...                  | ...            |
+| ...                  | ...            |
+| ...                  | ...            |
 
 Tell us who:
 
