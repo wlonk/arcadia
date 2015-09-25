@@ -75,6 +75,30 @@ particularly how they feel about the PCs and each other. This will help them
 drive the action from the NPCs' point of view. Remember to think about and
 communicate what will happen if the PCs don't act.
 
+In a conflict, the PCs' reputations and self-images are at risk. An emotional
+outburst can damage either. If they never make an outburst, they stand a real
+chance of not getting what they want. So, outbursts are saying "this is worth
+the risk". And if it never is worth the risk for someone, _push harder_.
+Loveless marriages, disownment and penury, abusive masters, all this and more
+are real risks. Think about what will happen if the PCs don't intervene for
+their own interests, and push for that.
+
+> #### TODO
+>
+> Need to put my designer-thumb more on the Devil's side of the scales in
+> conflicts, to make it more true that you need to outburst. Also, perhaps,
+> mechanize risks to self-conception?
+
+Now, the fairy offers absolution, victory, revenge, power. But it is a cat
+playing with mice, a child playing with dolls. It has no real conception of
+your wants, only how you can amuse it. It half-listens, then give you the rope
+to hang yourself.
+
+The fairy should show up soon, but not immediately; basically as soon as
+someone's been pushed into a spot where they might need a spell to get what
+they want. Basically, arc of an _Arcadia_ story should dip low quickly, then
+up-tick with the fairy's intervention, then wobble.
+
 ### The Dance
 
 Have you ever danced an English country dance? There are two rows of people,
@@ -174,8 +198,8 @@ as above.
 
 When you lose at cost, you have damaged one of your reputations. Choose
 whichever is most appropriate and mark off a box next to it. Once a reputation
-has three boxes marked, you cannot use it during Replenishment (see below)
-until you have fully recovered it.
+has four boxes marked, you cannot use it during Replenishment (see below) until
+you have fully recovered it.
 
 The GM chooses when a scene is over, and frames the next scene, though in both
 cases they should consider input from the players. All the rules in
@@ -261,75 +285,15 @@ renewal of worship of old king Ludd in the North. Perhaps it is simply that the
 stars are right. But the Old Roads are opening, mirrors and rivers and clouds
 and rain once again bring visitors. Magic is returning to England.
 
-### Casting Spells
-
-> #### TODO
->
-> Each social role has a particular situation in which they can cast a spell.
-
-When you cast a spell, describe the effect you hope to achieve, and the GM will
-tell you which of the following are required to make it happen (they will
-choose one to four):
-
-  * A temporal constraint:
-      * The spell must be performed in the dead of night.
-      * The spell must be cast at a particular juncture of the stars: at an
-        equinox, solstice, or similar time.
-      * The spell requires certain weather conditions (rain, snow, or lightning
-        most probably).
-  * A ritual constraint:
-      * The spell must be performed in absolute solitude.
-      * The spell must be performed with a coven of assistants.
-      * The spell must be cast naked.
-  * A material constraint:
-      * The spell requires the blood, bones, hair, teeth, or other body parts
-        of a hanged man.
-      * The spell requires something particular from nature: mistletoe,
-        moss-oak, or fly agaric are common examples.
-      * The spell requires some sacrifice from the caster, something precious to
-        them.
-  * A wild outcome:
-      * The spell will do more or less than you intend. There's no way to know
-        which until it is cast.
-      * The spell will leave its mark upon the caster, that all may know who
-        worked it.
-      * The spell requires a balance of forces: fire for water, hate for love,
-        life for life.
-  * A limiting condition:
-      * The spell will unravel at midnight.
-      * The spell will not work on consecrated ground.
-      * The spell will not work on those who are pure.
-  * A grave consequence:
-      * The spell may not be undone.
-      * The spell is blasphemous, and may bar the caster from Heaven.
-      * The spell requires bargaining with a fairy.
-
-> #### TODO
->
-> Maybe they all require the fairy, right? So that shouldn't be on the list.
-
-Once you can fulfil the conditions, the spell will take effect. How _exactly_
-should be described collaboratively. For example, if you wish to build a
-bridge, perhaps it rises from the river, water rushing off of it. Or the stones
-roll down from the hills of their own accord. Or all the best craftsmen and
-artisans for three towns around find themselves roused from their beds by an
-uncontrollable itch to make a bridge, and the deed is somehow done in one
-night. Or perhaps, the town merely awakens the next morning to find that the
-bridge that has always been there is, unsurprisingly, still there. Whichever
-suits the spell and the mood of the table best.
-
-As another example, if you wish to keep a particular person in town, perhaps
-they may come down ill, and be unable to travel. Or the weather may stay
-terribly inclement for weeks at a time, washing out the roads. Or you may weave
-a subtle labyrinth around the village, causing anyone who tries to leave to be
-turned around and find themselves back at their doorstep, with the urgent
-certainty that they had business to attend to at the house and couldn't
-possibly leave.
-
 ### The Fairy
 
 The more you pursue and exercise your desires, the sooner the fairy will
 arrive, smelling your passion and seeking to feed on it.
+
+The fairy can give you spells. All it asks in return is something like a
+_Poison'd_ bargain: you must maintain some particular behavior, a ban or a
+requirement, and if you break that, well, you lose the spell and you lose
+access to one of your desires. It will no longer nourish you.
 
 > #### TODO:
 > 
@@ -366,34 +330,10 @@ Some fairies:
   * The Beast of the Moors
   * Old Iron-boots
 
-### Effects
+### Casting Spells
 
-> #### TODO
->
-> Expand and clarify this list of major-arcana-to-spell-topics.
-
-  0.  The Fool: luck
-  1.  The Magician: sight
-  2.  The High Priestess: secrets
-  3.  The Empress: healing
-  4.  The Emperor: authority
-  5.  The Hierophant: wisdom
-  6.  The Lovers: passion
-  7.  The Chariot: travel
-  8.  Strength: courage
-  9.  The Hermit: barriers
-  10. The Wheel of Fortune: prophesy
-  11. Justice: truth
-  12. The Hanged Man: travel between worlds
-  13. Death: necromancy
-  14. Temperance: transmutation
-  15. The Devil: lies
-  16. The Tower: destruction
-  17. The Star: navigation
-  18. The Moon: illusion
-  19. The Sun: dispelling
-  20. Judgment: resurrection
-  21. The World: transformation
+Players start off with no spells. They may gain access to certain spells
+through fairy bargains. See [Spells](#appendix-spells).
 
 ## Seasons, Growth, and Change
 
@@ -751,6 +691,150 @@ Tell us who:
   - Gives you charity
 
 Initial social role tokens: 3
+
+## Appendix: Spells
+
+> #### TODO
+>
+> Actually fill in spells, like AW moves.
+>
+>   * A temporal constraint:
+>       * The spell must be performed in the dead of night.
+>       * The spell must be cast at a particular juncture of the stars: at an
+>         equinox, solstice, or similar time.
+>       * The spell requires certain weather conditions (rain, snow, or lightning
+>         most probably).
+>   * A ritual constraint:
+>       * The spell must be performed in absolute solitude.
+>       * The spell must be performed with a coven of assistants.
+>       * The spell must be cast naked.
+>   * A material constraint:
+>       * The spell requires the blood, bones, hair, teeth, or other body parts
+>         of a hanged man.
+>       * The spell requires something particular from nature: mistletoe,
+>         moss-oak, or fly agaric are common examples.
+>       * The spell requires some sacrifice from the caster, something precious to
+>         them.
+>   * A wild outcome:
+>       * The spell will do more or less than you intend. There's no way to know
+>         which until it is cast.
+>       * The spell will leave its mark upon the caster, that all may know who
+>         worked it.
+>       * The spell requires a balance of forces: fire for water, hate for love,
+>         life for life.
+>   * A limiting condition:
+>       * The spell will unravel at midnight.
+>       * The spell will not work on consecrated ground.
+>       * The spell will not work on those who are pure.
+>   * A grave consequence:
+>       * The spell may not be undone.
+>       * The spell is blasphemous, and may bar the caster from Heaven.
+>
+> Once you can fulfil the conditions, the spell will take effect. How _exactly_
+> should be described collaboratively. For example, if you wish to build a
+> bridge, perhaps it rises from the river, water rushing off of it. Or the stones
+> roll down from the hills of their own accord. Or all the best craftsmen and
+> artisans for three towns around find themselves roused from their beds by an
+> uncontrollable itch to make a bridge, and the deed is somehow done in one
+> night. Or perhaps, the town merely awakens the next morning to find that the
+> bridge that has always been there is, unsurprisingly, still there. Whichever
+> suits the spell and the mood of the table best.
+>
+> As another example, if you wish to keep a particular person in town, perhaps
+> they may come down ill, and be unable to travel. Or the weather may stay
+> terribly inclement for weeks at a time, washing out the roads. Or you may weave
+> a subtle labyrinth around the village, causing anyone who tries to leave to be
+> turned around and find themselves back at their doorstep, with the urgent
+> certainty that they had business to attend to at the house and couldn't
+> possibly leave.
+
+### 0: The Fool
+
+Luck
+
+### I: The Magician
+
+Sight
+
+### II: The High Priestess
+
+Secrets
+
+### III: The Empress
+
+Healing
+
+### IV: The Emperor
+
+Authority
+
+### V: The Hierophant
+
+Wisdom
+
+### VI: The Lovers
+
+Passion
+
+### VII: The Chariot
+
+Travel
+
+### VIII: Strength
+
+Courage
+
+### IX: The Hermit
+
+Barriers
+
+### X: The Wheel of Fortune
+
+Prophesy
+
+### XI: Justice
+
+Truth
+
+### XII: The Hanged Man
+
+Travel between worlds
+
+### XIII: Death
+
+Necromancy
+
+### XIV: Temperance
+
+Transmutation
+
+### XV: The Devil
+
+Lies
+
+### XVI: The Tower
+
+Destruction
+
+### XVII: The Star
+
+Navigation
+
+### XVIII: The Moon
+
+Illusion
+
+### XIX: The Sun
+
+Dispelling
+
+### XX: Judgment
+
+Resurrection
+
+### XXI: The World
+
+Transformation
 
 ## Appendix: Names
 
