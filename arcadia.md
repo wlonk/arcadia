@@ -182,7 +182,7 @@ as above.
 
 When you lose at cost, you have damaged one of your reputations. Choose
 whichever is most appropriate and mark off a box next to it. Once a reputation
-has four boxes marked, you cannot use it during Replenishment (see below) until
+has four boxes marked, you cannot gain from it during Gossip (see below) until
 you have fully recovered it.
 
 The GM chooses when a scene is over, and frames the next scene, though in both
@@ -190,7 +190,7 @@ cases they should consider input from the players. All the rules in
 _Smallville_ p. 52 on ending scenes apply. They should also keep an eye out for
 folks who are getting low on tokens and may need a chance to replenish.
 
-### Replenishment
+### Gossip
 
 At the end of every scene, hold a gossip session. Go around the table, and each
 player reads off their three social role bullet points. For each point that the
