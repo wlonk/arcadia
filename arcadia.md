@@ -329,7 +329,12 @@ Some fairies:
 Players start off with no spells. They may gain access to certain spells
 through fairy bargains. See [Spells](#appendix-spells).
 
-## Seasons, Growth, and Change
+## The world
+
+The world England in the eighteen-teens is easy to romanticize, but has many
+hazards.
+
+### Seasons, growth, and change
 
 At the end of each season (a bunch of sessions with a coherent arc), go through
 a questionnaire and ask the table about each character: whether they have done
@@ -343,6 +348,19 @@ NPCs.
 > Actually make growth questions.
 
 Perhaps XP can also be used to expand Perception questions?
+
+### Duels, disease, and dying
+
+These things happen. Maybe have their own little games. Maybe this isn't the
+place for this section, though.
+
+### The lady's right of refusal
+
+In dancing, in marriage.
+
+### The land
+
+The land is very important to the Romantic.
 
 ### Weather
 
