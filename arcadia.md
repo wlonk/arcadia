@@ -2,22 +2,6 @@
 
 A game of magic, manners, and madness.
 
-## Notes:
-
-Allie and Kate: Too many points, not enough expenditure.
-
-How do your relationships start out?
-
-How do you damage and recover and change:
-
-  * Reputations (Action? Association? What your friends and family do has to
-    matter.)
-  * Relationships (gifts, selflessness, etc.)
-
-How does the fairy meaningfully change your incentive space? Your desires?
-
-Re-edit desires.
-
 [TOC]
 
 ## Characters
