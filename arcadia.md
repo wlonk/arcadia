@@ -87,8 +87,8 @@ to hang yourself.
 
 The fairy should show up soon, but not immediately; basically as soon as
 someone's been pushed into a spot where they might need a spell to get what
-they want. Basically, arc of an _Arcadia_ story should dip low quickly, then
-up-tick with the fairy's intervention, then wobble.
+they want. Basically, the arc of an _Arcadia_ story should dip low quickly,
+then up-tick with the fairy's intervention, then wobble.
 
 ### The Dance
 
