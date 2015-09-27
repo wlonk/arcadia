@@ -26,7 +26,7 @@ Every relationship a character has is rated from one to four:
   1. A near-stranger; someone to whom you've just been introduced.
   2. A casual acquaintance; someone you know around town.
   3. A good friend; someone whose company you seek.
-  4. A boon companion or lover; someone whose absence you could not do without.
+  4. A boon companion or lover; someone whose absence you could not tolerate.
 
 At the start of the game, your relationships will be specified by your choices
 during character creation.
