@@ -2,6 +2,16 @@
 
 A game of magic, manners, and madness.
 
+> #### TODO
+>
+>  1. Desires
+>  2. Fairy needs and desires
+>  3. Perception of the fairy
+>  4. Perception per-social-role
+>  5. Spells
+>  6. Character sheets
+>  7. Graduated pitch
+
 [TOC]
 
 ## Characters
@@ -59,6 +69,9 @@ particularly how they feel about the PCs and each other. This will help them
 drive the action from the NPCs' point of view. Remember to think about and
 communicate what will happen if the PCs don't act.
 
+NPCs also get starting social role tokens (from 3 to 5) based on their rank,
+and a suit (randomly drawn, or based on their personality).
+
 In a conflict, an emotional outburst puts a PC's reputation at risk. If they
 never make an outburst, they stand a real chance of not getting what they want.
 So, outbursts are saying "this is worth the risk". And if it never is worth the
@@ -69,6 +82,10 @@ if the PCs don't intervene for their own interests, and push for that.
 _Yes this is a vicious cycle._ If you damage your reputation, getting more role
 tokens becomes harder, and thus you are more likely to have to risk your
 reputation in future.
+
+The PCs are showing you at every moment what they most fear losing or
+happening. Use that. Push at them. Make their world unstable, pulling apart at
+the seams. There is no stable _status quo_ in Regency World!
 
 > #### TODO
 >
@@ -258,6 +275,11 @@ They must then answer honestly, and describe how they let it slip:
   * A gaze
   * A blush
   * A word
+
+> #### TODO
+>
+> When you read the fairy, there's a totally different list of questions. Very
+> particular for the fairy.
 
 ## Magic
 
@@ -494,7 +516,7 @@ acquaintance. A servant cannot impinge upon your honour, but neither can you
 suffer insolence from them. Another gentleman insulting you, your family, or a
 lady of your close acquaintance is a stain on your honour.
 
-| Draw a card when you                      | Unless you are |
+| Gain a role token when you                | Unless you are |
 |-------------------------------------------|----------------|
 | display good judgment                     | a fool         |
 | act warm and welcoming                    | a libertine    |
@@ -512,7 +534,7 @@ Initial social role tokens: 5
 
 You are expected to be disciplined, honorable and patriotic.
 
-| Draw a card when you                 | Unless you are |
+| Gain a role token when you           | Unless you are |
 |--------------------------------------|----------------|
 | display valour in the face of danger | reckless       |
 | are gallant towards ladies           | a rake         |
@@ -530,11 +552,11 @@ Initial social role tokens: 4
 
 ...
 
-| Draw a card when you | Unless you are |
-|----------------------|----------------|
-| ...                  | ...            |
-| ...                  | ...            |
-| ...                  | ...            |
+| Gain a role token when you | Unless you are |
+|----------------------------|----------------|
+| ...                        | ...            |
+| ...                        | ...            |
+| ...                        | ...            |
 
 Tell us who is:
 
@@ -548,11 +570,11 @@ Initial social role tokens: 4
 
 You are expected to be...
 
-| Draw a card when you | Unless you are |
-|----------------------|----------------|
-| ...                  | ...            |
-| ...                  | ...            |
-| ...                  | ...            |
+| Gain a role token when you | Unless you are |
+|----------------------------|----------------|
+| ...                        | ...            |
+| ...                        | ...            |
+| ...                        | ...            |
 
 Tell us who is:
 
@@ -570,7 +592,7 @@ beautiful, charming, witty and accomplished can brighten it; being wanton,
 vain, shallow or crude can tarnish it. Be gentle and kind to those beneath you,
 and obedient and respectful to those above you.
 
-| Draw a card when you               | Unless you are |
+| Gain a role token when you         | Unless you are |
 |------------------------------------|----------------|
 | demonstrate your accomplishments   | ...            |
 | make those around you feel at ease | ...            |
@@ -591,11 +613,11 @@ position with a wealthy family as not-quite-a-servant. Set a good example for
 the children. Demonstrate your refinement and accomplishments. Ensure the moral
 behavior of your charges.
 
-| Draw a card when you | Unless you are |
-|----------------------|----------------|
-| ...                  | ...            |
-| ...                  | ...            |
-| ...                  | ...            |
+| Gain a role token when you | Unless you are |
+|----------------------------|----------------|
+| ...                        | ...            |
+| ...                        | ...            |
+| ...                        | ...            |
 
 Tell us who is:
 
@@ -611,7 +633,7 @@ A young lady who has been sent to live with relatives. Either her parents are
 dead, or simply unable to raise her in the proper fashion. She is in the
 family, but perhaps not quite _of_ it.
 
-| Draw a card when you             | Unless you are |
+| Gain a role token when you       | Unless you are |
 |----------------------------------|----------------|
 | demonstrate your accomplishments | ...            |
 | obey your guardian               | ...            |
@@ -631,7 +653,7 @@ You are expected to deviate from your society's feminine ideal, have secret
 wealth or knowledge, and draw strength from your relationships with other
 women.
 
-| Draw a card when                                | Unless you are |
+| Gain a role token when                          | Unless you are |
 |-------------------------------------------------|----------------|
 | no one really listens to you                    | a blatherskite |
 | you speak a truth no one else will              | a liar         |
@@ -649,11 +671,11 @@ Initial social role tokens: 4
 
 You are expected to be home-bound, solicitous of others' health, and ...
 
-| Draw a card when you | Unless you are |
-|----------------------|----------------|
-| ...                  | ...            |
-| ...                  | ...            |
-| ...                  | ...            |
+| Gain a role token when you | Unless you are |
+|----------------------------|----------------|
+| ...                        | ...            |
+| ...                        | ...            |
+| ...                        | ...            |
 
 Tell us who is:
 
@@ -667,7 +689,7 @@ Initial social role tokens: 4
 
 You are expected to be mysterious, wise, and unconventional.
 
-| Draw a card when you                    | Unless you are |
+| Gain a role token when you              | Unless you are |
 |-----------------------------------------|----------------|
 | Offer magical help                      | a fraud        |
 | Defend your secrets at any cost         | corrupted      |
@@ -688,7 +710,7 @@ heard, except when needed. Protect the honour of your master's house in the
 broader world. Discharge your duty to the family first; there is always more
 you can do.
 
-| Draw a card when you                                   | Unless you are |
+| Gain a role token when you                             | Unless you are |
 |--------------------------------------------------------|----------------|
 | keep your master's confidence                          | ...            |
 | act on their needs before they ask you                 | ...            |
@@ -706,11 +728,11 @@ Initial social role tokens: 3
 
 You are expected to be needy, itinerant, and thankful.
 
-| Draw a card when you | Unless you are |
-|----------------------|----------------|
-| ...                  | ...            |
-| ...                  | ...            |
-| ...                  | ...            |
+| Gain a role token when you | Unless you are |
+|----------------------------|----------------|
+| ...                        | ...            |
+| ...                        | ...            |
+| ...                        | ...            |
 
 Tell us who:
 
