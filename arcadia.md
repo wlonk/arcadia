@@ -249,6 +249,11 @@ All of these questions pertain very much to the moment; we only ever get
 partial views of each other. This means that some questions, while they might
 in a broader sense have an answer, in the moment, they might not.
 
+> #### TODO
+>
+> Emphasize this paragraph; it's really about the moment. Maybe constrain the
+> questions to actually include those words: "at this moment, what do..."
+
 When you are reading someone of a lower class than yourself, you may ask any of
 the following:
 
@@ -437,6 +442,11 @@ devoted to you suffers because of your relationship.
 You love someone who you shouldn't. Why shouldn't you? Is it a matter of class,
 sex, or something else? Sate this desire when you express your love to your
 lover.
+
+> #### TODO
+>
+> Incorporate this with the unrequited love; love should always be uncertain,
+> otherwise you're too stable.
 
 ### Unrequited love
 
