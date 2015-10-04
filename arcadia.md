@@ -10,7 +10,6 @@ A game of magic, manners, and madness.
 >  4. Perception per-social-role
 >  5. Spells
 >  6. Character sheets
->  7. Graduated pitch
 
 [TOC]
 
