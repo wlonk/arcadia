@@ -9,7 +9,6 @@ A game of magic, manners, and madness.
 >  3. Perception of the fairy
 >  4. Perception per-social-role
 >  5. Spells
->  6. Character sheets
 
 [TOC]
 
