@@ -4,20 +4,10 @@ A game of magic, manners, and madness.
 
 > #### TODO
 >
->  1. Desires
->       * Absolution
->       * Adoration
->       * Immortality
->       * Love
->       * Money
->       * Power
->       * Stability
->       * Truth
->       * Vengeance
->  2. Fairy needs and desires
->  3. Perception of the fairy
->  4. Perception per-social-role
->  5. Spells
+>  1. Fairy needs and desires
+>  2. Perception of the fairy
+>  3. Perception per-social-role
+>  4. Spells
 
 [TOC]
 
@@ -433,92 +423,40 @@ below:
 
 ## Appendix: Desires
 
-> #### TODO
->
-> Edit these desires. They should be non-evil, but socially difficult. Active,
-> too.
+### Absolution
 
-### Mad, Bad and Dangerous to Know
+Who did you wrong? Take a token when you do right by them, or punish yourself
+for your transgression.
 
-You are a person of gigantic passions: great mirths and great melancholies.
-What is the outlet for your passions? Sate this desire every time someone
-devoted to you suffers because of your relationship.
+### Adoration
 
-### Forbidden love
+Take a token when you impress a crowd.
 
-You love someone who you shouldn't. Why shouldn't you? Is it a matter of class,
-sex, or something else? Sate this desire when you express your love to your
-lover.
+### Immortality
 
-> #### TODO
->
-> Incorporate this with the unrequited love; love should always be uncertain,
-> otherwise you're too stable.
+Take a token when you do or make something that will be remembered for years to
+come.
 
-### Unrequited love
+### Love
 
-You love someone who does not or cannot love you back. What keeps you from
-their esteem? Sate this desire when you make a decision based on this secret
-affection or when you somehow show it indirectly.
+Take a token when you show your love to your beloved.
 
-### Vengeance
+### Money
 
-You wish to see another ruined. How did they harm you? Sate this desire when
-you undermine, harm, or malign them.
+Take a token when you choose to pursue money over other options.
 
-### Secrets Man was not Meant to Know
+### Power
 
-You desire understanding of the secrets of life and death—and not just to know,
-but to control. Why do you need this? Sate this desire when you break the laws
-of God and Man.
+Take a token when you make someone of your approximate social stratum do
+something you suggested, told, or ordered them to do.
 
-### Ambition
+### Revenge
 
-You wish to rise above your place, through marriage, valour, low cunning, or
-some means else. You will not be satisfied until a coronet (or perhaps, even, a
-crown!) rests on your head. Who do you need to best in this respect? Sate this
-desire when you raise or assert your status.
+Take a token when you make your enemy suffer.
 
-### Entitlement
+### Truth
 
-You are certain that the world owes you something more. The problems of your
-position or life circumstance are not your fault, and are mere obstacles on the
-way to claiming your true place of importance. Who do you blame for your
-current lot? Sate this desire when you obtain something that you envy another
-for.
-
-### Decadence
-
-You need something desperately, unreasonably: gambling, sex, drugs, or
-something else, as appropriate. What is it? Sate this desire when you get your
-fix.
-
-### Playing puppeteer
-
-Like Emma, you see others' lives as toys for your own amusement. You wish to
-arrange the lives of those around you just so. Who is the hero(ine) and who is
-the villain in your headcanon? Sate this desire when you get someone to do what
-you want without asking or telling them.
-
-### Leveling distinctions
-
-You believe in the Natural Rights of Man (and probably Woman). You believe that
-all are, at a fundamental level, equal. Who do you believe has put themselves
-above others, to the detriment of all? Sate this desire when you pointedly
-ignore distinctions of rank and position.
-
-### Gloryhound
-
-You live for the applause, or the bows and curtseys. You want to be recognized
-for your skill, bravery, and good looks. Who do you most look up to? Sate this
-desire when you get others to applaud you for your good qualities.
-
-### Luxury
-
-The feel of silk, the smell of spices, the pleasure of a wild and picturesque
-landscape. You seek sensual and luxurious pleasures. What is your particular
-weakness, and who knows it? Sate this desire when you take pleasure in material
-goods beyond your means.
+Take a token when you learn a secret related to your agenda.
 
 ## Appendix: Social Roles
 
