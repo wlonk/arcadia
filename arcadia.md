@@ -5,6 +5,15 @@ A game of magic, manners, and madness.
 > #### TODO
 >
 >  1. Desires
+>       * Absolution
+>       * Adoration
+>       * Immortality
+>       * Love
+>       * Money
+>       * Power
+>       * Stability
+>       * Truth
+>       * Vengeance
 >  2. Fairy needs and desires
 >  3. Perception of the fairy
 >  4. Perception per-social-role
