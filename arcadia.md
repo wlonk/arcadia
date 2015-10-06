@@ -495,10 +495,10 @@ You are expected to be disciplined, honorable and patriotic.
 | are gallant towards ladies           | a rake         |
 | put King and country first           | proud          |
 
-Tell us who:
+Tell us who is:
 
-  - Is your commanding officer?
-  - Did you leave behind?
+  - Your commanding officer?
+  - ...
   - ...
 
 Initial social role tokens: 4
@@ -507,11 +507,11 @@ Initial social role tokens: 4
 
 ...
 
-| Gain a role token when you | Unless you are |
-|----------------------------|----------------|
-| ...                        | ...            |
-| ...                        | ...            |
-| ...                        | ...            |
+| Gain a role token when you                             | Unless you are |
+|--------------------------------------------------------|----------------|
+| offer sober counsel                                    | ...            |
+| uphold Christian morals in your private life           | ...            |
+| enact charity and concern for the least in your parish | ...            |
 
 Tell us who is:
 
