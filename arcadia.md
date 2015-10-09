@@ -359,10 +359,6 @@ access to one of your desires. It will no longer nourish you.
 
 Some fairies:
 
-  * The Sable Lady
-  * King Ludd
-  * The Beast of the Moors
-  * Old Iron-boots
 
 ### Casting Spells
 
@@ -813,6 +809,36 @@ tincture outside under the full moon.
   *  XIX: The Sun: Dispelling
   *  XX: Judgment: Resurrection
   *  XXI: The World: Transformation
+
+## Appendix: Fairies
+
+### The Sable Lady
+### King Ludd
+
+The Old King of the North, Ludd (or Llud of the Silver Hand) cuts a regal
+figure, adorned in robes and brocades all of the finest fabrics and furs. His
+right arm or hand is a silver prosthetic, worked with exquisite filigree, and
+perfectly functional.
+
+He values nothing so highly as ancient nobility, though he may find it in
+surprising places. He sees deeds of arms and valour as the evidence of this
+nobility. He desires nothing so much as to destroy the low-born cullions and
+varlets who are putting on airs of greatness with their newfound money. To do
+this, he is happy to break machinery, but happier to break men.
+
+Choose among the highest status characters present. One is his nemesis, in whom
+he sees nothing but baseness. He will seek that character's overthrow and
+destruction, but he cannot do it himself; to do so would be to rob the truly
+noble and valiant people he sees in this town of their rightful chance to
+elevate themselves through feats of valour and strength. No, he must help them
+towards their destiny.
+
+### The Beast of the Moors
+### Old Iron-boots
+### The Lady in the Lake
+### The Horned God
+### The Hanged God
+### The Three Sisters
 
 ## Appendix: Names
 
