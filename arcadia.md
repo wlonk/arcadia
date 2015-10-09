@@ -753,93 +753,66 @@ Initial social role tokens: 3
 > certainty that they had business to attend to at the house and couldn't
 > possibly leave.
 
-### 0: The Fool
+### A spell of love
 
-Luck
+This spell takes the form of a tincture. When dropped into the eyes of a
+sleeper, they will fall deeply, madly in love with the first person they see on
+waking.
 
-### I: The Magician
+To cast this spell, you must...
 
-Sight
+If they are woken forcefully, it will go wrong.
 
-### II: The High Priestess
+If the person who applied the tincture is the first person they see on waking,
+it will go wrong.
 
-Secrets
+If they are subjected to any other spell while sleeping, it may go wrong.
 
-### III: The Empress
+Some ways it may go wrong:
 
-Healing
+  * They may see a person other than intended.
+  * The depth of their passion may be more than what is comfortable.
+  * They may bury their feelings under layers of denial.
 
-### IV: The Emperor
+The spell may be undone by burning a likeness of the person who made the
+tincture outside under the full moon.
 
-Authority
+### A spell of far-seeing
 
-### V: The Hierophant
+### A spell to transmute one material to another
 
-Wisdom
+### A spell to bring the dead back to a semblance of life
 
-### VI: The Lovers
+### A spell to strengthen man or beast
 
-Passion
+### A spell to change a man's appearance
 
-### VII: The Chariot
+### A spell to enter dreams
 
-Travel
+### The Arcana
 
-### VIII: Strength
-
-Courage
-
-### IX: The Hermit
-
-Barriers
-
-### X: The Wheel of Fortune
-
-Prophesy
-
-### XI: Justice
-
-Truth
-
-### XII: The Hanged Man
-
-Travel between worlds
-
-### XIII: Death
-
-Necromancy
-
-### XIV: Temperance
-
-Transmutation
-
-### XV: The Devil
-
-Lies
-
-### XVI: The Tower
-
-Destruction
-
-### XVII: The Star
-
-Navigation
-
-### XVIII: The Moon
-
-Illusion
-
-### XIX: The Sun
-
-Dispelling
-
-### XX: Judgment
-
-Resurrection
-
-### XXI: The World
-
-Transformation
+  *  0: The Fool: Luck
+  *  I: The Magician: Sight
+  *  II: The High Priestess: Secrets
+  *  III: The Empress: Healing
+  *  IV: The Emperor: Authority
+  *  V: The Hierophant: Wisdom
+  *  VI: The Lovers: Passion
+  *  VII: The Chariot: Travel
+  *  VIII: Strength: Courage
+  *  IX: The Hermit: Barriers
+  *  X: The Wheel of Fortune: Prophesy
+  *  XI: Justice: Truth
+  *  XII: The Hanged Man: Travel between worlds
+  *  XIII: Death: Necromancy
+  *  XIV: Temperance: Transmutation
+  *  XV: The Devil: Lies
+  *  XVI: The Tower: Destruction
+  *  XVII: The Star: Navigation
+  *  XVIII: The Moon: Illusion
+  *  XIX: The Sun: Dispelling
+  *  XX: Judgment: Resurrection
+  *  XXI: The World: Transformation
 
 ## Appendix: Names
 
