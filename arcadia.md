@@ -16,6 +16,9 @@ A game of magic, manners, and madness.
 >
 > Possibly per-person demons, not a shared fairy. But we'll see.
 >
+> Well, the effect the fairy has on the high-status characters, forcing them
+> into a position of relative low status, _is_ important.
+>
 > Instead of getting passion tokens each scene, get them each session. Have a
 > reflection phase, where you show your character, alone, contemplating their
 > passions and how they've pursued them. Then get tokens. This _dramatically_
