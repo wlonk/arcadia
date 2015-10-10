@@ -8,6 +8,26 @@ A game of magic, manners, and madness.
 >  2. Perception of the fairy
 >  3. Perception per-social-role
 >  4. Spells
+>
+> The characters as they currently are, are not Byronic at all. There's a lot
+> of value in adding more Gothic-ness. "The lovely scare" as a term for Gothic
+> fiction. Perhaps everyone is a little bit Gothic. This doesn't have to be
+> tied to Desires though.
+>
+> Possibly per-person demons, not a shared fairy. But we'll see.
+>
+> Instead of getting passion tokens each scene, get them each session. Have a
+> reflection phase, where you show your character, alone, contemplating their
+> passions and how they've pursued them. Then get tokens. This _dramatically_
+> cuts down on passion token acquisition rate, making them more valuable and
+> making it more urgent that you pursue them.
+>
+> Social roles still per scene, but set expectations for frequency on this.
+>
+> Can you get one card in a conflict? When is it worth it to escalate to
+> passion? Can tokens be used for anything other than card acquisition?
+>
+> Stras suggests on passions: maybe spend X tokens, get X cards, choose one?
 
 [TOC]
 
@@ -784,6 +804,8 @@ tincture outside under the full moon.
 ### A spell to change a man's appearance
 
 ### A spell to enter dreams
+
+### A spell to summon the spirit of a dead person
 
 ### The Arcana
 
