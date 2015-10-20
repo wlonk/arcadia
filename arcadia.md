@@ -817,7 +817,7 @@ This spell offers a brief and murky vision of someone far away.
 To cast this spell, do one or more of the following:
 
   * Cast the spell in a high place: atop a tower, hill, or similar.
-  * Eat berries from a yew tree (while the berries are the only part of the
+  * Eat berries from a yew tree (While the berries are the only part of the
     tree that is not poisonous, the seeds inside them _are_ poisonous.)
   * Have a reflective surface. (Required.)
   * Have a token belonging to the object of the spell.
@@ -849,9 +849,9 @@ search of understanding, healing, or something yet more esoteric.
 To cast this spell:
 
   * Be beside the sleeper. (Required.)
-  * A web of red string around the sleeper.
+  * Have a web of red string around the sleeper.
   * Breathe in their exhalation.
-  * A sharpened rod of holly left under their pillow.
+  * Leave a sharpened rod of holly under their pillow.
   * Sing a lullaby.
 
 Outcomes:
