@@ -774,6 +774,8 @@ Initial social role tokens: 3
 
 ### A spell of love
 
+This spell is obviously highly squicky.
+
 This spell takes the form of a tincture. When dropped into the eyes of a
 sleeper, they will fall deeply, madly in love with the first person they see on
 waking.
@@ -796,7 +798,40 @@ Some ways it may go wrong:
 The spell may be undone by burning a likeness of the person who made the
 tincture outside under the full moon.
 
+> #### TODO
+> So, spells have:
+>
+>   * Components
+>   * Outcomes
+>   * Conditions
+>
+> For each component you satisfy, draw a card. Choose one card; that card's suit
+> determines the outcome. Perhaps you can choose all cards of a particular value,
+> and combine the outcomes? In any case, the spell can be broken by the limiting
+> condition.
+
 ### A spell of far-seeing
+
+This spell offers a brief and murky vision of someone far away.
+
+To cast this spell, do one or more of the following:
+
+  * Cast the spell in a high place: atop a tower, hill, or similar.
+  * Eat berries from a yew tree (while the berries are the only part of the
+    tree that is not poisonous, the seeds inside them _are_ poisonous.)
+  * Have a reflective surface. (Required.)
+  * Have a token belonging to the object of the spell.
+  * Spend hours in meditation.
+
+Outcomes:
+
+  * Spades: The object does not see you spying from a nearby reflection.
+  * Hearts: You see more than an ambiguous moment.
+  * Clubs: You are not spied on yourself.
+  * Diamonds: You can identify the location precisely.
+
+To protect against this spell, avoid reflective surfaces: mirrors, water,
+silverware, windows looking out into the dark.
 
 ### A spell to transmute one material to another
 
@@ -807,6 +842,26 @@ tincture outside under the full moon.
 ### A spell to change a man's appearance
 
 ### A spell to enter dreams
+
+This spell allows the magician to spiritually enter the dreams of another, in
+search of understanding, healing, or something yet more esoteric.
+
+To cast this spell:
+
+  * Be beside the sleeper. (Required.)
+  * A web of red string around the sleeper.
+  * Breathe in their exhalation.
+  * A sharpened rod of holly left under their pillow.
+  * Sing a lullaby.
+
+Outcomes:
+
+  * Spades: You are not haunted by the dream after returning.
+  * Hearts: The metaphors of the dream are clear to you.
+  * Clubs: You do not pull anything back with you from the depths of the dream.
+  * Diamonds: you can navigate the dream quickly, in no more than an instant.
+
+To protect against this spell, sleep with a cat or a nightingale in the room.
 
 ### A spell to summon the spirit of a dead person
 
