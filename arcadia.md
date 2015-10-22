@@ -812,23 +812,23 @@ tincture outside under the full moon.
 
 ### A spell of far-seeing
 
-This spell offers a brief and murky vision of someone far away.
+Components:
 
-To cast this spell, do one or more of the following:
-
-  * Cast the spell in a high place: atop a tower, hill, or similar.
-  * Eat berries from a yew tree (While the berries are the only part of the
-    tree that is not poisonous, the seeds inside them _are_ poisonous.)
-  * Have a reflective surface. (Required.)
-  * Have a token belonging to the object of the spell.
-  * Spend hours in meditation.
+  * laudanum
+  * solitude
+  * a reflective surface
+  * a token from the object of the vision
+  * hours of meditation
 
 Outcomes:
 
-  * Spades: The object does not see you spying from a nearby reflection.
-  * Hearts: You see more than an ambiguous moment.
-  * Clubs: You are not spied on yourself.
-  * Diamonds: You can identify the location precisely.
+  * You see a friend harbor a hurtful secret. What is it?
+  * You see a moment of intimacy between two people you never want to see
+    together. Who are they?
+  * You see something you cannot help but desire. You become obsessed with
+    fulfilling your craving.
+  * They somehow know you were watching. But having knowledge without evidence
+    is maddening: how do they treat you?
 
 To protect against this spell, avoid reflective surfaces: mirrors, water,
 silverware, windows looking out into the dark.
@@ -837,9 +837,46 @@ silverware, windows looking out into the dark.
 
 ### A spell to bring the dead back to a semblance of life
 
+Components:
+
+  * under a new moon
+  * at a crossroads
+  * spit in the mouth of the corpse
+  * let the blood of a black goat over the corpse
+  * two accomplices
+
+Outcomes:
+
+  * They return, but they are missing something important. The GM will tell you
+    what.
+  * They return, but they crave something unnatural, unsavory, or unbecoming.
+    The GM will tell you what.
+  * They return, but at the cost of another. The GM will name another NPC whose
+    dies mysteriously that very night.
+  * They return, but one person sees them for the corpse they were. The GM will
+    tell you who.
+
+Limitations:
+
+Those who have crossed back from the undiscover'd country are once again alive,
+and subject to all the hazards of that state. If you wish to keep a corpse from
+being raised, the expedient is a simple one: burn it.
+
 ### A spell to strengthen man or beast
 
 ### A spell to change a man's appearance
+
+Components:
+
+Outcomes:
+
+  * The change unsettles all who look upon you. How?
+  * Your disguise does not fool everyone. The GM will choose an NPC who can see
+    through the transformation.
+  * The transformation will unravel at the next sunrise or sunset.
+  * You fall prey to the curse of Narcissus. Your new form is infinitely more
+    pleasing to you and your vanity.
+
 
 ### A spell to enter dreams
 
