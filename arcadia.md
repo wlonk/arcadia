@@ -31,6 +31,19 @@ A game of magic, manners, and madness.
 > passion? Can tokens be used for anything other than card acquisition?
 >
 > Stras suggests on passions: maybe spend X tokens, get X cards, choose one?
+>
+> After New Mexicon:
+>
+> A realization about influence from PTA3: tokens aren't the actual thing.
+> They're an augment. So, start with tokens 1, 2, 3 depending on social tier.
+> Then, in any conflict, each party starts with a card, spend tokens for more.
+> Then spend passions for an extra bump.
+>
+> That implies roles for traits of some sort.
+>
+> How you get and spend currency can stay as-is.
+>
+> So, passion tokens still need consideration.
 
 [TOC]
 
