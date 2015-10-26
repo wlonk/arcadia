@@ -411,6 +411,17 @@ Some fairies:
 Players start off with no spells. They may gain access to certain spells
 through fairy bargains. See [Spells](#appendix-spells).
 
+To cast a spell, gather or perform one or more of the things listed under
+"Components". Draw one card for each component you brought to the spell. Choose
+a number from among the cards there, and keep all cards of that number. Discard
+the rest. For each suit among the cards you've kept, that suit's cost on the
+spell is _prevented_.
+
+Before you choose a number, you may spend passion tokens, one for one, to
+discard and redraw some or all of your initial spread. You may continue to do
+this until you are out of passion tokens, or choose to stop. Then choose a
+number and continue as above.
+
 ## The world
 
 The world England in the eighteen-teens is easy to romanticize, but has many
@@ -821,18 +832,6 @@ Some ways it may go wrong:
 The spell may be undone by burning a likeness of the person who made the
 tincture outside under the full moon.
 
-> #### TODO
-> So, spells have:
->
->   * Components
->   * Outcomes
->   * Conditions
->
-> For each component you satisfy, draw a card. Choose one card; that card's suit
-> determines the outcome. Perhaps you can choose all cards of a particular value,
-> and combine the outcomes? In any case, the spell can be broken by the limiting
-> condition.
-
 ### A spell of far-seeing
 
 Components:
@@ -843,7 +842,7 @@ Components:
   * a token from the object of the vision
   * hours of meditation
 
-Outcomes:
+Costs:
 
   * You see a friend harbor a hurtful secret. What is it?
   * You see a moment of intimacy between two people you never want to see
@@ -868,7 +867,7 @@ Components:
   * let the blood of a black goat over the corpse
   * two accomplices
 
-Outcomes:
+Costs:
 
   * They return, but they are missing something important. The GM will tell you
     what.
@@ -891,7 +890,7 @@ being raised, the expedient is a simple one: burn it.
 
 Components:
 
-Outcomes:
+Costs:
 
   * The change unsettles all who look upon you. How?
   * Your disguise does not fool everyone. The GM will choose an NPC who can see
@@ -908,18 +907,19 @@ search of understanding, healing, or something yet more esoteric.
 
 To cast this spell:
 
-  * Be beside the sleeper. (Required.)
+  * Be beside the sleeper.
   * Have a web of red string around the sleeper.
   * Breathe in their exhalation.
   * Leave a sharpened rod of holly under their pillow.
   * Sing a lullaby.
 
-Outcomes:
+Costs:
 
-  * Spades: You are not haunted by the dream after returning.
-  * Hearts: The metaphors of the dream are clear to you.
-  * Clubs: You do not pull anything back with you from the depths of the dream.
-  * Diamonds: you can navigate the dream quickly, in no more than an instant.
+  * Spades: You are haunted by the dream after returning.
+  * Hearts: The metaphors of the dream are confusing to you.
+  * Clubs: You pull something back with you from the depths of the dream.
+  * Diamonds: The dream takes all night to navigate, and you only emerge from
+    the spell as dawn is breaking.
 
 To protect against this spell, sleep with a cat or a nightingale in the room.
 
