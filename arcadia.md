@@ -42,12 +42,16 @@ A game of magic, manners, and madness.
 >
 > How you get and spend currency can stay as-is.
 >
-> So, passion tokens still need consideration.
+> So, passion tokens still need consideration. What makes it worth spending
+> them, when you're likely aiming for a very small space?
 >
 > So what if it's like this: highest total gets what they want, you pay a cost
 > if you're over 21? Limit how many times you can escalate with passion tokens?
 > So you can both go over 21, and then you're both paying costs, even though
-> only one is winning.
+> only one is winning. This might encourage a certain kind of graceful
+> concession, because the other person has already gone too far. But as long as
+> there are good fictional triggers and costs for getting extra cards above
+> your two, I think this is viable.
 >
 > I suspect that fairies might like folks with bad reputations. "A bully? No!
 > You are possessed of a warrior's spirit!"
