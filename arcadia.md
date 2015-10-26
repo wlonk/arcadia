@@ -44,6 +44,11 @@ A game of magic, manners, and madness.
 > How you get and spend currency can stay as-is.
 >
 > So, passion tokens still need consideration.
+>
+> So what if it's like this: highest total gets what they want, you pay a cost
+> if you're over 21? Limit how many times you can escalate with passion tokens?
+> So you can both go over 21, and then you're both paying costs, even though
+> only one is winning.
 
 [TOC]
 
