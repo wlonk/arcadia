@@ -6,18 +6,14 @@ A game of magic, manners, and madness.
 >
 >  1. Fairy needs and desires
 >  2. Perception of the fairy
->  3. Perception per-social-role
+>  3. Perception per-social-role?
 >  4. Spells
+>  5. The role of passion tokens
 >
 > The characters as they currently are, are not Byronic at all. There's a lot
 > of value in adding more Gothic-ness. "The lovely scare" as a term for Gothic
 > fiction. Perhaps everyone is a little bit Gothic. This doesn't have to be
 > tied to Desires though.
->
-> Possibly per-person demons, not a shared fairy. But we'll see.
->
-> Well, the effect the fairy has on the high-status characters, forcing them
-> into a position of relative low status, _is_ important.
 >
 > Instead of getting passion tokens each scene, get them each session. Have a
 > reflection phase, where you show your character, alone, contemplating their
@@ -26,6 +22,8 @@ A game of magic, manners, and madness.
 > making it more urgent that you pursue them.
 >
 > Social roles still per scene, but set expectations for frequency on this.
+> Scene structure generally is implied by the mechanics of this game; who gets
+> to say "cut" and who gets to set scenes?
 >
 > Can you get one card in a conflict? When is it worth it to escalate to
 > passion? Can tokens be used for anything other than card acquisition?
@@ -39,7 +37,8 @@ A game of magic, manners, and madness.
 > Then, in any conflict, each party starts with a card, spend tokens for more.
 > Then spend passions for an extra bump.
 >
-> That implies roles for traits of some sort.
+> That implies roles for traits of some sort. Get cards not just for currency,
+> but for invoking fictional triggers.
 >
 > How you get and spend currency can stay as-is.
 >
@@ -49,6 +48,12 @@ A game of magic, manners, and madness.
 > if you're over 21? Limit how many times you can escalate with passion tokens?
 > So you can both go over 21, and then you're both paying costs, even though
 > only one is winning.
+>
+> I suspect that fairies might like folks with bad reputations. "A bully? No!
+> You are possessed of a warrior's spirit!"
+>
+> Is there room for advancement keyed off of relationships? Relationship
+> strength is already a thing, but maybe also relationship character?
 
 [TOC]
 
