@@ -550,7 +550,7 @@ You are expected to be disciplined, honorable and patriotic.
 |--------------------------------------|----------------|
 | display valour in the face of danger | reckless       |
 | are gallant towards ladies           | a rake         |
-| put King and country first           | proud          |
+| put King and country first           | provincial     |
 
 Tell us who is:
 
