@@ -15,20 +15,7 @@ A game of magic, manners, and madness.
 > fiction. Perhaps everyone is a little bit Gothic. This doesn't have to be
 > tied to Desires though.
 >
-> Instead of getting passion tokens each scene, get them each session. Have a
-> reflection phase, where you show your character, alone, contemplating their
-> passions and how they've pursued them. Then get tokens. This _dramatically_
-> cuts down on passion token acquisition rate, making them more valuable and
-> making it more urgent that you pursue them.
->
-> Social roles still per scene, but set expectations for frequency on this.
-> Scene structure generally is implied by the mechanics of this game; who gets
-> to say "cut" and who gets to set scenes?
->
-> Can you get one card in a conflict? When is it worth it to escalate to
-> passion? Can tokens be used for anything other than card acquisition?
->
-> Stras suggests on passions: maybe spend X tokens, get X cards, choose one?
+> ---
 >
 > After New Mexicon:
 >
@@ -58,6 +45,29 @@ A game of magic, manners, and madness.
 >
 > Is there room for advancement keyed off of relationships? Relationship
 > strength is already a thing, but maybe also relationship character?
+>
+> ---
+>
+> The way to change perception: you get to ask X questions per session, where X
+> is the strength of your relationship. The way to make this on the sheet: two
+> slots with four black checkboxes, three with three black and one grey, five
+> with two black and two grey, and many with one black and three grey. When you
+> take an advance that lets you have more intimates, you can black-outline
+> boxes with a pen, allowing you to still pencil-check them as you use them,
+> and then erase at the end of the session.
+>
+> Now the particular questions become very important.
+>
+> ---
+>
+> Now, what about procedural elements? Can I do a thing, in the world? Dance
+> well, shoot well, ride well, invest well?
+>
+> ---
+>
+> OK, so, prescriptive and descriptive, right? How do you ruin a reputation
+> independent of mechanics? Repair it? Impose it on an NPC, or get it from
+> their actions (because family always reflects on you)?
 
 [TOC]
 
@@ -208,59 +218,92 @@ feelings for her."
 
 ## Scenes
 
-Have one deck.
+The game is structured around scenes. The GM sets scenes, with input from the
+players. There are four essential questions to answer for every scene:
 
-Each player starts the game with role tokens based on their social role. Each
-player also starts with two passion tokens.
-
-The GM starts with role tokens on each NPC based on their rank. They do not get
-passion tokens: those are representative of the unique power and passions that
-the PCs possess that draw the fairy's interest. NPCs regain tokens differently
-from PCs. For that, see [Gossip](#gossip) below.
-
-When one character wants something from another, they can demand it. When you
-demand something, put forward one or more role tokens. Each time you put
-forward role tokens, draw one card per token.  Each time you put forward
-tokens, describe how you push your case.
-
-You can demand behavior: apology, support, etc., but not feelings (i.e. you
-cannot demand "love me", but you can demand "propose to me").
-
-The other player may then pass or push. They may push forward one or more role
-tokens, and draw that many cards (and press _their_ case), or they may pass,
-and describe how they prevaricate, deflect, or hold fast.
-
-NPCs always get one card for free.
-
-Once both players have passed in a row, each player may reveal one or two
-cards. The player with the higher total gets what they wanted. The other player
-must concede. In the case of a tie, the higher-status person wins. In the case
-of a further tie, men win. In the case of a further further tie, the highest
-single card wins.
-
-(For the purposes of calculating totals, aces are 1, face cards are 10.)
-
-The loser may, instead of conceding, choose to escalate. They make a desperate
-declaration, a passionate plea, or an earnest entreaty. They spend a passion
-point. They may then flip one card from the top of the deck and add it to their
-total. If the total is over 21, they lose at cost. If the total is still below
-their opponent's, they just lose. If it is above, the other person may now
-choose to further escalate (and spend their own passion point, and flip a card
-themselves, as above), or graciously accept defeat.
-
-When bargaining with a fairy, you do not spend social points. Instead, you buy
-cards with passion tokens, and may put forward up to three cards at the moment
-of truth. You may not escalate as above.
-
-When you lose at cost, you have damaged one of your reputations. Choose
-whichever is most appropriate and mark off a box next to it. Once a reputation
-has four boxes marked, you cannot gain from it during Gossip (see below) until
-you have fully recovered it.
+  * Who is there?
+  * What are they hoping to do?
+  * What is the set? As suggestions:
+      * The assembly rooms
+      * A carriage ride
+      * A walk in the garden
+      * In a sitting room
+      * In the kitchens
+      * On the road between the Big House and town
+      * In the milliner's shop
+  * What is the business? As suggestions:
+      * Dancing
+      * Talking
+      * Eating
+      * Shopping
+      * Walking
 
 The GM chooses when a scene is over, and frames the next scene, though in both
 cases they should consider input from the players. All the rules in
 _Smallville_ p. 52 on ending scenes apply. They should also keep an eye out for
 folks who are getting low on tokens and may need a chance to replenish.
+
+Reproducing those rules here for ease of reference:
+
+  * Always leave them wanting more
+  * Cut before the second lull
+  * Are they at an impasse?
+  * The button (a.k.a. "that's a closing line")
+
+Scenes naturally will push towards sprawling. Push in the other direction. The
+middle ground will be ideal. Remember, there can be multiple scenes in the same
+place and time. Are you at a ball? There should be like three to five scenes
+there. Are you watching two characters alone on a walk together? Probably one.
+
+After each scene, engage in [Gossip](#gossip).
+
+### Demands
+
+Have one deck. Reshuffle it only when you need to.
+
+Each player starts the game with role tokens based on their social role. Each
+player also starts with two passion tokens.
+
+The GM starts with role tokens equal to the total among the PCs plus three.
+They do not get passion tokens: those are representative of the unique power
+and passions that the PCs possess that draw the fairy's interest.
+
+When one character wants something from another, and that character does not
+want to concede, go to the cards. Each participant (typically the GM and a
+player, but sometimes just two players) gets a card just for showing up. Each
+participant may spend role tokens to draw more cards. Each time you put forward
+tokens, describe how you push your case.
+
+You can demand behavior: apology, support, etc., but not feelings (i.e. you
+cannot demand "love me", but you can demand "propose to me").
+
+Once both sides have presented as much of their case as they wish to, and spent
+as many role tokens and drawn as many cards as they wish to, it is time for the
+moment of truth. Each side chooses two cards and reveals them. The player with
+the higher total gets what they wanted. The other player must concede. In the
+case of a tie, the higher-status person wins. In the case of a further tie, men
+win. In the case of a further further tie, the highest single card wins.
+
+(For the purposes of calculating totals, aces are 1, face cards are 10.)
+
+The loser may, instead of conceding, choose to escalate. They make a desperate
+declaration, a passionate plea, or an earnest entreaty. They spend a passion
+token. They may then flip one card from the top of the deck and add it to their
+total. The highest total still wins, but if their total is now over 21, they do
+so at cost to their reputation. If the other person has passion tokens, they
+may now choose to further escalate (and spend their own passion token, and flip
+a card themselves, as above), or graciously accept defeat.
+
+When bargaining with a fairy, you do not spend social tokens. Instead, you buy
+cards with passion tokens. You also may escalate with passion tokens, as above.
+There is no cost, but the fairy also has passion tokens, and may escalate
+similarly.
+
+When you suffer a cost, you have damaged one of your reputations. Choose
+whichever is most appropriate and mark off a box next to it. Once a reputation
+has four boxes marked, you cannot gain from it during Gossip (see below) until
+you have fully recovered it. See [Seasons, growth, and
+change](#seasons-growth-and-change) below.
 
 ### Gossip
 
@@ -272,13 +315,8 @@ them a point unless everyone else at the table draws a blank and cannot decide
 one way or another. Everyone else, however, absolutely should discuss the
 spotlight character's behavior in as animated a fashion as they like!
 
-Then, the spotlight character tells the group whether they pursued either of
-their desires. For each one they pursued, they get a passion token. What's
-important here is that they explain how their actions were in support of the
-desire, and thus contextualize them for the table.
-
-NPCs who were present in the scene each recover two role tokens if they are
-below their starting value, one if they are at or above it.
+Remember, if a character has a ruined reputation, they do not gain any social
+tokens for the associated actions.
 
 ### Perception
 
@@ -332,6 +370,18 @@ They must then answer honestly, and describe how they let it slip:
 >
 > When you read the fairy, there's a totally different list of questions. Very
 > particular for the fairy.
+
+## Sessions
+
+At the end of every session, go around the circle. Each player tells the group
+whether they pursued either of their desires. For each one they pursued, they
+get a passion token. What's important here is that they explain how their
+actions were in support of the desire, and thus contextualize them for the
+table.
+
+Present this as a small scene, of your character in repose and reflection.
+Perhaps walking the moors, perhaps brooding in the tower-room, perhaps writing
+in their journal by candle-light.
 
 ## Magic
 
@@ -540,7 +590,7 @@ Tell us who is:
   - The tradesman you owe the most
   - Your boon companion
 
-Initial social role tokens: 5
+Initial social role tokens: 3
 
 ### King of Hearts: Officer (♂)
 
@@ -558,7 +608,7 @@ Tell us who is:
   - ...
   - ...
 
-Initial social role tokens: 4
+Initial social role tokens: 2
 
 ### King of Clubs: Clergyman (♂)
 
@@ -576,7 +626,7 @@ Tell us who is:
   - ...
   - ...
 
-Initial social role tokens: 4
+Initial social role tokens: 2
 
 ### King of Diamonds: Dandy (♂)
 
@@ -594,7 +644,7 @@ Tell us who is:
   - ...
   - ...
 
-Initial social role tokens: 4
+Initial social role tokens: 2
 
 ### Queen of Spades: Lady (♀)
 
@@ -616,7 +666,7 @@ Tell us who is:
   - Your lady's maid
   - Your best friend
 
-Initial social role tokens: 5
+Initial social role tokens: 3
 
 ### Queen of Hearts: Governess (♀)
 
@@ -637,7 +687,7 @@ Tell us who is:
   - Your charge or charges
   - Your best friend
 
-Initial social role tokens: 4
+Initial social role tokens: 2
 
 ### Queen of Clubs: Ward (♀)
 
@@ -657,7 +707,7 @@ Tell us who:
   - You rely on for financial support
   - Sees you as a threat, obstacle or imposition
 
-Initial social role tokens: 4
+Initial social role tokens: 2
 
 ### Queen of Diamonds: Spinster (♀)
 
@@ -677,7 +727,7 @@ Tell us who is:
   - Your dearest sister
   - The one who got away
 
-Initial social role tokens: 4
+Initial social role tokens: 2
 
 ### Jack of Spades: Invalid (⚲)
 
@@ -695,7 +745,7 @@ Tell us who is:
   - Your source of comfort
   - Thinks you're playing it up for sympathy
 
-Initial social role tokens: 4
+Initial social role tokens: 2
 
 ### Jack of Hearts: Magician (⚲)
 
@@ -713,7 +763,7 @@ Tell us who:
   - Wishes to be your student
   - Owes you the most for your magical aid
 
-Initial social role tokens: 4
+Initial social role tokens: 2
 
 ### Jack of Clubs: Servant (⚲)
 
@@ -734,7 +784,7 @@ Tell us who is:
   - The apple of your eye
   - Your confidante
 
-Initial social role tokens: 3
+Initial social role tokens: 1
 
 ### Jack of Diamonds: Vagabond (⚲)
 
@@ -752,7 +802,7 @@ Tell us who:
   - Is your drinking companion
   - Gives you charity
 
-Initial social role tokens: 3
+Initial social role tokens: 1
 
 ## Appendix: Spells
 
