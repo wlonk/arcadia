@@ -406,7 +406,7 @@ _Poison'd_ bargain: you must maintain some particular behavior, a ban or a
 requirement, and if you break that, well, you lose the spell and you lose
 access to one of your desires. It will no longer nourish you.
 
-> #### TODO:
+> #### TODO
 > 
 > Kate: "The fairy needs to be a sea-change, for everyone at once." That means
 > that there needs to be something like the _Dread_ tower, something inevitable
