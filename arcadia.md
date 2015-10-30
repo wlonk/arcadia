@@ -15,6 +15,10 @@ A game of magic, manners, and madness.
 > fiction. Perhaps everyone is a little bit Gothic. This doesn't have to be
 > tied to Desires though.
 >
+> Need to put my designer-thumb more on the Devil's side of the scales in
+> conflicts, to make it more true that you need to outburst. Also, perhaps,
+> mechanize risks to self-conception?
+>
 > ---
 >
 > After New Mexicon:
@@ -58,6 +62,9 @@ A game of magic, manners, and madness.
 >
 > Now the particular questions become very important.
 >
+> When you read the fairy, there's a totally different list of questions. Very
+> particular for the fairy.
+>
 > ---
 >
 > Now, what about procedural elements? Can I do a thing, in the world? Dance
@@ -68,6 +75,10 @@ A game of magic, manners, and madness.
 > OK, so, prescriptive and descriptive, right? How do you ruin a reputation
 > independent of mechanics? Repair it? Impose it on an NPC, or get it from
 > their actions (because family always reflects on you)?
+>
+> Also, of course, reputations need to be by-association: the actions of your
+> family and the friends you keep can influence your reputation. No, it's not
+> fair. Yes, it's the point.
 
 [TOC]
 
@@ -143,16 +154,6 @@ reputation in future.
 The PCs are showing you at every moment what they most fear losing or
 happening. Use that. Push at them. Make their world unstable, pulling apart at
 the seams. There is no stable _status quo_ in Regency World!
-
-> #### TODO
->
-> Need to put my designer-thumb more on the Devil's side of the scales in
-> conflicts, to make it more true that you need to outburst. Also, perhaps,
-> mechanize risks to self-conception?
->
-> Also, of course, reputations need to be by-association: the actions of your
-> family and the friends you keep can influence your reputation. No, it's not
-> fair. Yes, it's the point.
 
 Now, the fairy offers absolution, victory, revenge, power. But it is a cat
 playing with mice, a child playing with dolls. It has no real conception of
@@ -320,6 +321,10 @@ tokens for the associated actions.
 
 ### Perception
 
+> #### TODO
+>
+> Redo this section per notes at top of document.
+
 When you read another person, ask them a question from those allowed based on
 your relative rank. Then, draw one to four cards, depending on the strength of
 your relationship. You are looking for a card that matches their suit (see the
@@ -333,11 +338,6 @@ as advantage once when you later try to get that character to do something.
 All of these questions pertain very much to the moment; we only ever get
 partial views of each other. This means that some questions, while they might
 in a broader sense have an answer, in the moment, they might not.
-
-> #### TODO
->
-> Emphasize this paragraph; it's really about the moment. Maybe constrain the
-> questions to actually include those words: "at this moment, what do..."
 
 When you are reading someone of a lower class than yourself, you may ask any of
 the following:
@@ -365,11 +365,6 @@ They must then answer honestly, and describe how they let it slip:
   * A gaze
   * A blush
   * A word
-
-> #### TODO
->
-> When you read the fairy, there's a totally different list of questions. Very
-> particular for the fairy.
 
 ## Sessions
 
