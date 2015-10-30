@@ -596,11 +596,11 @@ Initial social role tokens: 3
 
 You are expected to be disciplined, honorable and patriotic.
 
-| Gain a role token when you           | Unless you are |
-|--------------------------------------|----------------|
-| display valour in the face of danger | reckless       |
-| are gallant towards ladies           | a rake         |
-| put King and country first           | provincial     |
+| Gain a role token when you                   | Unless you are |
+|----------------------------------------------|----------------|
+| display valour in the face of danger         | reckless       |
+| are gallant towards ladies                   | a rake         |
+| ensure that rank and precedence are observed | a blowhard     |
 
 Tell us who is:
 
@@ -715,11 +715,11 @@ You are expected to deviate from your society's feminine ideal, have secret
 wealth or knowledge, and draw strength from your relationships with other
 women.
 
-| Gain a role token when                          | Unless you are |
-|-------------------------------------------------|----------------|
-| no one really listens to you                    | a blatherskite |
-| you speak a truth no one else will              | a liar         |
-| you provide a compassionate ear for other women | a gossip       |
+| Gain a role token when                     | Unless you are |
+|--------------------------------------------|----------------|
+| no one really listens to you               | a blatherskite |
+| you speak a truth no one else will         | a liar         |
+| you provide a compassionate ear for others | two-faced      |
 
 Tell us who is:
 
