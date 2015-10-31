@@ -52,21 +52,6 @@ A game of magic, manners, and madness.
 >
 > ---
 >
-> The way to change perception: you get to ask X questions per session, where X
-> is the strength of your relationship. The way to make this on the sheet: two
-> slots with four black checkboxes, three with three black and one grey, five
-> with two black and two grey, and many with one black and three grey. When you
-> take an advance that lets you have more intimates, you can black-outline
-> boxes with a pen, allowing you to still pencil-check them as you use them,
-> and then erase at the end of the session.
->
-> Now the particular questions become very important.
->
-> When you read the fairy, there's a totally different list of questions. Very
-> particular for the fairy.
->
-> ---
->
 > Now, what about procedural elements? Can I do a thing, in the world? Dance
 > well, shoot well, ride well, invest well?
 >
@@ -99,12 +84,12 @@ their social role, and two passion tokens.
 
 ### Relationships
 
-Every relationship a character has is rated from one to four:
+Every relationship a character has is rated from zero to three:
 
-  1. A near-stranger; someone to whom you've just been introduced.
-  2. A casual acquaintance; someone you know around town.
-  3. A good friend; someone whose company you seek.
-  4. A boon companion or lover; someone whose absence you could not tolerate.
+  1. Zero: A near-stranger; someone to whom you've just been introduced.
+  2. One: A casual acquaintance; someone you know around town.
+  3. Two: A good friend; someone whose company you seek.
+  4. Three: A boon companion or lover; someone whose absence you could not tolerate.
 
 At the start of the game, your relationships will be specified by your choices
 during character creation.
@@ -306,6 +291,37 @@ has four boxes marked, you cannot gain from it during Gossip (see below) until
 you have fully recovered it. See [Seasons, growth, and
 change](#seasons-growth-and-change) below.
 
+### Perception
+
+Sometimes, you just need to know what another character is thinking. You can
+look into another character's heart and ask one of the questions below one time
+per session per point of relationship strength you have with them.
+
+  * Is your character speaking the truth? 
+  * What does your character wish I would do?
+  * What does your character intend to do? 
+  * How does your character feel about this? 
+  * How could I get your character to...?
+
+They must then answer honestly, and describe how they let it slip:
+
+  * A gaze
+  * A blush
+  * A word
+  * Something else
+
+> #### TODO
+>
+> When you read the fairy, there's a totally different list of questions. Very
+> particular for the fairy. How do you strengthen your relationship with the
+> fairy?
+>
+> The way to make this on the sheet: two slots with three black checkboxes,
+> three with two black and one grey, five with one black and two grey, and a
+> few with three grey. When you take an advance that lets you have more
+> intimates, you can black-outline boxes with a pen, allowing you to still
+> pencil-check them as you use them, and then erase at the end of the session.
+
 ### Gossip
 
 At the end of every scene, hold a gossip session. Go around the table, and each
@@ -318,53 +334,6 @@ spotlight character's behavior in as animated a fashion as they like!
 
 Remember, if a character has a ruined reputation, they do not gain any social
 tokens for the associated actions.
-
-### Perception
-
-> #### TODO
->
-> Redo this section per notes at top of document.
-
-When you read another person, ask them a question from those allowed based on
-your relative rank. Then, draw one to four cards, depending on the strength of
-your relationship. You are looking for a card that matches their suit (see the
-card associations of the social roles; the GM can adjudicate for NPCs). If you
-don't get such a card, you may have an inkling, and should describe what you
-think to be the answer. If you do get such a card, you know positively. The
-other person must answer your question truthfully, and you may take that answer
-as advantage once when you later try to get that character to do something.
-("Advantage" gives you one free card in a conflict.)
-
-All of these questions pertain very much to the moment; we only ever get
-partial views of each other. This means that some questions, while they might
-in a broader sense have an answer, in the moment, they might not.
-
-When you are reading someone of a lower class than yourself, you may ask any of
-the following:
-
-  * What's your character really feeling? You need only answer with one word
-    ("anger", "fear", "satisfaction", "discomfort", etc.)
-  * Is your character telling the truth? You need only answer "yes" or "no".
-
-When you are reading someone of the same class as yourself, you may ask any of
-the following, or any from an earlier list:
-
-  * How could I get your character to ____?
-  * What does your character worry might happen?
-  * What does your character wish I'd do?
-
-When you are reading someone of a higher class than yourself, you may ask any
-of the following, or any from an earlier list:
-
-  * What does your character intend to do?
-  * How could I put your character in my debt?
-  * What is your character hiding?
-
-They must then answer honestly, and describe how they let it slip:
-
-  * A gaze
-  * A blush
-  * A word
 
 ## Sessions
 
