@@ -1,4 +1,5 @@
 *.scriv
 *.pages
+*.pdf
 .*.swp
 build
