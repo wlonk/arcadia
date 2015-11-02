@@ -98,9 +98,9 @@ At the end of a session, you may adjust any relationships you have, by mutual
 accord of both parties involved.
 
 Relationships are constrained, though. You cannot be intimates with the entire
-world. At any time, you may have no more than two level four relationships,
-three level three, and five level two. Yes, these numbers are small; it's a
-game, the cast is likewise small.
+world. At any time, you may have no more than two level three relationships,
+three level two, and five level one. Yes, these numbers are small; it's a game,
+the cast is likewise small.
 
 ### Reputations
 
