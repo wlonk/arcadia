@@ -64,6 +64,17 @@ A game of magic, manners, and madness.
 > Also, of course, reputations need to be by-association: the actions of your
 > family and the friends you keep can influence your reputation. No, it's not
 > fair. Yes, it's the point.
+>
+> ---
+>
+> Aaaaah realization! I've been thinking since the last playtest that I need
+> more "procedural" elements in Arcadia. Here's why: the game as it currently
+> stands is basically AW's Manipulate and Read a Person writ large, but you
+> need to have some rules to engage for doing a thing in the world if
+> manipulating folks is gonna go anywhere.
+>
+> It'll also help an issue where scenes have been feeling samey, because
+> there's no way to act on the outcomes of a previous interpersonal scene.
 
 [TOC]
 
