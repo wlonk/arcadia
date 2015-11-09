@@ -302,6 +302,27 @@ has four boxes marked, you cannot gain from it during Gossip (see below) until
 you have fully recovered it. See [Seasons, growth, and
 change](#seasons-growth-and-change) below.
 
+### Exertion
+
+When your character imposes their will upon the world, or puts themselves in
+mortal danger, they are _exerting_ themselves.
+
+To see whether things go well for their character, the player draws one card,
+and one more card for every trait of their character that they are
+demonstrating. Keep these cards face-down. Flip them one at a time, as you
+describe the exertion. The player may choose to stop whenever they want, and
+needn't flip all the cards available.
+
+When they stop, if the cards that show total more than 17, they have succeeded.
+If they total more than 21, they have done so at a cost.
+
+As they flip the cards, they may at any point spend a passion token to discard
+one of the face-up cards. They may do this as often as they wish.
+
+Before exerting yourself, be very clear what the goal is, and what sorts of
+risks you might face. The GM has final say about the risks that manifest if you
+go over 21, but you are entitled to a clear idea of what they might be.
+
 ### Perception
 
 Sometimes, you just need to know what another character is thinking. You can
