@@ -535,11 +535,6 @@ for your transgression.
 
 Take a token when you impress a crowd.
 
-### Immortality
-
-Take a token when you do or make something that will be remembered for years to
-come.
-
 ### Love
 
 Take a token when you show your love to your beloved.
