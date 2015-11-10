@@ -75,6 +75,22 @@ A game of magic, manners, and madness.
 >
 > It'll also help an issue where scenes have been feeling samey, because
 > there's no way to act on the outcomes of a previous interpersonal scene.
+>
+> ---
+>
+> Revamped convincing people: now we have moves of various sorts, which each
+> take either passion or social tokens. Those become your highly-variable
+> stats.
+>
+> You can still bust by spending an extra token of whatever kind the move
+> you're doing calls for.
+>
+> Some things like proposals can play with either token, but have different
+> triggers and outcomes depending.
+>
+> Also, urgent need for fairy rules and spell rules.
+>
+> Also, actions in Fairy are more likely to be Passion-based, amirite?
 
 [TOC]
 
