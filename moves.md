@@ -1,5 +1,12 @@
 # Powered by the Apocalypse
 
+The outcomes you can get from a move change as your passion and status
+fluctuate. So, special moves can take both to get certain results. Do you _buy_
+the results, and thus burn the tokens?
+
+Possibly the better you roll, the cheaper the purchases? That's probably too
+complex.
+
 ## Stats
 
 | Take 1      | Take 2     | Final    |
