@@ -17,8 +17,17 @@ _1, 2 or 3 passion, at increasing levels of risk to your reputation (including
 lowering the value of the high card needed to damage the reputation) and
 requiring stronger roleplay_.
 
-__1, 2 or 3 status, at increasing levels of risk to passions? how's that work?
+_1, 2 or 3 status, at increasing levels of risk to passions? how's that work?
 anyway, requiring more strenuous roleplay, too._
+
+Remember what Vincent said:
+
+> Apocalypse World's moves create these differences, again transparently and
+> accessibly, not only by having different possible outcomes, but by having
+> materially different procedures. Some moves have you ask another player
+> questions. Some let you choose the outcome, others let another player choose
+> the outcome. Some leave your next action unbiased, some offer enticements,
+> some cut off possibilities, some make demands.
 
 ## Stats
 
