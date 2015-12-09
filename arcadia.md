@@ -23,37 +23,11 @@ A game of magic, manners, and madness.
 >
 > After New Mexicon:
 >
-> A realization about influence from PTA3: tokens aren't the actual thing.
-> They're an augment. So, start with tokens 1, 2, 3 depending on social tier.
-> Then, in any conflict, each party starts with a card, spend tokens for more.
-> Then spend passions for an extra bump.
->
-> That implies roles for traits of some sort. Get cards not just for currency,
-> but for invoking fictional triggers.
->
-> How you get and spend currency can stay as-is.
->
-> So, passion tokens still need consideration. What makes it worth spending
-> them, when you're likely aiming for a very small space?
->
-> So what if it's like this: highest total gets what they want, you pay a cost
-> if you're over 21? Limit how many times you can escalate with passion tokens?
-> So you can both go over 21, and then you're both paying costs, even though
-> only one is winning. This might encourage a certain kind of graceful
-> concession, because the other person has already gone too far. But as long as
-> there are good fictional triggers and costs for getting extra cards above
-> your two, I think this is viable.
->
 > I suspect that fairies might like folks with bad reputations. "A bully? No!
 > You are possessed of a warrior's spirit!"
 >
 > Is there room for advancement keyed off of relationships? Relationship
 > strength is already a thing, but maybe also relationship character?
->
-> ---
->
-> Now, what about procedural elements? Can I do a thing, in the world? Dance
-> well, shoot well, ride well, invest well?
 >
 > ---
 >
@@ -67,30 +41,7 @@ A game of magic, manners, and madness.
 >
 > ---
 >
-> Aaaaah realization! I've been thinking since the last playtest that I need
-> more "procedural" elements in Arcadia. Here's why: the game as it currently
-> stands is basically AW's Manipulate and Read a Person writ large, but you
-> need to have some rules to engage for doing a thing in the world if
-> manipulating folks is gonna go anywhere.
->
-> It'll also help an issue where scenes have been feeling samey, because
-> there's no way to act on the outcomes of a previous interpersonal scene.
->
-> ---
->
-> Revamped convincing people: now we have moves of various sorts, which each
-> take either passion or social tokens. Those become your highly-variable
-> stats.
->
-> You can still bust by spending an extra token of whatever kind the move
-> you're doing calls for.
->
-> Some things like proposals can play with either token, but have different
-> triggers and outcomes depending.
->
 > Also, urgent need for fairy rules and spell rules.
->
-> Also, actions in Fairy are more likely to be Passion-based, amirite?
 
 [TOC]
 
@@ -108,6 +59,12 @@ mix everyone up into one nice tangled community.
 
 At the start of the game, characters have a number of role tokens based on
 their social role, and two passion tokens.
+
+### Accomplishments
+
+Every character has three accomplishments. These are particular areas in which
+that character stands out as skilled or excellent. Choose from among those
+listed for your social role.
 
 ### Relationships
 
@@ -285,7 +242,8 @@ When one character wants something from another, and that character does not
 want to concede, go to the cards. Each participant (typically the GM and a
 player, but sometimes just two players) gets a card just for showing up. Each
 participant may spend role tokens to draw more cards. Each time you put forward
-tokens, describe how you push your case.
+tokens, describe how you push your case. (This basically means you have to
+spend one role token every time you demand something.)
 
 You can demand behavior: apology, support, etc., but not feelings (i.e. you
 cannot demand "love me", but you can demand "propose to me").
@@ -323,17 +281,14 @@ change](#seasons-growth-and-change) below.
 When your character imposes their will upon the world, or puts themselves in
 mortal danger, they are _exerting_ themselves.
 
-To see whether things go well for their character, the player draws one card,
-and one more card for every trait of their character that they are
-demonstrating. Keep these cards face-down. Flip them one at a time, as you
-describe the exertion. The player may choose to stop whenever they want, and
-needn't flip all the cards available.
+To see whether things go well for their character, the player draws two cards.
+They may invoke an accomplishment or spend a passion token, as many times as
+they can and wish, to get more cards, one at a time. If the total of the cards
+is 17 or higher, they have succeeded. If the total is 22 or higher, they have
+gone bust, and their attempt has not gone well for them. If they stop with a
+total below 17, it has likewise not gone well.
 
-When they stop, if the cards that show total more than 17, they have succeeded.
-If they total more than 21, they have done so at a cost.
-
-As they flip the cards, they may at any point spend a passion token to discard
-one of the face-up cards. They may do this as often as they wish.
+As always, aces count as 1, and face cards count as 10.
 
 Before exerting yourself, be very clear what the goal is, and what sorts of
 risks you might face. The GM has final say about the risks that manifest if you
