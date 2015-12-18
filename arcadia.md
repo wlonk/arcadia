@@ -227,7 +227,7 @@ there. Are you watching two characters alone on a walk together? Probably one.
 
 After each scene, engage in [Gossip](#gossip).
 
-### Demands
+### Petition
 
 Have one deck. Reshuffle it only when you need to.
 
@@ -243,10 +243,10 @@ want to concede, go to the cards. Each participant (typically the GM and a
 player, but sometimes just two players) gets a card just for showing up. Each
 participant may spend role tokens to draw more cards. Each time you put forward
 tokens, describe how you push your case. (This basically means you have to
-spend one role token every time you demand something.)
+spend one role token every time you petition something.)
 
-You can demand behavior: apology, support, etc., but not feelings (i.e. you
-cannot demand "love me", but you can demand "propose to me").
+You can petition behavior: apology, support, etc., but not feelings (i.e. you
+cannot petition "love me", but you can petition "propose to me").
 
 Once both sides have presented as much of their case as they wish to, and spent
 as many role tokens and drawn as many cards as they wish to, it is time for the
