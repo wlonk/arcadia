@@ -1103,9 +1103,11 @@ Surnames may include
   * Quick
   * Renbourne
   * Rochester
+  * Rooke
   * Sharpe
   * Silverthorn
   * Smith
+  * Speed
   * Spencer
   * St. John (pron. "Sinjin")
   * Stout
