@@ -4,11 +4,11 @@ A game of magic, manners, and madness.
 
 > #### TODO
 >
->  1. Fairy needs and desires
->  2. Perception of the fairy
->  3. Perception per-social-role?
->  4. Spells
->  5. The role of passion tokens
+>  1. Family and friends, and their effects on reputation
+>  2. Fairy needs and desires
+>  3. Perception of the fairy
+>  4. Perception per-social-role?
+>  5. Spells
 >
 > The characters as they currently are, are not Byronic at all. There's a lot
 > of value in adding more Gothic-ness. "The lovely scare" as a term for Gothic
@@ -19,17 +19,11 @@ A game of magic, manners, and madness.
 > conflicts, to make it more true that you need to outburst. Also, perhaps,
 > mechanize risks to self-conception?
 >
-> ---
->
-> After New Mexicon:
->
 > I suspect that fairies might like folks with bad reputations. "A bully? No!
 > You are possessed of a warrior's spirit!"
 >
 > Is there room for advancement keyed off of relationships? Relationship
 > strength is already a thing, but maybe also relationship character?
->
-> ---
 >
 > OK, so, prescriptive and descriptive, right? How do you ruin a reputation
 > independent of mechanics? Repair it? Impose it on an NPC, or get it from
@@ -38,8 +32,6 @@ A game of magic, manners, and madness.
 > Also, of course, reputations need to be by-association: the actions of your
 > family and the friends you keep can influence your reputation. No, it's not
 > fair. Yes, it's the point.
->
-> ---
 >
 > Also, urgent need for fairy rules and spell rules.
 
@@ -51,7 +43,7 @@ Characters have social roles (which give them role tokens) and desires (which
 give them passion tokens).
 
 Characters have relationships with NPCs and each other. Relationships are rated
-from one to four.
+from zero to three.
 
 When you first make characters, there are formal relationships defined by your
 social role and emotional relationships defined by your desires. Use these to
@@ -66,6 +58,10 @@ Every character has three accomplishments. These are particular areas in which
 that character stands out as skilled or excellent. Choose from among those
 listed for your social role.
 
+> #### TODO
+>
+> Make accomplishment lists for social roles.
+
 ### Relationships
 
 Every relationship a character has is rated from zero to three:
@@ -78,8 +74,7 @@ Every relationship a character has is rated from zero to three:
 At the start of the game, your relationships will be specified by your choices
 during character creation.
 
-At the end of a session, you may adjust any relationships you have, by mutual
-accord of both parties involved.
+At the end of a session, you may adjust any relationships you have.
 
 Relationships are constrained, though. You cannot be intimates with the entire
 world. At any time, you may have no more than two level three relationships,
@@ -227,16 +222,13 @@ there. Are you watching two characters alone on a walk together? Probably one.
 
 After each scene, engage in [Gossip](#gossip).
 
-### Petition
-
 Have one deck. Reshuffle it only when you need to.
-
-Each player starts the game with role tokens based on their social role. Each
-player also starts with two passion tokens.
 
 The GM starts with role tokens equal to the total among the PCs plus three.
 They do not get passion tokens: those are representative of the unique power
 and passions that the PCs possess that draw the fairy's interest.
+
+### Petition
 
 When one character wants something from another, and that character does not
 want to concede, go to the cards. Each participant (typically the GM and a
@@ -246,7 +238,7 @@ tokens, describe how you push your case. (This basically means you have to
 spend one role token every time you petition something.)
 
 You can petition behavior: apology, support, etc., but not feelings (i.e. you
-cannot petition "love me", but you can petition "propose to me").
+cannot petition "love me").
 
 Once both sides have presented as much of their case as they wish to, and spent
 as many role tokens and drawn as many cards as they wish to, it is time for the
@@ -300,10 +292,10 @@ Sometimes, you just need to know what another character is thinking. You can
 look into another character's heart and ask one of the questions below one time
 per session per point of relationship strength you have with them.
 
-  * Is your character speaking the truth? 
+  * Is your character speaking the truth?
   * What does your character wish I would do?
-  * What does your character intend to do? 
-  * How does your character feel about this? 
+  * What does your character intend to do?
+  * How does your character feel about this?
   * How could I get your character to...?
 
 They must then answer honestly, and describe how they let it slip:
@@ -379,7 +371,7 @@ requirement, and if you break that, well, you lose the spell and you lose
 access to one of your desires. It will no longer nourish you.
 
 > #### TODO
-> 
+>
 > Kate: "The fairy needs to be a sea-change, for everyone at once." That means
 > that there needs to be something like the _Dread_ tower, something inevitable
 > but uncertain, that triggers the fairy's arrival. Tied to desires probably?
@@ -388,15 +380,15 @@ access to one of your desires. It will no longer nourish you.
 > I think that the real trigger for "does the fairy show up" is this: is
 > someone in enough of a bind that they might say "yes" to a fairy bargain? If
 > not, push them harder, until someone is.
-> 
+>
 > Khaled: "The fairy should change our incentives. We could maybe have to
 > choose whether to sacrifice what we've been doing to risk a greater payoff
 > and greater fall from the fairy." The fairy should have some system for
 > straight up bargains and deals.
-> 
+>
 > Can the fairy intensify desires? "The fairy tempts you, and so your desires
 > start to consume you."
-> 
+>
 > Kit: Everyone is low-privilege relative to the fairy. You have to navigate
 > its preferences; direct action will never avail you.
 >
@@ -423,9 +415,6 @@ access to one of your desires. It will no longer nourish you.
 > An example fairy need: "Someone in this town has an old heirloom that the
 > fairy needs to overthrow their enemy in a kingdom on the far side of hell.
 > What is it, and why can't they just take it?"
-
-Some fairies:
-
 
 ### Casting Spells
 
@@ -941,34 +930,37 @@ To protect against this spell, sleep with a cat or a nightingale in the room.
 
 ### A spell to summon the spirit of a dead person
 
-### The Arcana
-
-  *  0: The Fool: Luck
-  *  I: The Magician: Sight
-  *  II: The High Priestess: Secrets
-  *  III: The Empress: Healing
-  *  IV: The Emperor: Authority
-  *  V: The Hierophant: Wisdom
-  *  VI: The Lovers: Passion
-  *  VII: The Chariot: Travel
-  *  VIII: Strength: Courage
-  *  IX: The Hermit: Barriers
-  *  X: The Wheel of Fortune: Prophesy
-  *  XI: Justice: Truth
-  *  XII: The Hanged Man: Travel between worlds
-  *  XIII: Death: Necromancy
-  *  XIV: Temperance: Transmutation
-  *  XV: The Devil: Lies
-  *  XVI: The Tower: Destruction
-  *  XVII: The Star: Navigation
-  *  XVIII: The Moon: Illusion
-  *  XIX: The Sun: Dispelling
-  *  XX: Judgment: Resurrection
-  *  XXI: The World: Transformation
+> #### TODO
+>
+> The Arcana, for inspiration for more spells:
+>
+>   *  0: The Fool: Luck
+>   *  I: The Magician: Sight
+>   *  II: The High Priestess: Secrets
+>   *  III: The Empress: Healing
+>   *  IV: The Emperor: Authority
+>   *  V: The Hierophant: Wisdom
+>   *  VI: The Lovers: Passion
+>   *  VII: The Chariot: Travel
+>   *  VIII: Strength: Courage
+>   *  IX: The Hermit: Barriers
+>   *  X: The Wheel of Fortune: Prophesy
+>   *  XI: Justice: Truth
+>   *  XII: The Hanged Man: Travel between worlds
+>   *  XIII: Death: Necromancy
+>   *  XIV: Temperance: Transmutation
+>   *  XV: The Devil: Lies
+>   *  XVI: The Tower: Destruction
+>   *  XVII: The Star: Navigation
+>   *  XVIII: The Moon: Illusion
+>   *  XIX: The Sun: Dispelling
+>   *  XX: Judgment: Resurrection
+>   *  XXI: The World: Transformation
 
 ## Appendix: Fairies
 
 ### The Sable Lady
+
 ### King Ludd
 
 The Old King of the North, Ludd (or Llud of the Silver Hand) cuts a regal
@@ -990,10 +982,15 @@ elevate themselves through feats of valour and strength. No, he must help them
 towards their destiny.
 
 ### The Beast of the Moors
+
 ### Old Iron-boots
+
 ### The Lady in the Lake
+
 ### The Horned God
+
 ### The Hanged God
+
 ### The Three Sisters
 
 ## Appendix: Names
