@@ -27,6 +27,17 @@ A game of magic, manners, and madness.
 > Sky Stories_ is a great starting point, though problematic ones should also
 > be introduced.
 >
+> Such as:
+>
+>   * Affection
+>   * Protection
+>   * Trust
+>   * Family
+>   * Admiration
+>   * Rivalry
+>   * Respect
+>   * Love
+>
 > OK, so, prescriptive and descriptive, right? How do you ruin a reputation
 > independent of mechanics? Repair it? Impose it on an NPC, or get it from
 > their actions (because family always reflects on you)?
