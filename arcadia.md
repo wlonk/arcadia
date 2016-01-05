@@ -77,9 +77,9 @@ during character creation.
 At the end of a session, you may adjust any relationships you have.
 
 Relationships are constrained, though. You cannot be intimates with the entire
-world. At any time, you may have no more than two level three relationships,
-three level two, and five level one. Yes, these numbers are small; it's a game,
-the cast is likewise small.
+world. At character creation, you have 17 points to distribute, one-for-one,
+among your relationships. You may gain more points through [character
+growth](#seasons-growth-and-change).
 
 ### Reputations
 
