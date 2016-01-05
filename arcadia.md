@@ -36,6 +36,9 @@ A game of magic, manners, and madness.
 > fair. Yes, it's the point.
 >
 > Also, urgent need for fairy rules and spell rules.
+>
+> Secret powers for accomplishments when you use them in fairy? Or just "use
+> them creatively"?
 
 [TOC]
 
@@ -259,6 +262,9 @@ so at cost to their reputation. If the other person has passion tokens, they
 may now choose to further escalate (and spend their own passion token, and flip
 a card themselves, as above), or graciously accept defeat.
 
+To repeat that: if your total is over 21, for any reason, you will tarnish a
+reputation.
+
 When bargaining with a fairy, you do not spend social tokens. Instead, you buy
 cards with passion tokens. You also may escalate with passion tokens, as above.
 There is no cost, but the fairy also has passion tokens, and may escalate
@@ -281,6 +287,11 @@ they can and wish, to get more cards, one at a time. If the total of the cards
 is 17 or higher, they have succeeded. If the total is 22 or higher, they have
 gone bust, and their attempt has not gone well for them. If they stop with a
 total below 17, it has likewise not gone well.
+
+To reiterate: when you try something risky, draw two cards, spending passion or
+accomplishments to get more, one at a time. If your total is below 17, you have
+failed. If it is 17 or higher, you have succeeded. If it is 22 or higher, you
+have succeeded at a cost.
 
 As always, aces count as 1, and face cards count as 10.
 
