@@ -22,8 +22,10 @@ A game of magic, manners, and madness.
 > I suspect that fairies might like folks with bad reputations. "A bully? No!
 > You are possessed of a warrior's spirit!"
 >
-> Is there room for advancement keyed off of relationships? Relationship
-> strength is already a thing, but maybe also relationship character?
+> Is there room for advancement keyed off of connections? Connection strength
+> is already a thing, but maybe also connection character? The list in _Golden
+> Sky Stories_ is a great starting point, though problematic ones should also
+> be introduced.
 >
 > OK, so, prescriptive and descriptive, right? How do you ruin a reputation
 > independent of mechanics? Repair it? Impose it on an NPC, or get it from
@@ -42,12 +44,12 @@ A game of magic, manners, and madness.
 Characters have social roles (which give them role tokens) and desires (which
 give them passion tokens).
 
-Characters have relationships with NPCs and each other. Relationships are rated
+Characters have connections with NPCs and each other. Connections are rated
 from zero to three.
 
-When you first make characters, there are formal relationships defined by your
-social role and emotional relationships defined by your desires. Use these to
-mix everyone up into one nice tangled community.
+When you first make characters, there are formal connections defined by your
+social role and emotional connections defined by your desires. Use these to mix
+everyone up into one nice tangled community.
 
 At the start of the game, characters have a number of role tokens based on
 their social role, and two passion tokens.
@@ -62,23 +64,23 @@ listed for your social role.
 >
 > Make accomplishment lists for social roles.
 
-### Relationships
+### Connections
 
-Every relationship a character has is rated from zero to three:
+Every connection a character has is rated from zero to three:
 
   1. Zero: A near-stranger; someone to whom you've just been introduced.
   2. One: A casual acquaintance; someone you know around town.
   3. Two: A good friend; someone whose company you seek.
   4. Three: A boon companion or lover; someone whose absence you could not tolerate.
 
-At the start of the game, your relationships will be specified by your choices
+At the start of the game, your connections will be specified by your choices
 during character creation.
 
-At the end of a session, you may adjust any relationships you have.
+At the end of a session, you may adjust any connections you have.
 
-Relationships are constrained, though. You cannot be intimates with the entire
+Connections are constrained, though. You cannot be intimates with the entire
 world. At character creation, you have 17 points to distribute, one-for-one,
-among your relationships. You may gain more points through [character
+among your connections. You may gain more points through [character
 growth](#seasons-growth-and-change).
 
 ### Reputations
@@ -94,7 +96,7 @@ each case, forfeit a way of gaining role tokens.
 
 The GM controls the NPCs and provides adversity. It's their role to reinforce
 the strictures of society, the dangers of magic, and the difficulties of human
-relationships.
+connections.
 
 The GM should write down what we know about NPCs on their index cards, and
 particularly how they feel about the PCs and each other. This will help them
@@ -290,7 +292,7 @@ go over 21, but you are entitled to a clear idea of what they might be.
 
 Sometimes, you just need to know what another character is thinking. You can
 look into another character's heart and ask one of the questions below one time
-per session per point of relationship strength you have with them.
+per session per point of connection strength you have with them.
 
   * Is your character speaking the truth?
   * What does your character wish I would do?
@@ -308,7 +310,7 @@ They must then answer honestly, and describe how they let it slip:
 > #### TODO
 >
 > When you read the fairy, there's a totally different list of questions. Very
-> particular for the fairy. How do you strengthen your relationship with the
+> particular for the fairy. How do you strengthen your connection with the
 > fairy?
 >
 > The way to make this on the sheet: two slots with three black checkboxes,
@@ -444,8 +446,8 @@ hazards.
 At the end of each season (a bunch of sessions with a coherent arc), go through
 a questionnaire and ask the table about each character: whether they have done
 this, or that, etc. They will gain XP based on that, which they can use to
-modify their reputations and relationships and possibly some other things. They
-may also change out a desire, and should redefine their relationships with the
+modify their reputations and connections and possibly some other things. They
+may also change out a desire, and should redefine their connections with the
 NPCs.
 
 > #### TODO
@@ -665,8 +667,7 @@ Initial social role tokens: 2
 ### Queen of Diamonds: Spinster (♀)
 
 You are expected to deviate from your society's feminine ideal, have secret
-wealth or knowledge, and draw strength from your relationships with other
-women.
+wealth or knowledge, and draw strength from your connections with other women.
 
 | Gain a role token when                     | Unless you are |
 |--------------------------------------------|----------------|
