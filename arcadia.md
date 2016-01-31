@@ -887,6 +887,24 @@ silverware, windows looking out into the dark.
 
 ### A spell to transmute one material to another
 
+Components:
+
+  * (Al)chemical equipment
+  * Powerful acids or bases
+  * A sanctum inscribed with mystical sigils and patterns
+  * A smith's forge heated with mountain ash
+  * A lone assistant
+
+Costs:
+
+  * The traces of the transformation are etched onto your skin.
+  * The transformation is unstable.
+  * The transformation breaks something valuable to you. What is it?
+  * TODO
+
+To undo this spell, soak the transmuted material in a solution of lye; before
+it dissolves, it will revert to its true form.
+
 ### A spell to bring the dead back to a semblance of life
 
 Components:
@@ -916,9 +934,34 @@ being raised, the expedient is a simple one: burn it.
 
 ### A spell to strengthen man or beast
 
-### A spell to change a man's appearance
+Components:
+
+  * A rod of iron
+  * The skin of a bear
+  * The lifeblood of an ox
+  * A crown of oak leaves
+  * Inscribe a mystical sigil (a lemniscate) on the forehead of the subject
+
+Costs:
+
+  * The physical strength unbalances the subject, rendering them prone to rage.
+  * The strength comes at the cost of the well-being of those around the
+    subject, draining their health and energy.
+  * The subject must fuel their strength by eating prodigious amounts.
+  * The subject cannot control their strength well, and easily breaks fragile
+    things they try to handle.
+
+To undo this spell, break the amulet the subject carries.
+
+### A spell to change a person's appearance
 
 Components:
+
+  * Blood or hair from the person the subject is to look like
+  * A wood-path shown by a wild fox
+  * A silver ring that the subject must wear
+  * A new moon
+  * A mirror to hold the subject's old shape while they wear the disguise
 
 Costs:
 
@@ -954,6 +997,23 @@ Costs:
 To protect against this spell, sleep with a cat or a nightingale in the room.
 
 ### A spell to summon the spirit of a dead person
+
+Components:
+
+  * Grave dirt or a noose that has seen use
+  * A crossroads
+  * A dirge
+  * A black tallow candle
+  * A lone crow
+
+Costs:
+
+  * The dead spirit will not leave you alone.
+  * The spirit will not answer questions without a quid pro quo.
+  * The spirit marks you for death.
+  * The spirit did not come alone.
+
+To break this spell, throw salt at the spirit.
 
 > #### TODO
 >
