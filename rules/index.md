@@ -1,3 +1,9 @@
+---
+layout: page
+title: Rules
+permalink: /rules/
+---
+
 # Arcadia
 
 A game of magic, manners, and madness.
