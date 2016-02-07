@@ -261,3 +261,12 @@ h1,
 h2 {
   font-family: 'Mr De Haviland', cursive;
 }
+
+@media screen and (min-width: 1350px) {
+  #markdown-toc {
+    position: absolute;
+    left: 0;
+    top: 80px;
+    width: 250px;
+  }
+}
