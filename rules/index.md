@@ -8,6 +8,7 @@ title: Rules
 A game of magic, manners, and madness.
 
 > #### TODO
+> {: .no_toc}
 >
 >  1. Family and friends, and their effects on reputation
 >  2. Fairy needs and desires
@@ -56,7 +57,8 @@ A game of magic, manners, and madness.
 > Secret powers for accomplishments when you use them in fairy? Or just "use
 > them creatively"?
 
-[TOC]
+* TOC
+{:toc}
 
 ## Characters
 
@@ -80,6 +82,7 @@ that character stands out as skilled or excellent. Choose from among those
 listed for your social role.
 
 > #### TODO
+> {: .no_toc}
 >
 > Make accomplishment lists for social roles.
 
@@ -335,6 +338,7 @@ They must then answer honestly, and describe how they let it slip:
   * Something else
 
 > #### TODO
+> {: .no_toc}
 >
 > When you read the fairy, there's a totally different list of questions. Very
 > particular for the fairy. How do you strengthen your connection with the
@@ -402,6 +406,7 @@ requirement, and if you break that, well, you lose the spell and you lose
 access to one of your desires. It will no longer nourish you.
 
 > #### TODO
+> {: .no_toc}
 >
 > Kate: "The fairy needs to be a sea-change, for everyone at once." That means
 > that there needs to be something like the _Dread_ tower, something inevitable
@@ -478,6 +483,7 @@ may also change out a desire, and should redefine their connections with the
 NPCs.
 
 > #### TODO
+> {: .no_toc}
 >
 > Actually make growth questions.
 
@@ -550,6 +556,7 @@ Take a token when you learn a secret related to your agenda.
 ## Appendix: Social Roles
 
 > #### TODO
+> {: .no_toc}
 >
 > Edit social roles.
 
@@ -978,6 +985,7 @@ Costs:
 To break this spell, throw salt at the spirit.
 
 > #### TODO
+> {: .no_toc}
 >
 > The Arcana, for inspiration for more spells:
 >
