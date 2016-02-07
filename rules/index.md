@@ -787,95 +787,18 @@ Initial social role tokens: 1
 
 ## Appendix: Spells
 
-> #### TODO
->
-> Actually fill in spells, like AW moves.
->
->   * A temporal constraint:
->       * The spell must be performed in the dead of night.
->       * The spell must be cast at a particular juncture of the stars: at an
->         equinox, solstice, or similar time.
->       * The spell requires certain weather conditions (rain, snow, or lightning
->         most probably).
->   * A ritual constraint:
->       * The spell must be performed in absolute solitude.
->       * The spell must be performed with a coven of assistants.
->       * The spell must be cast naked.
->   * A material constraint:
->       * The spell requires the blood, bones, hair, teeth, or other body parts
->         of a hanged man.
->       * The spell requires something particular from nature: mistletoe,
->         moss-oak, or fly agaric are common examples.
->       * The spell requires some sacrifice from the caster, something precious to
->         them.
->   * A wild outcome:
->       * The spell will do more or less than you intend. There's no way to know
->         which until it is cast.
->       * The spell will leave its mark upon the caster, that all may know who
->         worked it.
->       * The spell requires a balance of forces: fire for water, hate for love,
->         life for life.
->   * A limiting condition:
->       * The spell will unravel at midnight.
->       * The spell will not work on consecrated ground.
->       * The spell will not work on those who are pure.
->   * A grave consequence:
->       * The spell may not be undone.
->       * The spell is blasphemous, and may bar the caster from Heaven.
->
-> Once you can fulfil the conditions, the spell will take effect. How _exactly_
-> should be described collaboratively. For example, if you wish to build a
-> bridge, perhaps it rises from the river, water rushing off of it. Or the stones
-> roll down from the hills of their own accord. Or all the best craftsmen and
-> artisans for three towns around find themselves roused from their beds by an
-> uncontrollable itch to make a bridge, and the deed is somehow done in one
-> night. Or perhaps, the town merely awakens the next morning to find that the
-> bridge that has always been there is, unsurprisingly, still there. Whichever
-> suits the spell and the mood of the table best.
->
-> As another example, if you wish to keep a particular person in town, perhaps
-> they may come down ill, and be unable to travel. Or the weather may stay
-> terribly inclement for weeks at a time, washing out the roads. Or you may weave
-> a subtle labyrinth around the village, causing anyone who tries to leave to be
-> turned around and find themselves back at their doorstep, with the urgent
-> certainty that they had business to attend to at the house and couldn't
-> possibly leave.
-
-### A spell of love
-
-This spell is obviously highly squicky.
-
-This spell takes the form of a tincture. When dropped into the eyes of a
-sleeper, they will fall deeply, madly in love with the first person they see on
-waking.
-
-To cast this spell, you must...
-
-If they are woken forcefully, it will go wrong.
-
-If the person who applied the tincture is the first person they see on waking,
-it will go wrong.
-
-If they are subjected to any other spell while sleeping, it may go wrong.
-
-Some ways it may go wrong:
-
-  * They may see a person other than intended.
-  * The depth of their passion may be more than what is comfortable.
-  * They may bury their feelings under layers of denial.
-
-The spell may be undone by burning a likeness of the person who made the
-tincture outside under the full moon.
-
 ### A spell of far-seeing
+
+You enter a trance, and see a vision of something or someone far away in a
+reflective surface.
 
 Components:
 
-  * laudanum
-  * solitude
-  * a reflective surface
-  * a token from the object of the vision
-  * hours of meditation
+  * Laudanum or some other way to induce a trance.
+  * Utter solitude.
+  * Hours of meditation.
+  * A reflective surface.
+  * A token from the object of the vision.
 
 Costs:
 
@@ -892,33 +815,42 @@ silverware, windows looking out into the dark.
 
 ### A spell to transmute one material to another
 
+This spell most frequently is used to turn lead into gold. Many hope this will
+be a quick route to riches.
+
 Components:
 
-  * (Al)chemical equipment
-  * Powerful acids or bases
-  * A sanctum inscribed with mystical sigils and patterns
-  * A smith's forge heated with mountain ash
-  * A lone assistant
+  * (Al)chemical equipment, including powerful acids or bases.
+  * A lone assistant.
+  * A soul purified of distractions.
+  * A sanctum inscribed with mystical sigils and patterns, positioned at the
+    intersection of many lines of magical power.
+  * A fire heated with mountain ash from the grove of Arawn, in the Otherworld.
 
 Costs:
 
   * The traces of the transformation are etched onto your skin.
   * The transformation is unstable.
   * The transformation breaks something valuable to you. What is it?
-  * TODO
+  * Someone suspects what has happened. Did they find your sanctum or
+    materials, or something else?
 
 To undo this spell, soak the transmuted material in a solution of lye; before
 it dissolves, it will revert to its true form.
 
 ### A spell to bring the dead back to a semblance of life
 
+This spell will make the dead walk and talk and act much as they did in life.
+
+This spell requires that you have the corpse you wish to reanimate present.
+
 Components:
 
-  * under a new moon
-  * at a crossroads
-  * spit in the mouth of the corpse
-  * let the blood of a black goat over the corpse
-  * two accomplices
+  * Under a new moon.
+  * At a crossroads.
+  * Spit in the mouth of the corpse.
+  * Let the blood of a bleating black goat over the corpse.
+  * Two accomplices, people who were important to the deceased in life.
 
 Costs:
 
@@ -934,25 +866,38 @@ Costs:
 Limitations:
 
 Those who have crossed back from the undiscover'd country are once again alive,
-and subject to all the hazards of that state. If you wish to keep a corpse from
-being raised, the expedient is a simple one: burn it.
+and subject to all the hazards of that state. They usually have no coherent
+memories of their time in Death, only a vague sense of trauma and dread. If you
+wish to keep a corpse from being raised, the expedient is a simple one: burn
+it.
 
 ### A spell to strengthen man or beast
 
+This spell will make one person or being unbelievably strong and durable, a
+veritable Hercules. They must carry or wear some token that gives them that
+strength; only the ancients held their strength in their very beings, and even
+Samson had his hair shorn.
+
 Components:
 
-  * A rod of iron
-  * The skin of a bear
-  * The lifeblood of an ox
-  * A crown of oak leaves
-  * Inscribe a mystical sigil (a lemniscate) on the forehead of the subject
+  * A fight with an ancient hero (though the magician need not _win_).
+  * A token of strength, into which the magician imbues the spell: something
+    like a rod of iron, the skin of a bear, the lifeblood of an ox, or a crown
+    of oak leaves.
+  * Inscribe a mystical sigil (a lemniscate) on the forehead of the subject.
+  * A token from the subject's worst enemy: something meaningful to them, such
+    as an heirloom, or a piece of their very body, such as hair, blood, or
+    teeth.
+  * A relic sacred to St. Michael, as might be found at the French
+    abbey-turned-prison of Mont Saint-Michel.
 
 Costs:
 
   * The physical strength unbalances the subject, rendering them prone to rage.
   * The strength comes at the cost of the well-being of those around the
     subject, draining their health and energy.
-  * The subject must fuel their strength by eating prodigious amounts.
+  * The subject must fuel their strength by a strict diet: they may eat nothing
+    but raw meat, and may drink nothing but hot blood.
   * The subject cannot control their strength well, and easily breaks fragile
     things they try to handle.
 
@@ -960,13 +905,20 @@ To undo this spell, break the amulet the subject carries.
 
 ### A spell to change a person's appearance
 
+Changing a person into an animal, plant, or inanimate object is a very
+difficult magic these days, beyond the power of all but the fairies. But
+changing someone to look like another person is much more easily done.
+
+The spell will, under most circumstances, last until the caster dismisses it,
+with a word and a thought.
+
 Components:
 
-  * Blood or hair from the person the subject is to look like
-  * A wood-path shown by a wild fox
-  * A silver ring that the subject must wear
-  * A new moon
-  * A mirror to hold the subject's old shape while they wear the disguise
+  * Blood or hair from the person the subject is to look like.
+  * A silver ring that the subject must wear.
+  * A half-moon.
+  * A mirror to hold the subject's old shape while they wear the disguise.
+  * A fairy-ring, a thin spot between the worlds.
 
 Costs:
 
@@ -986,30 +938,35 @@ search of understanding, healing, or something yet more esoteric.
 To cast this spell:
 
   * Be beside the sleeper.
-  * Have a web of red string around the sleeper.
   * Breathe in their exhalation.
-  * Leave a sharpened rod of holly under their pillow.
   * Sing a lullaby.
+  * Make sure the sleeper ate a mixture of mandrake, anise, and gentian before
+    sleeping. If one of those alone doesn't taste terrible, all three together
+    sure will.
+  * Carve mystic sigils into the walls and bedposts around the sleeper.
 
 Costs:
 
-  * Spades: You are haunted by the dream after returning.
-  * Hearts: The metaphors of the dream are confusing to you.
-  * Clubs: You pull something back with you from the depths of the dream.
-  * Diamonds: The dream takes all night to navigate, and you only emerge from
-    the spell as dawn is breaking.
+  * You are haunted by the dream after returning.
+  * The metaphors of the dream are confusing to you.
+  * You pull something back with you from the depths of the dream.
+  * The dream takes all night to navigate, and you only emerge from the spell
+    as dawn is breaking.
 
 To protect against this spell, sleep with a cat or a nightingale in the room.
 
 ### A spell to summon the spirit of a dead person
 
+Sometimes, only the long-dead can answer a question or provide understanding.
+Summoning them weakens the borders between worlds, but may be worth it.
+
 Components:
 
-  * Grave dirt or a noose that has seen use
-  * A crossroads
-  * A dirge
-  * A black tallow candle
-  * A lone crow
+  * Grave dirt or a noose that has seen use.
+  * A crossroads.
+  * A dirge.
+  * A tolling church bell.
+  * A lone crow.
 
 Costs:
 
