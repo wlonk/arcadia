@@ -1014,7 +1014,11 @@ To break this spell, throw salt at the spirit.
 
 ## Appendix: Fairies
 
-### The Sable Lady
+### The Beast of the Moors
+
+### The Hanged God
+
+### The Horned God
 
 ### King Ludd
 
@@ -1036,15 +1040,11 @@ noble and valiant people he sees in this town of their rightful chance to
 elevate themselves through feats of valour and strength. No, he must help them
 towards their destiny.
 
-### The Beast of the Moors
+### The Lady in the Lake
 
 ### Old Iron-boots
 
-### The Lady in the Lake
-
-### The Horned God
-
-### The Hanged God
+### The Sable Lady
 
 ### The Three Sisters
 
