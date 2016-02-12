@@ -56,20 +56,6 @@ A game of magic, manners, and madness.
 >
 > Secret powers for accomplishments when you use them in fairy? Or just "use
 > them creatively"?
-> 
-> # What storm is on the horizon?
-> 
->   * Some day my father will die, and unless I'm married, I'll be penniless.
->   * The man to whom I owe a debt of honour will ruin me if I cannot repay.
->   * If I do not act, my beloved will marry another.
->   * The elderly relative from whom I expect to inherit will disown me if I
->     marry as I wish, but my beloved is ill and may not outlive the relative.
->   * My reputation may find me, and no one will trust me after that.
->   * I am trapped in a foolish engagement and must marry where I do not love.
->   * I am pregnant and unmarried.
-> 
-> What is the tilt? Why has this issue become a crisis _now_?
-
 
 * TOC
 {:toc}

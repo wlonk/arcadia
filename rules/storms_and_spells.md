@@ -11,6 +11,9 @@
 
 What is the tilt? Why has this issue become a crisis _now_?
 
+Per Mendez, how do you tie these together so the players have to care about
+each other's problems, too?
+
 # Magic and fairies
 
 Tell the fairy what you want, promise them something, get some magic towards
