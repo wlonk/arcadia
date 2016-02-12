@@ -10,11 +10,20 @@ A game of magic, manners, and madness.
 > #### TODO
 > {: .no_toc}
 >
->  1. Family and friends, and their effects on reputation
+>  "Asset" matters:
+>
+>  1. Spells
 >  2. Fairy needs and desires
 >  3. Perception of the fairy
->  4. Perception per-social-role?
->  5. Spells
+>  4. Perception per-social-role
+>  5. Accomplishments for social roles
+>  6. Family and friends, and their effects on reputation
+>
+>  Design matters:
+>
+>  1. Spookiness
+>  2. What happens if the characters don't act?
+>  3. Why do the characters care about each others' problems?
 >
 > The characters as they currently are, are not Byronic at all. There's a lot
 > of value in adding more Gothic-ness. "The lovely scare" as a term for Gothic
