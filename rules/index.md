@@ -22,8 +22,18 @@ A game of magic, manners, and madness.
 >  Design matters:
 >
 >  1. Spookiness
+>      1. Every time you cast a spell, you gain a Mark. Every Mark makes your
+>         existence and your life weirder: animals shy at your presence, plants
+>         wither, liquids freeze over, shadows darken.
+>      2. The things you _want_ that make you cast a spell in the first place
+>         are themselves Byronic, by necessity. How grave can I make them
+>         without making them _big_?
 >  2. What happens if the characters don't act?
+>      1. The Byronic worries will come to pass.
+>      2. Or the GM can twist things to make them even worse.
 >  3. Why do the characters care about each others' problems?
+>      1. Because they are all linked through fairy obligations.
+>      2. Because they need each others' help to achieve what they want.
 >
 > The characters as they currently are, are not Byronic at all. There's a lot
 > of value in adding more Gothic-ness. "The lovely scare" as a term for Gothic
