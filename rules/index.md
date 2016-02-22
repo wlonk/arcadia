@@ -35,6 +35,11 @@ A game of magic, manners, and madness.
 >      1. Because they are all linked through fairy obligations.
 >      2. Because they need each others' help to achieve what they want.
 >
+> > There are only three kinds of scenes. Negotiations, seductions, and fights.
+> > I'm finished. That's all.
+>
+> > ---Mike Nichols
+>
 > The characters as they currently are, are not Byronic at all. There's a lot
 > of value in adding more Gothic-ness. "The lovely scare" as a term for Gothic
 > fiction. Perhaps everyone is a little bit Gothic. This doesn't have to be
