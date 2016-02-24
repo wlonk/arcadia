@@ -17,6 +17,8 @@ A game of magic, manners, and madness.
 >  3. Perception of the fairy
 >  4. Perception per-social-role
 >  5. Accomplishments for social roles
+>       * "Do I X?" => "Not really", "Sorta", "Pretty much". And then the "X"
+>         can change and increase in scope? Is that how accomplishments work?
 >  6. Family and friends, and their effects on reputation
 >
 >  Design matters:
