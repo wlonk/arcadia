@@ -103,14 +103,9 @@ their social role, and two passion tokens.
 
 ### Accomplishments
 
-Every character has three accomplishments. These are particular areas in which
-that character stands out as skilled or excellent. Choose from among those
-listed for your social role.
-
-> #### TODO
-> {: .no_toc}
->
-> Make accomplishment lists for social roles.
+Every character has an accomplishment. This is a particular area in which that
+character stands out as skilled or excellent. Choose from among those listed
+for your social role.
 
 ### Connections
 
@@ -627,6 +622,12 @@ Tell us who is:
 
 Initial social role tokens: 3
 
+Accomplishments:
+
+  - [ ] Dancing
+  - [ ] Learning
+  - [ ] Presence
+
 ### King of Hearts: Officer (♂)
 
 You are expected to be disciplined, honorable and patriotic.
@@ -644,6 +645,12 @@ Tell us who is:
   - ...
 
 Initial social role tokens: 2
+
+Accomplishments:
+
+  - [ ] Dancing
+  - [ ] Riding
+  - [ ] Shooting
 
 ### King of Clubs: Clergyman (♂)
 
@@ -663,6 +670,12 @@ Tell us who is:
 
 Initial social role tokens: 2
 
+Accomplishments:
+
+ - [ ] Languages
+ - [ ] Learning
+ - [ ] Presence
+
 ### King of Diamonds: Dandy (♂)
 
 You are expected to be...
@@ -680,6 +693,12 @@ Tell us who is:
   - ...
 
 Initial social role tokens: 2
+
+Accomplishments:
+
+  - [ ] Connections
+  - [ ] Dancing
+  - [ ] Riding
 
 ### Queen of Spades: Lady (♀)
 
@@ -703,6 +722,12 @@ Tell us who is:
 
 Initial social role tokens: 3
 
+Accomplishments:
+
+  - [ ] Dancing
+  - [ ] Elegance
+  - [ ] Languages
+
 ### Queen of Hearts: Governess (♀)
 
 A young lady of indifferent family, but with enough education to hold a
@@ -724,6 +749,12 @@ Tell us who is:
 
 Initial social role tokens: 2
 
+Accomplishments:
+
+  - [ ] Learning
+  - [ ] Languages
+  - [ ] ...
+
 ### Queen of Clubs: Ward (♀)
 
 A young lady who has been sent to live with relatives. Either her parents are
@@ -744,6 +775,12 @@ Tell us who:
 
 Initial social role tokens: 2
 
+Accomplishments:
+
+  - [ ] Dancing
+  - [ ] Lie
+  - [ ] Sneaking
+
 ### Queen of Diamonds: Spinster (♀)
 
 You are expected to deviate from your society's feminine ideal, have secret
@@ -763,6 +800,12 @@ Tell us who is:
 
 Initial social role tokens: 2
 
+Accomplishments:
+
+  - [ ] ...
+  - [ ] ...
+  - [ ] ...
+
 ### Jack of Spades: Invalid (⚲)
 
 You are expected to be home-bound, solicitous of others' health, and ...
@@ -781,6 +824,12 @@ Tell us who is:
 
 Initial social role tokens: 2
 
+Accomplishments:
+
+  - [ ] ...
+  - [ ] ...
+  - [ ] ...
+
 ### Jack of Hearts: Magician (⚲)
 
 You are expected to be mysterious, wise, and unconventional.
@@ -798,6 +847,12 @@ Tell us who:
   - Owes you the most for your magical aid
 
 Initial social role tokens: 2
+
+Accomplishments:
+
+  - [ ] Lie
+  - [ ] ...
+  - [ ] ...
 
 ### Jack of Clubs: Servant (⚲)
 
@@ -820,6 +875,12 @@ Tell us who is:
 
 Initial social role tokens: 1
 
+Accomplishments:
+
+  - [ ] Sneaking
+  - [ ] ...
+  - [ ] ...
+
 ### Jack of Diamonds: Vagabond (⚲)
 
 You are expected to be needy, itinerant, and thankful.
@@ -837,6 +898,12 @@ Tell us who:
   - Gives you charity
 
 Initial social role tokens: 1
+
+Accomplishments:
+
+  - [ ] Lie
+  - [ ] ...
+  - [ ] ...
 
 ## Appendix: Spells
 
