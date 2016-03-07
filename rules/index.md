@@ -140,6 +140,22 @@ you have earned it and you no longer gain role tokens through that behavior. A
 gentleman might become, for instance, a fool, a libertine, or a bully, and in
 each case, forfeit a way of gaining role tokens.
 
+### Families
+
+Every character is part of a family. However, our modern conception of "part
+of" needs some adjusting here. To be part of a family does not mean that you
+are necessarily a blood-relative. You may be the favored son, but you may just
+as likely be a trusted servant, a despised ward, or a poor tenant.
+
+Your family will give you a boon, an element of their reputation that you can
+call on for your own benefit when [petitioning](#petition) those outside the
+family, but will also make demands of you. Because the reputation of everyone
+in the family depends on the actions of everyone in the family, family members
+always have leverage over you, to [petition](#petition) you to act in the best
+interests of the family. Finally, if someone in your family tarnishes their own
+reputation, and you do not act directly to repudiate or renounce them, your own
+reputation suffers: mark an appropriate box.
+
 ## The GM
 
 The GM controls the NPCs and provides adversity. It's their role to reinforce
