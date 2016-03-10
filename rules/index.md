@@ -20,6 +20,10 @@ A game of magic, manners, and madness.
 >       * "Do I X?" => "Not really", "Sorta", "Pretty much". And then the "X"
 >         can change and increase in scope? Is that how accomplishments work?
 >  6. Family and friends, and their effects on reputation
+>       * Families have reputations. But unlike individuals' reputations, they
+>         are all-or-nothing. If the family's reputation is lost, all the boons
+>         are lost. (Or one reputation per boon?) When a reputation comes under
+>         threat, make a clock.
 >
 >  Design matters:
 >
