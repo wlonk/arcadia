@@ -446,52 +446,18 @@ _Poison'd_ bargain: you must maintain some particular behavior, a ban or a
 requirement, and if you break that, well, you lose the spell and you lose
 access to one of your desires. It will no longer nourish you.
 
-> #### TODO
-> {: .no_toc}
->
-> Kate: "The fairy needs to be a sea-change, for everyone at once." That means
-> that there needs to be something like the _Dread_ tower, something inevitable
-> but uncertain, that triggers the fairy's arrival. Tied to desires probably?
-> Anyway, once the fairy shows up, something _really_ changes.
->
-> I think that the real trigger for "does the fairy show up" is this: is
-> someone in enough of a bind that they might say "yes" to a fairy bargain? If
-> not, push them harder, until someone is.
->
-> Khaled: "The fairy should change our incentives. We could maybe have to
-> choose whether to sacrifice what we've been doing to risk a greater payoff
-> and greater fall from the fairy." The fairy should have some system for
-> straight up bargains and deals.
->
-> Can the fairy intensify desires? "The fairy tempts you, and so your desires
-> start to consume you."
->
-> Kit: Everyone is low-privilege relative to the fairy. You have to navigate
-> its preferences; direct action will never avail you.
->
-> Alex: Right, but none of the PCs is below the fairy's notice. So they'll
-> gladly do things for any PCs, as long as the PC amuses them. But whatever
-> they do is clumsy, and involves becoming more and more ensnared by the fairy.
->
-> The fairy can probably make bargains with you: it'll do X, if you do Y, and
-> if you renege, it can withhold something (Passion tokens? Access to desires?
-> The latter feels more parallel to Reputations.)
->
-> Amir points out that in order to make bargains, the fairy has to have needs
-> and wants, and I point out that in order to be dramatically meaningful, they
-> have to relate to the town and people you're playing with. So the fairy wants
-> you to help it, and will help you in exchange, but this is not good-faith
-> negotiation.
->
-> How, then, do you defeat a fairy? By playing its promises, bargains, and
-> constraints against each other. Cú Chulainn's geasa, for instance.
->
-> So, together, these are the positive and negative stakes for the fairy, thus
-> making them dramatically tractable.
->
-> An example fairy need: "Someone in this town has an old heirloom that the
-> fairy needs to overthrow their enemy in a kingdom on the far side of hell.
-> What is it, and why can't they just take it?"
+The fairy must, ultimately, fulfill three qualities:
+
+  * It must be a powerful font of magic. It can perform and grant all kinds of
+  * magical boons. Otherwise, why would it be different from any of the other
+    NPCs?
+  * It must be less like a pure menace and more like a fairytale _donor_,
+    someone who before giving magical support or advice, will test the
+    character, by questioning, setting tasks, or making requests. Otherwise,
+    why would the PCs risk interacting with it?
+  * It must have a clear agenda and desire, for which it needs the PCs in some
+    capacity. Otherwise, why would this powerful magical being bother with
+    them?
 
 ### Casting Spells
 
@@ -911,6 +877,38 @@ Accomplishments:
 
 ## Appendix: Spells
 
+> #### TODO
+> {: .no_toc}
+>
+> Spells need to be restructured to be more asymmetrical. Some have lasting
+> effects, some have instant effects, some leave particular Marks, some require
+> particular Accomplishments.
+>
+> The Arcana, for inspiration for more spells:
+>
+>   *  0: The Fool: Luck
+>   *  I: The Magician: Sight
+>   *  II: The High Priestess: Secrets
+>   *  III: The Empress: Healing
+>   *  IV: The Emperor: Authority
+>   *  V: The Hierophant: Wisdom
+>   *  VI: The Lovers: Passion
+>   *  VII: The Chariot: Travel
+>   *  VIII: Strength: Courage
+>   *  IX: The Hermit: Barriers
+>   *  X: The Wheel of Fortune: Prophesy
+>   *  XI: Justice: Truth
+>   *  XII: The Hanged Man: Travel between worlds
+>   *  XIII: Death: Necromancy
+>   *  XIV: Temperance: Transmutation
+>   *  XV: The Devil: Lies
+>   *  XVI: The Tower: Destruction
+>   *  XVII: The Star: Navigation
+>   *  XVIII: The Moon: Illusion
+>   *  XIX: The Sun: Dispelling
+>   *  XX: Judgment: Resurrection
+>   *  XXI: The World: Transformation
+
 ### A spell of far-seeing
 
 You enter a trance, and see a vision of something or someone far away in a
@@ -1101,34 +1099,6 @@ Costs:
 
 To break this spell, throw salt at the spirit.
 
-> #### TODO
-> {: .no_toc}
->
-> The Arcana, for inspiration for more spells:
->
->   *  0: The Fool: Luck
->   *  I: The Magician: Sight
->   *  II: The High Priestess: Secrets
->   *  III: The Empress: Healing
->   *  IV: The Emperor: Authority
->   *  V: The Hierophant: Wisdom
->   *  VI: The Lovers: Passion
->   *  VII: The Chariot: Travel
->   *  VIII: Strength: Courage
->   *  IX: The Hermit: Barriers
->   *  X: The Wheel of Fortune: Prophesy
->   *  XI: Justice: Truth
->   *  XII: The Hanged Man: Travel between worlds
->   *  XIII: Death: Necromancy
->   *  XIV: Temperance: Transmutation
->   *  XV: The Devil: Lies
->   *  XVI: The Tower: Destruction
->   *  XVII: The Star: Navigation
->   *  XVIII: The Moon: Illusion
->   *  XIX: The Sun: Dispelling
->   *  XX: Judgment: Resurrection
->   *  XXI: The World: Transformation
-
 ## Appendix: Marks
 
 ### Spades
@@ -1188,9 +1158,42 @@ To break this spell, throw salt at the spirit.
 
 ### The Beast of the Moors
 
+The Beast is inhuman. It may take many forms (a hairy and disheveled wild man,
+a great brindle hound with red eyes, a silver-and-black fairy cat the size of a
+lynx, or more), but no one would mistake it for something _normal_ and
+_natural_.
+
+And yet, the beast can communicate very clearly. It may not use words, but
+there is never any doubt what it asks of you.
+
+It values a kind of _authenticity_, but it sees compassion as inevitably
+inauthentic, and a kind of violence and selfishness as the highest goal. It
+advocates for taking what you want by force and rewards those who are willing
+to become predators.
+
 ### The Hanged God
 
+Some would say the Hanged God is an aspect of Woden, as the god of poets and
+magicians. If so, he has none of the wise and kindly traveller left in him.
+This is an old and wizened man with a rope-scar on his neck, who looks more
+like a vagabond than any respectable man. He is a master of lies, a master of
+self-abasement for his own gain, and wants nothing more than to see the entire
+social order inverted. It may be easy to sympathize with his goals, while
+reviling his means. Of course, as he sees himself as being oppressed and
+trampled by everyone, a complete social inversion would put him at the very
+top, so.
+
 ### The Horned God
+
+The Horned God is a hunter, and the hunted, all in one. He may take the guise
+of a country squire, a vigorous young officer, a gamekeeper, or even a poacher,
+but he is always hale, and male.
+
+While some other fairies have nightly balls to which they steal mortals, the
+Horned God holds a hunt, that courses over all of Britain, and sometimes as far
+afield as Hell or Europe. A hunt needs many people, of course, and he is likely
+to find any number of Accomplishments to his liking. And then, there's always
+the risk that you will instead catch his eye as _quarry_.
 
 ### King Ludd
 
