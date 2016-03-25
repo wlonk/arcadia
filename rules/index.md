@@ -92,6 +92,9 @@ A game of magic, manners, and madness.
 
 ## Characters
 
+> You know that the lover, the lunatic, and the poet are "of imagination all
+> compact." ---Lord Byron, March 25 1816. 
+
 Characters have social roles (which give them role tokens) and desires (which
 give them passion tokens).
 
@@ -420,6 +423,8 @@ in their journal by candle-light.
 
 ## Magic
 
+> "Anything worth having has a _price_..."
+
 There has always been another England. It lurks on the edge of perception, it
 appears when you don't look right at it. Alfred Watkins sensed something of it
 when he wrote _The Old Straight Track_. William Blake referred to it when he
@@ -460,8 +465,6 @@ The fairy must, ultimately, fulfill three qualities:
     them?
 
 ### Casting Spells
-
-> "Anything worth having has a _price_..."
 
 Players start off with no spells. They may gain access to certain spells
 through fairy bargains. See [Spells](#appendix-spells).
