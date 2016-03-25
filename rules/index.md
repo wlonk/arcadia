@@ -461,6 +461,8 @@ The fairy must, ultimately, fulfill three qualities:
 
 ### Casting Spells
 
+> "Anything worth having has a _price_..."
+
 Players start off with no spells. They may gain access to certain spells
 through fairy bargains. See [Spells](#appendix-spells).
 
