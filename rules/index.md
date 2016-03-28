@@ -13,6 +13,8 @@ A game of magic, manners, and madness.
 >  "Asset" matters:
 >
 >  1. Spells & Marks (inc. ficto-mechanical effects)
+>      1. Spells may have some dials you can dial, and the more you ramp them
+>         up, the more harsher marks you risk?
 >  2. Fairy needs and desires
 >  3. Perception of the fairy
 >  4. Perception per-social-role
