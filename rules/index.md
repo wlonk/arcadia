@@ -10,6 +10,20 @@ A game of magic, manners, and madness.
 > #### TODO
 > {: .no_toc}
 >
+> Accomplishments so far:
+>
+>   * Connections
+>   * Dancing
+>   * Elegance
+>   * Languages
+>   * Learning
+>   * Lying
+>   * Presence
+>   * Riding
+>   * Shooting
+>   * Sneaking
+>   * Stewardship
+>
 >  "Asset" matters:
 >
 >  1. Spells & Marks (inc. ficto-mechanical effects)
@@ -346,23 +360,25 @@ change](#seasons-growth-and-change) below.
 When your character imposes their will upon the world, or puts themselves in
 mortal danger, they are _exerting_ themselves.
 
-To see whether things go well for their character, the player draws two cards.
-They may invoke an accomplishment or spend a passion token, as many times as
-they can and wish, to get more cards, one at a time. If the total of the cards
-is 17 or higher, they have succeeded. If the total is 22 or higher, they have
-gone bust, and their attempt has not gone well for them. If they stop with a
-total below 17, it has likewise not gone well.
+Before exerting yourself, be very clear what the goal is, and what sorts of
+risks you might face. The GM has final say about the risks the best and worst
+you might expect, but you are entitled to a clear idea of what they might be.
 
-To reiterate: when you try something risky, draw two cards, spending passion or
-accomplishments to get more, one at a time. If your total is below 17, you have
-failed. If it is 17 or higher, you have succeeded. If it is 22 or higher, you
-have succeeded at a cost.
+The GM and the player each get two cards, one each face down, the others face
+up. Play proceeds like blackjack, with the player choosing whether to take
+another card, and the GM automatically taking one each time after the player
+does, unless they, the GM, are at 17 or higher.
+
+In order to take a card, the player must either invoke an Accomplishment, or
+spend a Passion token. They may only do each once in a given Exertion. Each
+Accomplishment may only be used once a session.
+
+If the player goes bust, or does not beat the GM's total when the cards are
+revealed, they have failed.
+
+If the GM goes bust, or the player beats their total, the player has succeeded.
 
 As always, aces count as 1, and face cards count as 10.
-
-Before exerting yourself, be very clear what the goal is, and what sorts of
-risks you might face. The GM has final say about the risks that manifest if you
-go over 21, but you are entitled to a clear idea of what they might be.
 
 ### Perception
 
