@@ -507,7 +507,40 @@ NPCs.
 
 Perhaps XP can also be used to expand Perception questions?
 
-### Duels, disease, and dying
+### Duels
+
+When two characters face each other on equal footing, looking to kill each
+other, they are engaged in a _duel_.
+
+The player of each character in the duel is dealt two cards, one face down, the
+other face up. They will exchange blows, taking more cards, until they are
+satisfied or dead.
+
+One character is chosen to start; you may use any mutually agreeable method,
+from a coin flip to letting the aggrieved party act first.
+
+The first player may choose to be dealt one more face-up card, and describe
+their attack, or stay put and describe their wary defense. Then the second
+player may make the same choice. This goes back and forth until either one
+player is _bust_ (has a total over 21, where aces are worth 1 and faces are
+worth 10) or both players have stayed put in turn.
+
+If a player has gone bust, they must reveal their face-down card, and they have
+been killed, and should describe their death.
+
+If both players have passed, they both reveal their face-down cards, and the
+player with a higher total has the life of the other in their hands, to do with
+as they wish.
+
+If the two players tie, the fight is inconclusive: it is interrupted, fought to
+exhaustion, or otherwise comes to an impasse.
+
+> #### TODO
+>
+> Issuing a _challenge_ is subtly distinct from fighting a duel, and can cost
+> social capital or reputation, and can be countered with social capital.
+
+### Disease and dying
 
 These things happen. Maybe have their own little games. Maybe this isn't the
 place for this section, though.
