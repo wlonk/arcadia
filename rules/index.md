@@ -16,7 +16,7 @@ A game of magic, manners, and madness.
 >   * Dancing
 >   * Elegance
 >   * Languages
->   * Learning
+>   * Natural Philosophy
 >   * Lying
 >   * Presence
 >   * Riding
@@ -643,39 +643,40 @@ lady of your close acquaintance is a stain on your honour.
 
 | Gain a role token when you                | Unless you are |
 |-------------------------------------------|----------------|
-| display good judgment                     | a fool         |
 | act warm and welcoming                    | a libertine    |
 | defend the honour of someone close to you | a bully        |
+| display good judgment                     | a fool         |
 
 Tell us who is:
 
-  - Your cousin
   - The tradesman you owe the most
   - Your boon companion
+  - Your cousin
 
 Initial social role tokens: 3
 
 Accomplishments:
 
   - [ ] Dancing
-  - [ ] Learning
+  - [ ] Natural Philosophy
   - [ ] Presence
 
 ### King of Hearts: Officer (♂)
 
-You are expected to be disciplined, honorable and patriotic.
+You have seen the battlefields of the continent, led men into the cannon's
+roar, and on top of all that, can cut a fine figure in your red coat.
 
 | Gain a role token when you                   | Unless you are |
 |----------------------------------------------|----------------|
-| display valour in the face of danger         | reckless       |
 | are gallant towards ladies                   | a rake         |
+| display valour in the face of danger         | reckless       |
 | ensure that rank and precedence are observed | a blowhard     |
 
 Tell us who is:
 
-  - Your commanding officer?
-  - ...
-  - ...
+  - The wealthy relative or patron who bought your commission
+  - Your dearest comrade from the wars
+  - Your dogsbody
 
 Initial social role tokens: 2
 
@@ -687,43 +688,49 @@ Accomplishments:
 
 ### King of Clubs: Clergyman (♂)
 
-...
+You have the living of one or more parish churches, and are expected to live a
+life that serves as a moral model for your parishioners, and guide and teach
+them in Christian ways. Of course, you risk being seen as an _enthusiast_, or
+religious zealot, if you take any of this _too_ seriously.
 
 | Gain a role token when you                             | Unless you are |
 |--------------------------------------------------------|----------------|
-| offer sober counsel                                    | ...            |
-| uphold Christian morals in your private life           | ...            |
-| enact charity and concern for the least in your parish | ...            |
+| enact charity and concern for the least in your parish | haughty        |
+| offer sober counsel                                    | pompous        |
+| uphold Christian morals in your private life           | hypocritical   |
 
 Tell us who is:
 
-  - ...
-  - ...
-  - ...
+  - The neediest in your parish
+  - The owner of the living you hold
+  - Your closest sibling
 
 Initial social role tokens: 2
 
 Accomplishments:
 
  - [ ] Languages
- - [ ] Learning
+ - [ ] Natural Philosophy
  - [ ] Presence
 
 ### King of Diamonds: Dandy (♂)
 
-You are expected to be...
+The fashions of the _bon ton_ change more rapidly with every passing year, but
+you keep on the very forefront, with your hair in a "Bedford crop" or a
+"frightened owl", your legs in wetted buckskin breeches, and your nose in the
+air.
 
-| Gain a role token when you | Unless you are |
-|----------------------------|----------------|
-| ...                        | ...            |
-| ...                        | ...            |
-| ...                        | ...            |
+| Gain a role token when you               | Unless you are |
+|------------------------------------------|----------------|
+| crush someone with the perfect _bon mot_ | cruel          |
+| reveal some gossip before anyone else    | desperate      |
+| win, or lose, a great sum gambling       | a cheat        |
 
 Tell us who is:
 
+  - Your creditor
   - Your rival
-  - ...
-  - ...
+  - Your toady
 
 Initial social role tokens: 2
 
@@ -741,17 +748,17 @@ beautiful, charming, witty and accomplished can brighten it; being wanton,
 vain, shallow or crude can tarnish it. Be gentle and kind to those beneath you,
 and obedient and respectful to those above you.
 
-| Gain a role token when you         | Unless you are |
-|------------------------------------|----------------|
-| demonstrate your accomplishments   | ...            |
-| make those around you feel at ease | ...            |
-| ...                                | ...            |
+| Gain a role token when you                | Unless you are |
+|-------------------------------------------|----------------|
+| choose an honorable path over an easy one | prudish        |
+| demonstrate your accomplishments          | proud          |
+| make those around you feel at ease        | toadying       |
 
 Tell us who is:
 
+  - Your best friend
   - Your father (or other _pater familias_)
   - Your lady's maid
-  - Your best friend
 
 Initial social role tokens: 3
 
@@ -768,25 +775,25 @@ position with a wealthy family as not-quite-a-servant. Set a good example for
 the children. Demonstrate your refinement and accomplishments. Ensure the moral
 behavior of your charges.
 
-| Gain a role token when you | Unless you are |
-|----------------------------|----------------|
-| ...                        | ...            |
-| ...                        | ...            |
-| ...                        | ...            |
+| Gain a role token when you                    | Unless you are |
+|-----------------------------------------------|----------------|
+| defend the interests of your employer         | defiant        |
+| help your pupils show themselves to advantage | overcritical   |
+| place yourself second                         | haughty        |
 
 Tell us who is:
 
-  - Your employer
-  - Your charge or charges
   - Your best friend
+  - Your charge or charges
+  - Your employer
 
 Initial social role tokens: 2
 
 Accomplishments:
 
-  - [ ] Learning
   - [ ] Languages
-  - [ ] ...
+  - [ ] Natural Philosophy
+  - [ ] Stewardship
 
 ### Queen of Clubs: Ward (♀)
 
@@ -794,16 +801,16 @@ A young lady who has been sent to live with relatives. Either her parents are
 dead, or simply unable to raise her in the proper fashion. She is in the
 family, but perhaps not quite _of_ it.
 
-| Gain a role token when you       | Unless you are |
-|----------------------------------|----------------|
-| demonstrate your accomplishments | ...            |
-| obey your guardian               | ...            |
-| pursue an appropriate courtship  | ...            |
+| Gain a role token when you | Unless you are |
+|----------------------------|----------------|
+| do as you're told          | willful        |
+| assist the family proper   | ungrateful     |
+| XXX                        | XXX            |
 
 Tell us who:
 
   - Is your guardian
-  - You rely on for financial support
+  - Is your adoptive sibling
   - Sees you as a threat, obstacle or imposition
 
 Initial social role tokens: 2
@@ -811,7 +818,7 @@ Initial social role tokens: 2
 Accomplishments:
 
   - [ ] Dancing
-  - [ ] Lie
+  - [ ] Lying
   - [ ] Sneaking
 
 ### Queen of Diamonds: Spinster (♀)
@@ -822,22 +829,22 @@ wealth or knowledge, and draw strength from your connections with other women.
 | Gain a role token when                     | Unless you are |
 |--------------------------------------------|----------------|
 | no one really listens to you               | a blatherskite |
-| you speak a truth no one else will         | a liar         |
 | you provide a compassionate ear for others | two-faced      |
+| you speak a truth no one else will         | a liar         |
 
 Tell us who is:
 
+  - The one who got away
   - Your benefactor
   - Your dearest sister
-  - The one who got away
 
 Initial social role tokens: 2
 
 Accomplishments:
 
-  - [ ] ...
-  - [ ] ...
-  - [ ] ...
+  - [ ] XXX
+  - [ ] XXX
+  - [ ] XXX
 
 ### Jack of Spades: Invalid (⚲)
 
@@ -883,7 +890,7 @@ Initial social role tokens: 2
 
 Accomplishments:
 
-  - [ ] Lie
+  - [ ] Lying
   - [ ] ...
   - [ ] ...
 
@@ -934,7 +941,7 @@ Initial social role tokens: 1
 
 Accomplishments:
 
-  - [ ] Lie
+  - [ ] Lying
   - [ ] ...
   - [ ] ...
 
