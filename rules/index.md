@@ -315,45 +315,43 @@ and passions that the PCs possess that draw the fairy's interest.
 ### Petition
 
 When one character wants something from another, and that character does not
-want to concede, go to the cards. Each participant (typically the GM and a
-player, but sometimes just two players) gets a card just for showing up. Each
-participant may spend role tokens to draw more cards. Each time you put forward
-tokens, describe how you push your case. (This basically means you have to
-spend one role token every time you petition something.)
+want to concede, go to the cards.
 
 You can petition behavior: apology, support, etc., but not feelings (i.e. you
 cannot petition "love me").
 
-Once both sides have presented as much of their case as they wish to, and spent
-as many role tokens and drawn as many cards as they wish to, it is time for the
-moment of truth. Each side chooses two cards and reveals them. The player with
-the higher total gets what they wanted. The other player must concede. In the
-case of a tie, the higher-status person wins. In the case of a further tie, men
-win. In the case of a further further tie, the highest single card wins.
+Aces are low, face cards are ranked, low to high, Jack, Queen, King.
 
-(For the purposes of calculating totals, aces are 1, face cards are 10.)
+Each party gets one card just for showing up, and if the party to act first has
+[leverage](#leverage) on the other party, the first party gets an additional
+card.
 
-The loser may, instead of conceding, choose to escalate. They make a desperate
-declaration, a passionate plea, or an earnest entreaty. They spend a passion
-token. They may then flip one card from the top of the deck and add it to their
-total. The highest total still wins, but if their total is now over 21, they do
-so at cost to their reputation. If the other person has passion tokens, they
-may now choose to further escalate (and spend their own passion token, and flip
-a card themselves, as above), or graciously accept defeat.
+Each party takes turns putting down a card. The first card may be any card you
+wish. The next party may then do one of the following:
 
-To repeat that: if your total is over 21, for any reason, you will tarnish a
-reputation.
+  * Concede because they cannot put down a higher card.
+  * Spend one or more role tokens to draw that many cards, and then try to put
+    down a higher card.
+  * Spend a passion token, make a desperate declaration or a passionate plea
+    and suffer a cost, and put down any card they wish.
+  * Put down a higher card and present their counter-argument.
+  * Reveal a higher card that they _could_ put down, but instead concede, and
+    gain a role token.
 
-When bargaining with a fairy, you do not spend social tokens. Instead, you buy
-cards with passion tokens. You also may escalate with passion tokens, as above.
-There is no cost, but the fairy also has passion tokens, and may escalate
-similarly.
+Repeat.
 
 When you suffer a cost, you have damaged one of your reputations. Choose
 whichever is most appropriate and mark off a box next to it. Once a reputation
 has four boxes marked, you cannot gain from it during Gossip (see below) until
 you have fully recovered it. See [Seasons, growth, and
 change](#seasons-growth-and-change) below.
+
+When you petition with a fairy, you use passion tokens instead of role tokens,
+and may not make a desperate declaration or passionate plea. If you are put in
+the position of not having a winning card or enough tokens to get one, you
+_just lose_.
+
+Fairies _always_ have leverage over any mortal they talk with.
 
 ### Exertion
 
@@ -426,6 +424,15 @@ character's behavior in as animated a fashion as they like!
 
 Remember, if a character has a ruined reputation, they do not gain any social
 tokens for the associated actions.
+
+### Leverage
+
+> #### TODO
+>
+> Flesh this out.
+
+Sometimes, a character has leverage over another character. This makes getting
+them to do what you want easier.
 
 ## Sessions
 
