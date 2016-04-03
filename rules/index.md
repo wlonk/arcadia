@@ -10,20 +10,6 @@ A game of magic, manners, and madness.
 > #### TODO
 > {: .no_toc}
 >
-> Accomplishments so far:
->
->   * Connections
->   * Dancing
->   * Elegance
->   * Languages
->   * Natural Philosophy
->   * Lying
->   * Presence
->   * Riding
->   * Shooting
->   * Sneaking
->   * Stewardship
->
 >  "Asset" matters:
 >
 >  1. Spells & Marks (inc. ficto-mechanical effects)
@@ -129,6 +115,21 @@ their social role, and two passion tokens.
 Every character has an accomplishment. This is a particular area in which that
 character stands out as skilled or excellent. Choose from among those listed
 for your social role.
+
+The accomplishments:
+
+  * Connections
+  * Dancing
+  * Etiquette
+  * Languages
+  * Lying
+  * Natural Philosophy
+  * Presence
+  * Riding
+  * Shooting
+  * Sneaking
+  * Stewardship
+  * Tinkering
 
 ### Connections
 
@@ -765,7 +766,7 @@ Initial social role tokens: 3
 Accomplishments:
 
   - [ ] Dancing
-  - [ ] Elegance
+  - [ ] Etiquette
   - [ ] Languages
 
 ### Queen of Hearts: Governess (♀)
@@ -801,11 +802,11 @@ A young lady who has been sent to live with relatives. Either her parents are
 dead, or simply unable to raise her in the proper fashion. She is in the
 family, but perhaps not quite _of_ it.
 
-| Gain a role token when you | Unless you are |
-|----------------------------|----------------|
-| do as you're told          | willful        |
-| assist the family proper   | ungrateful     |
-| XXX                        | XXX            |
+| Gain a role token when you             | Unless you are  |
+|----------------------------------------|-----------------|
+| assist the family proper               | ungrateful      |
+| do as you're told                      | willful         |
+| pursue marriage not above your station | putting on airs |
 
 Tell us who:
 
@@ -842,33 +843,33 @@ Initial social role tokens: 2
 
 Accomplishments:
 
-  - [ ] XXX
-  - [ ] XXX
-  - [ ] XXX
+  - [ ] Connections
+  - [ ] Etiquette
+  - [ ] Presence
 
 ### Jack of Spades: Invalid (⚲)
 
 You are expected to be home-bound, solicitous of others' health, and ...
 
-| Gain a role token when you | Unless you are |
-|----------------------------|----------------|
-| ...                        | ...            |
-| ...                        | ...            |
-| ...                        | ...            |
+| Gain a role token when you               | Unless you are |
+|------------------------------------------|----------------|
+| refuse to go out                         | paranoid       |
+| rely on others                           | a mooch        |
+| show gratitude for favors and assistance | entitled       |
 
 Tell us who is:
 
+  - Thinks you're playing it up for sympathy
   - Your physician
   - Your source of comfort
-  - Thinks you're playing it up for sympathy
 
 Initial social role tokens: 2
 
 Accomplishments:
 
-  - [ ] ...
-  - [ ] ...
-  - [ ] ...
+  - [ ] Etiquette
+  - [ ] Natural Philosophy
+  - [ ] Presence
 
 ### Jack of Hearts: Magician (⚲)
 
@@ -876,23 +877,23 @@ You are expected to be mysterious, wise, and unconventional.
 
 | Gain a role token when you              | Unless you are |
 |-----------------------------------------|----------------|
-| Offer magical help                      | a fraud        |
-| Defend your secrets at any cost         | corrupted      |
-| Are weird and eccentric and off-putting | a lunatic      |
+| are weird and eccentric and off-putting | a lunatic      |
+| defend your secrets at any cost         | corrupted      |
+| offer magical help                      | a fraud        |
 
 Tell us who:
 
   - Is your patron
-  - Wishes to be your student
   - Owes you the most for your magical aid
+  - Wishes to be your student
 
 Initial social role tokens: 2
 
 Accomplishments:
 
   - [ ] Lying
-  - [ ] ...
-  - [ ] ...
+  - [ ] Natural Philosophy
+  - [ ] Presence
 
 ### Jack of Clubs: Servant (⚲)
 
@@ -903,47 +904,51 @@ you can do.
 
 | Gain a role token when you                             | Unless you are |
 |--------------------------------------------------------|----------------|
-| keep your master's confidence                          | ...            |
-| act on their needs before they ask you                 | ...            |
-| subordinate your own interests to those of your master | ...            |
+| act on their needs before they ask you                 | controlling    |
+| keep your master's confidence                          | a gossip       |
+| subordinate your own interests to those of your master | obsequious     |
 
 Tell us who is:
 
-  - Your master
   - The apple of your eye
   - Your confidante
+  - Your master
 
 Initial social role tokens: 1
 
 Accomplishments:
 
+  - [ ] Etiquette
   - [ ] Sneaking
-  - [ ] ...
-  - [ ] ...
+  - [ ] Stewardship
 
 ### Jack of Diamonds: Vagabond (⚲)
 
-You are expected to be needy, itinerant, and thankful.
+There are many ways someone might end up living on the road and sleeping rough.
+Servants may leave their masters and go a-tramping to find new work every Lady
+Day, veterans back from the continental wars can't always find work, and
+sometimes, life just deals you a bad set of cards. No one is as kind to a
+vagabond as they should be, but you do what you can to get by.
 
-| Gain a role token when you | Unless you are |
-|----------------------------|----------------|
-| ...                        | ...            |
-| ...                        | ...            |
-| ...                        | ...            |
+| Gain a role token when you | Unless you are     |
+|----------------------------|--------------------|
+| flake on a promise         | willfully indigent |
+| offer odd jobs             | inept              |
+| show gratitude for charity | toadying           |
 
 Tell us who:
 
+  - Gives you charity
   - Is after you
   - Is your drinking companion
-  - Gives you charity
 
 Initial social role tokens: 1
 
 Accomplishments:
 
   - [ ] Lying
-  - [ ] ...
-  - [ ] ...
+  - [ ] Sneaking
+  - [ ] Tinkering
 
 ## Appendix: Spells
 
