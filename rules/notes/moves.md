@@ -31,13 +31,13 @@ Remember what Vincent said:
 
 ## Stats
 
-| Take 1      | Take 2     | Final    |
-|-------------|------------|----------|
-| Connected   | Warm       | Gracious |
-| Beautiful   | Intense    | Ardent   |
-| Creative    | Perceptive | Subtle   |
-| Frightening | Fierce     | Able     |
-| Weird       | Fey        | Touched  |
+| Take 1      | Take 2     | Take 3   | Take 4   |
+|-------------|------------|----------|----------|
+| Connected   | Warm       | Gracious | Kind     |
+| Beautiful   | Intense    | Ardent   | Fiery    |
+| Creative    | Perceptive | Subtle   | Acute    |
+| Frightening | Fierce     | Able     | Upright  |
+| Weird       | Fey        | Touched  | Brooding |
 
 ## Moves
 
