@@ -468,6 +468,52 @@ exhaustion, or otherwise comes to an impasse.
 > Issuing a _challenge_ is subtly distinct from fighting a duel, and can cost
 > social capital or reputation, and can be countered with social capital.
 
+### Courtship and Intimacy
+
+When you wish to express an honest and intimate feeling to someone without
+using words, do this:
+
+Each party draws five cards. Then, the party wishing to communicate their
+feelings chooses one card, and puts it forward face-down. They describe how
+they show their feelings. The other party chooses one card, and puts it forward
+face-down, but does not yet describe anything. Then both parties flip their
+cards.
+
+There are four possible outcomes:
+
+| Cards             | Effect                                        |
+|-------------------|-----------------------------------------------|
+| Same value        | Both parties understand each other perfectly. |
+| Same suit         | Both parties assume the best.                 |
+| Same color        | No certainty.                                 |
+| None of the above | Both parties assume the worst.                |
+
+If you understand each other perfectly, you may have a short conversation
+describing your feelings to each other, but the characters need exchange no
+more than glances.
+
+If you assume the best, both parties understand the exchange as meaning what
+they want it to mean. For the benefit of the players at the table, give a short
+explanation of this, but embrace the potential for misunderstanding!
+
+If there is no certainty, the characters don't really know how to interpret
+what goes on. Describe your actions, but don't bother explaining them.
+
+If you assume the worst, both parties understand the exchange as meaning the
+exact opposite of what they want it to mean. For the benefit of the players at
+the table, give a short explanation of this, but embrace the potential for
+misunderstanding!
+
+An actual courtship will usually take many interactions of this sort before one
+party might ask another to marry them (or whatever...). The understandings are
+part of the road there! Of course some people (such as Mr. Collins) might feel
+quite free to act from a place of imperfect understanding, but not all are as
+overconfident as he.
+
+### Spells
+
+See [Casting Spells](#casting-spells).
+
 ## Sessions
 
 At the end of every session, go around the circle. Each player tells the group
@@ -528,20 +574,17 @@ The fairy must, ultimately, fulfill three qualities:
 Players start off with no spells. They may gain access to certain spells
 through fairy bargains. See [Spells](#appendix-spells).
 
-To cast a spell, perform the ritual as described, and then draw a card to see
-what Mark you have gained. You can spend a passion token to discard that card
-and draw another, as many times as you like.
+To cast a spell, the player must draw five cards, and arrange them, in the
+order drawn, in a circle. Then, the player may choose any number of cards to
+discard, and draw a new card to replace, spending one passion token per card
+exchanged this way.
 
-### Marks
+The player may then swap the positions of any cards with the same value.
 
-Casting spells is risky: you channel energy from the Otherworld into this one,
-and that can leave marks. Those marks range from the benign (flowers bloom in
-your presence) to the eerie (mirrors show the wrong room when you are reflected
-in them) to the crippling (the sound of church-bells causes you searing pain).
+Finally, draw a line between any two cards with the same color, or same number.
+(There will be one to five.) Choose one effect from the spell for each line.
 
-When your character casts a spell, there is a chance you are marked. There is
-no way to remove marks---at least, not as far as the magicians of this world
-yet know.
+Spellcasting takes some time. Give it the attention it deserves.
 
 ## The world
 
