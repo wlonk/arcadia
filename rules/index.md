@@ -7,21 +7,15 @@ title: Rules
 
 A game of magic, manners, and madness.
 
-> #### TODO
+> #### TODO: Main
 > {: .no_toc}
 >
 >  "Asset" matters:
 >
->  1. Spells & Marks (inc. ficto-mechanical effects)
->      1. Spells may have some dials you can dial, and the more you ramp them
->         up, the more harsher marks you risk?
->  2. Fairy needs and desires
->  3. Perception of the fairy
->  4. Perception per-social-role
->  5. Accomplishments for social roles
->       * "Do I X?" => "Not really", "Sorta", "Pretty much". And then the "X"
->         can change and increase in scope? Is that how accomplishments work?
->  6. Family and friends, and their effects on reputation
+>  1. Fairy needs and desires
+>  2. Perception of the fairy
+>  3. Perception per-social-role
+>  4. Family and friends, and their effects on reputation
 >       * Families have reputations. But unlike individuals' reputations, they
 >         are all-or-nothing. If the family's reputation is lost, all the boons
 >         are lost. (Or one reputation per boon?) When a reputation comes under
@@ -30,9 +24,7 @@ A game of magic, manners, and madness.
 >  Design matters:
 >
 >  1. Spookiness
->      1. Every time you cast a spell, you gain a Mark. Every Mark makes your
->         existence and your life weirder: animals shy at your presence, plants
->         wither, liquids freeze over, shadows darken.
+>      1. Desires are Darkest Selves crossed with Keys.
 >      2. The things you _want_ that make you cast a spell in the first place
 >         are themselves Byronic, by necessity. How grave can I make them
 >         without making them _big_?
@@ -48,46 +40,8 @@ A game of magic, manners, and madness.
 >
 > > ---Mike Nichols
 >
-> The characters as they currently are, are not Byronic at all. There's a lot
-> of value in adding more Gothic-ness. "The lovely scare" as a term for Gothic
-> fiction. Perhaps everyone is a little bit Gothic. This doesn't have to be
-> tied to Desires though.
->
-> Need to put my designer-thumb more on the Devil's side of the scales in
-> conflicts, to make it more true that you need to outburst. Also, perhaps,
-> mechanize risks to self-conception?
->
 > I suspect that fairies might like folks with bad reputations. "A bully? No!
 > You are possessed of a warrior's spirit!"
->
-> Is there room for advancement keyed off of connections? Connection strength
-> is already a thing, but maybe also connection character? The list in _Golden
-> Sky Stories_ is a great starting point, though problematic ones should also
-> be introduced.
->
-> Such as:
->
->   * Affection
->   * Protection
->   * Trust
->   * Family
->   * Admiration
->   * Rivalry
->   * Respect
->   * Love
->
-> OK, so, prescriptive and descriptive, right? How do you ruin a reputation
-> independent of mechanics? Repair it? Impose it on an NPC, or get it from
-> their actions (because family always reflects on you)?
->
-> Also, of course, reputations need to be by-association: the actions of your
-> family and the friends you keep can influence your reputation. No, it's not
-> fair. Yes, it's the point.
->
-> Also, urgent need for fairy rules and spell rules.
->
-> Secret powers for accomplishments when you use them in fairy? Or just "use
-> them creatively"?
 
 * TOC
 {:toc}
@@ -109,27 +63,6 @@ everyone up into one nice tangled community.
 
 At the start of the game, characters have a number of role tokens based on
 their social role, and two passion tokens.
-
-### Accomplishments
-
-Every character has an accomplishment. This is a particular area in which that
-character stands out as skilled or excellent. Choose from among those listed
-for your social role.
-
-The accomplishments:
-
-  * Connections
-  * Dancing
-  * Etiquette
-  * Languages
-  * Lying
-  * Natural Philosophy
-  * Presence
-  * Riding
-  * Shooting
-  * Sneaking
-  * Stewardship
-  * Tinkering
 
 ### Connections
 
@@ -266,6 +199,11 @@ Hastings, that Miss Redgrave is apparently becoming very close with a Mr.
 Hawkins. He's trying to get a reaction out of you. He wants to know if you have
 feelings for her."
 
+**Play to make them reveal themselves**: As the GM, you are most interested in
+the inner lives of the characters you see at the table. Not in their victories
+or failures, _per se_, but in how those victories and failures let them show
+their true colors.
+
 ## Scenes
 
 The game is structured around scenes. The GM sets scenes, with input from the
@@ -356,28 +294,22 @@ Fairies _always_ have leverage over any mortal they talk with.
 
 ### Exertion
 
-When your character imposes their will upon the world, or puts themselves in
-mortal danger, they are _exerting_ themselves.
+When your character does something well out of their usual affairs, under
+extreme or adverse circumstances, or puts themselves in mortal danger, they are
+_exerting_ themselves.
 
 Before exerting yourself, be very clear what the goal is, and what sorts of
 risks you might face. The GM has final say about the risks the best and worst
 you might expect, but you are entitled to a clear idea of what they might be.
 
-The GM and the player each get two cards, one each face down, the others face
-up. Play proceeds like blackjack, with the player choosing whether to take
-another card, and the GM automatically taking one each time after the player
-does, unless they, the GM, are at 17 or higher.
+The question at hand during exertion is not whether you _can_ in a mechanistic
+sense do the thing, but whether you _can_ in a moral and personal sense. You
+play your will and desire to do it, and the GM plays your doubts and
+insecurities. They go first, and always have leverage over you.
 
-In order to take a card, the player must either invoke an Accomplishment, or
-spend a Passion token. They may only do each once in a given Exertion. Each
-Accomplishment may only be used once a session.
-
-If the player goes bust, or does not beat the GM's total when the cards are
-revealed, they have failed.
-
-If the GM goes bust, or the player beats their total, the player has succeeded.
-
-As always, aces count as 1, and face cards count as 10.
+Play proceeds as with petition, above, but spending a passion token does not
+damage a reputation: it instead requires you to showcase the darker side of
+your desire.
 
 ### Perception
 
@@ -398,7 +330,7 @@ They must then answer honestly, and describe how they let it slip:
   * A word
   * Something else
 
-> #### TODO
+> #### TODO: Perception
 > {: .no_toc}
 >
 > When you read the fairy, there's a totally different list of questions. Very
@@ -428,7 +360,8 @@ tokens for the associated actions.
 
 ### Leverage
 
-> #### TODO
+> #### TODO: Leverage
+> {: .no_toc}
 >
 > Flesh this out.
 
@@ -463,7 +396,8 @@ as they wish.
 If the two players tie, the fight is inconclusive: it is interrupted, fought to
 exhaustion, or otherwise comes to an impasse.
 
-> #### TODO
+> #### TODO: Duels vs. Challenges
+> {: .no_toc}
 >
 > Issuing a _challenge_ is subtly distinct from fighting a duel, and can cost
 > social capital or reputation, and can be countered with social capital.
@@ -516,6 +450,11 @@ See [Casting Spells](#casting-spells).
 
 ## Sessions
 
+> #### TODO: End of Session move
+> {: .no_toc}
+> 
+> This needs to be revised as desires are revised.
+
 At the end of every session, go around the circle. Each player tells the group
 whether they pursued either of their desires. For each one they pursued, they
 get a passion token. What's important here is that they explain how their
@@ -551,6 +490,11 @@ and rain once again bring visitors. Magic is returning to England.
 The more you pursue and exercise your desires, the sooner the fairy will
 arrive, smelling your passion and seeking to feed on it.
 
+> #### TODO: Getting spells from the Fairy
+> {: .no_toc}
+>
+> Not quite like this, but almost:
+
 The fairy can give you spells. All it asks in return is something like a
 _Poison'd_ bargain: you must maintain some particular behavior, a ban or a
 requirement, and if you break that, well, you lose the spell and you lose
@@ -571,18 +515,31 @@ The fairy must, ultimately, fulfill three qualities:
 
 ### Casting Spells
 
-Players start off with no spells. They may gain access to certain spells
-through fairy bargains. See [Spells](#appendix-spells).
+To cast a spell, a character must have a favor from the fairy. They may trade
+this in for a magical effect. The player describes the ritual the character
+undertakes, and the effect they wish to see (bearing in mind that effects that
+take away someone else's choice, health, or form always incur a heavy price).
+Everyone else, including the GM, is dealt one card from the major arcana that
+were set aside at the beginning of the game.
 
-To cast a spell, the player must draw five cards, and arrange them, in the
-order drawn, in a circle. Then, the player may choose any number of cards to
-discard, and draw a new card to replace, spending one passion token per card
-exchanged this way.
+Each person with a major arcanum looks at their card, and chooses a visual
+detail that they find compelling. They go around in a circle, describing a
+surreal and dreamlike sensory experience based on that detail. The spellcaster
+then chooses which detail they find the most compelling; that is the feel,
+look, smell, taste, _experience_ of the spell's effect coming into this world.
 
-The player may then swap the positions of any cards with the same value.
+That player then reveals their arcanum, and the GM interprets it to give the
+spell's cost or side-effects.
 
-Finally, draw a line between any two cards with the same color, or same number.
-(There will be one to five.) Choose one effect from the spell for each line.
+Side-effects or costs may include changes to the materials of a character
+sheet: damaged or changed relationships or damaged reputations. They may not
+include changes to the number of role or passion tokens a player currently has.
+Most saliently, of course, they may include unnatural and uncanny magical
+effects, which may linger well after the spell has ended.
+
+Remember always that the side-effects of a spell will be bigger if the spell is
+bigger, and especially if the spell takes away someone's choice, health, or
+form.
 
 Spellcasting takes some time. Give it the attention it deserves.
 
@@ -600,7 +557,7 @@ modify their reputations and connections and possibly some other things. They
 may also change out a desire, and should redefine their connections with the
 NPCs.
 
-> #### TODO
+> #### TODO: Growth and Change
 > {: .no_toc}
 >
 > Actually make growth questions.
@@ -641,6 +598,12 @@ below:
 
 ## Appendix: Desires
 
+> #### TODO: Desires
+> {: .no_toc}
+> 
+> Remake these as a cross between Darkest Self and Keys. Characters will only
+> have one.
+
 ### Absolution
 
 Who did you wrong? Take a token when you do right by them, or punish yourself
@@ -673,11 +636,6 @@ Take a token when you learn a secret related to your agenda.
 
 ## Appendix: Social Roles
 
-> #### TODO
-> {: .no_toc}
->
-> Edit social roles.
-
 ### King of Spades: Gentleman (♂)
 
 A single man, in possession of a good fortune. Let a lady decide the degree of
@@ -699,12 +657,6 @@ Tell us who is:
 
 Initial social role tokens: 3
 
-Accomplishments:
-
-  - [ ] Dancing
-  - [ ] Natural Philosophy
-  - [ ] Presence
-
 ### King of Hearts: Officer (♂)
 
 You have seen the battlefields of the continent, led men into the cannon's
@@ -723,12 +675,6 @@ Tell us who is:
   - Your dogsbody
 
 Initial social role tokens: 2
-
-Accomplishments:
-
-  - [ ] Dancing
-  - [ ] Riding
-  - [ ] Shooting
 
 ### King of Clubs: Clergyman (♂)
 
@@ -751,12 +697,6 @@ Tell us who is:
 
 Initial social role tokens: 2
 
-Accomplishments:
-
- - [ ] Languages
- - [ ] Natural Philosophy
- - [ ] Presence
-
 ### King of Diamonds: Dandy (♂)
 
 The fashions of the _bon ton_ change more rapidly with every passing year, but
@@ -777,12 +717,6 @@ Tell us who is:
   - Your toady
 
 Initial social role tokens: 2
-
-Accomplishments:
-
-  - [ ] Connections
-  - [ ] Dancing
-  - [ ] Riding
 
 ### Queen of Spades: Lady (♀)
 
@@ -806,12 +740,6 @@ Tell us who is:
 
 Initial social role tokens: 3
 
-Accomplishments:
-
-  - [ ] Dancing
-  - [ ] Etiquette
-  - [ ] Languages
-
 ### Queen of Hearts: Governess (♀)
 
 A young lady of indifferent family, but with enough education to hold a
@@ -833,12 +761,6 @@ Tell us who is:
 
 Initial social role tokens: 2
 
-Accomplishments:
-
-  - [ ] Languages
-  - [ ] Natural Philosophy
-  - [ ] Stewardship
-
 ### Queen of Clubs: Ward (♀)
 
 A young lady who has been sent to live with relatives. Either her parents are
@@ -859,12 +781,6 @@ Tell us who:
 
 Initial social role tokens: 2
 
-Accomplishments:
-
-  - [ ] Dancing
-  - [ ] Lying
-  - [ ] Sneaking
-
 ### Queen of Diamonds: Spinster (♀)
 
 You are expected to deviate from your society's feminine ideal, have secret
@@ -884,12 +800,6 @@ Tell us who is:
 
 Initial social role tokens: 2
 
-Accomplishments:
-
-  - [ ] Connections
-  - [ ] Etiquette
-  - [ ] Presence
-
 ### Jack of Spades: Invalid (⚲)
 
 You are expected to be home-bound, solicitous of others' health, and ...
@@ -908,12 +818,6 @@ Tell us who is:
 
 Initial social role tokens: 2
 
-Accomplishments:
-
-  - [ ] Etiquette
-  - [ ] Natural Philosophy
-  - [ ] Presence
-
 ### Jack of Hearts: Magician (⚲)
 
 You are expected to be mysterious, wise, and unconventional.
@@ -931,12 +835,6 @@ Tell us who:
   - Wishes to be your student
 
 Initial social role tokens: 2
-
-Accomplishments:
-
-  - [ ] Lying
-  - [ ] Natural Philosophy
-  - [ ] Presence
 
 ### Jack of Clubs: Servant (⚲)
 
@@ -958,12 +856,6 @@ Tell us who is:
   - Your master
 
 Initial social role tokens: 1
-
-Accomplishments:
-
-  - [ ] Etiquette
-  - [ ] Sneaking
-  - [ ] Stewardship
 
 ### Jack of Diamonds: Vagabond (⚲)
 
@@ -987,45 +879,39 @@ Tell us who:
 
 Initial social role tokens: 1
 
-Accomplishments:
-
-  - [ ] Lying
-  - [ ] Sneaking
-  - [ ] Tinkering
-
 ## Appendix: Spells
 
-> #### TODO
+> #### TODO: Major arcana for spell costs
 > {: .no_toc}
 >
-> Spells need to be restructured to be more asymmetrical. Some have lasting
-> effects, some have instant effects, some leave particular Marks, some require
-> particular Accomplishments.
+> The Arcana, for inspiration for side effects:
 >
-> The Arcana, for inspiration for more spells:
->
->   *  0: The Fool: Luck
->   *  I: The Magician: Sight
->   *  II: The High Priestess: Secrets
->   *  III: The Empress: Healing
->   *  IV: The Emperor: Authority
->   *  V: The Hierophant: Wisdom
->   *  VI: The Lovers: Passion
->   *  VII: The Chariot: Travel
->   *  VIII: Strength: Courage
->   *  IX: The Hermit: Barriers
->   *  X: The Wheel of Fortune: Prophesy
->   *  XI: Justice: Truth
->   *  XII: The Hanged Man: Travel between worlds
->   *  XIII: Death: Necromancy
->   *  XIV: Temperance: Transmutation
->   *  XV: The Devil: Lies
->   *  XVI: The Tower: Destruction
->   *  XVII: The Star: Navigation
->   *  XVIII: The Moon: Illusion
->   *  XIX: The Sun: Dispelling
->   *  XX: Judgment: Resurrection
->   *  XXI: The World: Transformation
+>   *  0: The Fool
+>   *  I: The Magician
+>   *  II: The High Priestess
+>   *  III: The Empress
+>   *  IV: The Emperor
+>   *  V: The Hierophant
+>   *  VI: The Lovers
+>   *  VII: The Chariot
+>   *  VIII: Strength
+>   *  IX: The Hermit
+>   *  X: The Wheel of Fortune
+>   *  XI: Justice
+>   *  XII: The Hanged Man
+>   *  XIII: Death
+>   *  XIV: Temperance
+>   *  XV: The Devil
+>   *  XVI: The Tower
+>   *  XVII: The Star
+>   *  XVIII: The Moon
+>   *  XIX: The Sun
+>   *  XX: Judgment
+>   *  XXI: The World
+
+What follow are a list of spells that once worked, in the golden age of magic.
+They may or may not still function at all, but if they do, will certainly be
+somewhat altered.
 
 ### A spell of far-seeing
 
@@ -1217,61 +1103,6 @@ Costs:
 
 To break this spell, throw salt at the spirit.
 
-## Appendix: Marks
-
-### Spades
-
- 1. The sound of church bells causes you searing pain.
- 2. ...
- 3. ...
- 4. Frost and ice spread from your touch.
- 5. ...
- 6. ...
- 7. Shadows gather and pool at your feet.
- 8. ...
- 9. ...
- 10. ...
-
-### Hearts
-
- 1. ...
- 2. ...
- 3. ...
- 4. A pungent smell of rich, loamy earth follows you everywhere you go.
- 5. ...
- 6. ...
- 7. ...
- 8. Flowers bloom in your presence.
- 9. ...
- 10. ...
-
-### Clubs
-
- 1. Your feet stop in their tracks and will not carry you onto holy ground.
- 2. ...
- 3. ...
- 4. ...
- 5. ...
- 6. ...
- 7. ...
- 8. ...
- 9. Your face becomes sunken and sallow.
- 10. ...
-
-### Diamonds
-
- 1. Every night, you dance in the Otherworld, and are completely unable to talk
-    about it.
- 2. ...
- 3. ...
- 4. ...
- 5. Mirrors show the wrong room around you when you are reflected in them.
- 6. ...
- 7. ...
- 8. ...
- 9. ...
- 10. ...
-
 ## Appendix: Fairies
 
 ### The Beast of the Moors
@@ -1310,7 +1141,7 @@ but he is always hale, and male.
 While some other fairies have nightly balls to which they steal mortals, the
 Horned God holds a hunt, that courses over all of Britain, and sometimes as far
 afield as Hell or Europe. A hunt needs many people, of course, and he is likely
-to find any number of Accomplishments to his liking. And then, there's always
+to find any number of accomplishments to his liking. And then, there's always
 the risk that you will instead catch his eye as _quarry_.
 
 ### King Ludd
