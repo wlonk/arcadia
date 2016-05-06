@@ -10,6 +10,9 @@ A game of magic, manners, and madness.
 > #### TODO: Main
 > {: .no_toc}
 >
+> Popcorn initiative (inc. GM) for scene-calling? Scene types (dramatic,
+> procedural, mystical, ish.)
+>
 >  "Asset" matters:
 >
 >  1. Fairy needs and desires
