@@ -668,7 +668,7 @@ Take a token when you learn a secret related to your agenda.
 
 ## Appendix: Social Roles
 
-### King of Spades: Gentleman (♂)
+### King of Swords: Gentleman (♂)
 
 A single man, in possession of a good fortune. Let a lady decide the degree of
 acquaintance. A servant cannot impinge upon your honour, but neither can you
@@ -689,7 +689,7 @@ Tell us who is:
 
 Initial social role tokens: 3
 
-### King of Hearts: Officer (♂)
+### King of Cups: Officer (♂)
 
 You have seen the battlefields of the continent, led men into the cannon's
 roar, and on top of all that, can cut a fine figure in your red coat.
@@ -708,7 +708,7 @@ Tell us who is:
 
 Initial social role tokens: 2
 
-### King of Clubs: Clergyman (♂)
+### King of Wands: Clergyman (♂)
 
 You have the living of one or more parish churches, and are expected to live a
 life that serves as a moral model for your parishioners, and guide and teach
@@ -729,7 +729,7 @@ Tell us who is:
 
 Initial social role tokens: 2
 
-### King of Diamonds: Dandy (♂)
+### King of Coins: Dandy (♂)
 
 The fashions of the _bon ton_ change more rapidly with every passing year, but
 you keep on the very forefront, with your hair in a "Bedford crop" or a
@@ -750,7 +750,7 @@ Tell us who is:
 
 Initial social role tokens: 2
 
-### Queen of Spades: Lady (♀)
+### Queen of Swords: Lady (♀)
 
 A young lady, from a good family, with some hope of marriage. Your honour is
 your family's honour. Your honour is both positive and negative: being
@@ -772,7 +772,7 @@ Tell us who is:
 
 Initial social role tokens: 3
 
-### Queen of Hearts: Governess (♀)
+### Queen of Cups: Governess (♀)
 
 A young lady of indifferent family, but with enough education to hold a
 position with a wealthy family as not-quite-a-servant. Set a good example for
@@ -793,7 +793,7 @@ Tell us who is:
 
 Initial social role tokens: 2
 
-### Queen of Clubs: Ward (♀)
+### Queen of Wands: Ward (♀)
 
 A young lady who has been sent to live with relatives. Either her parents are
 dead, or simply unable to raise her in the proper fashion. She is in the
@@ -813,7 +813,7 @@ Tell us who:
 
 Initial social role tokens: 2
 
-### Queen of Diamonds: Spinster (♀)
+### Queen of Coins: Spinster (♀)
 
 You are expected to deviate from your society's feminine ideal, have secret
 wealth or knowledge, and draw strength from your connections with other women.
@@ -832,7 +832,7 @@ Tell us who is:
 
 Initial social role tokens: 2
 
-### Jack of Spades: Invalid (⚲)
+### Jack of Swords: Invalid (⚲)
 
 You are expected to be home-bound, solicitous of others' health, and ...
 
@@ -850,7 +850,7 @@ Tell us who is:
 
 Initial social role tokens: 2
 
-### Jack of Hearts: Magician (⚲)
+### Jack of Cups: Magician (⚲)
 
 You are expected to be mysterious, wise, and unconventional.
 
@@ -868,7 +868,7 @@ Tell us who:
 
 Initial social role tokens: 2
 
-### Jack of Clubs: Servant (⚲)
+### Jack of Wands: Servant (⚲)
 
 A young man or woman in service to someone of quality. Be neither seen nor
 heard, except when needed. Protect the honour of your master's house in the
@@ -889,7 +889,7 @@ Tell us who is:
 
 Initial social role tokens: 1
 
-### Jack of Diamonds: Vagabond (⚲)
+### Jack of Coins: Vagabond (⚲)
 
 There are many ways someone might end up living on the road and sleeping rough.
 Servants may leave their masters and go a-tramping to find new work every Lady
