@@ -274,6 +274,9 @@ wish. The next party may then do one of the following:
   * Concede because they cannot put down a higher card.
   * Spend one or more role tokens to draw that many cards, and then try to put
     down a higher card.
+  * Narrate how you take advantage of a stress that the other character
+    currently has marked, and draw a card, and then, if possible, put down a
+    higher card.
   * Spend a passion token, make a desperate declaration or a passionate plea
     and suffer a cost, and put down any card they wish.
   * Put down a higher card and present their counter-argument.
@@ -305,14 +308,26 @@ Before exerting yourself, be very clear what the goal is, and what sorts of
 risks you might face. The GM has final say about the risks the best and worst
 you might expect, but you are entitled to a clear idea of what they might be.
 
-The question at hand during exertion is not whether you _can_ in a mechanistic
-sense do the thing, but whether you _can_ in a moral and personal sense. You
-play your will and desire to do it, and the GM plays your doubts and
-insecurities. They go first, and always have leverage over you.
+When you exert yourself, there are two questions at hand: whether you do the
+thing or whether you fail and the risks come to be; and what the effort costs
+you.
 
-Play proceeds as with petition, above, but spending a passion token does not
-damage a reputation: it instead requires you to showcase the darker side of
-your desire.
+"Cost" for exertion comes in the form of a stress: **afraid**, **angry**,
+**exhausted**, **injured**, or **insecure**.
+
+To see the outcomes, draw one card. Draw one more for each of the following
+that pertains:
+
+  * You are particularly adept at the thing at hand.
+  * You are magically blessed in a useful way.
+  * Your family is noted for something useful to the task at hand.
+
+If your cards contain an ace or a face (page, knight, queen or king), you have
+succeeded. Describe how you do so. If you have no ace or face, you have not:
+sell your failure.
+
+If you have more swords than cups, you have also cost yourself: the GM will
+tell you which stress to mark.
 
 ### Perception
 
@@ -399,11 +414,16 @@ as they wish.
 If the two players tie, the fight is inconclusive: it is interrupted, fought to
 exhaustion, or otherwise comes to an impasse.
 
-> #### TODO: Duels vs. Challenges
+> #### Duels vs. Challenges
 > {: .no_toc}
 >
-> Issuing a _challenge_ is subtly distinct from fighting a duel, and can cost
-> social capital or reputation, and can be countered with social capital.
+> Issuing a _challenge_ is subtly distinct from fighting a duel. A challenge
+> need not always be accepted, particularly if the challenger is, socially,
+> beneath the challenged. A gentleman may laugh off the bruised honour of a
+> servant.
+>
+> Of course, you may [petition](#petition) someone to accept your challenge,
+> but that may sometimes simply be beyond the bounds of possibility.
 
 ### Courtship and Intimacy
 
@@ -449,7 +469,16 @@ overconfident as he.
 
 ### Spells
 
-See [Casting Spells](#casting-spells).
+This is a larger topic than any of the others so far covered. See [Casting
+Spells](#casting-spells).
+
+### Recovering from Stress
+
+As mentioned above, characters can suffer stresses. They can also, of course,
+recover from them. At the end of a session (unless it's _really_ a
+cliffhanger), you can recover all stresses. In the middle of a session, another
+character can call a scene dedicated to helping you, and clear a stress of
+yours.
 
 ## Sessions
 
