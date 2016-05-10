@@ -762,7 +762,7 @@ and obedient and respectful to those above you.
 |-------------------------------------------|----------------|
 | choose an honorable path over an easy one | prudish        |
 | demonstrate your accomplishments          | proud          |
-| make those around you feel at ease        | toadying       |
+| make those around you feel at ease        | insipid        |
 
 Tell us who is:
 
