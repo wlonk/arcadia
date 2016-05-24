@@ -375,6 +375,12 @@ exhaustion, or otherwise comes to an impasse.
 When you wish to express an honest and intimate feeling to someone without
 using words, do this:
 
+> #### TODO
+> {: .no_toc}
+>
+> Should the number of cards be based on relationship? It's just a palette,
+> really, so maybe not.
+
 Each party draws five cards. Then, the party wishing to communicate their
 feelings chooses one card, and puts it forward face-down. They describe how
 they show their feelings. The other party chooses one card, and puts it forward
