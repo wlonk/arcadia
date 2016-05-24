@@ -10,19 +10,9 @@ A game of magic, manners, and madness.
 > #### TODO: Main
 > {: .no_toc}
 >
-> Popcorn initiative (inc. GM) for scene-calling? Scene types (dramatic,
-> procedural, mystical, ish.)
->
 >  "Asset" matters:
 >
 >  1. Fairy needs and desires
->  2. Perception of the fairy
->  3. Perception per-social-role
->  4. Family and friends, and their effects on reputation
->       * Families have reputations. But unlike individuals' reputations, they
->         are all-or-nothing. If the family's reputation is lost, all the boons
->         are lost. (Or one reputation per boon?) When a reputation comes under
->         threat, make a clock.
 >
 >  Design matters:
 >
@@ -40,7 +30,6 @@ A game of magic, manners, and madness.
 >
 > > There are only three kinds of scenes. Negotiations, seductions, and fights.
 > > I'm finished. That's all.
->
 > > ---Mike Nichols
 >
 > I suspect that fairies might like folks with bad reputations. "A bully? No!
@@ -57,9 +46,6 @@ A game of magic, manners, and madness.
 Characters have social roles (which give them role tokens) and desires (which
 give them passion tokens).
 
-Characters have connections with NPCs and each other. Connections are rated
-from zero to three.
-
 When you first make characters, there are formal connections defined by your
 social role and emotional connections defined by your desires. Use these to mix
 everyone up into one nice tangled community.
@@ -67,24 +53,8 @@ everyone up into one nice tangled community.
 At the start of the game, characters have a number of role tokens based on
 their social role, and two passion tokens.
 
-### Connections
-
-Every connection a character has is rated from zero to three:
-
-  1. Zero: A near-stranger; someone to whom you've just been introduced.
-  2. One: A casual acquaintance; someone you know around town.
-  3. Two: A good friend; someone whose company you seek.
-  4. Three: A boon companion or lover; someone whose absence you could not tolerate.
-
-At the start of the game, your connections will be specified by your choices
-during character creation.
-
-At the end of a session, you may adjust any connections you have.
-
-Connections are constrained, though. You cannot be intimates with the entire
-world. At character creation, you have 17 points to distribute, one-for-one,
-among your connections. You may gain more points through [character
-growth](#seasons-growth-and-change).
+A question everyone must answer about their character during character
+creation: tell us about a time you have wished for magical power.
 
 ### Reputations
 
@@ -102,14 +72,33 @@ of" needs some adjusting here. To be part of a family does not mean that you
 are necessarily a blood-relative. You may be the favored son, but you may just
 as likely be a trusted servant, a despised ward, or a poor tenant.
 
-Your family will give you a boon, an element of their reputation that you can
-call on for your own benefit when [petitioning](#petition) those outside the
-family, but will also make demands of you. Because the reputation of everyone
-in the family depends on the actions of everyone in the family, family members
-always have leverage over you, to [petition](#petition) you to act in the best
-interests of the family. Finally, if someone in your family tarnishes their own
-reputation, and you do not act directly to repudiate or renounce them, your own
-reputation suffers: mark an appropriate box.
+Your family will give you a boon, which is like an additional social role token
+trigger. Everyone in the family shares this bit of family reputation, so decide
+on the details with the other people playing characters in your character's
+family.
+
+Because the reputation of everyone in the family depends on the actions of
+everyone in the family, family members always have leverage over each other, to
+[petition](#petition) each other to act in the best interests of the family.
+
+Finally, if someone in your family tarnishes their own reputation, everyone in
+the family suffers. This functions a little bit differently for PCs and NPCs,
+so let's discuss:
+
+When a PC goes bust on a reputation, every other PC in the family must mark two
+boxes (of their choice) towards their own reputations. Every NPC in the same
+family will be seen as tarnished by their association with the newly infamous
+character.
+
+For an NPC to tarnish a reputation, the fiction as-described is the only
+consideration in whether they have done so. The GM should generally signal that
+this is impending, to give the PCs a chance to do something (acting is
+reacting, after all). All NPCs suffer as above, and all PCs mark two boxes,
+their choice again.
+
+When either of these events happens, the table should discuss what changes, if
+any, to make to the family's boon. It may get nasty if the family keeps being
+horrible.
 
 ## The GM
 
@@ -128,7 +117,7 @@ and a suit (randomly drawn, or based on their personality).
 In a conflict, an emotional outburst puts a PC's reputation at risk. If they
 never make an outburst, they stand a real chance of not getting what they want.
 So, outbursts are saying "this is worth the risk". And if it never is worth the
-risk for someone, _push harder_.  Loveless marriages, disownment and penury,
+risk for someone, _push harder_. Loveless marriages, disownment and penury,
 abusive masters, all this and more are real risks. Think about what will happen
 if the PCs don't intervene for their own interests, and push for that.
 
@@ -149,24 +138,6 @@ The fairy should show up soon, but not immediately; basically as soon as
 someone's been pushed into a spot where they might need a spell to get what
 they want. Basically, the arc of an _Arcadia_ story should dip low quickly,
 then up-tick with the fairy's intervention, then wobble.
-
-### The Dance
-
-Have you ever danced an English country dance? There are two rows of people,
-ladies on one side, gents on the other, facing each other. Each couple (the
-lady and gent standing across the set from each other) will spend most of the
-dance with each other, but will share a bit of the dance with all the people on
-the other side, weaving in and out and always coming back to dance with their
-partner.
-
-This game can be like that, though perhaps with somewhat more complex figures
-in the dance. Characters will often find themselves in pairs (or perhaps
-triads), swirling around together, until they circle back out and return to
-their partner, the character with whom they have the most dramatic tension. I
-find that envisioning the game in these terms helps me keep things from staying
-in one spot too long: I can look at the characters and think "who hasn't Miss
-Redgrave dealt with lately? What might Mr. Scopes _want_ from her?" It's very
-pleasing.
 
 ### Techniques and Tools
 
@@ -229,11 +200,40 @@ players. There are four essential questions to answer for every scene:
       * Shopping
       * Walking
 
-The GM chooses when a scene is over, and frames the next scene, though in both
-cases they should consider input from the players. All the rules in
-_Smallville_ p. 52 on ending scenes apply. They should also keep an eye out for
-folks who are getting low on tokens and may need a chance to replenish.
+Have one deck. Reshuffle it only when you need to.
 
+The GM starts each session with role tokens equal to the total among the PCs
+plus three. They do not get passion tokens: those are representative of the
+unique power and passions that the PCs possess that draw the fairy's interest.
+
+### The Dance: Choosing the Next Scene
+
+Have you ever danced an English country dance? There are two rows of people,
+ladies on one side, gents on the other, facing each other. Each couple (the
+lady and gent standing across the set from each other) will spend most of the
+dance with each other, but will share a bit of the dance with all the people on
+the other side, weaving in and out and always coming back to dance with their
+partner.
+
+This game can be like that, though perhaps with somewhat more complex figures
+in the dance. Characters will often find themselves in pairs (or perhaps
+triads), swirling around together, until they circle back out and return to
+their partner, the character with whom they have the most dramatic tension. I
+find that envisioning the game in these terms helps me keep things from staying
+in one spot too long: I can look at the characters and think "who hasn't Miss
+Redgrave dealt with lately? What might Mr. Scopes _want_ from her?" It's very
+pleasing.
+
+Each person at the table takes turns calling for a scene, saying who besides
+their character is present, what they want, and where they are. (All within the
+bounds of reason, of course.) After each person's scene, there is a phase
+called [Gossip](#gossip), then the person who just called the scene chooses who
+goes next. The only rule is that each person must have a scene before someone
+can go again.
+
+Each session, the GM should call the first scene.
+
+All the rules in _Smallville_ p. 52 on ending scenes apply usefully.
 Reproducing those rules here for ease of reference:
 
   * Always leave them wanting more
@@ -246,14 +246,6 @@ middle ground will be ideal. Remember, there can be multiple scenes in the same
 place and time. Are you at a ball? There should be like three to five scenes
 there. Are you watching two characters alone on a walk together? Probably one.
 
-After each scene, engage in [Gossip](#gossip).
-
-Have one deck. Reshuffle it only when you need to.
-
-The GM starts with role tokens equal to the total among the PCs plus three.
-They do not get passion tokens: those are representative of the unique power
-and passions that the PCs possess that draw the fairy's interest.
-
 ### Petition
 
 When one character wants something from another, and that character does not
@@ -262,11 +254,20 @@ want to concede, go to the cards.
 You can petition behavior: apology, support, etc., but not feelings (i.e. you
 cannot petition "love me").
 
-Aces are low, face cards are ranked, low to high, Jack, Queen, King.
+Aces are low, face cards are ranked, low to high, page, knight, queen, king.
 
 Each party gets one card just for showing up, and if the party to act first has
 [leverage](#leverage) on the other party, the first party gets an additional
 card.
+
+> #### Leverage
+> {: .no_toc}
+>
+> Leverage is just what it sounds like: a compelling reason for the other
+> character to do what you want. You will know when a character has leverage
+> over another, but good rules of thumb: differences in class, shared family
+> bonds, shared secrets, and threats of physical force are all common sources
+> of leverage.
 
 Each party takes turns putting down a card. The first card may be any card you
 wish. The next party may then do one of the following:
@@ -278,7 +279,7 @@ wish. The next party may then do one of the following:
     currently has marked, and draw a card, and then, if possible, put down a
     higher card.
   * Spend a passion token, make a desperate declaration or a passionate plea
-    and suffer a cost, and put down any card they wish.
+    and suffer a cost, draw a card, and put down any card they wish.
   * Put down a higher card and present their counter-argument.
   * Reveal a higher card that they _could_ put down, but instead concede, and
     gain a role token.
@@ -319,8 +320,8 @@ To see the outcomes, draw one card. Draw one more for each of the following
 that pertains:
 
   * You are particularly adept at the thing at hand.
-  * You are magically blessed in a useful way.
   * Your family is noted for something useful to the task at hand.
+  * You are magically blessed in a useful way.
 
 If your cards contain an ace or a face (page, knight, queen or king), you have
 succeeded. Describe how you do so. If you have no ace or face, you have not:
@@ -328,63 +329,6 @@ sell your failure.
 
 If you have more swords than cups, you have also cost yourself: the GM will
 tell you which stress to mark.
-
-### Perception
-
-Sometimes, you just need to know what another character is thinking. You can
-look into another character's heart and ask one of the questions below one time
-per session per point of connection strength you have with them.
-
-  * Is your character speaking the truth?
-  * What does your character wish I would do?
-  * What does your character intend to do?
-  * How does your character feel about this?
-  * How could I get your character to...?
-
-They must then answer honestly, and describe how they let it slip:
-
-  * A gaze
-  * A blush
-  * A word
-  * Something else
-
-> #### TODO: Perception
-> {: .no_toc}
->
-> When you read the fairy, there's a totally different list of questions. Very
-> particular for the fairy. How do you strengthen your connection with the
-> fairy?
->
-> The way to make this on the sheet: two slots with three black checkboxes,
-> three with two black and one grey, five with one black and two grey, and a
-> few with three grey. When you take an advance that lets you have more
-> intimates, you can black-outline boxes with a pen, allowing you to still
-> pencil-check them as you use them, and then erase at the end of the session.
-
-### Gossip
-
-At the end of each scene, any participant (player or GM) may call for a gossip
-session. You will want to do this to refresh your tokens, but also to evaluate
-what has just recently happened. Go around the table, and each player reads off
-their three social role bullet points. For each point that the table agrees
-they did, they get one role token. The player in the spotlight _cannot_ voice
-their opinion or suggest what they did that they think earns them a point
-unless everyone else at the table draws a blank and cannot decide one way or
-another. Everyone else, however, absolutely should discuss the spotlight
-character's behavior in as animated a fashion as they like!
-
-Remember, if a character has a ruined reputation, they do not gain any social
-tokens for the associated actions.
-
-### Leverage
-
-> #### TODO: Leverage
-> {: .no_toc}
->
-> Flesh this out.
-
-Sometimes, a character has leverage over another character. This makes getting
-them to do what you want easier.
 
 ### Duels
 
@@ -438,12 +382,12 @@ cards.
 
 There are four possible outcomes:
 
-| Cards             | Effect                                        |
-|-------------------|-----------------------------------------------|
-| Same value        | Both parties understand each other perfectly. |
-| Same suit         | Both parties assume the best.                 |
-| Same color        | No certainty.                                 |
-| None of the above | Both parties assume the worst.                |
+| Cards             | Effect                                       |
+|-------------------|----------------------------------------------|
+| Same value        | Both parties understand each other perfectly |
+| Same suit         | Both parties assume the best                 |
+| Same color        | No certainty                                 |
+| None of the above | Both parties assume the worst                |
 
 If you understand each other perfectly, you may have a short conversation
 describing your feelings to each other, but the characters need exchange no
@@ -479,6 +423,21 @@ recover from them. At the end of a session (unless it's _really_ a
 cliffhanger), you can recover all stresses. In the middle of a session, another
 character can call a scene dedicated to helping you, and clear a stress of
 yours.
+
+### Gossip
+
+At the end of each scene, any participant (player or GM) may call for a gossip
+session. You will want to do this to refresh your tokens, but also to evaluate
+what has just recently happened. Go around the table, and each player reads off
+their three social role bullet points. For each point that the table agrees
+they did, they get one role token. The player in the spotlight _cannot_ voice
+their opinion or suggest what they did that they think earns them a point
+unless everyone else at the table draws a blank and cannot decide one way or
+another. Everyone else, however, absolutely should discuss the spotlight
+character's behavior in as animated a fashion as they like!
+
+Remember, if a character has a ruined reputation, they do not gain any social
+tokens for the associated actions.
 
 ## Sessions
 
@@ -564,10 +523,10 @@ That player then reveals their arcanum, and the GM interprets it to give the
 spell's cost or side-effects.
 
 Side-effects or costs may include changes to the materials of a character
-sheet: damaged or changed relationships or damaged reputations. They may not
-include changes to the number of role or passion tokens a player currently has.
-Most saliently, of course, they may include unnatural and uncanny magical
-effects, which may linger well after the spell has ended.
+sheet, most particularly damaged reputations. They may not include changes to
+the number of role or passion tokens a player currently has. Most saliently, of
+course, they may include unnatural and uncanny magical effects, which may
+linger well after the spell has ended.
 
 Remember always that the side-effects of a spell will be bigger if the spell is
 bigger, and especially if the spell takes away someone's choice, health, or
@@ -585,16 +544,13 @@ hazards.
 At the end of each season (a bunch of sessions with a coherent arc), go through
 a questionnaire and ask the table about each character: whether they have done
 this, or that, etc. They will gain XP based on that, which they can use to
-modify their reputations and connections and possibly some other things. They
-may also change out a desire, and should redefine their connections with the
-NPCs.
+modify their reputations and possibly some other things. They may also change
+out a desire, and should redefine their connections with the NPCs.
 
 > #### TODO: Growth and Change
 > {: .no_toc}
 >
 > Actually make growth questions.
-
-Perhaps XP can also be used to expand Perception questions?
 
 ### Disease and dying
 
