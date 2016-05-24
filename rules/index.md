@@ -12,7 +12,8 @@ A game of magic, manners, and madness.
 >
 >  "Asset" matters:
 >
->  1. Fairy needs and desires
+>  1. Passions as keys/Darkest Selves.
+>  1. Fairy needs and desires.
 >
 >  Design matters:
 >
