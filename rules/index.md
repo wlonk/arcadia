@@ -3,7 +3,7 @@ layout: page
 title: Rules
 ---
 
-# Arcadia
+# Et in Arcadia Ego
 
 A game of magic, manners, and madness.
 
