@@ -418,6 +418,21 @@ part of the road there! Of course some people (such as Mr. Collins) might feel
 quite free to act from a place of imperfect understanding, but not all are as
 overconfident as he.
 
+### Secrets and Lies
+
+Secrets hold great power, but in the world of _Arcadia_, that power is almost
+wholly destructive. Certain secrets may be so horrific as to immediately
+destroy a reputation, turning someone from an upstanding member of the
+community to a murderer, apostate, or succubus.
+
+When a character has, or becomes entangled in, such a secret, the table should
+agree that, were it revealed, the consequences would be disastrous. You should
+also agree which reputation in particular would suffer. If the secret is
+publicized, then this consequence simply happens.
+
+Further, anyone with knowledge of the secret has, unsurprisingly, leverage over
+the character who would suffer from its revelation.
+
 ### Spells
 
 This is a larger topic than any of the others so far covered. See [Casting
