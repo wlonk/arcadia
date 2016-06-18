@@ -12,16 +12,11 @@ A game of magic, manners, and madness.
 >
 >  "Asset" matters:
 >
->  1. Passions as keys/Darkest Selves.
 >  1. Fairy needs and desires.
 >
 >  Design matters:
 >
 >  1. Spookiness
->      1. Desires are Darkest Selves crossed with Keys.
->      2. The things you _want_ that make you cast a spell in the first place
->         are themselves Byronic, by necessity. How grave can I make them
->         without making them _big_?
 >  2. What happens if the characters don't act?
 >      1. The Byronic worries will come to pass.
 >      2. Or the GM can twist things to make them even worse.
@@ -44,8 +39,8 @@ A game of magic, manners, and madness.
 > You know that the lover, the lunatic, and the poet are "of imagination all
 > compact." ---Lord Byron, March 25 1816. 
 
-Characters have social roles (which give them role tokens) and desires (which
-give them passion tokens).
+Characters have a social role (which gives them role tokens) and two desires
+(which give them passion tokens).
 
 When you first make characters, there are formal connections defined by your
 social role and emotional connections defined by your desires. Use these to mix
@@ -463,16 +458,11 @@ tokens for the associated actions.
 
 ## Sessions
 
-> #### TODO: End of Session move
-> {: .no_toc}
-> 
-> This needs to be revised as desires are revised.
-
 At the end of every session, go around the circle. Each player tells the group
-whether they pursued either of their desires. For each one they pursued, they
-get a passion token. What's important here is that they explain how their
-actions were in support of the desire, and thus contextualize them for the
-table.
+whether they hit any of the token triggers for their desires. For the
+highest-rated trigger they hit, they get that many passion tokens. What's
+important here is that they explain how their actions were in support of the
+desire, and thus contextualize them for the table.
 
 Present this as a small scene, of your character in repose and reflection.
 Perhaps walking the moors, perhaps brooding in the tower-room, perhaps writing
@@ -608,41 +598,104 @@ below:
 
 ## Appendix: Desires
 
-> #### TODO: Desires
-> {: .no_toc}
-> 
-> Remake these as a cross between Darkest Self and Keys. Characters will only
-> have one.
-
 ### Absolution
 
-Who did you wrong? Take a token when you do right by them, or punish yourself
-for your transgression.
+You did, or think you did, some kind of wrong to someone. What was it?
+
+| Tokens | When you...                                                   |
+|:------:|---------------------------------------------------------------|
+| 1      | Give yourself a hard time over it.                            |
+| 2      | Go out of your way to punish yourself for your transgression. |
+| 5      | Receive some kind of absolution from one you have wronged.    |
+
+When you have a passionate outburst, you might try to convince others of their
+complicity, show them the suffering you have endured, or abase yourself to beg
+for their forgiveness.
 
 ### Adoration
 
-Take a token when you impress a crowd.
+You thrive on the attention of others. Why?
+
+| Tokens | When you...                                       |
+|:------:|---------------------------------------------------|
+| 1      | Get a compliment                                  |
+| 2      | Are praised above your rivals                     |
+| 5      | Command all eyes as the belle or beau of the ball |
+
+When you have a passionate outburst, you might do desperate things to keep the
+attention on you, your accomplishments, your superiority. You might belittle
+others, or even sabotage them.
 
 ### Love
 
-Take a token when you show your love to your beloved.
+You love someone, deeply and without reserve. Who?
+
+| Tokens | When you...                        |
+|:------:|------------------------------------|
+| 1      | Pine and dream of your love        |
+| 2      | Risk showing your love in some way |
+| 5      | See that your love loves you       |
+
+When you have a passionate outburst, you might do any _number_ of things. Love
+is a many-splendoured thing, and love denied or undermined is a hydra. Choler,
+melancholy, or even a calm icy anger might come out.
 
 ### Money
 
-Take a token when you choose to pursue money over other options.
+You have a desperate need for money, or at least feel that you do. Why?
+
+| Tokens | When you...                 |
+|:------:|-----------------------------|
+| 1      | Take on a debt              |
+| 2      | Pursue a scheme to get rich |
+| 5      | Come into a large fortune   |
+
+When you have a passionate outburst, perhaps you will be stingy, perhaps you
+will be wheedling, perhaps you will be profligate.
 
 ### Power
+
+You need to feel in control. You need to command. Why?
 
 Take a token when you make someone of your approximate social stratum do
 something you suggested, told, or ordered them to do.
 
+| Tokens | When you...                                     |
+|:------:|-------------------------------------------------|
+| 1      | Give orders to your equals                      |
+| 2      | Make sure that no one feels they are your equal |
+| 5      | Are granted titles, lands, or honours           |
+
+When you have a passionate outburst, you are likely to be domineering,
+absolute, or unbending.
+
 ### Revenge
 
-Take a token when you make your enemy suffer.
+Someone has wronged you, and you have sworn to make them suffer for it. Who,
+and how?
+
+| Tokens | When you...              |
+|:------:|--------------------------|
+| 1      | Plot against your enemy  |
+| 2      | Make your enemy suffer   |
+| 5      | Bring your enemy to ruin |
+
+When you have a passionate outburst, everything comes back to being the fault
+of your enemy. They have been the instrument of your suffering from top to
+bottom, and it must end!
 
 ### Truth
 
-Take a token when you learn a secret related to your agenda.
+There is some hidden truth you are pursuing. Someone around you is keeping
+something hidden, and you aim to find out what. Who, and why?
+
+| Tokens | When you...                                         |
+|:------:|-----------------------------------------------------|
+| 1      | Snoop or pry where you shouldn't to get information |
+| 2      | Find a tantalizing clue                             |
+| 5      | Confront them with your understanding of the truth  |
+
+When you have a passionate outburst, you basically pull a Fox Mulder.
 
 ## Appendix: Social Roles
 
