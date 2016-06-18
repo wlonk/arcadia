@@ -52,6 +52,27 @@ their social role, and two passion tokens.
 A question everyone must answer about their character during character
 creation: tell us about a time you have wished for magical power.
 
+> #### So it's a bunch of rich white people, right?
+>
+> Nah. Sure, if you read Jane Austen, or see her books adapted to film, that's
+> most of what you get, and while there's a massive amount of social commentary
+> and complexity in her novels, there's not a lot of _representation_. And yet,
+> the time and place was not by any means just rich white people! In Jo Baker's
+> novel _Longbourn_, she expertly delves into the lives of the servants at the
+> eponymous house. In Susanna Clarke's _Jonathan Strange & Mr Norrell_, the
+> Black manservant of a member of parliament plays a much greater role in
+> affairs than his master does. In Amma Asante's film _Belle_, based
+> extensively on real characters and circumstances, the mixed-race natural
+> daughter of a British Navy officer is raised among the gentry, albeit not
+> without some hazards.
+>
+> Closer to my own life, there were figures in the period such as Daniel
+> Mendoza, the prizefighter and inventor of "scientific boxing" (also known as
+> "getting out of the way when someone punches you") was the first Jew to be
+> granted an audience with the British monarch.
+>
+> Please, don't just play rich white people! There's so much more here.
+
 ### Reputations
 
 Every social role has three role-token triggers. You can, under certain
