@@ -1250,11 +1250,46 @@ towards their destiny.
 
 ### The Lady in the Lake
 
+The Lady in the Lake is a figure of surpassing beauty and wisdom. Those she
+befriends will prosper, and those she hates will stumble and fall. While she
+would never _admit_ that she was the same who gave King Arthur his power, she
+does not deny it, either.
+
+She is tall and willowy, wearing diaphanous white gowns of the latest fashion.
+Her hair falls in golden tresses, like light shining off a brook. She is
+exacting in her demands, and never forgives a transgression. Obedience is the
+highest virtue in her world, and while she would never make an _unreasonable_
+demand, neither must her requirements be questioned.
+
 ### Old Iron-boots
+
+Also called Robin Red-cap, he wears the guise of an old soldier, with weary
+eyes and many stories for those that will listen. He leans on a stick, and
+walks with a heavy tread.
+
+Don't let that fool you. He is a spirit of death, and wants nothing so much as
+to bathe in the blood of the sweet and innocent. He plays by strange rules,
+though: he can gain no satisfaction from killing those who have not first
+accepted his hospitality.
+
+Choose who has particularly drawn his attention as prey.
 
 ### The Sable Lady
 
+A young widow, still (and always) in her mourning blacks. Her face remains
+obscured, but no one doubts her beauty. She stands staring forlornly out
+windows, walks about the gardens in hopeless circles, and wishes everyone the
+greatest happiness in a voice creaking from recent crying.
+
+Any who promise her respite from her grief may have her friendship, until they
+fail, as all before them have, at which point her grief begets her anger, and
+she will visit her own sorrows a hundredfold on her false friends.
+
 ### The Three Sisters
+
+Hecate, the phases of the moon, virgin goddesses, inseparable, wild mistresses
+of storms physical and social, demanding _amusement_ and _secrets_ before all
+else.
 
 ## Appendix: Names
 
