@@ -156,6 +156,26 @@ someone's been pushed into a spot where they might need a spell to get what
 they want. Basically, the arc of an _Arcadia_ story should dip low quickly,
 then up-tick with the fairy's intervention, then wobble.
 
+### Perils of the Period
+
+It is easy to think of the worst that could happen in _Arcadia_ as somewhat
+gentle, but death, dishonour, disappointment, disease, and poverty aren't even
+the worst of it. When you bargain with a fairy, you risk your very soul and
+future---or that of those closest and dearest to you.
+
+As the GM, you should have some idea of what the worst thing facing each
+character is, and you should communicate it, too. Some characters may live a
+hair's breadth away from starvation, while others may sometimes risk only their
+reputation, but the mightiest, it is said, have the furthest to fall.
+
+Don't be coy about it, either: make sure that the players understand what they
+risk. But also, make sure that they know what they are hoping to achieve: a
+stable position serving in a great house may be a lofty goal for some, and a
+peerage and a wealthy marriage may be within reach of others.
+
+Knowing what's at stake will help you with every other part of the system, in
+particular offering bargains as a fairy.
+
 ### Techniques and Tools
 
 **Acting is Reacting**: keep the camera on the listener, not the speaker.
