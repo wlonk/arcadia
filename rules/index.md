@@ -215,6 +215,21 @@ the inner lives of the characters you see at the table. Not in their victories
 or failures, _per se_, but in how those victories and failures let them show
 their true colors.
 
+### Desperation
+
+Let's be clear: you have to be desperate to make a deal with a fairy. Everyone,
+but _everyone_, knows better. But sometimes, you see no other choice---or
+rather, the other choice is _worse_.
+
+When you have one kind of power in a world that strips you of power, you will
+use it, you will exercise it, you will rely on it. If that is being trusted
+with secrets, you will wield secrets as a weapon. If you have sexual appeal,
+you will wield sexuality as a weapon. If you have no further to fall but to a
+sinful and unmourned grave, you will wield recklessness as a weapon.
+
+Not every character will be desperate! But at least one or two must be. And
+those are the ones to whom the fairy offers their fondest dreams.
+
 ## Scenes
 
 The game is structured around scenes. The GM sets scenes, with input from the
@@ -556,6 +571,13 @@ The fairy must, ultimately, fulfill three qualities:
   * It must have a clear agenda and desire, for which it needs the PCs in some
     capacity. Otherwise, why would this powerful magical being bother with
     them?
+
+Now, fairies also are bound by rules. They can do much, but there are certain
+areas they cannot go, certain deeds they cannot do, and for which they must
+have a human accomplice. Think of the Witch in _Into the Woods_: she cannot
+make the potion she craves because she cannot have handled the ingredients. And
+so she offers others what they want in exchange for their help, but keeps them
+in the dark, to better serve her ends.
 
 ### Casting Spells
 
