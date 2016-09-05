@@ -1,15 +1,31 @@
-Gossip
+## Games
 
-Reputation
+  * Gambling
+  * Duelling
+      * Fighting
+      * Murdering
+  * Investigating
+  * Journeying
+  * Making art
+  * Socializing
+      * Conversing
+      * Convincing
+      * Dancing
+      * Dining
+      * Flirting
+      * Making introductions
+  * Spell-casting
+  * Sporting
+      * Milling
+      * Riding
 
-Who-you-know
+## Themes
 
-Health
-
-Introductions
-
-Secret communication
-
-Gothic/humanist
-
-Social class
+  * Gossip
+  * Reputation
+  * Who-you-know
+  * Health
+  * Introductions
+  * Secret communication
+  * Gothic/humanist
+  * Social class
