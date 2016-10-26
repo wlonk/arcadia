@@ -27,24 +27,26 @@ A PbtA rendition of _Arcadia_.
 
 ### Moves
 
-## Stats:
+## Stats
 
 Rollables:
 
   * Commanding
   * Graceful
   * Insightful
-  * Make-Shift
+  * Practical
   * Relationships (per-person)
 
 Unrollables:
 
   * Social Standing
   * Fortune
+  * XP
+  * Relationship marks
 
-XP
+## Moves
 
-## Games
+These are the moves.
 
 ### Fighting
 
@@ -110,7 +112,7 @@ economy, tell the GM how you're traveling:
   * By the mail coach
 
 If you must travel quickly, roll Commanding. If you must travel secretly, roll
-Graceful. If you must travel economically, roll your Make-Shift.
+Graceful. If you must travel economically, roll your Practical.
 
 If you roll Commanding:
 
@@ -123,7 +125,7 @@ If you roll Graceful:
 On a hit, you get there with no one the wiser. On a 7-9, you tax your Fortune,
 or the journey takes longer than you'd like, your choice.
 
-If you roll Make-Shift:
+If you roll Practical:
 
 On a hit, you get there. On a 7-9, you tax your fortune, and on a miss, worse.
 
@@ -140,13 +142,30 @@ On a 7-9, ...
 
 ### Socializing
 
-When you socialize with a goal in mind
+There are three kinds of socialization of particular note.
 
-#### Conversing
 #### Convincing
-#### Dancing
-#### Dining
+
+When you try to convince someone of something, tell them what you want them to
+do, give them a reason, and roll your Commanding. For NPCs: on a 10+, they’ll go
+along with you, unless or until some fact or action betrays the reason you gave
+them. On a 7–9, they’ll go along with you, but they need some concrete
+assurance, corroboration, or evidence first.
+
+For PCs: on a 10+, both. On a 7–9, choose 1:
+
+  - If they go along with you, ...
+  - If they refuse, ...
+
+What they do then is up to them.
+
+On a miss, for either NPCs or PCs, be prepared for the worst.
+
 #### Flirting
+
+When you flirt with someone, roll your Graceful. On a hit, mark your
+Relationship with them. On a 7-9, also ...
+
 #### Making introductions
 
 When **first meeting another character**, roll Graceful. On a 10+, you have
@@ -157,7 +176,7 @@ start with a relationship of -1.
 
 #### Reading hidden feelings
 
-When you **read someone's hidden feelings**, roll your relationship with them.
+When you **read someone's hidden feelings**, roll your Relationship with them.
 On a 10+, hold three. On a 7-9, hold one. You may spend your hold 1-1 to ask
 the following questions and get an honest answer during your interaction with
 them:
