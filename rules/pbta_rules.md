@@ -33,9 +33,9 @@ Rollables:
 
   * Commanding
   * Graceful
-  * Insightful
-  * Practical
-  * Uncanny
+  * Insightful (need more)
+  * Practical (need more)
+  * Uncanny (need more)
 
 Unrollables:
 
