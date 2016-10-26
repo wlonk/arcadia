@@ -48,17 +48,13 @@ Unrollables:
 
 These are the moves.
 
-### Sporting
+### Sporting & Fighting
 
 #### Milling
 
 #### Riding
 
 #### Shooting
-
-### Fighting
-
-A fight is a serious matter.
 
 #### Duelling
 
@@ -94,65 +90,9 @@ choose one:
   * You've got an alibi.
   * You won't harm them more than you intend.
 
-### Gambling
-
-When you **gamble money on a game of chance** (cards, dice, or something else),
-simply roll.
-
-On a 7-9, choose one. On a 10+, choose two:
-
-  * You win, and may bolster your Fortune.
-  * You gain information from the conversation: ask one other participant a
-    question as per _Reading hidden feelings_.
-  * Your behavior is not seen as improper in any way.
-
-On a miss, your Fortune is taxed at a minimum, and possibly worse.
-
-### Journeying
-
-When you **undertake an overland journey** requiring any of speed, secrecy, or
-economy, tell the GM how you're traveling:
-
-  * On foot
-  * On horseback
-  * By carriage
-  * By wagon
-  * By the mail coach
-
-If you must travel quickly, roll Commanding. If you must travel secretly, roll
-Graceful. If you must travel economically, roll your Practical.
-
-If you roll Commanding:
-
-On a hit, you get there as fast as your mode of travel will allow. On a 7-9,
-you tax your Fortune, or you run into someone you'd rather not see, the GM will
-tell you which.
-
-If you roll Graceful:
-
-On a hit, you get there with no one the wiser. On a 7-9, you tax your Fortune,
-or the journey takes longer than you'd like, your choice.
-
-If you roll Practical:
-
-On a hit, you get there. On a 7-9, you tax your fortune, and on a miss, worse.
-
-### Making art
-
-When you **make art**, roll your Insightful. On a 10+, you have made the best
-art you could. Choose one:
-
-  * It will impress someone (name who).
-  * It will sell (bolster your Fortune).
-  * ...
-
-On a 7-9, ...
-
 ### Socializing
 
 There are a few kinds of socialization of particular note.
-
-#### Insulting
 
 #### Confiding
 
@@ -187,6 +127,8 @@ them. On a 7-9, also, choose one:
   - No more is read into your flirting than you intend.
   - They promise you something they think you want, their choice.
 
+#### Insulting
+
 #### Making introductions
 
 When you **first meet another character**, roll Graceful. On a hit, take a
@@ -203,22 +145,78 @@ the following questions, one for one.
   * What do you wish I would do?
   * What do you intend to do?
 
+### Peripheral
+
+#### Gambling
+
+When you **gamble money on a game of chance** (cards, dice, or something else),
+simply roll.
+
+On a 7-9, choose one. On a 10+, choose two:
+
+  * You win, and may bolster your Fortune.
+  * You gain information from the conversation: ask one other participant a
+    question as per _Reading hidden feelings_.
+  * Your behavior is not seen as improper in any way.
+
+On a miss, your Fortune is taxed at a minimum, and possibly worse.
+
+#### Journeying
+
+When you **undertake an overland journey** requiring any of speed, secrecy, or
+economy, tell the GM how you're traveling:
+
+  * On foot
+  * On horseback
+  * By carriage
+  * By wagon
+  * By the mail coach
+
+If you must travel quickly, roll Commanding. If you must travel secretly, roll
+Graceful. If you must travel economically, roll your Practical.
+
+If you roll Commanding:
+
+On a hit, you get there as fast as your mode of travel will allow. On a 7-9,
+you tax your Fortune, or you run into someone you'd rather not see, the GM will
+tell you which.
+
+If you roll Graceful:
+
+On a hit, you get there with no one the wiser. On a 7-9, you tax your Fortune,
+or the journey takes longer than you'd like, your choice.
+
+If you roll Practical:
+
+On a hit, you get there. On a 7-9, you tax your fortune, and on a miss, worse.
+
+#### Making art
+
+When you **make art**, roll your Insightful. On a 10+, you have made the best
+art you could. Choose one:
+
+  * It will impress someone (name who).
+  * It will sell (bolster your Fortune).
+  * ...
+
+On a 7-9, ...
+
 ### Spell-casting
 
 Magic is part of these isles, as much a part of it as the rain.
 
-#### To create a magical ward
-
 #### To break a magical ward
 
-#### To travel to a place by magic
+#### To create a magical ward
 
 #### To find someone or something by magic
 
 #### To predict the future
 
-#### To transmute materials
+#### To speak with the recently dead
 
 #### To transform a living being
 
-#### To speak with the recently dead
+#### To transmute materials
+
+#### To travel to a place by magic
