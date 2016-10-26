@@ -35,14 +35,14 @@ Rollables:
   * Graceful
   * Insightful
   * Practical
-  * Relationships (per-person)
+  * Uncanny
 
 Unrollables:
 
   * Social Standing
   * Fortune
   * XP
-  * Relationship marks
+  * Strings
 
 ## Moves
 
@@ -142,12 +142,21 @@ On a 7-9, ...
 
 ### Socializing
 
-There are three kinds of socialization of particular note.
+There are a few kinds of socialization of particular note.
+
+#### Insulting
+
+#### Confiding
 
 #### Convincing
 
+> TODO:
+>
+> There should be a distinction between exercising your authority to get
+> someone to do something, and using your relationship.
+
 When you try to convince someone of something, tell them what you want them to
-do, give them a reason, and roll your Commanding. For NPCs: on a 10+, they’ll go
+do, give them a reason, and roll Commanding. For NPCs: on a 10+, they’ll go
 along with you, unless or until some fact or action betrays the reason you gave
 them. On a 7–9, they’ll go along with you, but they need some concrete
 assurance, corroboration, or evidence first.
@@ -163,23 +172,23 @@ On a miss, for either NPCs or PCs, be prepared for the worst.
 
 #### Flirting
 
-When you flirt with someone, roll your Graceful. On a hit, mark your
-Relationship with them. On a 7-9, also ...
+When you **flirt with someone**, roll Graceful. On a hit, take a String on
+them. On a 7-9, also, choose one:
+
+  - Your actions are not unbecoming.
+  - No more is read into your flirting than you intend.
+  - They promise you something they think you want, their choice.
 
 #### Making introductions
 
-When **first meeting another character**, roll Graceful. On a 10+, you have
-made a very good impression, and start with a relationship of 2 with them. On a
-7-9, you have made an unremarkable impression, and start with a relationship of
-0 with them. On a miss, you have some how made a misstep or offended them;
-start with a relationship of -1.
+When you **first meet another character**, roll Graceful. On a hit, take a
+String with them. On a 10+, also take +1 forward in the rest of the scene. On a
+miss, you have somehow made a misstep or offended them.
 
 #### Reading hidden feelings
 
-When you **read someone's hidden feelings**, roll your Relationship with them.
-On a 10+, hold three. On a 7-9, hold one. You may spend your hold 1-1 to ask
-the following questions and get an honest answer during your interaction with
-them:
+When you **read someone's hidden feelings**, spend a String to ask them one of
+the following questions, one for one.
 
   * What
   * How
@@ -187,6 +196,16 @@ them:
   * ...
 
 ### Spell-casting
+
+Magic is part of these isles, as much a part of it as the rain.
+
+#### To create a magical ward
+#### To break a magical ward
+#### To travel to a place by magic
+#### To find someone or something by magic
+#### To predict the future
+#### To transmute materials
+#### To transform a living being
 
 ### Sporting
 #### Milling
