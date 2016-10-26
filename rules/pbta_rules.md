@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Regency World
+title: PbtA
 permalink: /rules/pbta/
 ---
 
