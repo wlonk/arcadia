@@ -48,6 +48,14 @@ Unrollables:
 
 These are the moves.
 
+### Sporting
+
+#### Milling
+
+#### Riding
+
+#### Shooting
+
 ### Fighting
 
 A fight is a serious matter.
@@ -213,10 +221,4 @@ Magic is part of these isles, as much a part of it as the rain.
 
 #### To transform a living being
 
-### Sporting
-
-#### Milling
-
-#### Riding
-
-#### Shooting
+#### To speak with the recently dead
