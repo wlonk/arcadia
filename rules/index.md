@@ -502,14 +502,14 @@ yours.
 At the end of each scene, any participant (player or GM) may call for a gossip
 session. You will want to do this to refresh your tokens, but also to evaluate
 what has just recently happened. Go around the table, and each player reads off
-their three social role bullet points. For each point that the table agrees
-they did, they get one role token. The player in the spotlight _cannot_ voice
-their opinion or suggest what they did that they think earns them a point
-unless everyone else at the table draws a blank and cannot decide one way or
-another. Everyone else, however, absolutely should discuss the spotlight
-character's behavior in as animated a fashion as they like!
+their three role role bullet points. For each point that the table agrees they
+did, they get one role token. The player in the spotlight _cannot_ voice their
+opinion or suggest what they did that they think earns them a point unless
+everyone else at the table draws a blank and cannot decide one way or another.
+Everyone else, however, absolutely should discuss the spotlight character's
+behavior in as animated a fashion as they like!
 
-Remember, if a character has a ruined reputation, they do not gain any social
+Remember, if a character has a ruined reputation, they do not gain any role
 tokens for the associated actions.
 
 ## Sessions
