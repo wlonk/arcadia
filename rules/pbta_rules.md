@@ -1,3 +1,9 @@
+---
+layout: page
+title: Regency World
+permalink: /rules/pbta/
+---
+
 # Regency World
 
 A PbtA rendition of _Arcadia_.
