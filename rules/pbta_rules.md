@@ -190,10 +190,10 @@ miss, you have somehow made a misstep or offended them.
 When you **read someone's hidden feelings**, spend a String to ask them one of
 the following questions, one for one.
 
-  * What
-  * How
-  * Who
-  * ...
+  * What do you value most here?
+  * Are you speaking the truth?
+  * What do you wish I would do?
+  * What do you intend to do?
 
 ### Spell-casting
 
