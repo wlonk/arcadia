@@ -200,14 +200,23 @@ the following questions, one for one.
 Magic is part of these isles, as much a part of it as the rain.
 
 #### To create a magical ward
+
 #### To break a magical ward
+
 #### To travel to a place by magic
+
 #### To find someone or something by magic
+
 #### To predict the future
+
 #### To transmute materials
+
 #### To transform a living being
 
 ### Sporting
+
 #### Milling
+
 #### Riding
+
 #### Shooting
