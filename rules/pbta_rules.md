@@ -155,8 +155,8 @@ There are a few kinds of socialization of particular note.
 > There should be a distinction between exercising your authority to get
 > someone to do something, and using your relationship.
 
-When you try to convince someone of something, tell them what you want them to
-do, give them a reason, and roll Commanding. For NPCs: on a 10+, they’ll go
+When you try to **convince someone of something**, tell them what you want them
+to do, give them a reason, and roll Commanding. For NPCs: on a 10+, they’ll go
 along with you, unless or until some fact or action betrays the reason you gave
 them. On a 7–9, they’ll go along with you, but they need some concrete
 assurance, corroboration, or evidence first.
