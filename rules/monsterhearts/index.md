@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Monsterhearts Rules
 ---
 
 # Et in Arcadia Ego as Monsterhearts

@@ -1,6 +1,5 @@
 ---
 layout: page
-title: PbtA
 permalink: /rules/pbta/
 ---
 
