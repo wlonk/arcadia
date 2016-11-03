@@ -1,5 +1,6 @@
 ---
 layout: page
+title: MH Hack
 ---
 
 # Et in Arcadia Ego as Monsterhearts
