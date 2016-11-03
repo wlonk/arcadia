@@ -1,5 +1,5 @@
 ---
-permalink: /rules/monsterhearts/
+layout: page
 title: Monsterhearts Rules
 ---
 
