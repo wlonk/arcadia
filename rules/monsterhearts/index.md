@@ -4,6 +4,9 @@ layout: page
 
 # Et in Arcadia Ego as Monsterhearts
 
+* TOC
+{:toc}
+
 ## The Playbooks
 
 ### King of Swords: Gentleman (♂)
