@@ -232,3 +232,34 @@ cold or similar.
 ## Threats: the Fairy
 
 ## Thanks and Ludography
+
+This game owes a lot to _Monsterhearts_ by Avery Alder, and _Sagas of the
+Icelanders_ by Gregor Vuga.
+
+A lot of people helped me in making this game.
+
+Allie
+
+Amir
+
+Khaled
+
+Kate
+
+Avery
+
+Gregor
+
+Vincent
+
+Ryan
+
+Joey
+
+Griffin
+
+Evan
+
+John LL
+
+Stras
