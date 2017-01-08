@@ -351,6 +351,33 @@ _just lose_.
 
 Fairies _always_ have leverage over any mortal they talk with.
 
+When one party concedes, the other party has won what they want. The devil,
+however, is in the details:
+
+When you successfully negotiate with a superior, you may get:
+
+  * A special dispensation,
+  * A nudge and a wink and a look the other way,
+  * A promise of protection and backing,
+
+Their choice.
+
+When you successfully command an inferior, you may get:
+
+  * Punctilious execution,
+  * Only a few oversights,
+  * A shirker's best,
+
+Their choice.
+
+When you successfully bargain with a fairy, you may get
+
+  * A single loophole,
+  * A ray of hope,
+  * No further cost,
+
+Their choice.
+
 ### Exertion
 
 When your character does something well out of their usual affairs, under
