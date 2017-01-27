@@ -589,7 +589,7 @@ access to one of your desires. It will no longer nourish you.
 The fairy must, ultimately, fulfill three qualities:
 
   * It must be a powerful font of magic. It can perform and grant all kinds of
-  * magical boons. Otherwise, why would it be different from any of the other
+    magical boons. Otherwise, why would it be different from any of the other
     NPCs?
   * It must be less like a pure menace and more like a fairytale _donor_,
     someone who before giving magical support or advice, will test the
