@@ -39,6 +39,14 @@ A game of magic, manners, and madness.
 > You know that the lover, the lunatic, and the poet are "of imagination all
 > compact." ---Lord Byron, March 25 1816. 
 
+There is one game master (GM), and everyone else plays main characters. The
+main characters are all people in Regency England (that is, 1811-1820, when
+King George III had gone quite mad, and his son, the future George IV, was made
+Prince Regent). The characters will range from vagabonds and servants to
+wealthy gentlemen. They all have, somewhere in them, a propensity for magic
+that will draw the fairy to them. It may be hostile or it may be friendly, but
+it's never trustworthy.
+
 Characters have a social role (which gives them role tokens) and two desires
 (which give them passion tokens).
 
@@ -448,53 +456,6 @@ exhaustion, or otherwise comes to an impasse.
 > Of course, you may [petition](#petition) someone to accept your challenge,
 > but that may sometimes simply be beyond the bounds of possibility.
 
-### Courtship and Intimacy
-
-When you wish to express an honest and intimate feeling to someone without
-using words, do this:
-
-> #### TODO
-> {: .no_toc}
->
-> Should the number of cards be based on relationship? It's just a palette,
-> really, so maybe not.
-
-Each party draws five cards. Then, the party wishing to communicate their
-feelings chooses one card, and puts it forward face-down. They describe how
-they show their feelings. The other party chooses one card, and puts it forward
-face-down, but does not yet describe anything. Then both parties flip their
-cards.
-
-There are four possible outcomes:
-
-| Cards             | Effect                                       |
-|-------------------|----------------------------------------------|
-| Same value        | Both parties understand each other perfectly |
-| Same suit         | Both parties assume the best                 |
-| Same color        | No certainty                                 |
-| None of the above | Both parties assume the worst                |
-
-If you understand each other perfectly, you may have a short conversation
-describing your feelings to each other, but the characters need exchange no
-more than glances.
-
-If you assume the best, both parties understand the exchange as meaning what
-they want it to mean. For the benefit of the players at the table, give a short
-explanation of this, but embrace the potential for misunderstanding!
-
-If there is no certainty, the characters don't really know how to interpret
-what goes on. Describe your actions, but don't bother explaining them.
-
-If you assume the worst, both parties understand the exchange as meaning the
-exact opposite of what they want it to mean. For the benefit of the players at
-the table, give a short explanation of this, but embrace the potential for
-misunderstanding!
-
-An actual courtship will usually take many interactions of this sort before one
-party might ask another to marry them (or whatever...). The understandings are
-part of the road there! Of course some people (such as Mr. Collins) might feel
-quite free to act from a place of imperfect understanding, but not all are as
-overconfident as he.
 
 ### Secrets and Lies
 
