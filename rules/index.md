@@ -7,58 +7,199 @@ title: Rules
 
 A game of magic, manners, and madness.
 
-> #### TODO: Main
-> {: .no_toc}
->
->  "Asset" matters:
->
->  1. Fairy needs and desires.
->
->  Design matters:
->
->  1. Spookiness
->  2. What happens if the characters don't act?
->      1. The Byronic worries will come to pass.
->      2. Or the GM can twist things to make them even worse.
->  3. Why do the characters care about each others' problems?
->      1. Because they are all linked through fairy obligations.
->      2. Because they need each others' help to achieve what they want.
->
-> > There are only three kinds of scenes. Negotiations, seductions, and fights.
-> > I'm finished. That's all.
-> > ---Mike Nichols
->
-> I suspect that fairies might like folks with bad reputations. "A bully? No!
-> You are possessed of a warrior's spirit!"
+## What is this?
 
-* TOC
-{:toc}
+_Et in Arcadia Ego_ is a Regency fantasy game. You play characters in Regency
+England (1811-1820 or thereabouts), who have unique qualities that draw the
+attention of magical otherworldly beings.
 
-## Characters
+The characters live in a world cut through with sharp divides, particularly
+divides of _class_ and _sex_. Everyone is defined by their place in society,
+and society has expectations and demands of everyone. These demands are by no
+means equal, though, and the closer you are to being a gentleman of means, the
+more you can do exactly what you want, and get away with it. The further you
+are from that, the more society's demands may chafe.
 
-> You know that the lover, the lunatic, and the poet are "of imagination all
-> compact." ---Lord Byron, March 25 1816. 
+The otherworldly beings, the fairies, are drawn to those who long for something
+more than the life they're allowed. They offer magical help, but as is always
+the case, there are strings attached. Are those strings worth it to you?
 
-There is one game master (GM), and everyone else plays main characters. The
-main characters are all people in Regency England (that is, 1811-1820, when
-King George III had gone quite mad, and his son, the future George IV, was made
-Prince Regent). The characters will range from vagabonds and servants to
-wealthy gentlemen. They all have, somewhere in them, a propensity for magic
-that will draw the fairy to them. It may be hostile or it may be friendly, but
-it's never trustworthy.
+## How do we play?
 
-Characters have a social role (which gives them role tokens) and two desires
-(which give them passion tokens).
+To play, you need three to five people, paper, pencils, a tarot deck, some
+tokens of two different sorts, and an enthusiasm for Regency fantasy.
 
-When you first make characters, there are formal connections defined by your
-social role and emotional connections defined by your desires. Use these to mix
-everyone up into one nice tangled community.
+One player will take the role of GM. It is their duty to play the world, with
+all its adversity and support, and most particularly, to play the fairy.
 
-At the start of the game, characters have a number of role tokens based on
-their social role, and two passion tokens.
+Everyone else will play the main characters in the story, the PCs. It is their
+duty to play these characters faithfully and honestly, to pursue their dreams
+and to face their fears.
 
-A question everyone must answer about their character during character
-creation: tell us about a time you have wished for magical power.
+Divide the tarot cards into two piles: the major arcana, and the minor arcana.
+The major arcana are used for casting spells, while the minor arcana are used
+for mundane matters. After any exchange where you use cards from either pile,
+shuffle that pile back together. So, after a magical ritual, all the major
+arcana you've played will get shuffled back into the major arcana pile. After a
+mundane argument, all the minor arcana used will be shuffled back into the
+minor arcana pile.
+
+The tokens should be of two clearly different varieties, one used for _role
+tokens_, the other used for _passion tokens_. The former represent how well
+your character has played the role society has given them, how well they fit
+society's demands. The latter represent how much strength your character has
+drawn from pursuing their actual passions.
+
+## What a game looks like
+
+A game will consist of a few sessions, perhaps three to six, depending on
+interest and where the story goes. Each session, everyone gathers and tells a
+story together, like a conversation. At certain points in the conversation, you
+will trigger particular rules, which will then shape what sorts of things you
+are expected and allowed to say.
+
+Those rules will involve using the tarot cards, the tokens, and things written
+on your character sheet. More about the specifics later.
+
+Each player should push towards their particular agenda, while allowing room
+for contributions, suggestions, and consideration from everyone else at the
+table. All the rules of polite conversation apply as ever.
+
+### Gossip
+
+As you play, you will see scene breaks; one bit of action or drama in one place
+is over, and another begins elsewhere. At these breaks, anyone may call for
+_Gossip_. Take a momentary break, and discuss the scene that just happened as
+though you are the people in town, or the audience, mysteriously privy to all
+that happened. Each player may ask about any of the reputations on their
+character sheet, and the rest of the players (including the GM) should decide
+together whether that character expressed or upheld that reputation. If they
+did, give them a role token.
+
+### Reflection
+
+At the end of every session, each player takes a turn to tell the group whether
+they hit any of the triggers for their passions. For the highest-rated trigger
+they hit, they get that many passion tokens. What's important here is that they
+explain how their actions were in support of the desire, and thus contextualize
+them for the table.
+
+Present this as a small scene, of your character in repose and reflection.
+Perhaps walking the moors, perhaps brooding in the tower-room, perhaps writing
+in their journal by candle-light.
+
+## This Other Regency
+
+The year is 1812. England is at war, with Wellington keeping the French at bay
+in the Peninsula. The king, George III, has gone mad, and his son, Prince
+George, has been appointed Prince Regent. Jane Austen's first book, _Sense &
+Sensibility_, is selling well, and the authoress is working on her second
+novel.
+
+The well-to-do members of the _bon ton_ spend their summers at their country
+houses, and their winters in London, during _the season_. They take trips to
+Bath, or to the newly-fashionable seaside resorts such as Brighton. They attend
+balls and eat feasts and then the ladies withdraw to the drawing room while the
+men smoke and pass the port.
+
+But this is not simply the England of the Regency; it is altogether more
+magical.
+
+## The Magic of England
+
+There has always been another England. It lurks on the edge of perception, it
+appears when you don't look right at it. Alfred Watkins sensed something of it
+when he wrote _The Old Straight Track_. William Blake referred to it when he
+wrote of "our clouded hills". This is an older, stranger, _other_ England. It
+may as well be called Annwn, Avalon, or _orbis alius_.
+
+But as the Enlightenment opens many doors, so too does it close some. No one
+has accidentally or purposely walked into that other world for a long time now.
+The old fairy roads that led out of England have been long closed. Until---that
+is, until now.
+
+Perhaps it is the king's madness that has changed things, or perhaps it is the
+renewal of worship of old king Ludd in the North. Perhaps it is simply that the
+stars are right. But the Old Roads are opening, mirrors and rivers and clouds
+and rain once again bring visitors. Magic is returning to England.
+
+## Rules for making characters
+
+First, characters have:
+
+  - A name
+  - A social role, which provides:
+    - Reputations
+    - Relationships
+    - Starting social tokens
+  - Two Passions
+  - A family boon
+  - A personal boon
+  - Aether (starts at 1, unless family boon raises it)
+  - Passion tokens
+
+There are two ways to make characters: the hardcore way, and the easy way. The
+difference is this: your choice of social role is constrained in the easy way,
+and you have _no_ choice in the hardcore way.
+
+For easy character creation, deal each player three social roles; they must
+choose from among them for their character. For hardcore, deal each player one,
+and that is who they will play.
+
+Once you have a social role, choose your name, answer the relationship
+questions on your social role, and choose two passions.
+
+Once you have established relationships, you will choose boons. Each character
+has a personal boon, and a family boon. As some characters will be part of the
+same family, and relationship questions will help decide this, save boons until
+after relationships are decided.
+
+Choose a boon for your family, together with the other members of it:
+
+  - *Ash blood:* you may draw an extra card in any exertion where your
+    creativity and inspiration is an asset.
+  - *Hawthorn blood:* you start with +1 Aether.
+  - *Hazel blood:* you may draw an extra card in any exertion where your
+    knowledge, intelligence, or reason is an asset.
+  - *Holly blood:* if someone would have leverage over you in a petition
+    because of their superior rank, instead, they don't.
+  - *Oaken blood:* you may draw an extra card in any exertion where your
+    stamina, heartiness, or durability is an asset.
+  - *Rowan blood:* you may draw an extra card in any exertion where you are
+    resisting the effects of magic worked against you.
+  - *Willow blood:* you may draw an extra card in any exertion where your
+    observational skill is an asset.
+  - *Yew blood:* you may draw an extra card in any exertion where you face
+    death as a risk.
+
+Choose a personal boon:
+
+  - Jupiter: Wealth is easy for you. You may draw an extra card in any exertion
+    where expenditure of money would facilitate matters.
+  - Luna: You mirror the moods of those around you. You have leverage in any
+    situation where you agree with, mirror, and support what the other person
+    says.
+  - Mars: You are strong. You may draw an extra card in any exertion where raw
+    physical force helps.
+  - Mercury: You have a broad education, through formal or informal channels.
+    You may draw an extra card in any exertion where knowing just that one
+    weird thing would help.
+  - Saturn: Your focus is unshakable. You may draw an extra card in any
+    exertion where you must overcome distractions.
+  - Sol: You are what you appear to be. When making an impression, once per
+    session you may simply state one truth, and no one takes any false
+    impression from the moment.
+  - Uranus: You have a spark of genius. You may draw an extra card in any
+    exertion where you seek to create or discover something new, unknown to the
+    world at this point.
+  - Venus: You are incredibly beautiful. You have leverage in any situation
+    where you are petitioning someone who would reasonably be attracted to you.
+
+These boons and the names of them are not the sorts of things that the
+characters are aware of in-fiction.
+
+Your character starts with a number of social tokens based on their social
+role, and two passion tokens.
 
 > #### So it's a bunch of rich white people, right?
 >
@@ -81,51 +222,179 @@ creation: tell us about a time you have wished for magical power.
 >
 > Please, don't just play rich white people! There's so much more here.
 
-### Reputations
+## Rules for petition
 
-Every social role has three role-token triggers. You can, under certain
-circumstances, ruin your reputation. Each trigger has a bad reputation
-associated with it; once you have checked all the boxes next to a reputation,
-you have earned it and you no longer gain role tokens through that behavior. A
-gentleman might become, for instance, a fool, a libertine, or a bully, and in
-each case, forfeit a way of gaining role tokens.
+When your character wants a concession from another character, the player of
+that other character can decide whether that character accedes, or resists. If
+they accede, continue the scene. If they resist, one party or the other will
+win. Use the minor arcana as follows to see who.
 
-### Families
+Also note that a concession can only be an action: a promise, an agreement, an
+apology, or something of that sort. It _cannot_ be a feeling; that is, you
+cannot go to the cards over a demand that another character love your
+character, or apologize sincerely, or any such thing.
 
-Every character is part of a family. However, our modern conception of "part
-of" needs some adjusting here. To be part of a family does not mean that you
-are necessarily a blood-relative. You may be the favored son, but you may just
-as likely be a trusted servant, a despised ward, or a poor tenant.
+When you go to the cards, all the parties involved should make clear what
+they're struggling over, what's at stake. "Will Mr. Rochester invite my family
+to his ball?" or "Does the housekeeper Mrs. Hodge dismiss me from service?" or
+"Does the bailiff let me off with a warning?"
 
-Your family will give you a boon, which is like an additional social role token
-trigger. Everyone in the family shares this bit of family reputation, so decide
-on the details with the other people playing characters in your character's
-family.
+Once the stakes are agreed upon, deal a card from the minor arcana to each
+party, with the GM counting as one party, even if there are a passel of
+supporting characters arguing together on one side. Deal another card to anyone
+with any particular _leverage_ in the situation, such as superior status,
+family ties, knowledge of the other party's secrets, or simply advantage of
+numbers; a passel of supporting characters will often get leverage simply for
+being a crowd.
 
-Because the reputation of everyone in the family depends on the actions of
-everyone in the family, family members always have leverage over each other, to
-[petition](#petition) each other to act in the best interests of the family.
+At any point, any participant may spend role tokens to draw cards, one for one.
 
-Finally, if someone in your family tarnishes their own reputation, everyone in
-the family suffers. This functions a little bit differently for PCs and NPCs,
-so let's discuss:
+The party who is resisting goes first: they describe how they resist, and then
+put down a card from among the ones in their hand.
 
-When a PC goes bust on a reputation, every other PC in the family must mark two
-boxes (of their choice) towards their own reputations. Every NPC in the same
-family will be seen as tarnished by their association with the newly infamous
-character.
+The party pressing them will then be faced with a choice:
 
-For an NPC to tarnish a reputation, the fiction as-described is the only
-consideration in whether they have done so. The GM should generally signal that
-this is impending, to give the PCs a chance to do something (acting is
-reacting, after all). All NPCs suffer as above, and all PCs mark two boxes,
-their choice again.
+  * Concede because they cannot put down a higher card.
+  * Reveal a higher card that they _could_ put down, but instead concede, and
+    gain a role token.
+  * Put down a higher card and present their counter-argument.
+  * Spend one or more role tokens to draw that many cards, and then try to put
+    down a higher card.
+  * Spend a passion token, make a desperate declaration or a passionate plea,
+    draw a card, and put down any card they wish.
 
-When either of these events happens, the table should discuss what changes, if
-any, to make to the family's boon. It may get nasty if the family keeps being
-horrible.
+If they have not conceded, the same choice is then presented to the first
+player. Continue until someone concedes. When someone concedes, it's up to them
+to sell it.
 
-## The GM
+When you spend a passion token, you must overstep the bounds of propriety, and
+damage one of your reputations. Choose whichever is most appropriate and mark
+off a box next to it. Once a reputation has four boxes marked, you cannot gain
+from it during Gossip until you have fully recovered it. If a reputation has
+four boxes marked, you may not choose it as the damaged reputation, either!
+
+### Fairies
+
+When you petition with a fairy, you use passion tokens instead of role tokens
+to draw cards, and may not make a desperate declaration or passionate plea. If
+you are put in the position of not having a winning card or enough tokens to
+get one, you _just lose_. On the other hand, you cannot damage a reputation.
+
+Fairies _always_ have leverage over any mortal they talk with.
+
+## Rules for exertion
+
+When your character does something well out of their usual affairs, under
+extreme or adverse circumstances, or puts themselves in mortal danger, they are
+_exerting_ themselves.
+
+Before exerting yourself, be very clear what the goal is, and what sorts of
+risks you might face. The GM has final say about the risks the best and worst
+you might expect, but you are entitled to a clear idea of what they might be.
+
+When you exert yourself, there are three areas of concern:
+
+  * Achievement: do you do what you set out to do?
+  * Appearance: do you preserve your reputation while doing it?
+  * Integrity: do you do it without undue stress?
+
+Draw three cards from the minor arcana. Draw an additional card for each of
+your personal and family boon that might apply.
+
+You may draw one more additional card, which should be kept separate, if you
+are magically blessed in a way that would make this particular exertion easier.
+
+Once you have all the cards to chose from, set them down on each of the three
+concerns, discarding any cards beyond the three you wish to use. For each
+concern, the results are as follows:
+
+  * Achievement: with an ace through four, you decisively botch the attempt.
+    With a five through ten, you do an indifferent job. With a face card, you
+    perform admirably.
+  * Appearance: with an ace through six, you damage a reputation. With a seven
+    through king, you don't.
+  * Integrity: with an ace through four, you hurt, stress, or strain yourself.
+    With a five through ten, you don't put yourself out much, no more than
+    usual. With a face card, you feel invigorated by the attempt.
+
+If one of the cards you used was a card from magical enhancement, describe how
+the magic manifests. If the magical card matches the suit of a card you
+discarded, there are no magical side effects. Otherwise, the GM may choose to
+describe some small costs or complications introduced by the magic.
+
+## Rules for impression
+
+When you want to impress someone, that is, give them an impression of what sort
+of a person you are, choose whether to give them a false impression or a true
+impression. Say "you, falsely, have the impression that I am affable", for
+instance. Then, they will take the other one, the one you didn't chose, and say
+the other part of their impression of you: "And I truly have the impression
+that you are poor."
+
+Or, conversely: "You truly have the impression that I am well-connected." And:
+"But I falsely have the impression that you are kind."
+
+## Rules for magic
+
+When a character goes to cast a spell, they have two options: either they must
+engage in a visceral struggle with the forces of magic, or they may simply ask
+a fairy to perform the magic for them.
+
+In the latter case, it is necessary simply to find a fairy, and use the rules
+for _petition_ as above.
+
+The former case, though, is where things get interesting.
+
+First, the magician must have a clear picture in their mind of the effect they
+want. This will determine the difficulty of the spell.
+
+  - A spell of scrying: 3 cards.
+  - Transforming one material into another: 4 cards.
+  - Transforming one body into another: 5 cards.
+  - Binding a summoned spirit into a vessel (a body, or something else): 6
+    cards.
+  - Summoning the spirits of the dead: 8 cards.
+  - Opening a passage between worlds: 10 cards.
+  - A clean resurrection: 12 cards.
+
+If the subject is unwilling or unknowing, add one card.
+
+Second, the magician must marshal their own magical resources. Draw one card
+per point of Aether.
+
+Starting with the forces of magic, take turns _raising_ and _seeing_. On a
+raise, put forward one card and describe the ritual action you take. On a see,
+put forward one or more cards that equal or surpass the value of the raise and
+describe how you resist, subvert, or succumb to the raise you are responding
+to. If you put forward more than one card, take points of fallout equal to the
+number of cards you put forward for the see.
+
+When the forces of magic raise or see, they will describe the forces, spirits
+and ancient will at play in the landscape of England and Annwn, which do not
+want to be bound and bidden.
+
+Instead of seeing, you may show that you have enough cards to see, but set them
+aside and _give_. You fail to cast the spell, but may discard half your fallout
+points.
+
+If you cannot see, or if it is your turn to raise and you are out of cards to
+do so, you may escalate to draw cards equal to your Aether again. The level of escalation determines the potential cost of fallout:
+
+ 1. Confusion and exhaustion (you start here)
+ 2. Long-term magical side effects, like flashing eyes, floating hair, an
+    inability to see the world as others do.
+ 3. Damage to your soul, eventually putting you at risk for its destruction.
+    You cannot escalate past this point.
+
+When the spell is over, one way or another, you will have accumulated fallout
+points. Draw one card for each fallout point. Take the two highest cards; if
+the total 15 or more, you suffer the fallout for the level of escalation. If
+they contain an ace and a face, then you suffer fallout one level higher. If
+you escalated to the third level, and get an ace and a face, you have burned
+your soul out entire, and become a wraith, a Theotormon, a being of pure magic,
+without conscience.
+
+## Rules for the GM
 
 The GM controls the NPCs and provides adversity. It's their role to reinforce
 the strictures of society, the dangers of magic, and the difficulties of human
@@ -191,7 +460,7 @@ particular offering bargains as a fairy.
 **Breathing Space**: not every scene should involve "that won't be so easy".
 Scenes like that tend to be dramatic up-beats, where the character faces the
 things that make their story interesting and their life difficult. After, allow
-them a scene of downtime, showcasing their Desires or their Social Role. Then
+them a scene of downtime, showcasing their passions or their social role. Then
 cut to another character and focus on their story a little.
 
 **Let them be human**: the social norms of the period are real and present, but
@@ -238,416 +507,21 @@ sinful and unmourned grave, you will wield recklessness as a weapon.
 Not every character will be desperate! But at least one or two must be. And
 those are the ones to whom the fairy offers their fondest dreams.
 
-## Scenes
+## Rules for how characters change and grow
 
-The game is structured around scenes. The GM sets scenes, with input from the
-players. There are four essential questions to answer for every scene:
+At the end of a season (a series of sessions forming a satisfying arc,
+typically taking place over a quarter to a half of a year of in-game time),
+characters can change.
 
-  * Who is there?
-  * What are they hoping to do?
-  * What is the set? As suggestions:
-      * The assembly rooms
-      * A carriage ride
-      * A walk in the garden
-      * In a sitting room
-      * In the kitchens
-      * On the road between the Big House and town
-      * In the milliner's shop
-  * What is the business? As suggestions:
-      * Dancing
-      * Talking
-      * Eating
-      * Shopping
-      * Walking
+Characters can:
 
-Have one deck. Reshuffle it only when you need to.
+  - lose reputations
+  - gain aether
+  - more?
 
-The GM starts each session with role tokens equal to the total among the PCs
-plus three. They do not get passion tokens: those are representative of the
-unique power and passions that the PCs possess that draw the fairy's interest.
+Not sure how yet.
 
-### The Dance: Choosing the Next Scene
-
-Have you ever danced an English country dance? There are two rows of people,
-ladies on one side, gents on the other, facing each other. Each couple (the
-lady and gent standing across the set from each other) will spend most of the
-dance with each other, but will share a bit of the dance with all the people on
-the other side, weaving in and out and always coming back to dance with their
-partner.
-
-This game can be like that, though perhaps with somewhat more complex figures
-in the dance. Characters will often find themselves in pairs (or perhaps
-triads), swirling around together, until they circle back out and return to
-their partner, the character with whom they have the most dramatic tension. I
-find that envisioning the game in these terms helps me keep things from staying
-in one spot too long: I can look at the characters and think "who hasn't Miss
-Redgrave dealt with lately? What might Mr. Scopes _want_ from her?" It's very
-pleasing.
-
-Each person at the table takes turns calling for a scene, saying who besides
-their character is present, what they want, and where they are. (All within the
-bounds of reason, of course.) After each person's scene, there is a phase
-called [Gossip](#gossip), then the person who just called the scene chooses who
-goes next. The only rule is that each person must have a scene before someone
-can go again.
-
-Each session, the GM should call the first scene.
-
-All the rules in _Smallville_ p. 52 on ending scenes apply usefully.
-Reproducing those rules here for ease of reference:
-
-  * Always leave them wanting more
-  * Cut before the second lull
-  * Are they at an impasse?
-  * The button (a.k.a. "that's a closing line")
-
-Scenes naturally will push towards sprawling. Push in the other direction. The
-middle ground will be ideal. Remember, there can be multiple scenes in the same
-place and time. Are you at a ball? There should be like three to five scenes
-there. Are you watching two characters alone on a walk together? Probably one.
-
-### Petition
-
-When one character wants something from another, and that character does not
-want to concede, go to the cards.
-
-You can petition behavior: apology, support, etc., but not feelings (i.e. you
-cannot petition "love me").
-
-Aces are low, face cards are ranked, low to high, page, knight, queen, king.
-
-Each party gets one card just for showing up, and if the party to act first has
-[leverage](#leverage) on the other party, the first party gets an additional
-card.
-
-> #### Leverage
-> {: .no_toc}
->
-> Leverage is just what it sounds like: a compelling reason for the other
-> character to do what you want. You will know when a character has leverage
-> over another, but good rules of thumb: differences in class, shared family
-> bonds, shared secrets, and threats of physical force are all common sources
-> of leverage.
-
-Each party takes turns putting down a card. The first card may be any card you
-wish. The next party may then do one of the following:
-
-  * Concede because they cannot put down a higher card.
-  * Spend one or more role tokens to draw that many cards, and then try to put
-    down a higher card.
-  * Narrate how you take advantage of a stress that the other character
-    currently has marked, and draw a card, and then, if possible, put down a
-    higher card.
-  * Spend a passion token, make a desperate declaration or a passionate plea
-    and suffer a cost, draw a card, and put down any card they wish.
-  * Put down a higher card and present their counter-argument.
-  * Reveal a higher card that they _could_ put down, but instead concede, and
-    gain a role token.
-
-Repeat.
-
-When you suffer a cost, you have damaged one of your reputations. Choose
-whichever is most appropriate and mark off a box next to it. Once a reputation
-has four boxes marked, you cannot gain from it during Gossip (see below) until
-you have fully recovered it. See [Seasons, growth, and
-change](#seasons-growth-and-change) below.
-
-When you petition with a fairy, you use passion tokens instead of role tokens,
-and may not make a desperate declaration or passionate plea. If you are put in
-the position of not having a winning card or enough tokens to get one, you
-_just lose_.
-
-Fairies _always_ have leverage over any mortal they talk with.
-
-When one party concedes, the other party has won what they want. The devil,
-however, is in the details:
-
-When you successfully negotiate with a superior, you may get:
-
-  * A special dispensation,
-  * A nudge and a wink and a look the other way,
-  * A promise of protection and backing,
-
-Their choice.
-
-When you successfully command an inferior, you may get:
-
-  * Punctilious execution,
-  * Only a few oversights,
-  * A shirker's best,
-
-Their choice.
-
-When you successfully bargain with a fairy, you may get
-
-  * A single loophole,
-  * A ray of hope,
-  * No further cost,
-
-Their choice.
-
-### Exertion
-
-When your character does something well out of their usual affairs, under
-extreme or adverse circumstances, or puts themselves in mortal danger, they are
-_exerting_ themselves.
-
-Before exerting yourself, be very clear what the goal is, and what sorts of
-risks you might face. The GM has final say about the risks the best and worst
-you might expect, but you are entitled to a clear idea of what they might be.
-
-When you exert yourself, there are two questions at hand: whether you do the
-thing or whether you fail and the risks come to be; and what the effort costs
-you.
-
-"Cost" for exertion comes in the form of a stress: **afraid**, **angry**,
-**exhausted**, **injured**, or **insecure**.
-
-To see the outcomes, draw one card. Draw one more for each of the following
-that pertains:
-
-  * You are particularly adept at the thing at hand.
-  * Your family is noted for something useful to the task at hand.
-  * You are magically blessed in a useful way.
-
-If your cards contain an ace or a face (page, knight, queen or king), you have
-succeeded. Describe how you do so. If you have no ace or face, you have not:
-sell your failure.
-
-If you have more swords than cups, you have also cost yourself: the GM will
-tell you which stress to mark.
-
-### Duels
-
-When two characters face each other on equal footing, looking to kill each
-other, they are engaged in a _duel_.
-
-The player of each character in the duel is dealt two cards, one face down, the
-other face up. They will exchange blows, taking more cards, until they are
-satisfied or dead.
-
-One character is chosen to start; you may use any mutually agreeable method,
-from a coin flip to letting the aggrieved party act first.
-
-The first player may choose to be dealt one more face-up card, and describe
-their attack, or stay put and describe their wary defense. Then the second
-player may make the same choice. This goes back and forth until either one
-player is _bust_ (has a total over 21, where aces are worth 1 and faces are
-worth 10) or both players have stayed put in turn.
-
-If a player has gone bust, they must reveal their face-down card, and they have
-been killed, and should describe their death.
-
-If both players have passed, they both reveal their face-down cards, and the
-player with a higher total has the life of the other in their hands, to do with
-as they wish.
-
-If the two players tie, the fight is inconclusive: it is interrupted, fought to
-exhaustion, or otherwise comes to an impasse.
-
-> #### Duels vs. Challenges
-> {: .no_toc}
->
-> Issuing a _challenge_ is subtly distinct from fighting a duel. A challenge
-> need not always be accepted, particularly if the challenger is, socially,
-> beneath the challenged. A gentleman may laugh off the bruised honour of a
-> servant.
->
-> Of course, you may [petition](#petition) someone to accept your challenge,
-> but that may sometimes simply be beyond the bounds of possibility.
-
-
-### Secrets and Lies
-
-Secrets hold great power, but in the world of _Arcadia_, that power is almost
-wholly destructive. Certain secrets may be so horrific as to immediately
-destroy a reputation, turning someone from an upstanding member of the
-community to a murderer, apostate, or succubus.
-
-When a character has, or becomes entangled in, such a secret, the table should
-agree that, were it revealed, the consequences would be disastrous. You should
-also agree which reputation in particular would suffer. If the secret is
-publicized, then this consequence simply happens.
-
-Further, anyone with knowledge of the secret has, unsurprisingly, leverage over
-the character who would suffer from its revelation.
-
-### Spells
-
-This is a larger topic than any of the others so far covered. See [Casting
-Spells](#casting-spells).
-
-### Recovering from Stress
-
-As mentioned above, characters can suffer stresses. They can also, of course,
-recover from them. At the end of a session (unless it's _really_ a
-cliffhanger), you can recover all stresses. In the middle of a session, another
-character can call a scene dedicated to helping you, and clear a stress of
-yours.
-
-### Gossip
-
-At the end of each scene, any participant (player or GM) may call for a gossip
-session. You will want to do this to refresh your tokens, but also to evaluate
-what has just recently happened. Go around the table, and each player reads off
-their three role role bullet points. For each point that the table agrees they
-did, they get one role token. The player in the spotlight _cannot_ voice their
-opinion or suggest what they did that they think earns them a point unless
-everyone else at the table draws a blank and cannot decide one way or another.
-Everyone else, however, absolutely should discuss the spotlight character's
-behavior in as animated a fashion as they like!
-
-Remember, if a character has a ruined reputation, they do not gain any role
-tokens for the associated actions.
-
-## Sessions
-
-At the end of every session, go around the circle. Each player tells the group
-whether they hit any of the token triggers for their desires. For the
-highest-rated trigger they hit, they get that many passion tokens. What's
-important here is that they explain how their actions were in support of the
-desire, and thus contextualize them for the table.
-
-Present this as a small scene, of your character in repose and reflection.
-Perhaps walking the moors, perhaps brooding in the tower-room, perhaps writing
-in their journal by candle-light.
-
-## Magic
-
-> "Anything worth having has a _price_..."
-
-There has always been another England. It lurks on the edge of perception, it
-appears when you don't look right at it. Alfred Watkins sensed something of it
-when he wrote _The Old Straight Track_. William Blake referred to it when he
-wrote of "our clouded hills". This is an older, stranger, _other_ England. It
-may as well be called Annwn, Avalon, or _orbis alius_.
-
-But as the Enlightenment opens many doors, so too does it close some. No one
-has accidentally or purposely walked into that other world for a long time now.
-The old fairy roads that led out of England have been long closed. Until---that
-is, until now.
-
-Perhaps it is the king's madness that has changed things, or perhaps it is the
-renewal of worship of old king Ludd in the North. Perhaps it is simply that the
-stars are right. But the Old Roads are opening, mirrors and rivers and clouds
-and rain once again bring visitors. Magic is returning to England.
-
-### The Fairy
-
-The more you pursue and exercise your desires, the sooner the fairy will
-arrive, smelling your passion and seeking to feed on it.
-
-> #### TODO: Getting spells from the Fairy
-> {: .no_toc}
->
-> Not quite like this, but almost:
-
-The fairy can give you spells. All it asks in return is something like a
-_Poison'd_ bargain: you must maintain some particular behavior, a ban or a
-requirement, and if you break that, well, you lose the spell and you lose
-access to one of your desires. It will no longer nourish you.
-
-The fairy must, ultimately, fulfill three qualities:
-
-  * It must be a powerful font of magic. It can perform and grant all kinds of
-    magical boons. Otherwise, why would it be different from any of the other
-    NPCs?
-  * It must be less like a pure menace and more like a fairytale _donor_,
-    someone who before giving magical support or advice, will test the
-    character, by questioning, setting tasks, or making requests. Otherwise,
-    why would the PCs risk interacting with it?
-  * It must have a clear agenda and desire, for which it needs the PCs in some
-    capacity. Otherwise, why would this powerful magical being bother with
-    them?
-
-Now, fairies also are bound by rules. They can do much, but there are certain
-areas they cannot go, certain deeds they cannot do, and for which they must
-have a human accomplice. Think of the Witch in _Into the Woods_: she cannot
-make the potion she craves because she cannot have handled the ingredients. And
-so she offers others what they want in exchange for their help, but keeps them
-in the dark, to better serve her ends.
-
-### Casting Spells
-
-To cast a spell, a character must have a favor from the fairy. They may trade
-this in for a magical effect. The player describes the ritual the character
-undertakes, and the effect they wish to see (bearing in mind that effects that
-take away someone else's choice, health, or form always incur a heavy price).
-Everyone else, including the GM, is dealt one card from the major arcana that
-were set aside at the beginning of the game.
-
-Each person with a major arcanum looks at their card, and chooses a visual
-detail that they find compelling. They go around in a circle, describing a
-surreal and dreamlike sensory experience based on that detail. The spellcaster
-then chooses which detail they find the most compelling; that is the feel,
-look, smell, taste, _experience_ of the spell's effect coming into this world.
-
-That player then reveals their arcanum, and the GM interprets it to give the
-spell's cost or side-effects.
-
-Side-effects or costs may include changes to the materials of a character
-sheet, most particularly damaged reputations. They may not include changes to
-the number of role or passion tokens a player currently has. Most saliently, of
-course, they may include unnatural and uncanny magical effects, which may
-linger well after the spell has ended.
-
-Remember always that the side-effects of a spell will be bigger if the spell is
-bigger, and especially if the spell takes away someone's choice, health, or
-form.
-
-Spellcasting takes some time. Give it the attention it deserves.
-
-## The world
-
-The world England in the eighteen-teens is easy to romanticize, but has many
-hazards.
-
-### Seasons, growth, and change
-
-At the end of each season (a bunch of sessions with a coherent arc), go through
-a questionnaire and ask the table about each character: whether they have done
-this, or that, etc. They will gain XP based on that, which they can use to
-modify their reputations and possibly some other things. They may also change
-out a desire, and should redefine their connections with the NPCs.
-
-> #### TODO: Growth and Change
-> {: .no_toc}
->
-> Actually make growth questions.
-
-### Disease and dying
-
-These things happen. Maybe have their own little games. Maybe this isn't the
-place for this section, though.
-
-### The lady's right of refusal
-
-In dancing, in marriage.
-
-### The land
-
-The land is very important to the Romantic.
-
-### Weather
-
-It would hardly be England without weather. If you are uncertain as to the
-weather at any point in the game, simply draw a card and consult the table
-below:
-
-  * Clear
-  * Rain
-  * Snow
-  * Overcast
-  * Patches of cloud and sun
-  * Mist
-  * Thick fog
-  * Drizzly
-  * Thunder and lightning
-  * Changeable and threatening
-  * Torrential downpour
-  * Windy
-
-## Appendix: Desires
+## Appendix: Passions
 
 ### Absolution
 
@@ -992,230 +866,6 @@ Tell us who:
   - Is your drinking companion
 
 Initial social role tokens: 1
-
-## Appendix: Spells
-
-> #### TODO: Major arcana for spell costs
-> {: .no_toc}
->
-> The Arcana, for inspiration for side effects:
->
->   *  0: The Fool
->   *  I: The Magician
->   *  II: The High Priestess
->   *  III: The Empress
->   *  IV: The Emperor
->   *  V: The Hierophant
->   *  VI: The Lovers
->   *  VII: The Chariot
->   *  VIII: Strength
->   *  IX: The Hermit
->   *  X: The Wheel of Fortune
->   *  XI: Justice
->   *  XII: The Hanged Man
->   *  XIII: Death
->   *  XIV: Temperance
->   *  XV: The Devil
->   *  XVI: The Tower
->   *  XVII: The Star
->   *  XVIII: The Moon
->   *  XIX: The Sun
->   *  XX: Judgment
->   *  XXI: The World
-
-What follow are a list of spells that once worked, in the golden age of magic.
-They may or may not still function at all, but if they do, will certainly be
-somewhat altered.
-
-### A spell of far-seeing
-
-You enter a trance, and see a vision of something or someone far away in a
-reflective surface.
-
-Components:
-
-  * Laudanum or some other way to induce a trance.
-  * Utter solitude.
-  * Hours of meditation.
-  * A reflective surface.
-  * A token from the object of the vision.
-
-Costs:
-
-  * You see a friend harbor a hurtful secret. What is it?
-  * You see a moment of intimacy between two people you never want to see
-    together. Who are they?
-  * You see something you cannot help but desire. You become obsessed with
-    fulfilling your craving.
-  * They somehow know you were watching. But having knowledge without evidence
-    is maddening: how do they treat you?
-
-To protect against this spell, avoid reflective surfaces: mirrors, water,
-silverware, windows looking out into the dark.
-
-### A spell to transmute one material to another
-
-This spell most frequently is used to turn lead into gold. Many hope this will
-be a quick route to riches.
-
-Components:
-
-  * (Al)chemical equipment, including powerful acids or bases.
-  * A lone assistant.
-  * A soul purified of distractions.
-  * A sanctum inscribed with mystical sigils and patterns, positioned at the
-    intersection of many lines of magical power.
-  * A fire heated with mountain ash from the grove of Arawn, in the Otherworld.
-
-Costs:
-
-  * The traces of the transformation are etched onto your skin.
-  * The transformation is unstable.
-  * The transformation breaks something valuable to you. What is it?
-  * Someone suspects what has happened. Did they find your sanctum or
-    materials, or something else?
-
-To undo this spell, soak the transmuted material in a solution of lye; before
-it dissolves, it will revert to its true form.
-
-### A spell to bring the dead back to a semblance of life
-
-This spell will make the dead walk and talk and act much as they did in life.
-
-This spell requires that you have the corpse you wish to reanimate present.
-
-Components:
-
-  * Under a new moon.
-  * At a crossroads.
-  * Spit in the mouth of the corpse.
-  * Let the blood of a bleating black goat over the corpse.
-  * Two accomplices, people who were important to the deceased in life.
-
-Costs:
-
-  * They return, but they are missing something important. The GM will tell you
-    what.
-  * They return, but they crave something unnatural, unsavory, or unbecoming.
-    The GM will tell you what.
-  * They return, but at the cost of another. The GM will name another NPC whose
-    dies mysteriously that very night.
-  * They return, but one person sees them for the corpse they were. The GM will
-    tell you who.
-
-Limitations:
-
-Those who have crossed back from the undiscover'd country are once again alive,
-and subject to all the hazards of that state. They usually have no coherent
-memories of their time in Death, only a vague sense of trauma and dread. If you
-wish to keep a corpse from being raised, the expedient is a simple one: burn
-it.
-
-### A spell to strengthen man or beast
-
-This spell will make one person or being unbelievably strong and durable, a
-veritable Hercules. They must carry or wear some token that gives them that
-strength; only the ancients held their strength in their very beings, and even
-Samson had his hair shorn.
-
-Components:
-
-  * A fight with an ancient hero (though the magician need not _win_).
-  * A token of strength, into which the magician imbues the spell: something
-    like a rod of iron, the skin of a bear, the lifeblood of an ox, or a crown
-    of oak leaves.
-  * Inscribe a mystical sigil (a lemniscate) on the forehead of the subject.
-  * A token from the subject's worst enemy: something meaningful to them, such
-    as an heirloom, or a piece of their very body, such as hair, blood, or
-    teeth.
-  * A relic sacred to St. Michael, as might be found at the French
-    abbey-turned-prison of Mont Saint-Michel.
-
-Costs:
-
-  * The physical strength unbalances the subject, rendering them prone to rage.
-  * The strength comes at the cost of the well-being of those around the
-    subject, draining their health and energy.
-  * The subject must fuel their strength by a strict diet: they may eat nothing
-    but raw meat, and may drink nothing but hot blood.
-  * The subject cannot control their strength well, and easily breaks fragile
-    things they try to handle.
-
-To undo this spell, break the amulet the subject carries.
-
-### A spell to change a person's appearance
-
-Changing a person into an animal, plant, or inanimate object is a very
-difficult magic these days, beyond the power of all but the fairies. But
-changing someone to look like another person is much more easily done.
-
-The spell will, under most circumstances, last until the caster dismisses it,
-with a word and a thought.
-
-Components:
-
-  * Blood or hair from the person the subject is to look like.
-  * A silver ring that the subject must wear.
-  * A half-moon.
-  * A mirror to hold the subject's old shape while they wear the disguise.
-  * A fairy-ring, a thin spot between the worlds.
-
-Costs:
-
-  * The change unsettles all who look upon you. How?
-  * Your disguise does not fool everyone. The GM will choose an NPC who can see
-    through the transformation.
-  * The transformation will unravel at the next sunrise or sunset.
-  * You fall prey to the curse of Narcissus. Your new form is infinitely more
-    pleasing to you and your vanity.
-
-
-### A spell to enter dreams
-
-This spell allows the magician to spiritually enter the dreams of another, in
-search of understanding, healing, or something yet more esoteric.
-
-To cast this spell:
-
-  * Be beside the sleeper.
-  * Breathe in their exhalation.
-  * Sing a lullaby.
-  * Make sure the sleeper ate a mixture of mandrake, anise, and gentian before
-    sleeping. If one of those alone doesn't taste terrible, all three together
-    sure will.
-  * Carve mystic sigils into the walls and bedposts around the sleeper.
-
-Costs:
-
-  * You are haunted by the dream after returning.
-  * The metaphors of the dream are confusing to you.
-  * You pull something back with you from the depths of the dream.
-  * The dream takes all night to navigate, and you only emerge from the spell
-    as dawn is breaking.
-
-To protect against this spell, sleep with a cat or a nightingale in the room.
-
-### A spell to summon the spirit of a dead person
-
-Sometimes, only the long-dead can answer a question or provide understanding.
-Summoning them weakens the borders between worlds, but may be worth it.
-
-Components:
-
-  * Grave dirt or a noose that has seen use.
-  * A crossroads.
-  * A dirge.
-  * A tolling church bell.
-  * A lone crow.
-
-Costs:
-
-  * The dead spirit will not leave you alone.
-  * The spirit will not answer questions without a quid pro quo.
-  * The spirit marks you for death.
-  * The spirit did not come alone.
-
-To break this spell, throw salt at the spirit.
 
 ## Appendix: Fairies
 
