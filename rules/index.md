@@ -7,6 +7,9 @@ title: Rules
 
 A game of magic, manners, and madness.
 
+* TOC
+{:toc}
+
 ## What is this?
 
 _Et in Arcadia Ego_ is a Regency fantasy game. You play characters in Regency
