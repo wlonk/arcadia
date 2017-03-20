@@ -37,7 +37,17 @@ Everyone else will play the main characters in the story, the PCs. It is their
 duty to play these characters faithfully and honestly, to pursue their dreams
 and to face their fears.
 
-After any exchange where you use the cards, shuffle them back together.
+Certain things you say will use certain rules:
+
+  * If you want something from another character, use
+    [petition](#rules-for-petition).
+  * If you want to do something, but it's difficult or risky, use
+    [exertion](#rules-for-exertion).
+  * If you want to impress someone, use [impression](#rules-for-impression).
+  * If you want to cast a spell, use [magic](#rules-for-magic).
+
+Some of these rules will involve using the playing cards. After any time where
+you use the cards, shuffle them back together.
 
 The tokens should be of two clearly different varieties, one used for _role
 tokens_, the other used for _passion tokens_. The former represent how well
@@ -141,8 +151,21 @@ For easy character creation, deal each player three social roles; they must
 choose from among them for their character. For hardcore, deal each player one,
 and that is who they will play.
 
+(See [Social Roles](#appendix-social-roles) for details.)
+
+In either case, you may end up playing a character who is not the gender or
+class you expected. That's how this goes.
+
+_(Note: I can see some issues with the lack of control over character gender
+for some people, and should give it some consideration.)_
+
 Once you have a social role, choose your name, answer the relationship
 questions on your social role, and choose two passions.
+
+> #### TODO
+>
+> Around here is where I should see about inserting the town creation and
+> bloodline creation ideas from _Turn_.
 
 Once you have established relationships, you will choose boons. Each character
 has a personal boon, and a family boon. As some characters will be part of the
@@ -151,47 +174,51 @@ after relationships are decided.
 
 Choose a boon for your family, together with the other members of it:
 
-  - *Ash blood:* you may draw an extra card in any exertion where your
+  - **Ash blood:** you may draw an extra card in any exertion where your
     creativity and inspiration is an asset.
-  - *Hawthorn blood:* you start with +1 Aether.
-  - *Hazel blood:* you may draw an extra card in any exertion where your
+  - **Hawthorn blood:** you start with +1 Aether.
+  - **Hazel blood:** you may draw an extra card in any exertion where your
     knowledge, intelligence, or reason is an asset.
-  - *Holly blood:* if someone would have leverage over you in a petition
+  - **Holly blood:** if someone would have leverage over you in a petition
     because of their superior rank, instead, they don't.
-  - *Oaken blood:* you may draw an extra card in any exertion where your
+  - **Oaken blood:** you may draw an extra card in any exertion where your
     stamina, heartiness, or durability is an asset.
-  - *Rowan blood:* you may draw an extra card in any exertion where you are
+  - **Rowan blood:** you may draw an extra card in any exertion where you are
     resisting the effects of magic worked against you.
-  - *Willow blood:* you may draw an extra card in any exertion where your
+  - **Willow blood:** you may draw an extra card in any exertion where your
     observational skill is an asset.
-  - *Yew blood:* you may draw an extra card in any exertion where you face
+  - **Yew blood:** you may draw an extra card in any exertion where you face
     death as a risk.
 
 Choose a personal boon:
 
-  - Jupiter: Wealth is easy for you. You may draw an extra card in any exertion
-    where expenditure of money would facilitate matters.
-  - Luna: You mirror the moods of those around you. You have leverage in any
-    situation where you agree with, mirror, and support what the other person
-    says.
-  - Mars: You are strong. You may draw an extra card in any exertion where raw
-    physical force helps.
-  - Mercury: You have a broad education, through formal or informal channels.
-    You may draw an extra card in any exertion where knowing just that one
-    weird thing would help.
-  - Saturn: Your focus is unshakable. You may draw an extra card in any
+  - **Jupiter:** Wealth is easy for you. You may draw an extra card in any
+    exertion where expenditure of money would facilitate matters.
+  - **Luna:** You mirror the moods of those around you. You have leverage in
+    any situation where you agree with, mirror, and support what the other
+    person says.
+  - **Mars:** You are strong. You may draw an extra card in any exertion where
+    raw physical force helps.
+  - **Mercury:** You have a broad education, through formal or informal
+    channels. You may draw an extra card in any exertion where knowing just
+    that one weird thing would help.
+  - **Saturn:** Your focus is unshakable. You may draw an extra card in any
     exertion where you must overcome distractions.
-  - Sol: You are what you appear to be. When making an impression, once per
+  - **Sol:** You are what you appear to be. When making an impression, once per
     session you may simply state one truth, and no one takes any false
     impression from the moment.
-  - Uranus: You have a spark of genius. You may draw an extra card in any
+  - **Uranus:** You have a spark of genius. You may draw an extra card in any
     exertion where you seek to create or discover something new, unknown to the
     world at this point.
-  - Venus: You are incredibly beautiful. You have leverage in any situation
+  - **Venus:** You are incredibly beautiful. You have leverage in any situation
     where you are petitioning someone who would reasonably be attracted to you.
 
 These boons and the names of them are not the sorts of things that the
-characters are aware of in-fiction.
+characters are aware of or discuss in-fiction. They are for you, the players,
+only.
+
+Then choose two passions for your character. See [Passions](#appendix-passions)
+for details.
 
 Your character starts with a number of social tokens based on their social
 role, and two passion tokens.
@@ -208,7 +235,7 @@ role, and two passion tokens.
 > affairs than his master does. In Amma Asante's film _Belle_, based
 > extensively on real characters and circumstances, the mixed-race natural
 > daughter of a British Navy officer is raised among the gentry, albeit not
-> without some hazards.
+> without some difficulties that her white adoptive sister does not face.
 >
 > Closer to my own life, there were figures in the period such as Daniel
 > Mendoza, the prizefighter and inventor of "scientific boxing" (also known as
@@ -268,19 +295,19 @@ off a box next to it. Once a reputation has four boxes marked, you cannot gain
 from it during Gossip until you have fully recovered it. If a reputation has
 four boxes marked, you may not choose it as the damaged reputation, either!
 
-### Fairies
+### Petitioning Fairies
 
-When you petition with a fairy, you use passion tokens instead of role tokens
-to draw cards, and may not make a desperate declaration or passionate plea. If
-you are put in the position of not having a winning card or enough tokens to
-get one, you _just lose_. On the other hand, you cannot damage a reputation.
+When you petition a fairy, you use passion tokens instead of role tokens to
+draw cards, and may not make a desperate declaration or passionate plea. If you
+are put in the position of not having a winning card or enough tokens to get
+one, you _just lose_. On the other hand, you cannot damage a reputation.
 
 Fairies _always_ have leverage over any mortal they talk with.
 
 ## Rules for exertion
 
 When your character does something well out of their usual affairs, under
-extreme or adverse circumstances, or puts themselves in mortal danger, they are
+extreme or adverse circumstances, or that puts them in mortal danger, they are
 _exerting_ themselves.
 
 Before exerting yourself, be very clear what the goal is, and what sorts of
@@ -373,7 +400,8 @@ aside and _give_. You fail to cast the spell, but may discard half your fallout
 points.
 
 If you cannot see, or if it is your turn to raise and you are out of cards to
-do so, you may escalate to draw cards equal to your Aether again. The level of escalation determines the potential cost of fallout:
+do so, you may escalate to draw cards equal to your Aether again. The level of
+escalation determines the potential cost of fallout:
 
  1. Confusion and exhaustion (you start here)
  2. Long-term magical side effects, like flashing eyes, floating hair, an
@@ -400,8 +428,7 @@ particularly how they feel about the PCs and each other. This will help them
 drive the action from the NPCs' point of view. Remember to think about and
 communicate what will happen if the PCs don't act.
 
-NPCs also get starting social role tokens (from 3 to 5) based on their rank,
-and a suit (randomly drawn, or based on their personality).
+NPCs also get starting social role tokens (from 3 to 5) based on their rank.
 
 In a conflict, an emotional outburst puts a PC's reputation at risk. If they
 never make an outburst, they stand a real chance of not getting what they want.
@@ -427,6 +454,21 @@ The fairy should show up soon, but not immediately; basically as soon as
 someone's been pushed into a spot where they might need a spell to get what
 they want. Basically, the arc of an _Arcadia_ story should dip low quickly,
 then up-tick with the fairy's intervention, then wobble.
+
+### Desperation
+
+Let's be clear: you have to be desperate to make a deal with a fairy. Everyone,
+but _everyone_, knows better. But sometimes, you see no other choice---or
+rather, the other choice is _worse_.
+
+When you have one kind of power in a world that strips you of power, you will
+use it, you will exercise it, you will rely on it. If that is being trusted
+with secrets, you will wield secrets as a weapon. If you have sexual appeal,
+you will wield sexuality as a weapon. If you have no further to fall but to a
+sinful and unmourned grave, you will wield recklessness as a weapon.
+
+Not every character will be desperate! But at least one or two must be. And
+those are the ones to whom the fairy offers their fondest dreams.
 
 ### Perils of the Period
 
@@ -486,21 +528,6 @@ feelings for her."
 the inner lives of the characters you see at the table. Not in their victories
 or failures, _per se_, but in how those victories and failures let them show
 their true colors.
-
-### Desperation
-
-Let's be clear: you have to be desperate to make a deal with a fairy. Everyone,
-but _everyone_, knows better. But sometimes, you see no other choice---or
-rather, the other choice is _worse_.
-
-When you have one kind of power in a world that strips you of power, you will
-use it, you will exercise it, you will rely on it. If that is being trusted
-with secrets, you will wield secrets as a weapon. If you have sexual appeal,
-you will wield sexuality as a weapon. If you have no further to fall but to a
-sinful and unmourned grave, you will wield recklessness as a weapon.
-
-Not every character will be desperate! But at least one or two must be. And
-those are the ones to whom the fairy offers their fondest dreams.
 
 ## Rules for how characters change and grow
 
@@ -988,7 +1015,7 @@ Masculine names may include:
   * Nathaniel
   * Nigel
   * Philip
-  * Ralph (pron. "Rafe")
+  * Ralph (pronounced "Rafe")
   * Richard
   * Robert
   * Rupert
@@ -1045,7 +1072,7 @@ Surnames may include
   * Fairfax
   * Farquhar
   * Fawkes
-  * Fetherstonhaugh (pron. "Fanshaw")
+  * Fetherstonhaugh (pronounced "Fanshaw")
   * Fitzgibbon
   * Fitzhugh
   * Fogg
@@ -1079,11 +1106,11 @@ Surnames may include
   * Smith
   * Speed
   * Spencer
-  * St. John (pron. "Sinjin")
+  * St. John (pronounced "Sinjin")
   * Stout
   * Stubbe
   * Thompson
-  * Urquhart (pron. "Urkit")
+  * Urquhart (pronounced "Urkit")
   * Westenra
   * Wintermute
   * Woodhouse
@@ -1092,7 +1119,7 @@ Surnames may include
 Estates names may include
 
   * Bal
-  * Beaulieu (pron. "Byoo-lee")
+  * Beaulieu (pronounced "Byoo-lee")
   * Blackdour
   * Bracken
   * Brakebills
