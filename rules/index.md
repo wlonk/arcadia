@@ -166,6 +166,7 @@ Once you have a social role, choose your name, answer the relationship
 questions on your social role, and choose two passions.
 
 > #### TODO
+> {: .no_toc}
 >
 > Around here is where I should see about inserting the town creation and
 > bloodline creation ideas from _Turn_.
