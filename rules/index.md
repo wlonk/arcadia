@@ -26,8 +26,9 @@ the case, there are strings attached. Are those strings worth it to you?
 
 ## How do we play?
 
-To play, you need three to five people, paper, pencils, a tarot deck, some
-tokens of two different sorts, and an enthusiasm for Regency fantasy.
+To play, you need three to five people, paper, pencils, a deck of playing
+cards, some tokens of two different sorts, and an enthusiasm for Regency
+fantasy.
 
 One player will take the role of GM. It is their duty to play the world, with
 all its adversity and support, and most particularly, to play the fairy.
@@ -36,13 +37,7 @@ Everyone else will play the main characters in the story, the PCs. It is their
 duty to play these characters faithfully and honestly, to pursue their dreams
 and to face their fears.
 
-Divide the tarot cards into two piles: the major arcana, and the minor arcana.
-The major arcana are used for casting spells, while the minor arcana are used
-for mundane matters. After any exchange where you use cards from either pile,
-shuffle that pile back together. So, after a magical ritual, all the major
-arcana you've played will get shuffled back into the major arcana pile. After a
-mundane argument, all the minor arcana used will be shuffled back into the
-minor arcana pile.
+After any exchange where you use the cards, shuffle them back together.
 
 The tokens should be of two clearly different varieties, one used for _role
 tokens_, the other used for _passion tokens_. The former represent how well
@@ -58,8 +53,8 @@ story together, like a conversation. At certain points in the conversation, you
 will trigger particular rules, which will then shape what sorts of things you
 are expected and allowed to say.
 
-Those rules will involve using the tarot cards, the tokens, and things written
-on your character sheet. More about the specifics later.
+Those rules will involve using the cards, the tokens, and things written on
+your character sheet. More about the specifics later.
 
 Each player should push towards their particular agenda, while allowing room
 for contributions, suggestions, and consideration from everyone else at the
@@ -227,7 +222,7 @@ role, and two passion tokens.
 When your character wants a concession from another character, the player of
 that other character can decide whether that character accedes, or resists. If
 they accede, continue the scene. If they resist, one party or the other will
-win. Use the minor arcana as follows to see who.
+win. Use the cards as follows to see who.
 
 Also note that a concession can only be an action: a promise, an agreement, an
 apology, or something of that sort. It _cannot_ be a feeling; that is, you
@@ -239,13 +234,13 @@ they're struggling over, what's at stake. "Will Mr. Rochester invite my family
 to his ball?" or "Does the housekeeper Mrs. Hodge dismiss me from service?" or
 "Does the bailiff let me off with a warning?"
 
-Once the stakes are agreed upon, deal a card from the minor arcana to each
-party, with the GM counting as one party, even if there are a passel of
-supporting characters arguing together on one side. Deal another card to anyone
-with any particular _leverage_ in the situation, such as superior status,
-family ties, knowledge of the other party's secrets, or simply advantage of
-numbers; a passel of supporting characters will often get leverage simply for
-being a crowd.
+Once the stakes are agreed upon, deal a card from the deck to each party, with
+the GM counting as one party, even if there are a passel of supporting
+characters arguing together on one side. Deal another card to anyone with any
+particular _leverage_ in the situation, such as superior status, family ties,
+knowledge of the other party's secrets, or simply advantage of numbers; a
+passel of supporting characters will often get leverage simply for being a
+crowd.
 
 At any point, any participant may spend role tokens to draw cards, one for one.
 
@@ -298,8 +293,8 @@ When you exert yourself, there are three areas of concern:
   * Appearance: do you preserve your reputation while doing it?
   * Integrity: do you do it without undue stress?
 
-Draw three cards from the minor arcana. Draw an additional card for each of
-your personal and family boon that might apply.
+Draw three cards from the deck. Draw an additional card for each of your
+personal and family boon that might apply.
 
 You may draw one more additional card, which should be kept separate, if you
 are magically blessed in a way that would make this particular exertion easier.
