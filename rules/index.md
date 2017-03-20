@@ -494,23 +494,31 @@ peerage and a wealthy marriage may be within reach of others.
 Knowing what's at stake will help you with every other part of the system, in
 particular offering bargains as a fairy.
 
+### Fairy stories
+
+> #### TODO
+> {: .no_toc}
+>
+> I should talk about how and why to use the fairy, what it does for the story,
+> and what the Otherworld is like.
+
 ### Techniques and Tools
 
-**Acting is Reacting**: keep the camera on the listener, not the speaker.
+**Acting is Reacting:** keep the camera on the listener, not the speaker.
 
-**Breathing Space**: not every scene should involve "that won't be so easy".
+**Breathing Space:** not every scene should involve "that won't be so easy".
 Scenes like that tend to be dramatic up-beats, where the character faces the
 things that make their story interesting and their life difficult. After, allow
 them a scene of downtime, showcasing their passions or their social role. Then
 cut to another character and focus on their story a little.
 
-**Let them be human**: the social norms of the period are real and present, but
+**Let them be human:** the social norms of the period are real and present, but
 even in Austen's work, you sometimes see people breaking these norms without
 remark. Humans are humans and every supposed rule of a society has occasional
 exceptions. Sometimes first names are used, sometimes servants aren't woken in
 the middle of the night.
 
-**Understatement**: you can achieve a feeling of magical realism by maintaining
+**Understatement:** you can achieve a feeling of magical realism by maintaining
 understatement, a calm matter-of-fact aspect to describing magic. To paraphrase
 Mark Twain, do not "glance around from face to face, collecting applause". This
 is what Gabriel García Márquez describes as speaking "with a brick face". You
@@ -518,9 +526,9 @@ are simply observing these wondrous things, but not being awed by them.
 Conversely, if you want the game to feel more like a Gothic novel, do just the
 opposite: make it clear how overcome you are by what you are describing.
 
-**Elide the smalltalk**: It's easy to think of empty smalltalk as a staple of
+**Elide the small-talk:** It's easy to think of empty small-talk as a staple of
 the Austenian genre, but you'll notice that, with the notable exception of
-_Emma_, where it serves a particular purpose, smalltalk is usually quoted only
+_Emma_, where it serves a particular purpose, small-talk is usually quoted only
 indirectly: "they talked of the weather" rather than a blow-by-blow direct
 quotation. You can do that too. "After pleasantries are exchanged, Col.
 Colquhoun gets to his purpose, and asks you if you have heard the news from
@@ -528,7 +536,7 @@ Hastings, that Miss Redgrave is apparently becoming very close with a Mr.
 Hawkins. He's trying to get a reaction out of you. He wants to know if you have
 feelings for her."
 
-**Play to make them reveal themselves**: As the GM, you are most interested in
+**Play to make them reveal themselves:** As the GM, you are most interested in
 the inner lives of the characters you see at the table. Not in their victories
 or failures, _per se_, but in how those victories and failures let them show
 their true colors.
