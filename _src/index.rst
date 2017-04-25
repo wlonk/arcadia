@@ -6,7 +6,7 @@
 Et in Arcadia Ego
 =================
 
-A game of magic, manners, and madness.
+A game of magic, manners, and madness in Jane Austen's England.
 
     .. rubric:: What am I looking for here?
        :name: what-am-i-looking-for-here
