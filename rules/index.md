@@ -131,7 +131,57 @@ renewal of worship of old king Ludd in the North. Perhaps it is simply that the
 stars are right. But the Old Roads are opening, mirrors and rivers and clouds
 and rain once again bring visitors. Magic is returning to England.
 
+## Starting the game
+
+There are three things you need to start: a town, families, and characters.
+Create them in that order, with everyone working together.
+
+To create the town, decide where it is in England. Is it in the west midlands,
+a sleepy market town surrounded by farmlands? Is it in the Thames valley, a
+day's ride from London and a day from the ancient white horse carved into the
+chalk hillside? Is it in the North, where once the kings of Rheged ruled, and
+now mines and mills make some men rich while others starve? Is it by the sea,
+or a place for fashionable invalids to take the waters? Is it a haven for
+smugglers bringing goods in through the twin perils of marauding French ships,
+and English revenue cutters?
+
+That decided, name your town, and put a few landmarks on a piece of paper in
+the middle of the table. Each player, including the GM, should get the chance
+to place at least one. This is not an exercise in cartography, but rather a
+quick sketch of the area. If the characters are all from this town, then the
+players should at least all be on the same page about what the area looks like.
+For your landmarks, consider not just the church, the pub, the market, but the
+great houses, the sorts with names which act as the seats of major families.
+Consider also the strange and ancient spots: places like Wistman's Wood, the
+Cerne Abbas Giant, or the stone circles all over England.
+
+Next, make families. Each player, the GM included, should add one family. The
+main characters will be from a subset of these. Choose a family name, where
+they live, a general sense of their wealth and status, and choose their
+_blood_. This is a boon that will be available to any character who is of that
+family.
+
+  - **Ash blood:** you may draw an extra card in any exertion where your
+    creativity and inspiration is an asset.
+  - **Hawthorn blood:** you start with +1 Aether.
+  - **Hazel blood:** you may draw an extra card in any exertion where your
+    knowledge, intelligence, or reason is an asset.
+  - **Holly blood:** if someone would have leverage over you in a petition
+    because of their superior rank, instead, they don't.
+  - **Oaken blood:** you may draw an extra card in any exertion where your
+    stamina, heartiness, or durability is an asset.
+  - **Rowan blood:** you may draw an extra card in any exertion where you are
+    resisting the effects of magic worked against you.
+  - **Willow blood:** you may draw an extra card in any exertion where your
+    observational skill is an asset.
+  - **Yew blood:** you may draw an extra card in any exertion where you face
+    death as a risk.
+
 ## Rules for making characters
+
+Now, make your characters. This is somewhat more involved, and can be done more
+independently, but do do it together, so you can talk and share ideas and
+excitement together as you do so.
 
 First, characters have:
 
@@ -165,36 +215,7 @@ for some people, and should give it some consideration.)_
 Once you have a social role, choose your name, answer the relationship
 questions on your social role, and choose two passions.
 
-> #### TODO
-> {: .no_toc}
->
-> Around here is where I should see about inserting the town creation and
-> bloodline creation ideas from _Turn_.
-
-Once you have established relationships, you will choose boons. Each character
-has a personal boon, and a family boon. As some characters will be part of the
-same family, and relationship questions will help decide this, save boons until
-after relationships are decided.
-
-Choose a boon for your family, together with the other members of it:
-
-  - **Ash blood:** you may draw an extra card in any exertion where your
-    creativity and inspiration is an asset.
-  - **Hawthorn blood:** you start with +1 Aether.
-  - **Hazel blood:** you may draw an extra card in any exertion where your
-    knowledge, intelligence, or reason is an asset.
-  - **Holly blood:** if someone would have leverage over you in a petition
-    because of their superior rank, instead, they don't.
-  - **Oaken blood:** you may draw an extra card in any exertion where your
-    stamina, heartiness, or durability is an asset.
-  - **Rowan blood:** you may draw an extra card in any exertion where you are
-    resisting the effects of magic worked against you.
-  - **Willow blood:** you may draw an extra card in any exertion where your
-    observational skill is an asset.
-  - **Yew blood:** you may draw an extra card in any exertion where you face
-    death as a risk.
-
-Choose a personal boon:
+Now choose a personal boon:
 
   - **Jupiter:** Wealth is easy for you. You may draw an extra card in any
     exertion where expenditure of money would facilitate matters.
@@ -215,10 +236,10 @@ Choose a personal boon:
     exertion where you seek to create or discover something new, unknown to the
     world at this point.
   - **Venus:** You are incredibly beautiful. You have leverage in any situation
-    where you are petitioning someone who would reasonably be attracted to you.
+    where you are petitioning someone who would be swayed by your beauty.
 
-These boons and the names of them are not the sorts of things that the
-characters are aware of or discuss in-fiction. They are for you, the players,
+These boons and the family boons are not the sorts of things that the
+_characters_ are aware of or discuss in-fiction. They are for you, the players,
 only.
 
 Then choose two passions for your character. See [Passions](#appendix-passions)
@@ -226,6 +247,9 @@ for details.
 
 Your character starts with a number of social tokens based on their social
 role, and two passion tokens.
+
+Be sure to ask and answer this for each character: why might they need magic?
+Why might a fairy take an interest in them?
 
 > #### So it's a bunch of rich white people, right?
 >
@@ -496,15 +520,31 @@ particular offering bargains as a fairy.
 
 ### Fairy stories
 
-> #### TODO
-> {: .no_toc}
->
-> I should talk about how and why to use the fairy, what it does for the story,
-> and what the Otherworld is like.
+So, this is a game about people who gain the notice of a fairy. That is, it is
+a game of fairy stories. You might be forgiven for asking why. To my mind,
+fairy stories are stories that warn against easy answers and simplistic
+understanding. They remind us of the complexities of the situations we can find
+ourselves in. Wishing and hoping and having a fairy "fix" things for you rarely
+turns out well, no matter how valid your wishes and hopes may be. That is to
+say: fairy stories are about the value of _doing the work_ and the risks of
+trying to take short-cuts.
+
+How, then, do you do that in this game? Especially given that everyone knows
+better than to trust what a fairy says, how do you make the temptation real?
+
+There are two parts, ultimately: the carrot and the stick. The stick is
+obvious: for all but the most privileged, life in Regency England is a
+collection of restraints and constraints, disappointments and compromises. The
+carrot is this: the fairy must offer real fixes for small problems, so that
+when they offer dangerous and broken fixes for larger problems, they have a
+trustworthy track record to back them up. They are not a constant exercise in
+deception and punishment. They are a pusher, offering what you want now, such
+that when you _need_ them, they can demand more than you can pay.
 
 ### Techniques and Tools
 
-**Acting is Reacting:** keep the camera on the listener, not the speaker.
+**Acting is Reacting:** keep the camera on the listener, not the speaker. Show
+their reactions.
 
 **Breathing Space:** not every scene should involve "that won't be so easy".
 Scenes like that tend to be dramatic up-beats, where the character faces the
