@@ -3,6 +3,7 @@
 *.pdf
 .*.swp
 build
+_build
 _site
 .sass-cache
 .jekyll-metadata
