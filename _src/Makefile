@@ -6,7 +6,7 @@ SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = Arcadia
 SOURCEDIR     = .
-BUILDDIR      = _build
+BUILDDIR      = ../_site
 
 # Put it first so that "make" without argument is like "make help".
 help:
