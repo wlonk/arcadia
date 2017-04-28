@@ -213,7 +213,8 @@ Initial social role tokens: 2
 Jack of Swords: Invalid (⚲)
 ---------------------------
 
-You are expected to be home-bound, solicitous of others' health, and ...
+You are expected to be home-bound, solicitous of others' health, and grateful
+for the charity you receive.
 
 +--------------------------------------------+------------------+
 | Gain a role token when you                 | Unless you are   |
