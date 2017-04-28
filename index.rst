@@ -27,6 +27,10 @@ Et in Arcadia Ego
     a lot of them at the table, but if anything gives you reservations
     or makes you confused, I'd love to know.
 
+    Third: I'm looking for places to tighten the *relationships* between
+    systems. Where something you do here should have consequences there. Let me
+    know if there are fruitful interactions you see that I'm missing.
+
     Finally: does this excite you? Would you want to play a couple games
     in this world, can you imagine characters whose situations and
     development would keep you interested?
