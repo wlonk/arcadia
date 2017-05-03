@@ -2,7 +2,7 @@
 
 To publish changes to the web:
 
-    make html
-    cd _build/html
+    make dirhtml
+    cd _build/dirhtml
     git commit -am "Whatever"
     git push
