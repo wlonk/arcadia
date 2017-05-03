@@ -28,7 +28,7 @@ For easy character creation, deal each player three social roles; they
 must choose from among them for their character. For hardcore, deal each
 player one, and that is who they will play.
 
-(See `Social Roles <#appendix-social-roles>`__ for details.)
+(See `Social Roles </15_appendix_social_roles/>`__ for details.)
 
 In either case, you may end up playing a character who is not the gender
 or class you expected. That's how this goes.
@@ -68,7 +68,7 @@ These boons and the family boons are not the sorts of things that the
 players, only.
 
 Then choose two passions for your character. See
-`Passions <#appendix-passions>`__ for details.
+`Passions </14_appendix_passions/>`__ for details.
 
 Your character starts with a number of social tokens based on their
 social role, and two passion tokens.

@@ -16,12 +16,12 @@ their dreams and to face their fears.
 Certain things you say will use certain rules:
 
 -  If you want something from another character, use
-   `petition <#rules-for-petition>`__.
+   `petition </08_rules_for_petition/>`__.
 -  If you want to do something, but it's difficult or risky, use
-   `exertion <#rules-for-exertion>`__.
+   `exertion </09_rules_for_exertion/>`__.
 -  If you want to impress someone, use
-   `impression <#rules-for-impression>`__.
--  If you want to cast a spell, use `magic <#rules-for-magic>`__.
+   `impression </10_rules_for_impression/>`__.
+-  If you want to cast a spell, use `magic </11_rules_for_magic/>`__.
 
 Some of these rules will involve using the playing cards. After any time
 where you use the cards, shuffle them back together.
