@@ -63,3 +63,5 @@ Et in Arcadia Ego
    15_appendix_social_roles
    16_appendix_fairies
    17_appendix_names
+
+.. todolist::
