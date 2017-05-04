@@ -91,7 +91,9 @@ html_theme = 'alabaster'
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-# html_theme_options = {}
+html_theme_options = {
+    'show_related': 'true',
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -105,12 +107,13 @@ html_sidebars = {
         'searchbox.html',
     ],
 }
+html_favicon = 'static/favicon.ico'
 
 
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Arcadiadoc'
+htmlhelp_basename = 'Arcadia'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -137,7 +140,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Arcadia.tex', u'Arcadia Documentation',
+    (master_doc, 'Arcadia.tex', u'Et in Arcadia Ego Rules',
      u'Kit La Touche', 'manual'),
 ]
 
@@ -147,7 +150,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'arcadia', u'Arcadia Documentation',
+    (master_doc, 'arcadia', u'Et in Arcadia Ego Rules',
      [author], 1)
 ]
 
@@ -158,8 +161,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Arcadia', u'Arcadia Documentation',
-     author, 'Arcadia', 'One line description of project.',
+    (master_doc, 'Arcadia', u'Et in Arcadia Ego Rules',
+     author, 'Arcadia', 'A game of Magic, Manners, and Madness',
      'Miscellaneous'),
 ]
 
@@ -175,7 +178,7 @@ epub_copyright = copyright
 # The unique identifier of the text. This can be a ISBN number
 # or the project homepage.
 #
-# epub_identifier = ''
+epub_identifier = 'https://arcadia.transneptunegames.com/'
 
 # A unique identification for the text.
 #

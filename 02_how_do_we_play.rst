@@ -15,13 +15,10 @@ their dreams and to face their fears.
 
 Certain things you say will use certain rules:
 
--  If you want something from another character, use
-   `petition </08_rules_for_petition/>`__.
--  If you want to do something, but it's difficult or risky, use
-   `exertion </09_rules_for_exertion/>`__.
--  If you want to impress someone, use
-   `impression </10_rules_for_impression/>`__.
--  If you want to cast a spell, use `magic </11_rules_for_magic/>`__.
+-  If you want something from another character, use `petition`_.
+-  If you want to do something, but it's difficult or risky, use `exertion`_.
+-  If you want to impress someone, use `impression`_.
+-  If you want to cast a spell, use `magic`_.
 
 Some of these rules will involve using the playing cards. After any time
 where you use the cards, shuffle them back together.
@@ -31,3 +28,8 @@ The tokens should be of two clearly different varieties, one used for
 how well your character has played the role society has given them, how
 well they fit society's demands. The latter represent how much strength
 your character has drawn from pursuing their actual passions.
+
+.. _petition: /08_rules_for_petition/
+.. _exertion: /09_rules_for_exertion/
+.. _impression: /10_rules_for_impression/
+.. _magic: /11_rules_for_magic/
