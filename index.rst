@@ -13,7 +13,7 @@ Et in Arcadia Ego
 
 *A game of magic, manners, and madness in Jane Austen's England.*
 
-.. sidebar:: What am I looking for here?
+.. topic:: What am I looking for here?
 
    I've got a couple questions for readers.
 
@@ -45,6 +45,7 @@ Et in Arcadia Ego
    :maxdepth: 2
    :caption: Contents:
 
+   00_todo
    01_what_is_this
    02_how_do_we_play
    03_what_a_game_looks_like
@@ -62,5 +63,3 @@ Et in Arcadia Ego
    15_appendix_social_roles
    16_appendix_fairies
    17_appendix_names
-
-.. todolist::
