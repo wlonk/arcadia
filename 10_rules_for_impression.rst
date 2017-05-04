@@ -1,3 +1,5 @@
+.. _impression:
+
 Rules for impression
 ====================
 

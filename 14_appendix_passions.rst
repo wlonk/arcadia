@@ -1,3 +1,5 @@
+.. _passions:
+
 Appendix: Passions
 ==================
 

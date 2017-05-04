@@ -1,3 +1,5 @@
+.. _what-a-game-looks-like:
+
 What a game looks like
 ======================
 

@@ -1,3 +1,5 @@
+.. _fairies:
+
 Appendix: Fairies
 =================
 

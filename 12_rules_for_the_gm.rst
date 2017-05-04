@@ -1,3 +1,5 @@
+.. gm-rules:
+
 Rules for the GM
 ================
 

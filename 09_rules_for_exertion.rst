@@ -1,3 +1,5 @@
+.. _exertion:
+
 Rules for exertion
 ==================
 

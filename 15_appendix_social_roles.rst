@@ -1,3 +1,5 @@
+.. _social-roles:
+
 Appendix: Social Roles
 ======================
 

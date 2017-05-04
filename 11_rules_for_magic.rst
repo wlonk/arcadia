@@ -1,3 +1,5 @@
+.. _magic:
+
 Rules for magic
 ===============
 

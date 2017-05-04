@@ -1,3 +1,5 @@
+.. _change-and-grow:
+
 Rules for how characters change and grow
 ========================================
 

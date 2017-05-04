@@ -1,3 +1,5 @@
+.. _petition:
+
 Rules for petition
 ==================
 

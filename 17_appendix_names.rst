@@ -1,3 +1,5 @@
+.. _names:
+
 Appendix: Names
 ===============
 

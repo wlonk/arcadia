@@ -1,3 +1,5 @@
+.. _making-characters:
+
 Rules for making characters
 ===========================
 
@@ -41,7 +43,7 @@ and that is who they will play.
    You can surprise yourself by playing a character who has to face different
    challenges than you expected to face.
 
-(See `Social Roles`_ for details.)
+(See :ref:`social-roles` for details.)
 
 Once you have a social role, choose your name, answer the relationship
 questions on your social role, and choose two passions.
@@ -73,7 +75,7 @@ These boons and the family boons are not the sorts of things that the
 *characters* are aware of or discuss in-fiction. They are for you, the players,
 only.
 
-Then choose two passions for your character. See `Passions`_ for details.
+Then choose two passions for your character. See :ref:`passions` for details.
 
 Your character starts with a number of social tokens based on their social
 role, and two passion tokens.
@@ -102,6 +104,3 @@ Why might a fairy take an interest in them?
    granted an audience with the British monarch.
 
    Please, don't just play rich white people! There's so much more here.
-
-.. _Social Roles: /15_appendix_social_roles/
-.. _Passions: /14_appendix_passions/

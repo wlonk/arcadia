@@ -1,3 +1,5 @@
+.. _starting-the-game:
+
 Starting the game
 =================
 

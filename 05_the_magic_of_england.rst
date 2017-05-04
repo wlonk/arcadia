@@ -1,3 +1,5 @@
+.. _the-magic-of-england:
+
 The Magic of England
 ====================
 
