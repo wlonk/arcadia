@@ -1,8 +1,8 @@
 Appendix: Social Roles
 ======================
 
-King of Swords: Gentleman (♂)
------------------------------
+King of Swords: Gentleman (|male|)
+----------------------------------
 
 A single man, in possession of a good fortune. Let a lady decide the
 degree of acquaintance. A servant cannot impinge upon your honour, but
@@ -28,8 +28,8 @@ Tell us who is:
 
 Initial social role tokens: 3
 
-King of Cups: Officer (♂)
--------------------------
+King of Cups: Officer (|male|)
+------------------------------
 
 You have seen the battlefields of the continent, led men into the
 cannon's roar, and on top of all that, can cut a fine figure in your red
@@ -53,8 +53,8 @@ Tell us who is:
 
 Initial social role tokens: 2
 
-King of Wands: Clergyman (♂)
-----------------------------
+King of Wands: Clergyman (|male|)
+---------------------------------
 
 You have the living of one or more parish churches, and are expected to
 live a life that serves as a moral model for your parishioners, and
@@ -80,8 +80,8 @@ Tell us who is:
 
 Initial social role tokens: 2
 
-King of Coins: Dandy (♂)
-------------------------
+King of Coins: Dandy (|male|)
+-----------------------------
 
 The fashions of the *bon ton* change more rapidly with every passing
 year, but you keep on the very forefront, with your hair in a "Bedford
@@ -106,8 +106,8 @@ Tell us who is:
 
 Initial social role tokens: 2
 
-Queen of Swords: Lady (♀)
--------------------------
+Queen of Swords: Lady (|female|)
+--------------------------------
 
 A young lady, from a good family, with some hope of marriage. Your
 honour is your family's honour. Your honour is both positive and
@@ -134,8 +134,8 @@ Tell us who is:
 
 Initial social role tokens: 3
 
-Queen of Cups: Governess (♀)
-----------------------------
+Queen of Cups: Governess (|female|)
+-----------------------------------
 
 A young lady of indifferent family, but with enough education to hold a
 position with a wealthy family as not-quite-a-servant. Set a good
@@ -160,8 +160,8 @@ Tell us who is:
 
 Initial social role tokens: 2
 
-Queen of Wands: Ward (♀)
-------------------------
+Queen of Wands: Ward (|female|)
+-------------------------------
 
 A young lady who has been sent to live with relatives. Either her
 parents are dead, or simply unable to raise her in the proper fashion.
@@ -185,8 +185,8 @@ Tell us who:
 
 Initial social role tokens: 2
 
-Queen of Coins: Spinster (♀)
-----------------------------
+Queen of Coins: Spinster (|female|)
+-----------------------------------
 
 You are expected to deviate from your society's feminine ideal, have
 secret wealth or knowledge, and draw strength from your connections with
@@ -210,8 +210,8 @@ Tell us who is:
 
 Initial social role tokens: 2
 
-Jack of Swords: Invalid (⚲)
----------------------------
+Jack of Swords: Invalid (|either|)
+----------------------------------
 
 You are expected to be home-bound, solicitous of others' health, and grateful
 for the charity you receive.
@@ -234,8 +234,8 @@ Tell us who is:
 
 Initial social role tokens: 2
 
-Jack of Cups: Magician (⚲)
---------------------------
+Jack of Cups: Magician (|either|)
+---------------------------------
 
 You are expected to be mysterious, wise, and unconventional.
 
@@ -257,8 +257,8 @@ Tell us who:
 
 Initial social role tokens: 2
 
-Jack of Wands: Servant (⚲)
---------------------------
+Jack of Wands: Servant (|either|)
+---------------------------------
 
 A young man or woman in service to someone of quality. Be neither seen
 nor heard, except when needed. Protect the honour of your master's house
@@ -283,8 +283,8 @@ Tell us who is:
 
 Initial social role tokens: 1
 
-Jack of Coins: Vagabond (⚲)
----------------------------
+Jack of Coins: Vagabond (|either|)
+----------------------------------
 
 There are many ways someone might end up living on the road and sleeping
 rough. Servants may leave their masters and go a-tramping to find new
@@ -310,3 +310,8 @@ Tell us who:
 -  Is your drinking companion
 
 Initial social role tokens: 1
+
+
+.. |either| unicode:: U+26A5 .. male and female sign
+.. |female| unicode:: U+2640 .. female sign
+.. |male| unicode:: U+2642 .. male sign
