@@ -73,7 +73,6 @@ Et in Arcadia Ego
    :maxdepth: 2
    :caption: Contents:
 
-   00_todo
    01_what_is_this
    02_how_do_we_play
    03_what_a_game_looks_like
