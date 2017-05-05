@@ -93,6 +93,7 @@ html_theme = 'alabaster'
 #
 html_theme_options = {
     'show_related': 'true',
+    'body_text_align': 'justify',
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
