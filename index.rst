@@ -89,4 +89,5 @@ Et in Arcadia Ego
    14_appendix_passions
    15_appendix_social_roles
    16_appendix_fairies
-   17_appendix_names
+   17_appendix_spells
+   18_appendix_names
