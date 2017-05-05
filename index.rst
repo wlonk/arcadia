@@ -39,9 +39,35 @@ Et in Arcadia Ego
    Thanks!
 
 .. todo::
-   Make the four main systems (petition, exertion, impression, magic) depend on
-   and affect the same set of things, in some degree. That set: reputations,
-   what else?
+   OK, so:
+
+   -  Finish example character creation.
+   -  Add examples of the minigames.
+   -  Need to add stress, which can come from dramatic or procedural
+      beats, and can impede either.
+   -  Need to add stress healing.
+   -  Need to make impression related to reputation
+   -  Need to figure out what the fuck is up with magic, which may also
+      clarify the fairy’s role more.
+   -  Related to all of these: need to make countdown clocks,
+      essentially. So that you can see the bad things coming at you.
+   -  Clarify what a Theotormon is, and what it means to become one.
+
+   So:
+
+   -  The fairy is a countdown clock. They get more powerful the more
+      you use magic, or past a certain point, the more you fail to keep
+      them at bay.
+   -  Any time you use magic on someone, they are now marked, and the
+      fairy can interfere with them and their lives. All PCs start
+      marked.
+   -  As Austin put it: Magic is often a form of violence.
+   -  You don't really get better at magic, per se. It's like
+      Brinksmanship in *Poison'd*: it's just whatever your best stat is,
+      as it were. Perhaps there's also Profile, which is how prepared
+      you are for this spellcasting.
+   -  Perhaps getting better at magic is mostly unlocking new spells
+      from the spell list, which also can be tied to the fairy clock.
 
 .. toctree::
    :maxdepth: 2
