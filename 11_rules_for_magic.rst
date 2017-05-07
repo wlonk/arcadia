@@ -3,6 +3,33 @@
 Rules for magic
 ===============
 
+
+.. todo::
+   Magic is a force of nature. Accessing magic is making cracks in this
+   world to let some force in, and hopefully neither too little or too
+   much. To do this, you have to do things that seem almost mundane:
+   putting the right things in the right place, chanting, candles,
+   midnight crossroads.
+
+   Magic is wilderness. It does not care whether you live or die. It
+   will use violence without consulting you.
+
+   Magic is English, and of the land. Fairy magic is not, it is a
+   different thing from a different world and can do other things than
+   English magic. But English magic lets you do enough: it lets you pass
+   between worlds, it lets you see far away. It lets you manipulate the
+   weather, it lets you make protective and ensnaring labyrinths. It
+   summons spirits of the dead, or creatures from the other worlds. It
+   might even let you take on the shapes of animals, meld into the
+   shadows, or curse someone to die alone and unloved.
+
+   When you craft a spell, you describe the goal, you describe
+   limitations, and then you try to get into the sweet spot. The failure
+   states come from the interaction of what you're trying to do and the
+   season and the geography.
+
+   This implies: better structure the geography of town creation.
+
 When a character goes to cast a spell, they have two options: either
 they must engage in a visceral struggle with the forces of magic, or
 they may simply ask a fairy to perform the magic for them.

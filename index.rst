@@ -39,19 +39,19 @@ Et in Arcadia Ego
    Thanks!
 
 .. todo::
-   OK, so:
-
    -  Finish example character creation.
    -  Add examples of the minigames.
    -  Need to add stress, which can come from dramatic or procedural
       beats, and can impede either.
    -  Need to add stress healing.
    -  Need to make impression related to reputation
+   -  Need to make dueling rules.
    -  Need to figure out what the fuck is up with magic, which may also
       clarify the fairy’s role more.
    -  Related to all of these: need to make countdown clocks,
       essentially. So that you can see the bad things coming at you.
    -  Clarify what a Theotormon is, and what it means to become one.
+   -  Clarify goblins, as aopposed to fairies.
 
    So:
 
