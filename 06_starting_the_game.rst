@@ -34,7 +34,8 @@ to any character who is of that family.
 
 -  **Ash blood:** you may draw an extra card in any exertion where your
    creativity and inspiration is an asset.
--  **Hawthorn blood:** you start with +1 Aether.
+-  **Hawthorn blood:** when you cast a spell, you may add two to the
+   limit. (See :ref:`magic` for more.)
 -  **Hazel blood:** you may draw an extra card in any exertion where
    your knowledge, intelligence, or reason is an asset.
 -  **Holly blood:** if someone would have leverage over you in a

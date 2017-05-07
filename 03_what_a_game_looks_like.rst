@@ -16,6 +16,8 @@ Each player should push towards their particular agenda, while allowing room
 for contributions, suggestions, and consideration from everyone else at the
 table. All the rules of polite conversation apply as ever.
 
+.. todo:: Highlight these systems. They're crucial!
+
 Gossip
 ------
 

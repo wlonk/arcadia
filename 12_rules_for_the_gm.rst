@@ -1,4 +1,4 @@
-.. gm-rules:
+.. _gm-rules:
 
 Rules for the GM
 ================
@@ -151,3 +151,40 @@ reaction out of you. He wants to know if you have feelings for her."
 interested in the inner lives of the characters you see at the table.
 Not in their victories or failures, *per se*, but in how those victories
 and failures let them show their true colors.
+
+.. _threats:
+
+Threats
+-------
+
+Sometimes, threats will loom on the horizon. There is one threat that is
+always in play: the Fairy. Otherwise, create them as needed.
+
+The Fairy
+~~~~~~~~~
+
+Penury
+~~~~~~
+
+Debt
+~~~~
+
+Arrest
+~~~~~~
+
+Ostracization
+~~~~~~~~~~~~~
+
+The first time a character marks all three bad reputations, bring this
+threat into play.
+
+Dishonour
+~~~~~~~~~
+
+Corruption
+~~~~~~~~~~
+
+Of the magical kind.
+
+The Storm
+~~~~~~~~~

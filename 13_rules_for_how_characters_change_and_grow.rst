@@ -9,8 +9,7 @@ time), characters can change.
 
 Characters can:
 
--  lose reputations
--  gain aether
+-  lose bad reputations
 -  more?
 
 Not sure how yet.

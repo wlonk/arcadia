@@ -20,7 +20,6 @@ By the time you finish, each character will have:
 -  Passion tokens
 -  A family, and thus a family boon
 -  A personal boon
--  Aether (starts at 1, unless family boon raises it)
 
 There are two ways to choose your social role: the hardcore way, and the easy
 way. The difference is this: your choice of social role is constrained in the
@@ -83,7 +82,7 @@ role, and two passion tokens.
 Be sure to ask and answer this for each character: why might they need magic?
 Why might a fairy take an interest in them?
 
-.. sidebar:: So it's a bunch of rich white people, right?
+.. topic:: So it's a bunch of rich white people, right?
 
    Nah. Sure, if you read Jane Austen, or see her books adapted to film, that's
    most of what you get, and while there's a massive amount of social

@@ -1,10 +1,16 @@
-.. _fairies:
+.. _beastiary:
 
-Appendix: Fairies
-=================
+Appendix: Arcadian Beings
+=========================
+
+Fairies
+-------
+
+These are the rulers of Arcadia, the nobles and dominions of that other
+land. One will be present in each game of *Arcadia*.
 
 The Beast of the Moors
-----------------------
+~~~~~~~~~~~~~~~~~~~~~~
 
 The Beast is inhuman. It may take many forms (a hairy and disheveled
 wild man, a great brindle hound with red eyes, a silver-and-black fairy
@@ -20,7 +26,7 @@ It advocates for taking what you want by force and rewards those who are
 willing to become predators.
 
 The Hanged God
---------------
+~~~~~~~~~~~~~~
 
 Some would say the Hanged God is an aspect of Woden, as the god of poets
 and magicians. If so, he has none of the wise and kindly traveller left
@@ -33,7 +39,7 @@ sees himself as being oppressed and trampled by everyone, a complete
 social inversion would put him at the very top, so.
 
 The Horned God
---------------
+~~~~~~~~~~~~~~
 
 The Horned God is a hunter, and the hunted, all in one. He may take the
 guise of a country squire, a vigorous young officer, a gamekeeper, or
@@ -47,7 +53,7 @@ liking. And then, there's always the risk that you will instead catch
 his eye as *quarry*.
 
 King Ludd
----------
+~~~~~~~~~
 
 The Old King of the North, Ludd (or Llud of the Silver Hand) cuts a
 regal figure, adorned in robes and brocades all of the finest fabrics
@@ -69,7 +75,7 @@ their rightful chance to elevate themselves through feats of valour and
 strength. No, he must help them towards their destiny.
 
 The Lady in the Lake
---------------------
+~~~~~~~~~~~~~~~~~~~~
 
 The Lady in the Lake is a figure of surpassing beauty and wisdom. Those
 she befriends will prosper, and those she hates will stumble and fall.
@@ -84,7 +90,7 @@ she would never make an *unreasonable* demand, neither must her
 requirements be questioned.
 
 Old Iron-boots
---------------
+~~~~~~~~~~~~~~
 
 Also called Robin Red-cap, he wears the guise of an old soldier, with
 weary eyes and many stories for those that will listen. He leans on a
@@ -98,7 +104,7 @@ who have not first accepted his hospitality.
 Choose who has particularly drawn his attention as prey.
 
 The Sable Lady
---------------
+~~~~~~~~~~~~~~
 
 A young widow, still (and always) in her mourning blacks. Her face
 remains obscured, but no one doubts her beauty. She stands staring
@@ -112,8 +118,22 @@ begets her anger, and she will visit her own sorrows a hundredfold on
 her false friends.
 
 The Three Sisters
------------------
+~~~~~~~~~~~~~~~~~
 
 Hecate, the phases of the moon, virgin goddesses, inseparable, wild
 mistresses of storms physical and social, demanding *amusement* and
 *secrets* before all else.
+
+Sheevra
+-------
+
+The *sheevra*, ultimately from the Irish *aes sídhe*, are beings that
+look like humans, act like humans, but are no longer humans. They have
+so lost themselves to magic that their souls have become nothing but
+fairy flames.
+
+Goblins
+-------
+
+All the lesser things, the common folk of Arcadia. They crave one thing
+each, and that thing is usually the blood of mortals.
