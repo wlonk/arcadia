@@ -21,7 +21,7 @@ magical.
 Geography
 ---------
 
-.. figure:: static/ppengmap.png
+.. figure:: /static/ppengmap.png
    :align: center
    :width: 650px
    :alt: Jane Austen's England
