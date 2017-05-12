@@ -30,10 +30,6 @@ The player should describe the effect they desire, using either one of
 the existing spells (see :ref:`spells`) or making their own along those
 lines.
 
-They may also choose to describe limitations to the spell, either
-conditions under which it may be broken, or ways to circumvent it, or
-similar.
-
 To cast the spell, you must know two numbers: the threshold, and the
 limit. You will describe the ritual, each step you take giving you a
 card. If your cards total at or above the threshold, the spell works. If
@@ -44,7 +40,7 @@ risking your own soul and walking a step closer to becoming a
 Sheevra.
 
 Based on the desired effect, the threshold will be higher or lower.
-Based on the limitations and constraints on the spell, the limit will be
+Based on the ritual and constraints on the spell, the limit will be
 higher or lower.
 
 Finally, each card you draw will require a passion token. Magic is
@@ -64,27 +60,47 @@ Here are some effects, and the thresholds for each:
 
 If the subject is unwilling or unknowing, add one to the threshold.
 
-Here are some constraints, and the limits for each:
+Here are some constraints: 
 
--  No constraints at all: 16
--  ...: 18
--  ...: 20
--  ...: 22
--  ...: 24
--  An earnest prayer can shake off the effects of the spell: 26
+-  Casting the spell at a place and time of power: at midnight at a
+   crossroads, on the solstice at a stone ring, or on All Hallows' Eve
+   under the lichgate of a church.
+-  Possessing a token of the target of the spell, such as a piece of
+   their hair, or a treasured possession.
+-  Using a complex arrangement of sacred geometry, taking time and
+   expertise to craft.
+-  Invoking the true, hidden name of the subject.
+-  Inscribing the seal of the spell on to a valuable or significant
+   object, such as carving a symbol onto a tree or an amulet.
+-  Consuming a fairy favor, an object of power from Arcadia.
 
-.. todo:: finish the constraints
-
-Finally, to draw cards in the spell, you must do any of the following:
-
--  Perform the ritual at midnight at a crossroads.
--  Gaze into a mirror or reflective surface.
--  Let a candle burn out.
--  Invoke the names of celestial or infernal entities.
--  Create an effigy out of a rare or valuable substance.
--  Call the subject of the spell by their true, hidden name.
--  ...
+Each constraint raises the limit. With none, a spell cast on the fly
+with nothing but will, the limit is 16. Each additional constraint
+raises this by two, up to 28.
 
 When you cast a spell, whether it fails, works, or explodes in your
 face, the GM should describe the effect with as much attention to the
 land and the season as they can.
+
+Fairy magic, of course, is different.
+
+.. epigraph::
+
+   Only an obstinate prejudice about this period could blind us to a
+   certain change which comes over the merely literary texts as we pass
+   from the Middle Ages to the sixteenth century. In medieval stories
+   there is, in one sense, plenty of "magic". Merlin does this or that
+   "by his subtilty", Bercilak resumes his severed head. But all these
+   passages have unmistakably the note of "faerie" about them. But in
+   Spenser, Marlowe, Chapman, and Shakespeare the subject is treated
+   quite differently. "He to his studie goes"; books are opened,
+   terrible words pronounced, souls imperiled. The medieval author seems
+   to write for a public to whom magic, like knight-errantry, is part of
+   the furniture of romance: the Elizabethan, for a public who feel that
+   it might be going on in the next street. [...] Neglect of this point
+   has produced strange readings of *The Tempest*, which is in reality
+   [...] Shakespeare's play on *magia* as *Macbeth* is his play on
+   *goeteia*.
+
+   -- C. S. Lewis, *English Literature in the Sixteenth Century,
+   Excluding Drama*
