@@ -108,7 +108,7 @@ html_sidebars = {
         'searchbox.html',
     ],
 }
-html_favicon = 'static/favicon.ico'
+html_favicon = '_static/favicon.ico'
 
 
 # -- Options for HTMLHelp output ------------------------------------------
