@@ -124,13 +124,12 @@ Hecate, the phases of the moon, virgin goddesses, inseparable, wild
 mistresses of storms physical and social, demanding *amusement* and
 *secrets* before all else.
 
-Sheevra
--------
+Fetch
+-----
 
-The *sheevra*, ultimately from the Irish *aes sídhe*, are beings that
-look like humans, act like humans, but are no longer humans. They have
-so lost themselves to magic that their souls have become nothing but
-fairy flames.
+*Fetches* are beings that look like humans, act like humans, but are no
+longer humans. They have so lost themselves to magic that their souls
+have become nothing but fairy flames.
 
 Goblins
 -------

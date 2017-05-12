@@ -49,8 +49,8 @@ Et in Arcadia Ego
    -  Need to make dueling rules.
    -  Related to all of these: need to make countdown clocks,
       essentially. So that you can see the bad things coming at you.
-   -  Clarify what a Sheevra is, and what it means to become one, and
-      how you deal with soul-stress.
+   -  Clarify what a fetch is, and what it means to become one, and how
+      you deal with soul-stress.
    -  Clarify goblins, as opposed to fairies.
 
    So:

@@ -37,7 +37,7 @@ they surpass the limit, you have let too much into the world: your spell
 works, but beyond what you intended. You will also have to pay a cost:
 either increasing the power of the fairy (see :ref:`threats`), or
 risking your own soul and walking a step closer to becoming a
-Sheevra.
+fetch.
 
 Based on the desired effect, the threshold will be higher or lower.
 Based on the ritual and constraints on the spell, the limit will be
