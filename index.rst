@@ -11,7 +11,7 @@ Et in Arcadia Ego
 
 *A game of magic, manners, and madness in Jane Austen's England.*
 
-.. image:: static/marlay_house.jpg
+.. image:: /_static/marlay_house.jpg
    :align: center
    :width: 650px
    :alt: Marlay House, Dublin
