@@ -40,34 +40,12 @@ Et in Arcadia Ego
    Thanks!
 
 .. todo::
-   -  Finish example character creation.
    -  Add examples of the minigames.
    -  Need to add stress, which can come from dramatic or procedural
-      beats, and can impede either.
-   -  Need to add stress healing.
-   -  Need to add reputation healing.
-   -  Need to make dueling rules.
-   -  Related to all of these: need to make countdown clocks,
-      essentially. So that you can see the bad things coming at you.
-   -  Clarify what a fetch is, and what it means to become one, and how
-      you deal with soul-stress.
-   -  Clarify goblins, as opposed to fairies.
+      beats, and can impede either. Particularly also magical
+      soul-stress, towards becoming a fetch?
 
-   So:
-
-   -  The fairy is a countdown clock. They get more powerful the more
-      you use magic, or past a certain point, the more you fail to keep
-      them at bay.
-   -  Any time you use magic on someone, they are now marked, and the
-      fairy can interfere with them and their lives. All PCs start
-      marked.
-   -  As Austin put it: Magic is often a form of violence.
-   -  You don't really get better at magic, per se. It's like
-      Brinksmanship in *Poison'd*: it's just whatever your best stat is,
-      as it were. Perhaps there's also Profile, which is how prepared
-      you are for this spellcasting.
-   -  Perhaps getting better at magic is mostly unlocking new spells
-      from the spell list, which also can be tied to the fairy clock.
+.. todolist::
 
 .. toctree::
    :maxdepth: 2
@@ -85,7 +63,9 @@ Et in Arcadia Ego
    rules/exertion
    rules/impression
    rules/magic
+   rules/dueling
    rules/the_gm
+   rules/recovery
    rules/change_and_growth
    appendix/passions
    appendix/social_roles

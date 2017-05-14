@@ -3,6 +3,11 @@
 Magic
 =====
 
+.. todo::
+   -  As Austin put it: Magic is often a form of violence.
+   -  Perhaps getting better at magic is mostly unlocking new spells
+      from the spell list, which also can be tied to the fairy clock.
+
 Magic is English, and of the land. Fairy magic is not, it is a different
 thing from a different world and can do other things than English magic.
 But English magic lets you do enough: it lets you pass between worlds,
@@ -15,7 +20,7 @@ alone and unloved.
 When a character goes to cast a spell, they have two options: either
 they ask a fairy to do the magic for them, or they risk casting the
 spell themselves. In the former case, it is necessary simply to find a
-fairy, and use the :ref:`petition`.
+fairy, and use the rules for :ref:`petition`.
 
 The latter case, though, is where things get interesting.
 
@@ -38,6 +43,10 @@ works, but beyond what you intended. You will also have to pay a cost:
 either increasing the power of the fairy (see :ref:`threats`), or
 risking your own soul and walking a step closer to becoming a
 fetch.
+
+.. todo::
+   Clarify what a fetch is, and what it means to become one, and how you
+   deal with soul-stress.
 
 Based on the desired effect, the threshold will be higher or lower.
 Based on the ritual and constraints on the spell, the limit will be

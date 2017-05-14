@@ -17,11 +17,13 @@ their dreams and to face their fears.
 
 Certain things you say will use certain rules:
 
--  If you want something from another character, use :ref:`petition`.
--  If you want to do something, but it's difficult or risky, use
-   :ref:`exertion`.
--  If you want to impress someone, use :ref:`impression`.
--  If you want to cast a spell, use :ref:`magic`.
+-  If you want something from another character, use the rules for
+   :ref:`petition`.
+-  If you want to do something, but it's difficult or risky, use the
+   rules for :ref:`exertion`.
+-  If you want to make a good impression, use the rules for
+   :ref:`impression`.
+-  If you want to cast a spell, use the rules for :ref:`magic`.
 
 Some of these rules will involve using the playing cards. After any time
 where you use the cards, shuffle them back together.

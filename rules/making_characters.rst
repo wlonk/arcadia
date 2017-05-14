@@ -16,7 +16,7 @@ By the time you finish, each character will have:
    -  Relationships
    -  Starting social tokens
 
--  Two Passions
+-  A Passion
 -  Passion tokens
 -  A family, and thus a family boon
 -  A personal boon
@@ -25,9 +25,16 @@ There are two ways to choose your social role: the hardcore way, and the easy
 way. The difference is this: your choice of social role is constrained in the
 easy way, and you have *no* choice in the hardcore way.
 
-For easy character creation, deal each player three social roles; they must
-choose from among them for their character. For hardcore, deal each player one,
-and that is who they will play.
+For easy character creation, deal each player three social roles; they
+must choose from among them for their character. As there are twelve
+social roles, this only works with four or fewer players. While the game
+works with five players, I find that that strains matters sometimes, so
+maybe this is just as well. If you are playing with more than four, you
+can do this in rounds, dealing three to someone and taking the discarded
+roles and shuffling them back in before dealing three options to the
+next player.
+
+For hardcore, deal each player one, and that is who they will play.
 
 .. sidebar:: Social role and gender
 
@@ -45,7 +52,7 @@ and that is who they will play.
 (See :ref:`social-roles` for details.)
 
 Once you have a social role, choose your name, answer the relationship
-questions on your social role, and choose two passions.
+questions on your social role, and choose a passion.
 
 Now choose a personal boon:
 
@@ -74,7 +81,9 @@ These boons and the family boons are not the sorts of things that the
 *characters* are aware of or discuss in-fiction. They are for you, the players,
 only.
 
-Then choose two passions for your character. See :ref:`passions` for details.
+Then choose a passion for your character. See :ref:`passions` for details.
+
+.. todo:: Design character sheet.
 
 Your character starts with a number of social tokens based on their social
 role, and two passion tokens.
@@ -103,3 +112,148 @@ Why might a fairy take an interest in them?
    granted an audience with the British monarch.
 
    Please, don't just play rich white people! There's so much more here.
+
+An Example
+----------
+
+Let's return to Anna, Beatriz, Cal, and Dan are playing, with Elias
+running, in the town of Stanham.
+
+Elias, running the game, won't be making a character, but he'll ask
+questions as everyone else makes their characters, and try to tie
+everything together into a nice tense situation.
+
+Now, everyone agrees that they want to make their characters on hardcore
+mode, so Elias separates out the face cards from the deck they'll be
+using, and deals a card to each player.
+
+Anna gets the King of Hearts, the Officer. She decides that her
+character is sort of the outsider here, a cavalry Captain in a militia
+regiment stationed here at Stanham. She names him Captain George Perry.
+He's actually related to the Clearidges, and thus shares their *Yew
+blood*, though it's through his mother, Susan Perry *née* Clearidge, and
+so he was happy to get stationed in Stanham, where his mother grew up.
+
+Beatriz gets the Queen of Hearts, the Governess. She names her character
+Miss Lucy Taylor, and makes her, of course, a Taylor, with *Holly
+blood*.
+
+Cal gets the Jack of Spades, the Invalid. This role can be male or
+female, and so to keep things evenly split, Cal decides to make a female
+character, Miss Rebecca Fitzgibbon. He can't resist the reference to
+Daphne du Maurier for a character who will, he imagines, often be
+present more in implication than not, even if the parallels are
+imprecise. As a Fitzgibbon, of course, she will be well-off, and have a
+poetic inclination through her *Ash blood*. He puts off the question of
+just what her illness is, but notes that his modern understanding of it
+may be more nuanced than the doctors of the period can manage.
+
+Dan gets King of Spades, the Gentleman. He was leaning towards playing a
+member of the Mason family, but after hearing Cal's concept, is
+interested in maybe playing another Fitzgibbon, Rebecca's brother maybe.
+In the end, though, he thinks that playing a Mason and possibly wooing
+Miss Fitzgibbon would be more interesting. So he will play Mr. Edward
+Mason, the eldest son of the family. Like the rest of his family, he has
+*Hazel blood*.
+
+So, the basics out of the way, it is time to populate this town and make
+some complex relationships.
+
+First, Anna's character, Captain Perry. She has three questions to
+answer:
+
+-  Who is the wealthy relative or patron who bought your commission?
+-  Who is your dearest comrade from the wars?
+-  Who is your batman, or the soldier assigned to you as a servant?
+
+These questions skew male, as the Officer comes from a very homosocial
+world. She decides that none of them make sense as any of the other main
+characters, so she's going to make a trio of supporting characters. For
+now, they're little more than names:
+
+-  His commission was bought by Mrs. Dorothea Clearidge, the eminent
+   widow and matriarch of the Clearidge family. She didn't want to see
+   him slaving away as some kind of *enlisted man*.
+-  His dearest comrade is Lt. James Pembroke, but to be honest, neither
+   of them have seen real military action. Pembroke is part of the same
+   regiment, and also here in Stanham.
+-  His batman is Private Harry Fogg, another person with a connection to
+   Stanham.
+
+Next, Beatriz's character, Miss Taylor. She must answer the following:
+
+-  Who is your best friend?
+-  Who is your charge or are your charges?
+-  Who is your employer?
+
+Her answers:
+
+-  Her best friend is Miss Fitzgibbon. While the friendship grew out of
+   pity, she has found that Miss Fitzgibbon (she does call her Rebecca
+   when they're alone) has a keen mind, and sees the world in a way that
+   always makes her think.
+-  Her charge is Mr. Mason's young sibling, Master William Mason. He's a
+   terror, too smart for his own good, and always turning his mind
+   towards trouble.
+-  Her employer, therefore, is Mr. Mason's father, Mr. Edward Mason the
+   elder.
+
+Now Cal goes, with Miss Fitzgibbon. The questions are:
+
+-  Who thinks you’re playing it up for sympathy?
+-  Who is your physician?
+-  Who is your source of comfort?
+
+The answers:
+
+-  Since there's already the potential of a match between Miss
+   Fitzgibbon and Mr. Mason the younger, Cal has to do it: with Dan's
+   permission, he makes a sister, a Miss Caroline Mason, who thinks that
+   Miss Fitzgibbon could be well if she decided to be.
+-  Her physician is a Dr. Sweet, who is often considered the best in the
+   county. For the Fitzgibbons, it is no object to pay his fee.
+-  Her source of comfort is, of course, Miss Taylor.
+
+Finally, Dan, with Mr. Mason. The questions:
+
+-  Who is the tradesman you owe the most?
+-  Who is your boon companion?
+-  Who is your cousin?
+
+These questions are intended to put some obligations and pressures on a
+character who often can do as they please, so Dan considers how to tie
+them to what already has been decided.
+
+-  The tradesman should be a Taylor, since they have their fingers in
+   every pie. He goes with Mr. Simon Taylor, a silversmith. He has
+   commissioned a dining set beyond his means, partly in an effort to
+   show off to Miss Fitzgibbon.
+-  His boon companion is Capt. Perry, even though Perry might not
+   *fully* reciprocate the feelings.
+-  His cousin will be Miss Grace Clearidge, as the Clearidges and Masons
+   are families of similar rank that have both been in this town for a
+   while, and he feels that he'd like more connections with the
+   Clearidge family.
+
+Finally, each character needs a passion and a boon.
+
+Anna, as Capt. Perry, takes Adoration, and Saturn. He seeks the approval
+and attention of those around him, and can focus intently when he needs
+to.
+
+Beatriz, as Miss Taylor, takes Power, and Sol. She has spent much of her
+life being told what to do, and knows that she knows better than others
+more often than not. She can make stunning first impressions, too.
+
+Cal, as Miss Fitzgibbon, takes Love, and Venus. Sometimes, it's the
+obvious choices that are best. She wishes to marry for true, romantic
+love, and she is, herself, beautiful.
+
+Dan, as Mr. Mason, takes Absolution, and Mercury. He doubles down on his
+character's education and knowledge with Mercury, and his family's Hazel
+blood, but has to explain Absolution a bit more: he thinks that he has
+done wrong by his father, in failing to pursue a career that might have
+earned the family a bit more stability. His friendship with Capt. Perry
+is underscored by this theme, as Perry has a good income as an officer
+of horse, and the chance at real glory should he be sent to the
+Peninsula.

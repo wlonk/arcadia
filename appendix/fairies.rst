@@ -3,6 +3,8 @@
 Appendix: Arcadian Beings
 =========================
 
+.. todo:: Clarify difference between fairies, fetches, and goblins.
+
 Fairies
 -------
 

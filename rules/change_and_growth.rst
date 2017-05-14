@@ -1,7 +1,7 @@
 .. _change-and-grow:
 
-How characters change and grow
-==============================
+Change and growth
+=================
 
 At the end of a season (a series of sessions forming a satisfying arc,
 typically taking place over a quarter to a half of a year of in-game
@@ -13,3 +13,5 @@ Characters can:
 -  more?
 
 Not sure how yet.
+
+.. todo:: Make change and growth rules.

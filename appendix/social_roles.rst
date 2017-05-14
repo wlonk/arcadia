@@ -3,7 +3,7 @@
 Appendix: Social Roles
 ======================
 
-King of Swords: Gentleman (|male|)
+King of Spades: Gentleman (|male|)
 ----------------------------------
 
 A single man, in possession of a good fortune. Let a lady decide the
@@ -30,8 +30,8 @@ Tell us who is:
 
 Initial social role tokens: 3
 
-King of Cups: Officer (|male|)
-------------------------------
+King of Hearts: Officer (|male|)
+--------------------------------
 
 You have seen the battlefields of the continent, led men into the
 cannon's roar, and on top of all that, can cut a fine figure in your red
@@ -51,11 +51,11 @@ Tell us who is:
 
 -  The wealthy relative or patron who bought your commission
 -  Your dearest comrade from the wars
--  Your dogsbody
+-  Your batman, or the soldier assigned to you as a servant
 
 Initial social role tokens: 2
 
-King of Wands: Clergyman (|male|)
+King of Clubs: Clergyman (|male|)
 ---------------------------------
 
 You have the living of one or more parish churches, and are expected to
@@ -82,8 +82,8 @@ Tell us who is:
 
 Initial social role tokens: 2
 
-King of Coins: Dandy (|male|)
------------------------------
+King of Diamonds: Dandy (|male|)
+--------------------------------
 
 The fashions of the *bon ton* change more rapidly with every passing
 year, but you keep on the very forefront, with your hair in a "Bedford
@@ -108,7 +108,7 @@ Tell us who is:
 
 Initial social role tokens: 2
 
-Queen of Swords: Lady (|female|)
+Queen of Spades: Lady (|female|)
 --------------------------------
 
 A young lady, from a good family, with some hope of marriage. Your
@@ -136,8 +136,8 @@ Tell us who is:
 
 Initial social role tokens: 3
 
-Queen of Cups: Governess (|female|)
------------------------------------
+Queen of Hearts: Governess (|female|)
+-------------------------------------
 
 A young lady of indifferent family, but with enough education to hold a
 position with a wealthy family as not-quite-a-servant. Set a good
@@ -162,7 +162,7 @@ Tell us who is:
 
 Initial social role tokens: 2
 
-Queen of Wands: Ward (|female|)
+Queen of Clubs: Ward (|female|)
 -------------------------------
 
 A young lady who has been sent to live with relatives. Either her
@@ -187,8 +187,8 @@ Tell us who:
 
 Initial social role tokens: 2
 
-Queen of Coins: Spinster (|female|)
------------------------------------
+Queen of Diamonds: Spinster (|female|)
+--------------------------------------
 
 You are expected to deviate from your society's feminine ideal, have
 secret wealth or knowledge, and draw strength from your connections with
@@ -212,7 +212,7 @@ Tell us who is:
 
 Initial social role tokens: 2
 
-Jack of Swords: Invalid (|either|)
+Jack of Spades: Invalid (|either|)
 ----------------------------------
 
 You are expected to be home-bound, solicitous of others' health, and grateful
@@ -236,8 +236,8 @@ Tell us who is:
 
 Initial social role tokens: 2
 
-Jack of Cups: Magician (|either|)
----------------------------------
+Jack of Hearts: Magician (|either|)
+-----------------------------------
 
 You are expected to be mysterious, wise, and unconventional.
 
@@ -259,7 +259,7 @@ Tell us who:
 
 Initial social role tokens: 2
 
-Jack of Wands: Servant (|either|)
+Jack of Clubs: Servant (|either|)
 ---------------------------------
 
 A young man or woman in service to someone of quality. Be neither seen
@@ -285,8 +285,8 @@ Tell us who is:
 
 Initial social role tokens: 1
 
-Jack of Coins: Vagabond (|either|)
-----------------------------------
+Jack of Diamonds: Vagabond (|either|)
+-------------------------------------
 
 There are many ways someone might end up living on the road and sleeping
 rough. Servants may leave their masters and go a-tramping to find new

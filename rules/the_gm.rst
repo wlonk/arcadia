@@ -160,8 +160,18 @@ Threats
 Sometimes, threats will loom on the horizon. There is one threat that is
 always in play: the Fairy. Otherwise, create them as needed.
 
+.. todo:: Make countdown clock rules for those threats that need them.
+
 The Fairy
 ~~~~~~~~~
+
+.. todo::
+   -  The fairy is a countdown clock. They get more powerful the more
+      you use magic, or past a certain point, the more you fail to keep
+      them at bay.
+   -  Any time you use magic on someone, they are now marked, and the
+      fairy can interfere with them and their lives. All PCs start
+      marked.
 
 Penury
 ~~~~~~
