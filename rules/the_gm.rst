@@ -1,7 +1,7 @@
 .. _gm-rules:
 
-Rules for the GM
-================
+GMing
+=====
 
 The GM controls the NPCs and provides adversity. It's their role to
 reinforce the strictures of society, the dangers of magic, and the

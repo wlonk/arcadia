@@ -1,7 +1,7 @@
 .. _making-characters:
 
-Rules for making characters
-===========================
+Making characters
+=================
 
 Once you have made a village together, you can make your characters. This can
 be done more independently, but it's still worth talking and sharing ideas and
@@ -61,9 +61,9 @@ Now choose a personal boon:
    one weird thing would help.
 -  **Saturn:** Your focus is unshakable. You may draw an extra card in any
    exertion where you must overcome distractions.
--  **Sol:** You are what you appear to be. When making an impression, once per
-   session you may simply state one truth, and no one takes any false
-   impression from the moment.
+-  **Sol:** You are dazzling. When making an impression, once per
+   session you may simply state one positive impression you leave,
+   whether you have any bad reputations or not.
 -  **Uranus:** You have a spark of genius. You may draw an extra card in any
    exertion where you seek to create or discover something new, unknown to the
    world at this point.

@@ -1,7 +1,7 @@
 .. _magic:
 
-Rules for magic
-===============
+Magic
+=====
 
 Magic is English, and of the land. Fairy magic is not, it is a different
 thing from a different world and can do other things than English magic.

@@ -1,7 +1,7 @@
 .. _petition:
 
-Rules for petition
-==================
+Petition
+========
 
 When your character wants a concession from another character, the
 player of that other character can decide whether that character

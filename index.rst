@@ -45,7 +45,7 @@ Et in Arcadia Ego
    -  Need to add stress, which can come from dramatic or procedural
       beats, and can impede either.
    -  Need to add stress healing.
-   -  Need to make impression related to reputation
+   -  Need to add reputation healing.
    -  Need to make dueling rules.
    -  Related to all of these: need to make countdown clocks,
       essentially. So that you can see the bad things coming at you.

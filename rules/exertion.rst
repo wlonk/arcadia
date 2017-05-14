@@ -1,7 +1,7 @@
 .. _exertion:
 
-Rules for exertion
-==================
+Exertion
+========
 
 When your character does something well out of their usual affairs,
 under extreme or adverse circumstances, or that puts them in mortal
