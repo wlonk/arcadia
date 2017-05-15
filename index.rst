@@ -41,9 +41,6 @@ Et in Arcadia Ego
 
 .. todo::
    -  Add examples of the minigames.
-   -  Need to add stress, which can come from dramatic or procedural
-      beats, and can impede either. Particularly also magical
-      soul-stress, towards becoming a fetch?
 
 .. todolist::
 
@@ -64,9 +61,10 @@ Et in Arcadia Ego
    rules/impression
    rules/magic
    rules/dueling
-   rules/the_gm
+   rules/faults
    rules/recovery
    rules/change_and_growth
+   rules/the_gm
    appendix/passions
    appendix/social_roles
    appendix/fairies
