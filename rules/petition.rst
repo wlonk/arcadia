@@ -66,3 +66,5 @@ enough tokens to get one, you *just lose*. On the other hand, you cannot
 damage a reputation.
 
 Fairies *always* have leverage over any mortal they talk with.
+
+.. todo:: Add example of petition.

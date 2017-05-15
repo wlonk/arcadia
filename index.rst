@@ -39,9 +39,6 @@ Et in Arcadia Ego
 
    Thanks!
 
-.. todo::
-   -  Add examples of the minigames.
-
 .. todolist::
 
 .. toctree::
