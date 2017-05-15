@@ -39,8 +39,6 @@ Et in Arcadia Ego
 
    Thanks!
 
-.. todolist::
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
@@ -67,3 +65,5 @@ Et in Arcadia Ego
    appendix/fairies
    appendix/spells
    appendix/names
+
+.. todolist::
