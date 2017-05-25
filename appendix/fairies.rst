@@ -5,6 +5,12 @@ Appendix: Arcadian Beings
 
 .. todo:: Clarify difference between fairies, fetches, and goblins.
 
+.. todo::
+   Add specific bargains that certain fairies can offer. Use the
+   Infernal from *Monsterhearts*, bargains in *Poison'd*, possession in
+   *Dogs in the Vineyard*, corruption in *Urban Shadows*, and everything
+   in *Bedlam Beautiful* and *Midsummer Wood* as guides and inspiration.
+
 Fairies
 -------
 
