@@ -3,19 +3,52 @@
 Appendix: Arcadian Beings
 =========================
 
-.. todo:: Clarify difference between fairies, fetches, and goblins.
+There are many creatures native to Arcadia, a few of which characters
+may encounter, and one of which they may even become.
 
-.. todo::
-   Add specific bargains that certain fairies can offer. Use the
-   Infernal from *Monsterhearts*, bargains in *Poison'd*, possession in
-   *Dogs in the Vineyard*, corruption in *Urban Shadows*, and everything
-   in *Bedlam Beautiful* and *Midsummer Wood* as guides and inspiration.
+All arcadian beings are inherently magical. That is, it is in their
+nature to manipulate the world around them in ways alien to us, as they
+can plead and bargain with forces and powers and objects that we
+consider inanimate. This may be the origin of the belief that, while
+they are more intrinsically magical than humans are, they are also more
+intrinsically mad. Their priorities and understanding of the world may
+simply be profoundly different.
+
+There are two major kinds of being native to Arcadia: *fairies*, and
+*goblins*. There are also creatures that are hybrids of mortal and
+arcadian, called *fetches*.
+
+Fairies are the grander of the two kinds, possessing vast magical
+powers, and ruling over kingdoms, duchies, or clans in Arcadia. They
+typically look like humans, though whether this is because it amuses
+them to do so, or it is their true form, no one knows.
+
+Goblins are the meaner common folk of Arcadia. They may be human-like,
+but are never mistaken for humans. Most are much taller or smaller than
+an adult human, and all show some sort of natural or bestial features,
+from fur or scales, to bark or lichen-covered stony hides. Their magic
+is more limited, but by no means less potent. Most goblins have a
+magical trick or two up their sleeves, but unlike humans, they require
+no preparation or ritual to use them; they're intrinsic to their very
+nature.
+
+Finally, fetches are what happens when a human soul abandons itself to
+Arcadia. They look human because they once were; they have the memories
+and, superficially, the personality of the person they once were, but do
+not mistake them. They have no moral center and delight in bringing
+chaos to the world.
 
 Fairies
 -------
 
 These are the rulers of Arcadia, the nobles and dominions of that other
 land. One will be present in each game of *Arcadia*.
+
+.. todo::
+   Add specific bargains that certain fairies can offer. Use the
+   Infernal from *Monsterhearts*, bargains in *Poison'd*, possession in
+   *Dogs in the Vineyard*, corruption in *Urban Shadows*, and everything
+   in *Bedlam Beautiful* and *Midsummer Wood* as guides and inspiration.
 
 The Beast of the Moors
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -137,10 +170,54 @@ Fetch
 
 *Fetches* are beings that look like humans, act like humans, but are no
 longer humans. They have so lost themselves to magic that their souls
-have become nothing but fairy flames.
+have become nothing but fairy-flames.
+
+Being fairy-flame in a mortal shell, they may pass freely between the
+human realm and Arcadia. They may step through shadows, mirrors, or
+fires to do so.
+
+They also, without exception, hunger for pain and chaos. They will not
+pursue it wantonly, but will bide their time and strike when the moment
+is most ripe.
+
+Fetches also can use a form of magic that is neither quite human nor
+arcadian: they may perform any mortal spell, but in an instant. They do
+not need to worry about passing the threshold or exceeding the limit,
+either. However, since they are made of fairy-flame, each time they cast
+a spell, it consumes their fuel and brings them closer to their
+inevitable extinction.
+
+.. todo:: How do fetches get extinguished?
 
 Goblins
 -------
 
-All the lesser things, the common folk of Arcadia. They crave one thing
-each, and that thing is usually the blood of mortals.
+All the lesser things, the common folk of Arcadia. They all have hungers
+that, to mortals, seem horrifying:
+
+-  This one can eat a village's harvest for a meal.
+-  This one craves human meat to eat.
+-  This one grinds human bones for its bread.
+-  This one loves the sounds of torture for music.
+-  This one must steal and butcher a child each night or it cannot rest.
+-  This one steals the breath of those who sleep.
+-  This one vomits poison into springs and wells.
+-  And likewise, and likewise.
+
+Though their fairy masters can keep them in check, if they so choose.
+
+They all have unnatural abilities and powers:
+
+-  This one's flesh mends by night, no matter the wounds it suffers.
+-  This one keeps its vital organs hidden in a broken tree.
+-  This one is made of living shadow, intangible except as it chooses.
+-  This one moves lightly on its feet, no matter its great size and bulk.
+-  This one's skin is as hard as stone.
+-  This one can take on a lovely human seeming, which only its voice betrays.
+-  This one's teeth and claws effortlessly pierce iron armor.
+-  This one can vomit out fire.
+-  And likewise, and likewise.
+
+.. todo::
+   These lists are taken from Vincent Baker's *Apocalypse World: Dark
+   Age*, and should be updated.
