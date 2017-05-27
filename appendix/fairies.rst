@@ -214,7 +214,7 @@ They all have unnatural abilities and powers:
 -  This one moves lightly on its feet, no matter its great size and bulk.
 -  This one's skin is as hard as stone.
 -  This one can take on a lovely human seeming, which only its voice betrays.
--  This one's teeth and claws effortlessly pierce iron armor.
+-  This one's teeth and claws effortlessly tear flesh and bone.
 -  This one can vomit out fire.
 -  And likewise, and likewise.
 
