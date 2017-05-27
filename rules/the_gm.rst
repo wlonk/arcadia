@@ -3,9 +3,15 @@
 GMing
 =====
 
-The GM controls the NPCs and provides adversity. It's their role to
+As the GM, you control the NPCs and provide adversity. It's your role to
 reinforce the strictures of society, the dangers of magic, and the
-difficulties of human connections.
+difficulties of human connections. 
+
+You should play to keep the world verisimilitudinous. You should play to
+keep the characters' lives complex and compelling. Your object is to
+keep the characters in compelling situations, so that we can find out
+what they do. Not punishing situations, but challenging: challenging to
+their allegiances, values, beliefs.
 
 The GM should write down what we know about NPCs on their index cards,
 and particularly how they feel about the PCs and each other. This will
@@ -180,8 +186,8 @@ segment.
 
 Sometimes social missteps, awkward interactions, or snubs might cause
 you to mark segments. Sometimes, simple neglect of the problem might.
-Use your judgment, but remember to keep your principles in mind: you are
-not here to punish the characters, but you are here to keep the world
+Use your judgment, but remember to keep your agenda in mind: you are not
+here to punish the characters, but you are here to keep the world
 verisimilitudinous and to keep the characters' lives complex and
 compelling.
 
