@@ -160,7 +160,34 @@ Threats
 Sometimes, threats will loom on the horizon. There is one threat that is
 always in play: the Fairy. Otherwise, create them as needed.
 
-.. todo:: Make countdown clock rules for those threats that need them.
+You will want to keep track of threats as they approach. A convenient
+way to do this is with an index card. Write the name of the threat, and
+make a number of boxes or segments to fill in. As the threat approaches,
+fill in segments.
+
+How many segments should a threat have, and how many should you fill in
+at a time? This is largely a matter of judgment. An urgent threat might
+have four segments, a pressing one six, and a distant one eight. When
+something goes wrong, mark one segment, unless it has gone disastrously
+wrong, then mark two. They are very much like reputations on characters'
+social roles.
+
+It is really up to the GM to keep these cards in sync with the story,
+though, and you may sometimes find that you have not kept up, and may
+need to mark some more segments. And sometimes, rarely, the characters'
+actions may even push a threat further away, and you might erase a
+segment.
+
+Sometimes social missteps, awkward interactions, or snubs might cause
+you to mark segments. Sometimes, simple neglect of the problem might.
+Use your judgment, but remember to keep your principles in mind: you are
+not here to punish the characters, but you are here to keep the world
+verisimilitudinous and to keep the characters' lives complex and
+compelling.
+
+(I will also sometimes use spare tokens, instead of segments, removing
+them as I count down to the threat's realization, but this is harder for
+keeping track across sessions.)
 
 The Fairy
 ~~~~~~~~~
@@ -176,25 +203,70 @@ The Fairy
 Penury
 ~~~~~~
 
+In the words of Mr. Micawber:
+
+   Annual income twenty pounds, annual expenditure nineteen nineteen
+   six, result happiness. Annual income twenty pounds, annual
+   expenditure twenty pounds nought and six, result misery.
+
+When a character cannot afford the costs of their life, they approach
+*penury*. When this threat comes to pass, their lifestyle falls apart:
+without magical interference, they will be unable to pay for food and
+shelter, and may become a vagabond, or find themselves detained and
+thrown in the workhouse; you may bring Arrest into play. Vagrancy and
+penury are, of course, criminalized in this time and place.
+
+If you choose, you can avoid penury through bringing Debt into play.
+
 Debt
 ~~~~
+
+Legally, there are two kinds of debt: a debt created through a legal
+instrument, such as a loan; and a debt incurred through gambling, or
+other activity outside the bounds of the law. The former are very
+binding, and can land a delinquent debtor in debtor's prison. The latter
+are not *actually* legally enforceable, and are called "debts of honour"
+as a result. However, *de facto*, sufficient debts of honour can easily
+lead to legally enforceable debt and debtor's prison.
+
+A character who is in Debt has exhausted their lines of credit, and may
+be very hard up indeed.
+
+Once this threat is realized, bring Arrest into play. You may also, if
+appropriate, bring in Shunning.
 
 Arrest
 ~~~~~~
 
-Ostracization
-~~~~~~~~~~~~~
+As this threat comes to bear, the magistrates and bailiffs close in
+their pursuit of the character in question. Once it is in play, the
+character is imprisoned. Our modern conceptions of prisoners' rights
+very much do not apply. Depending on the prison and the conditions,
+perhaps bring Disease into play.
+
+Shunning
+~~~~~~~~
 
 The first time a character marks all three bad reputations, bring this
-threat into play.
+threat directly into play. You can also bring it directly into play when
+something particularly damning comes to light about a character.
 
-Dishonour
-~~~~~~~~~
+A shunned character is avoided, snubbed, cut, and excluded at every
+turn.
+
+Disease
+~~~~~~~
+
+Bring this in to play when a character has been exposed to unwholesome
+conditions, such as in prison, or wandering the moors in inclement
+weather, or exposure to strange things in Arcadia.
+
+When a character succumbs to Disease, treat it as a :ref:`duel
+<dueling>` between them and the disease.
 
 Corruption
 ~~~~~~~~~~
 
-Of the magical kind.
+.. todo:: Write corruption threat. Relates to soul-damage?
 
-The Storm
-~~~~~~~~~
+Of the magical kind.
