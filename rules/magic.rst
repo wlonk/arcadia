@@ -35,6 +35,18 @@ The player should describe the effect they desire, using either one of
 the existing spells (see :ref:`spells`) or making their own along those
 lines.
 
+.. topic::
+   One very important caveat to remember is this: magic cannot create
+   something out of nothing. It has to have something to work from.
+   Cinderella's coach is made from a pumpkin, after all. Even magic to
+   pass between worlds requires something to work from: a mirror, a
+   doorway, a shadow.
+
+   Further, while magic can substantially transmute and transform one
+   thing into another, it cannot do so with feelings. Love spells are a
+   promise as old as humanity, but an empty one. Some things are beyond
+   even magical forces.
+
 To cast the spell, you must know two numbers: the threshold, and the
 limit. You will describe the ritual, each step you take giving you a
 card. If your cards total at or above the threshold, the spell works. If
