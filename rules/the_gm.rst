@@ -268,7 +268,9 @@ conditions, such as in prison, or wandering the moors in inclement
 weather, or exposure to strange things in Arcadia.
 
 When a character succumbs to Disease, treat it as a :ref:`duel
-<dueling>` between them and the disease.
+<dueling>` between them and the disease. It's not a fair fight, usually.
+The disease has the advantage, unless you're attended by doctors. If
+you're attended by the very best doctors, you have the advantage.
 
 Corruption
 ~~~~~~~~~~
