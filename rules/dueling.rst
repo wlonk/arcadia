@@ -20,9 +20,11 @@ course.
 
 If it's not a fair fight, the side with advantage chooses: are they
 fighting aggressively, or cautiously? If they're fighting aggressively,
-the side with disadvantage has to draw two cards, and keep the one that
-the side with advantage chooses. If they're fighting cautiously, then
-they draw two cards, and keep the one that they choose.
+they draw one card as usual and the side with disadvantage has to draw
+two cards, and keep the one that the side with advantage chooses. If
+they're fighting cautiously, then they draw two cards, and keep the one
+that they choose, while the side with disadvantage draws one card as
+usual.
 
 .. todo::
    Can you spend Passion to escalte/re-roll? Can you spend passion to
