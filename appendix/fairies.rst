@@ -187,7 +187,10 @@ either. However, since they are made of fairy-flame, each time they cast
 a spell, it consumes their fuel and brings them closer to their
 inevitable extinction.
 
-.. todo:: How do fetches get extinguished?
+.. todo::
+   How do fetches get extinguished? Do they start with a number of flame
+   tokens based on the character's passion, and burn one per big effect
+   they do?
 
 Goblins
 -------

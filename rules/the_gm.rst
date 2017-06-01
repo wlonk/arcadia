@@ -272,6 +272,8 @@ When a character succumbs to Disease, treat it as a :ref:`duel
 The disease has the advantage, unless you're attended by doctors. If
 you're attended by the very best doctors, you have the advantage.
 
+Of course, a fight with a disease is to the death.
+
 Corruption
 ~~~~~~~~~~
 

@@ -56,15 +56,14 @@ boxes marked, you cannot gain from it during Gossip until you have fully
 recovered it. If a reputation has four boxes marked, you may not choose
 it as the damaged reputation, either!
 
-Petitioning Fairies
--------------------
+.. topic:: Petitioning Fairies
 
-When you petition a fairy, you use passion tokens instead of role tokens
-to draw cards, and may not make a desperate declaration or passionate
-plea. If you are put in the position of not having a winning card or
-enough tokens to get one, you *just lose*. On the other hand, you cannot
-damage a reputation.
+   When you petition a fairy, you use passion tokens instead of role
+   tokens to draw cards, and may not make a desperate declaration or
+   passionate plea. If you are put in the position of not having a
+   winning card or enough tokens to get one, you *just lose*. On the
+   other hand, you cannot damage a reputation.
 
-Fairies *always* have leverage over any mortal they talk with.
+   Fairies *always* have leverage over any mortal they talk with.
 
 .. todo:: Add example of petition.

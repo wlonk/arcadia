@@ -57,7 +57,6 @@ Et in Arcadia Ego
    rules/magic
    rules/dueling
    rules/faults
-   rules/recovery
    rules/change_and_growth
    rules/the_gm
    appendix/passions
