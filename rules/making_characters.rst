@@ -88,6 +88,8 @@ Then choose a passion for your character. See :ref:`passions` for details.
 
 .. todo:: Design character sheet.
 
+.. todo:: What happens when you run out of either type of token?
+
 Your character starts with a number of social tokens based on their social
 role, and two :index:`passion tokens <passion tokens>`.
 

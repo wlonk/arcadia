@@ -315,3 +315,5 @@ They keep as many :index:`passion tokens <passion tokens>` as they had
 at the moment they transformed, plus any spent on the spell that they
 were in the midst of casting, if any. Once these tokens are spent, the
 fetch's flame gutters out.
+
+.. todo:: Does Corruption just live as a track on character sheets?

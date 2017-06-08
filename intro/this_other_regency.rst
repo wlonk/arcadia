@@ -38,6 +38,8 @@ For our purposes, we'll divide England into a few macro-regions, and
 talk about each. Then, there are three cities that deserve special
 attention: London, Bath, and Brighton.
 
+.. todo:: Finish regions of England.
+
 South East
 ~~~~~~~~~~
 
