@@ -42,7 +42,7 @@ The party pressing them will then be faced with a choice:
 -  Put down a higher card and present their counter-argument.
 -  Spend one or more role tokens to draw that many cards, and then try
    to put down a higher card.
--  Spend a :index:`passion token <passion token>`, make a desperate
+-  Spend a :index:`passion token <passion tokens>`, make a desperate
    declaration or a passionate plea, draw a card, and put down any card
    they wish.
 

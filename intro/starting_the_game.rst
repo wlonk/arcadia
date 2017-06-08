@@ -3,8 +3,9 @@
 Starting the game
 =================
 
-There are three things you need to start: a town, families, and
-characters.  Create them in that order, with everyone working together.
+There are three things you need to start: a :index:`town`,
+:index:`families`, and :index:`characters`. Create them in that order,
+with everyone working together.
 
 To create the town, decide where it is in England. Is it in the West
 Midlands, a sleepy market town surrounded by farmlands? Is it in the
@@ -25,6 +26,9 @@ not just the church, the pub, the market, but the great houses, the
 sorts with names which act as the seats of major families.  Consider
 also the strange and ancient spots: places like Wistman's Wood, the
 Cerne Abbas Giant, or the stone circles all over England.
+
+.. index::
+   single: blood
 
 Next, make families. Each player, the GM included, should add one
 family. The main characters will be from a subset of these. Choose a

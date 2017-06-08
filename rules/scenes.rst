@@ -24,9 +24,9 @@ Reflection
 At the end of every *session*, each player takes a turn to tell the
 group whether they hit any of the triggers for their passions. For the
 highest-rated trigger they hit, they get that many :index:`passion
-tokens`.  What's important here is that they explain how their actions
-were in support of the desire, and thus contextualize them for the
-table.
+tokens <passion tokens>`. What's important here is that they explain how
+their actions were in support of the desire, and thus contextualize them
+for the table.
 
 Present this as a small scene, of your character in repose and reflection.
 Perhaps walking the moors, perhaps brooding in the tower-room, perhaps writing

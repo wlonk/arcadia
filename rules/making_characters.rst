@@ -54,6 +54,9 @@ For hardcore, deal each player one, and that is who they will play.
 Once you have a social role, choose your name, answer the relationship
 questions on your social role, and choose a passion.
 
+.. index::
+   single: boons
+
 Now choose a personal boon:
 
 -  **Jupiter:** Wealth is easy for you. You may draw an extra card in any
@@ -86,7 +89,7 @@ Then choose a passion for your character. See :ref:`passions` for details.
 .. todo:: Design character sheet.
 
 Your character starts with a number of social tokens based on their social
-role, and two :index:`passion tokens`.
+role, and two :index:`passion tokens <passion tokens>`.
 
 Be sure to ask and answer this for each character: why might they need magic?
 Why might a fairy take an interest in them?

@@ -311,7 +311,7 @@ hollowed out and driven by fairy fire. Their soul is lost. They should
 be passed over to the GM to play, unless their player wishes to continue
 playing them as a dangerous and amoral *thing* with a limited lifespan.
 
-They keep as many :index:`passion tokens` as they had at the moment they
-transformed, plus any spent on the spell that they were in the midst of
-casting, if any. Once these tokens are spent, the fetch's flame gutters
-out.
+They keep as many :index:`passion tokens <passion tokens>` as they had
+at the moment they transformed, plus any spent on the spell that they
+were in the midst of casting, if any. Once these tokens are spent, the
+fetch's flame gutters out.
