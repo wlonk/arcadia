@@ -21,6 +21,10 @@
 # sys.path.insert(0, os.path.abspath('.'))
 
 
+def setup(app):
+    app.add_stylesheet('css/custom.css')  # may also be an URL
+
+
 # -- General configuration ------------------------------------------------
 
 # If your documentation needs a minimal Sphinx version, state it here.
@@ -92,8 +96,11 @@ html_theme = 'alabaster'
 # documentation.
 #
 html_theme_options = {
-    'show_related': 'true',
     'body_text_align': 'justify',
+    'extra_nav_links': {
+        'Index': '/genindex/',
+    },
+    'show_related': True,
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -102,9 +109,8 @@ html_theme_options = {
 html_static_path = ['_static']
 html_sidebars = {
     '**': [
-        'globaltoc.html',
+        'navigation.html',
         'relations.html',
-        'sourcelink.html',
         'searchbox.html',
     ],
 }

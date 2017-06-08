@@ -86,7 +86,7 @@ Then choose a passion for your character. See :ref:`passions` for details.
 .. todo:: Design character sheet.
 
 Your character starts with a number of social tokens based on their social
-role, and two passion tokens.
+role, and two :index:`passion tokens`.
 
 Be sure to ask and answer this for each character: why might they need magic?
 Why might a fairy take an interest in them?

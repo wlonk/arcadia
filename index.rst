@@ -64,5 +64,4 @@ Et in Arcadia Ego
    appendix/fairies
    appendix/spells
    appendix/names
-
-.. todolist::
+   misc/todo

@@ -26,10 +26,6 @@ they're fighting cautiously, then they draw two cards, and keep the one
 that they choose, while the side with disadvantage draws one card as
 usual.
 
-.. todo::
-   Can you spend Passion to escalte/re-roll? Can you spend passion to
-   pull through a mortal wound?
-
 If you're in your opponent's power, they can inflict consequences
 depending on what they're fighting with:
 

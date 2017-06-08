@@ -33,7 +33,3 @@ extra cards per further fault, but must take the lowest three cards.
 Each fault can be helped through time. A calming and caring conversation
 with a friend, a disenchantment, a spell of healing, or whatever else
 might be appropriate can remove a fault.
-
-.. todo::
-   Threats/ faults/ soul damage/ body damage/ reputation damage are
-   gonna be related somehow.

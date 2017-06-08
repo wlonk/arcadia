@@ -198,13 +198,32 @@ keeping track across sessions.)
 The Fairy
 ~~~~~~~~~
 
-.. todo::
-   -  The fairy is a countdown clock. They get more powerful the more
-      you use magic, or past a certain point, the more you fail to keep
-      them at bay.
-   -  Any time you use magic on someone, they are now marked, and the
-      fairy can interfere with them and their lives. All PCs start
-      marked.
+The fairy is a very particular threat. It is present at the start of the
+game, and should have a number of segments based on how long you expect
+the game to run: four for a one-shot, up to eight for a long game.
+
+When the final segment is filled in, the fairy comes fully into its
+power: the game is over, and the fairy has won. It strikes down its
+foes, lifts up its favorites, and may rule in England as in Fairy, or
+perhaps pull the whole village---or county---into fairy. Everyone should
+contribute to an epilogue, and then go take a break or play another
+game.
+
+The fairy advances when any of the following happen:
+
+-  A magician :ref:`casts a spell <magic>`, exceeds the limit, and opts
+   to empower the fairy.
+-  The fairy achieves a significant goal: the defeat of an enemy or the
+   upraising of a favorite.
+
+The fairy threat is also used to track which mortals the fairy can
+influence. All the player characters, by virtue of their connection to
+magic, are vulnerable to the fairy to begin with. But the supporting
+characters live in a world of such mundanity that they are shielded from
+the fairy. That can change: whenever a magician casts a spell on a
+supporting character, or asks a fairy to do so, move that supporting
+character's card on to the fairy threat. They have been made vulnerable,
+and subject to whatever magic the fairy wishes to exercise on them.
 
 Penury
 ~~~~~~
@@ -277,6 +296,22 @@ Of course, a fight with a disease is to the death.
 Corruption
 ~~~~~~~~~~
 
-.. todo:: Write corruption threat. Relates to soul-damage?
+When a magician :ref:`casts a spell <magic>` and surpasses the limit,
+they open themselves to *corruption*. Make a corruption threat just for
+them, and start it one tick in already. Unless you are playing a
+one-shot, this should not have four sections, but six or eight.
 
-Of the magical kind.
+Each time the magician progresses on the threat, they gain a mark:
+reflective eyes, hair that always moves as in a wind, a voice that
+carries its own echo, skin that feels to the touch like a snake's, a
+wandering shadow, and so on.
+
+Once corruption is fully marked, they become a fetch, a human shell
+hollowed out and driven by fairy fire. Their soul is lost. They should
+be passed over to the GM to play, unless their player wishes to continue
+playing them as a dangerous and amoral *thing* with a limited lifespan.
+
+They keep as many :index:`passion tokens` as they had at the moment they
+transformed, plus any spent on the spell that they were in the midst of
+casting, if any. Once these tokens are spent, the fetch's flame gutters
+out.

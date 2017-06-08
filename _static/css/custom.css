@@ -1,0 +1,13 @@
+/* Drop caps */
+/* * /
+.section > h1 + p:first-letter {
+  color: #903;
+  float: left;
+  font-family: Georgia;
+  font-size: 200%;
+  line-height: 80%;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+/* */

@@ -3,11 +3,6 @@
 Magic
 =====
 
-.. todo::
-   -  As Austin put it: Magic is often a form of violence.
-   -  Perhaps getting better at magic is mostly unlocking new spells
-      from the spell list, which also can be tied to the fairy clock.
-
 Magic is English, and of the land. Fairy magic is not, it is a different
 thing from a different world and can do other things than English magic.
 But English magic lets you do enough: it lets you pass between worlds,
@@ -35,7 +30,8 @@ The player should describe the effect they desire, using either one of
 the existing spells (see :ref:`spells`) or making their own along those
 lines.
 
-.. topic::
+.. topic:: The Limits of Magic
+
    One very important caveat to remember is this: magic cannot create
    something out of nothing. It has to have something to work from.
    Cinderella's coach is made from a pumpkin, after all. Even magic to
@@ -54,19 +50,15 @@ they surpass the limit, you have let too much into the world: your spell
 works, but beyond what you intended. You will also have to pay a cost:
 either increasing the power of the fairy (see :ref:`threats`), or
 risking your own soul and walking a step closer to becoming a
-fetch.
-
-.. todo::
-   Clarify what a fetch is, and what it means to become one, and how you
-   deal with soul-stress.
+:ref:`fetch`.
 
 Based on the desired effect, the threshold will be higher or lower.
 Based on the ritual and constraints on the spell, the limit will be
 higher or lower.
 
-Finally, each card you draw will require a passion token. Magic is
-demanding, and requires a constancy of purpose and strength of heart to
-achieve.
+Finally, each card you draw will require a :index:`passion token
+<passion tokens>`. Magic is demanding, and requires a constancy of
+purpose and strength of heart to achieve.
 
 Here are some effects, and the thresholds for each:
 
