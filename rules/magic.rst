@@ -95,6 +95,34 @@ When you cast a spell, whether it fails, works, or explodes in your
 face, the GM should describe the effect with as much attention to the
 land and the season as they can.
 
+Corruption
+----------
+
+When a magician casts a spell and surpasses the limit, they open
+themselves to *corruption*. They should take a card from the deck,
+keeping it face-down and hidden, and slip it under the edge of their
+character sheet. It will remain there until the end of the session, not
+returning to the deck until then.
+
+At the end of the session, reveal the cards you've accumulated. Gain a
+mark based on the highest-value card you have. If you have multiple
+cards tied for highest, you can choose from among them which mark to
+take.
+
+If the mark is a face card, check a corruption box on your sheet. If you
+have filled all four boxes and have no more to check, magic has burnt
+out your soul, and you become a fetch, a human shell hollowed out and
+driven by fairy fire. Your soul is lost. Your character should be passed
+over to the GM to play, unless you wish to continue playing your
+character as a dangerous and amoral *thing* with a limited lifespan.
+
+As a fetch, you keep as many :index:`passion tokens <passion tokens>` as
+they had at the moment they transformed. Once these tokens are spent,
+the fetch's flame gutters out.
+
+Fairy Magic
+-----------
+
 Fairy magic, of course, is different.
 
 .. epigraph::

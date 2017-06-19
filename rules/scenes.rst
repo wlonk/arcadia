@@ -9,6 +9,12 @@ the end of each, there are particular rules.
 Gossip
 ------
 
+.. epigraph::
+   Remember that we are English... every man is surrounded by a
+   neighbourhood of voluntary spies.
+
+   -- Henry Tilney, in *Northanger Abbey* by Jane Austen
+
 As you play, you will see scene breaks; one bit of action or drama in one place
 is over, and another begins elsewhere. At these breaks, anyone may call for
 *Gossip*. Take a momentary break, and discuss the scene that just happened as

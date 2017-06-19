@@ -292,28 +292,3 @@ The disease has the advantage, unless you're attended by doctors. If
 you're attended by the very best doctors, you have the advantage.
 
 Of course, a fight with a disease is to the death.
-
-Corruption
-~~~~~~~~~~
-
-When a magician :ref:`casts a spell <magic>` and surpasses the limit,
-they open themselves to *corruption*. Make a corruption threat just for
-them, and start it one tick in already. Unless you are playing a
-one-shot, this should not have four sections, but six or eight.
-
-Each time the magician progresses on the threat, they gain a mark:
-reflective eyes, hair that always moves as in a wind, a voice that
-carries its own echo, skin that feels to the touch like a snake's, a
-wandering shadow, and so on.
-
-Once corruption is fully marked, they become a fetch, a human shell
-hollowed out and driven by fairy fire. Their soul is lost. They should
-be passed over to the GM to play, unless their player wishes to continue
-playing them as a dangerous and amoral *thing* with a limited lifespan.
-
-They keep as many :index:`passion tokens <passion tokens>` as they had
-at the moment they transformed, plus any spent on the spell that they
-were in the midst of casting, if any. Once these tokens are spent, the
-fetch's flame gutters out.
-
-.. todo:: Does Corruption just live as a track on character sheets?

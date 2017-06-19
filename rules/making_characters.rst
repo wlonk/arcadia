@@ -16,10 +16,10 @@ By the time you finish, each character will have:
    -  Relationships
    -  Starting social tokens
 
--  A Passion
--  Passion tokens
+-  A Passion and two starting passion tokens
 -  A family, and thus a family boon
 -  A personal boon
+-  A spell
 
 There are two ways to choose your social role: the hardcore way, and the easy
 way. The difference is this: your choice of social role is constrained in the
@@ -118,6 +118,17 @@ Why might a fairy take an interest in them?
 
    Please, don't just play rich white people! There's so much more here.
 
+Finally, your character starts with a spell. This spell was your
+introduction to the world of magic, and having worked it, you have drawn
+the fairy's attention, and helped to pull it back into this world.
+
+Decide also how you learned this spell. Perhaps it was from a dusty tome
+you inherited. Perhaps from an aged and mysterious traveler you gave
+hospitality. Maybe even you learned it from the birds and the clouds, or
+a prophetic vision.
+
+.. todo:: Spell lists and starting spells.
+
 An Example
 ----------
 
@@ -138,6 +149,12 @@ regiment stationed here at Stanham. She names him Captain George Perry.
 He's actually related to the Clearidges, and thus shares their *Yew
 blood*, though it's through his mother, Susan Perry *née* Clearidge, and
 so he was happy to get stationed in Stanham, where his mother grew up.
+
+(Remember: England, and especially the southern part of it, was
+completely full of regiments, quartered and stationed all over. The
+country had been at war with Bonaparte for a good long time, and in
+addition to soldiers ready to ship out, there were militias standing
+ready to defend against a French invasion.)
 
 Beatriz gets the Queen of Hearts, the Governess. She names her character
 Miss Lucy Taylor, and makes her, of course, a Taylor, with *Holly
