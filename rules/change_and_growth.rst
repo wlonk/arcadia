@@ -1,17 +1,35 @@
-.. _change-and-grow:
+.. _change-and-growth:
 
 Change and growth
 =================
 
-At the end of a season (a series of sessions forming a satisfying arc,
-typically taking place over a quarter to a half of a year of in-game
-time), characters can change.
+In Regency fiction, the change and growth that characters undergo is,
+more than anything, about *understanding*. Characters will, over time,
+better understand themselves and those around them.
 
-Characters can:
+In *Arcadia*, it is up to you to play to better understand your own
+character. But as for understanding those around you, there are systems
+for that.
 
--  lose bad reputations
--  more?
+When you've engaged in :ref:`petition` with an NPC, one possible outcome
+is that you mark them. Each time you mark an NPC, do so with your own
+mark (perhaps your character's initials).
 
-Not sure how yet.
+At the end of each session (or at the start, if you've forgotten), you
+may (though by no means must) choose an NPC that meets the following
+conditions:
 
-.. todo:: Make change and growth rules.
+*  You have at least four marks on this NPC.
+*  You have more marks on this NPC than any other PC does.
+
+Strike through your marks. You may no longer mark this NPC.
+
+Describe a short scene, maybe a flashback, or a "meanwhile" or something
+else, with or without your character, though it should most certainly
+*not* include any other PCs, and it must include or be about the NPC in
+question. This scene should elucidate or recontextualize the NPCs
+character and actions.
+
+.. todo::
+
+   Write change/growth example. This is how Darcy makes Wickham, right?

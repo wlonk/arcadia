@@ -38,7 +38,8 @@ The party pressing them will then be faced with a choice:
 
 -  Concede because they cannot put down a higher card.
 -  Reveal a higher card that they *could* put down, but instead concede,
-   and gain a role token.
+   and gain a role token. If there is an NPC involved, you may also
+   :ref:`mark them <change-and-growth>`.
 -  Put down a higher card and present their counter-argument.
 -  Spend one or more role tokens to draw that many cards, and then try
    to put down a higher card.
