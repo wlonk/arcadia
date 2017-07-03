@@ -27,6 +27,16 @@ def setup(app):
 
 # -- General configuration ------------------------------------------------
 
+rst_epilog = """
+.. |either| unicode:: U+26A5 .. male and female sign
+.. |female| unicode:: U+2640 .. female sign
+.. |male| unicode:: U+2642 .. male sign
+.. |spades| unicode:: U+2660 .. black spade suit
+.. |hearts| unicode:: U+2665 .. black heart suit
+.. |clubs| unicode:: U+2663 .. black club suit
+.. |diamonds| unicode:: U+2666 .. black diamond suit
+"""
+
 # If your documentation needs a minimal Sphinx version, state it here.
 #
 # needs_sphinx = '1.0'

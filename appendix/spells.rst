@@ -114,8 +114,3 @@ Diamonds pertain to money, wealth, stability:
 -  J |diamonds|: Money turns to dust in your hands.
 -  Q |diamonds|: 
 -  K |diamonds|: 
-
-.. |spades| unicode:: U+2660 .. black spade suit
-.. |hearts| unicode:: U+2665 .. black heart suit
-.. |clubs| unicode:: U+2663 .. black club suit
-.. |diamonds| unicode:: U+2666 .. black diamond suit

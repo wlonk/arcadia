@@ -312,8 +312,3 @@ Tell us who:
 -  Is your drinking companion
 
 Initial social role tokens: 1
-
-
-.. |either| unicode:: U+26A5 .. male and female sign
-.. |female| unicode:: U+2640 .. female sign
-.. |male| unicode:: U+2642 .. male sign
