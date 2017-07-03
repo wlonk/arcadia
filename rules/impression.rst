@@ -11,4 +11,6 @@ person will describe a negative impression they get, based on those. If
 you have a letter of introduction, or a mutual friend present making the
 introductions, you may also describe a positive impression.
 
-.. todo:: Add examples of impression.
+.. todo:: Example:
+
+   Add examples of impression.

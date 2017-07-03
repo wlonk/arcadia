@@ -68,4 +68,6 @@ it as the damaged reputation, either!
 
    Fairies *always* have leverage over any mortal they talk with.
 
-.. todo:: Add example of petition.
+.. todo:: Example:
+
+   Add example of petition.

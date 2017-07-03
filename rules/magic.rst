@@ -146,4 +146,6 @@ Fairy magic, of course, is different.
    -- C. S. Lewis, *English Literature in the Sixteenth Century,
    Excluding Drama*
 
-.. todo:: Add example of magic use.
+.. todo:: Example:
+
+   Add example of magic use.

@@ -30,6 +30,12 @@ else, with or without your character, though it should most certainly
 question. This scene should elucidate or recontextualize the NPCs
 character and actions.
 
-.. todo::
+.. todo:: Example:
 
    Write change/growth example. This is how Darcy makes Wickham, right?
+
+.. todo:: Getting new spells.
+
+   How do you? Is it like Fate in *Mythender*, where corruption unlocks
+   new slots for you? Is that reputation-loss corruption, or
+   soul-corruption?

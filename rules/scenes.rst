@@ -38,4 +38,6 @@ Present this as a small scene, of your character in repose and reflection.
 Perhaps walking the moors, perhaps brooding in the tower-room, perhaps writing
 in their journal by candle-light.
 
-.. todo:: Add examples of Gossip and Reflection.
+.. todo:: Example:
+
+   Add examples of Gossip and Reflection.

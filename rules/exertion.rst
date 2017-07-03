@@ -45,4 +45,6 @@ of a card you discarded, there are no magical side effects. Otherwise,
 the GM may choose to describe some small costs or complications
 introduced by the magic.
 
-.. todo:: Add example of exertion.
+.. todo:: Example:
+
+   Add example of exertion.
