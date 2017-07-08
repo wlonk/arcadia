@@ -44,12 +44,6 @@ Fairies
 These are the rulers of Arcadia, the nobles and dominions of that other
 land. One will be present in each game of *Arcadia*.
 
-.. todo::
-   Add specific bargains that certain fairies can offer. Use the
-   Infernal from *Monsterhearts*, bargains in *Poison'd*, possession in
-   *Dogs in the Vineyard*, corruption in *Urban Shadows*, and everything
-   in *Bedlam Beautiful* and *Midsummer Wood* as guides and inspiration.
-
 The Beast of the Moors
 ~~~~~~~~~~~~~~~~~~~~~~
 

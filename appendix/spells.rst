@@ -41,7 +41,7 @@ Here are the marks that you risk as you cast spells:
 
 Spades pertain to personal health:
 
--  A |spades|: 
+-  A |spades|: You develop a hacking cough that will not go away.
 -  2 |spades|: You find a new vice: gambling, wine, sex, or something
    else.
 -  3 |spades|: 
@@ -62,38 +62,45 @@ Spades pertain to personal health:
 
 Hearts pertain to relationships:
 
--  A |hearts|: 
--  2 |hearts|: 
+-  A |hearts|: Your tears are black and inky.
+-  2 |hearts|: You are compelled to leave offerings for minor arcadian
+   creatures around: bowls of milk, coins in strange places, etc.
 -  3 |hearts|: 
 -  4 |hearts|: Choose another character. You will never trust them, no
    matter what they do to earn it.
 -  5 |hearts|: Choose another character. You will always trust them, no
    matter what they do to deserve mistrust.
--  6 |hearts|: 
--  7 |hearts|: 
+-  6 |hearts|: You develop a stigmata-like wound that will not heal.
+-  7 |hearts|: Iron horseshoes fix you to the spot.
 -  8 |hearts|: Animals panic in your presence. (In a time full of
    horses, dogs, oxen and more, this must be taken seriously!)
 -  9 |hearts|: 
 -  10 |hearts|:
--  J |hearts|: 
--  Q |hearts|: 
+-  J |hearts|: The sound of children's laughter is cripplingly painful
+   to you.
+-  Q |hearts|: Others nearby can hear your thoughts as though you spoke
+   them.
 -  K |hearts|: Dark clouds and torrential rain accompany you everywhere.
 
 Clubs pertain to power, prestige, authority:
 
--  A |clubs|: 
+-  A |clubs|: Your own image becomes horrendous to you. Any portrait or
+   reflection disgusts you.
 -  2 |clubs|: You develop a constant craving for a particular food:
    something rare and expensive (like pineapples, mangosteens, or swan),
    or grotesque (like dessicated mice, grave dirt, or human blood).
 -  3 |clubs|: Ink runs and blots every time you put pen to paper.
--  4 |clubs|:
--  5 |clubs|: Choose another character. You cannot disobey any order or
+-  4 |clubs|: Anywhere you call home will come to ruin, plants driving
+   through the foundations and weather tearing at the roof.
+-  5 |clubs|: Choose another character. You find yourself in opposition;
+   whatever they suggest, you desire the opposite.
+-  6 |clubs|: Any time you would receive recognition for a good deed,
+   someone else does instead.
+-  7 |clubs|: Choose another character. You cannot disobey any order or
    wish they express to you.
--  6 |clubs|: 
--  7 |clubs|: 
 -  8 |clubs|: You cannot bear to set foot in a church.
--  9 |clubs|: 
--  10 |clubs|:
+-  9 |clubs|: You cannot speak above a whisper.
+-  10 |clubs|: You cannot refuse a request for help.
 -  J |clubs|:
 -  Q |clubs|: 
 -  K |clubs|: Any order you give is warped, and interpreted in the worst
