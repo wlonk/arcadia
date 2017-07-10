@@ -44,28 +44,30 @@ Spades pertain to personal health:
 -  A |spades|: You develop a hacking cough that will not go away.
 -  2 |spades|: You find a new vice: gambling, wine, sex, or something
    else.
--  3 |spades|: 
+-  3 |spades|: Your hair turns pure white.
 -  4 |spades|: Blades find their way to your flesh: every use of a knife
    or razor or similar will result in at least a nick, possibly worse.
 -  5 |spades|: Your skin is cold and scaly to the touch, though it looks
    normal.
 -  6 |spades|: You develop a speech impediment: a stammer, lisp, or
    something else.
--  7 |spades|: 
--  8 |spades|: 
--  9 |spades|: 
--  10 |spades|: 
+-  7 |spades|: Your voice becomes hoarse and raspy from the power of the
+   magical words you have uttered.
+-  8 |spades|: Your shadow sticks and smears on things.
+-  9 |spades|: You feel like space stretches and shrinks unpredictably,
+   and you often feel like you are falling.
+-  10 |spades|: Your reflection is faded and obscure.
 -  J |spades|: One of your limbs twists and withers.
 -  Q |spades|: Every room you enter becomes cold, damp, and dark, as
    long as you are present.
--  K |spades|:
+-  K |spades|: Plants wither in your presence.
 
 Hearts pertain to relationships:
 
 -  A |hearts|: Your tears are black and inky.
 -  2 |hearts|: You are compelled to leave offerings for minor arcadian
    creatures around: bowls of milk, coins in strange places, etc.
--  3 |hearts|: 
+-  3 |hearts|: Milk, beer, and other drinks sour in your presence.
 -  4 |hearts|: Choose another character. You will never trust them, no
    matter what they do to earn it.
 -  5 |hearts|: Choose another character. You will always trust them, no
@@ -74,8 +76,9 @@ Hearts pertain to relationships:
 -  7 |hearts|: Iron horseshoes fix you to the spot.
 -  8 |hearts|: Animals panic in your presence. (In a time full of
    horses, dogs, oxen and more, this must be taken seriously!)
--  9 |hearts|: 
--  10 |hearts|:
+-  9 |hearts|: You have a constant sensation of being watched.
+-  10 |hearts|: You are bombarded with requests for aid from every
+   plant, stone, bird, and stream near you.
 -  J |hearts|: The sound of children's laughter is cripplingly painful
    to you.
 -  Q |hearts|: Others nearby can hear your thoughts as though you spoke
@@ -101,8 +104,11 @@ Clubs pertain to power, prestige, authority:
 -  8 |clubs|: You cannot bear to set foot in a church.
 -  9 |clubs|: You cannot speak above a whisper.
 -  10 |clubs|: You cannot refuse a request for help.
--  J |clubs|:
--  Q |clubs|: 
+-  J |clubs|: A creature of some sort (a fox, a raven, a black hare, or
+   perhaps a goat) comes to you, and accompanies you everywhere, no
+   matter how you might try to shoo it.
+-  Q |clubs|: Some people seem to have hollow heads, illuminated by a
+   candle inside. The GM will tell you who.
 -  K |clubs|: Any order you give is warped, and interpreted in the worst
    possible way.
 
@@ -112,7 +118,8 @@ Diamonds pertain to money, wealth, stability:
 -  2 |diamonds|: 
 -  3 |diamonds|: Your shadow moves of its own accord.
 -  4 |diamonds|: 
--  5 |diamonds|: 
+-  5 |diamonds|: You no longer bleed when pricked or cut. You may, of
+   course, still die.
 -  6 |diamonds|: 
 -  7 |diamonds|: 
 -  8 |diamonds|: 
