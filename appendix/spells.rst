@@ -122,7 +122,8 @@ Diamonds pertain to money, wealth, stability:
    course, still die.
 -  6 |diamonds|: 
 -  7 |diamonds|: 
--  8 |diamonds|: 
+-  8 |diamonds|: When you try to explain something important, all that
+   comes out are ancient and irrelevant stories.
 -  9 |diamonds|: 
 -  10 |diamonds|: 
 -  J |diamonds|: Money turns to dust in your hands.
