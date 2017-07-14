@@ -3,10 +3,18 @@
 Appendix: Passions
 ==================
 
+Each passion gives you three things:
+
+-  a set of triggers for regaining passion tokens
+-  a starting spell
+-  a set of marks to choose from when you suffer consequences casting a
+   spell.
+
 Absolution
 ----------
 
-You did, or think you did, some kind of wrong to someone. What was it?
+You did, or think you did, something terrible to someone. What was it,
+and to whom was it done?
 
 +----------+-----------------------------------------------------------------+
 | Tokens   | When you...                                                     |
@@ -21,6 +29,21 @@ You did, or think you did, some kind of wrong to someone. What was it?
 When you have a passionate outburst, you might try to convince others of
 their complicity, show them the suffering you have endured, or abase
 yourself to beg for their forgiveness.
+
+Choose a starting spell:
+
+-  :ref:`spell--step-sideways`
+-  :ref:`spell--labyrinth`
+
+You may choose from the following marks each time a spell burns your
+soul:
+
+1. You develop stigmata like wounds that will not heal.
+2. Animals panic in your presence. (In a time full of horses, dogs, oxen
+   and more, this must be taken seriously!)
+3. You cannot bear to set foot in a church.
+4. Your tears leave black and inky stains.
+5. You become a fetch.
 
 Adoration
 ---------
@@ -41,6 +64,25 @@ When you have a passionate outburst, you might do desperate things to
 keep the attention on you, your accomplishments, your superiority. You
 might belittle others, or even sabotage them.
 
+Choose a starting spell:
+
+-  :ref:`spell--bind`
+-  :ref:`spell--presence`
+
+You may choose from the following marks each time a spell burns your
+soul:
+
+1. Your reflection is wrong: it is faded, angled incorrectly, or simply
+   missing.
+2. Your voice becomes hoarse and raspy from the power of the magical
+   words you have uttered.
+3. A creature of some sort (a fox, a raven, a black hare, or perhaps a
+   goat) comes to you, and accompanies you everywhere, no matter how you
+   might try to shoo it.
+4. You no longer bleed when pricked or cut. You may, of course, still
+   die.
+5. You become a fetch.
+
 Love
 ----
 
@@ -60,6 +102,22 @@ When you have a passionate outburst, you might do any *number* of
 things. Love is a many-splendoured thing, and love denied or undermined
 is a hydra. Choler, melancholy, or even a calm icy anger might come out.
 
+Choose a starting spell:
+
+-  :ref:`spell--invisibility`
+-  :ref:`spell--change-shape`
+
+You may choose from the following marks each time a spell burns your
+soul:
+
+1. When you try to explain something important, all that comes out are
+   ancient and irrelevant stories.
+2. Your tears leave black and inky stains.
+3. You develop a stigmata-like wound that will not heal.
+4. You feel like space stretches and shrinks unpredictably, and you
+   often feel like you are falling.
+5. You become a fetch.
+
 Money
 -----
 
@@ -77,6 +135,23 @@ You have a desperate need for money, or at least feel that you do. Why?
 
 When you have a passionate outburst, perhaps you will be stingy, perhaps
 you will be wheedling, perhaps you will be profligate.
+
+Choose a starting spell:
+
+-  :ref:`spell--labyrinth`
+-  :ref:`spell--weather-control`
+
+You may choose from the following marks each time a spell burns your
+soul:
+
+1. You develop a constant sensation of being watched.
+2. Every room you enter becomes cold, damp and dark, as long as you are
+   present.
+3. You no longer bleed when pricked or cut. (You can still be injured,
+   of course.)
+4. You develop a constant craving for something grotesque (like
+   desiccated mice, grave dirt, or human blood).
+5. You become a fetch.
 
 Power
 -----
@@ -99,6 +174,24 @@ something you suggested, told, or ordered them to do.
 When you have a passionate outburst, you are likely to be domineering,
 absolute, or unbending.
 
+Choose a starting spell:
+
+-  :ref:`spell--presence`
+-  :ref:`spell--change-shape`
+
+You may choose from the following marks each time a spell burns your
+soul:
+
+1. Your voice becomes hoarse and raspy from the power of the magical
+   words you have uttered.
+2. A creature of some sort (a fox, a raven, a black hare, or perhaps a
+   goat) comes to you, and accompanies you everywhere, no matter how you
+   might try to shoo it.
+3. You develop a constant craving for something grotesque (like
+   desiccated mice, grave dirt, or human blood).
+4. Milk, beer, and other drinks sour in your presence.
+5. You become a fetch.
+
 Revenge
 -------
 
@@ -119,6 +212,21 @@ When you have a passionate outburst, everything comes back to being the
 fault of your enemy. They have been the instrument of your suffering
 from top to bottom, and it must end!
 
+Choose a starting spell:
+
+-  :ref:`spell--scrying`
+-  :ref:`spell--invulnerability`
+
+You may choose from the following marks each time a spell burns your
+soul:
+
+1. Milk, beer, and other drinks sour in your presence.
+2. Your shadow leaves an ashy residue, more the longer you stay put.
+3. Every room you enter becomes cold, damp, and dark, as long as you are
+   present.
+4. You cannot bear to set foot in a church.
+5. You become a fetch.
+
 Truth
 -----
 
@@ -136,3 +244,20 @@ keeping something hidden, and you aim to find out what. Who, and why?
 +----------+-------------------------------------------------------+
 
 When you have a passionate outburst, you basically pull a Fox Mulder.
+
+Choose a starting spell:
+
+-  :ref:`spell--step-sideways`
+-  :ref:`spell--summon`
+
+You may choose from the following marks each time a spell burns your
+soul:
+
+1. When you try to explain something important, all that comes out are
+   ancient and irrelevant stories.
+2. You feel like space stretches and shrinks unpredictably, and you
+   often feel like you are falling.
+3. You have a constant sensation of being watched.
+4. Your reflection is wrong: it is faded, angled incorrectly, or simply
+   missing.
+5. You become a fetch.

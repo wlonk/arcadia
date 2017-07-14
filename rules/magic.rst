@@ -99,22 +99,21 @@ Corruption
 ----------
 
 When a magician casts a spell and surpasses the limit, they open
-themselves to *corruption*. They should take a card from the deck,
-keeping it face-down and hidden, and slip it under the edge of their
-character sheet. It will remain there until the end of the session, not
-returning to the deck until then.
+themselves to *corruption*. Draw a card and place it in front of you.
+Keep all cards you draw for corruption in front of you for the duration
+of the session; at the end of the session, return them to the deck.
 
-At the end of the session, reveal the cards you've accumulated. Gain a
-mark based on the highest-value card you have. If you have multiple
-cards tied for highest, you can choose from among them which mark to
-take.
+Each time you draw a card, if the cards in front of you total 16 or
+more, gain a mark. The marks available to you are determined by your
+Passion. Aces are 1, faces are 10. If the cards in front of you total 21
+or more, gain two marks.
 
-If the mark is a face card, check a corruption box on your sheet. If you
-have filled all four boxes and have no more to check, magic has burnt
-out your soul, and you become a fetch, a human shell hollowed out and
-driven by fairy fire. Your soul is lost. Your character should be passed
-over to the GM to play, unless you wish to continue playing your
-character as a dangerous and amoral *thing* with a limited lifespan.
+If you check the final mark (either because it is the only mark
+remaining, or because you have chosen to), magic has burnt out your
+soul, and you become a fetch, a human shell hollowed out and driven by
+fairy fire. Your soul is lost. Your character should be passed over to
+the GM to play, unless you wish to continue playing your character as a
+dangerous and amoral *thing* with a limited lifespan.
 
 As a fetch, you keep as many :index:`passion tokens <passion tokens>` as
 they had at the moment they transformed. Once these tokens are spent,

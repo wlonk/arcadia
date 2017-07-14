@@ -84,7 +84,9 @@ These boons and the family boons are not the sorts of things that the
 *characters* are aware of or discuss in-fiction. They are for you, the players,
 only.
 
-Then choose a passion for your character. See :ref:`passions` for details.
+Then choose a passion for your character. See :ref:`passions` for
+details. Passions determine how you replenish your sense of purpose, and
+what sort of magic you know and why.
 
 .. todo:: Design character sheet.
 
@@ -118,9 +120,10 @@ Why might a fairy take an interest in them?
 
    Please, don't just play rich white people! There's so much more here.
 
-Finally, your character starts with a spell. This spell was your
-introduction to the world of magic, and having worked it, you have drawn
-the fairy's attention, and helped to pull it back into this world.
+Finally, your character starts with a spell. Each passion offers two
+spells to choose from. This spell was your introduction to the world of
+magic, and having worked it, you have drawn the fairy's attention, and
+helped to pull it back into this world.
 
 Decide also how you learned this spell. Perhaps it was from a dusty tome
 you inherited. Perhaps from an aged and mysterious traveler you gave
@@ -261,15 +264,18 @@ Finally, each character needs a passion and a boon.
 
 Anna, as Capt. Perry, takes Adoration, and Saturn. He seeks the approval
 and attention of those around him, and can focus intently when he needs
-to.
+to. She chooses to start with a spell to command attention.
 
 Beatriz, as Miss Taylor, takes Power, and Sol. She has spent much of her
 life being told what to do, and knows that she knows better than others
-more often than not. She can make stunning first impressions, too.
+more often than not. She can make stunning first impressions, too. She
+chooses to start with a spell to change one's shape, simply because she
+doesn't wish to take the same spell Anna has.
 
 Cal, as Miss Fitzgibbon, takes Love, and Venus. Sometimes, it's the
 obvious choices that are best. She wishes to marry for true, romantic
-love, and she is, herself, beautiful.
+love, and she is, herself, beautiful. He chooses to start with a spell
+to pass unseen. It may make some otherwise difficult trysts possible!
 
 Dan, as Mr. Mason, takes Absolution, and Mercury. He doubles down on his
 character's education and knowledge with Mercury, and his family's Hazel
@@ -278,4 +284,4 @@ done wrong by his father, in failing to pursue a career that might have
 earned the family a bit more stability. His friendship with Capt. Perry
 is underscored by this theme, as Perry has a good income as an officer
 of horse, and the chance at real glory should he be sent to the
-Peninsula.
+Peninsula. He chooses to start with a spell to open the ways to Arcadia.
