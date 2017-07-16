@@ -134,7 +134,7 @@ effects happen:
 
 -  The imprisoned soul cannot leave, but they may be seen and heard from
    afar in someone’s dreams, and by the mad or dying.
--  A prison is an enticing thing to the fae, who know their occupants to
+-  A prison is an enticing thing to fairies, who know their occupants to
    be desperate, and they may offer the jailed a bargain for their
    freedom. The GM will tell you when your quarry is free.
 -  Sympathetic connections tie you to the subject of the spell, for
