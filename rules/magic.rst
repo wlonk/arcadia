@@ -52,44 +52,16 @@ either increasing the power of the fairy (see :ref:`threats`), or
 risking your own soul and walking a step closer to becoming a
 :ref:`fetch`.
 
-Based on the desired effect, the threshold will be higher or lower.
-Based on the ritual and constraints on the spell, the limit will be
-higher or lower.
+The threshold is 21. The limit is the GM's hand. After each draw on the
+spellcaster's part, the GM will draw, or stay put, depending: if they
+have 16 or less, they must draw. If they have 17 or more, they must not
+draw. Basically, this is blackjack. But if you go bust (surpass the
+limit), you still get a magical effect. Also, side effects and
+corruption, so.
 
-Finally, each card you draw will require a :index:`passion token
-<passion tokens>`. Magic is demanding, and requires a constancy of
-purpose and strength of heart to achieve.
-
-Here are some effects, and the thresholds for each:
-
--  A spell of scrying: 13
--  Transforming one material into another: 15
--  Transforming one body into another: 17
--  Binding a summoned spirit into a vessel (a body, or something else):
-   19
--  Summoning the spirits of the dead: 21
--  Opening a passage between worlds: 23
--  A clean resurrection: 25
-
-If the subject is unwilling or unknowing, add one to the threshold.
-
-Here are some constraints: 
-
--  Casting the spell at a place and time of power: at midnight at a
-   crossroads, on the solstice at a stone ring, or on All Hallows' Eve
-   under the lichgate of a church.
--  Possessing a token of the target of the spell, such as a piece of
-   their hair, or a treasured possession.
--  Using a complex arrangement of sacred geometry, taking time and
-   expertise to craft.
--  Invoking the true, hidden name of the subject.
--  Inscribing the seal of the spell on to a valuable or significant
-   object, such as carving a symbol onto a tree or an amulet.
--  Consuming a fairy favor, an object of power from Arcadia.
-
-Each constraint raises the limit. With none, a spell cast on the fly
-with nothing but will, the limit is 16. Each additional constraint
-raises this by two, up to 28.
+.. todo::
+   Perhaps you wager passion tokens on effect size? And if you bust or
+   fail, you lose them, but otherwise, you keep them?
 
 When you cast a spell, whether it fails, works, or explodes in your
 face, the GM should describe the effect with as much attention to the

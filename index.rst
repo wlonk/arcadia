@@ -59,6 +59,7 @@ Et in Arcadia Ego
    rules/faults
    rules/change_and_growth
    rules/the_gm
+   rules/weather
    appendix/passions
    appendix/social_roles
    appendix/fairies

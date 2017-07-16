@@ -269,7 +269,7 @@ to. She chooses to start with a spell to command attention.
 Beatriz, as Miss Taylor, takes Power, and Sol. She has spent much of her
 life being told what to do, and knows that she knows better than others
 more often than not. She can make stunning first impressions, too. She
-chooses to start with a spell to change one's shape, simply because she
+chooses to start with a spell to change one's face, simply because she
 doesn't wish to take the same spell Anna has.
 
 Cal, as Miss Fitzgibbon, takes Love, and Venus. Sometimes, it's the
