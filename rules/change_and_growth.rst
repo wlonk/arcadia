@@ -39,3 +39,6 @@ character and actions.
    How do you? Is it like Fate in *Mythender*, where corruption unlocks
    new slots for you? Is that reputation-loss corruption, or
    soul-corruption?
+
+.. todo::
+   Consider whether change and growth interacts with :ref:`weather`.

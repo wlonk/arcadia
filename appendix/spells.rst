@@ -78,6 +78,9 @@ effects happen:
 A spell to make a labyrinth
 ---------------------------
 
+This spell may be used to guard something (or someone) at the center of
+the labyrinth. Once, it was used to keep treasure, or even grain, safe.
+
 To cast this spell, you must have:
 
 -  Something to mark the correct path that only you may see.

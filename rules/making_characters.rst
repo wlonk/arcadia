@@ -130,8 +130,6 @@ you inherited. Perhaps from an aged and mysterious traveler you gave
 hospitality. Maybe even you learned it from the birds and the clouds, or
 a prophetic vision.
 
-.. todo:: Spell lists and starting spells.
-
 An Example
 ----------
 
