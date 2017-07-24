@@ -24,6 +24,8 @@ character sheet, and the rest of the players (including the GM) should decide
 together whether that character expressed or upheld that reputation. If they
 did, give them a role token.
 
+.. todo:: Sidebar on how privacy is a fantasy here.
+
 Reflection
 ----------
 

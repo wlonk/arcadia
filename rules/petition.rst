@@ -3,6 +3,8 @@
 Petition
 ========
 
+.. todo:: Clarify terms of art at the outset.
+
 When your character wants a concession from another character, the
 player of that other character can decide whether that character
 accedes, or resists. If they accede, continue the scene. If they resist,

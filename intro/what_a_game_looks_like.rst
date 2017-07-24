@@ -21,3 +21,5 @@ on your character sheet. More about the specifics later.
 Each player should push towards their particular agenda, while allowing
 room for contributions, suggestions, and consideration from everyone
 else at the table. All the rules of polite conversation apply as ever.
+
+.. todo:: What's the GM doing at the table?

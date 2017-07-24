@@ -53,6 +53,14 @@ to any character who is of that family.
 -  **Yew blood:** you may draw an extra card in any exertion where you
    face death as a risk.
 
+.. todo::
+
+   Not all families are longstanding super-English. There are
+   immigrants, there are longstanding not-at-all-recent immigrants!
+   There are displaced French aristocrats, there are Jews, Italians,
+   travelers, and more. This is how to reinforce the sidebar on
+   diversity.
+
 An Example
 ----------
 

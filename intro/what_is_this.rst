@@ -66,3 +66,17 @@ interest, followed by a change in subject.
    Of course, if you should end up playing a character like The
    Gentleman, it is incumbent on you to examine whether you are more
    like Mr. Knightley or Mr. Wickham.
+
+.. todo::
+
+   Can you change the world? (Yes.) How can you change the world? How
+   does magic coming into the hands of the least privileged help them do
+   so?
+
+   Something that hasn't made it from conversation into text yet is that
+   if you use the fairy, or magic, to reinforce your power, or abuse
+   power, it turns out bad. If you use it to make a new world, that is
+   the only way things can be good.
+
+   Maybe "this world is untenable and I must change it" is a good
+   motivation, eh?

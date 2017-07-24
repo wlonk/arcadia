@@ -43,6 +43,11 @@ lines.
    promise as old as humanity, but an empty one. Some things are beyond
    even magical forces.
 
+.. todo::
+
+   How do you determine AoE and duration on spells? Do you wager passion
+   tokens on them? Or do you straight up spend passion tokens?
+
 To cast the spell, you must know two numbers: the threshold, and the
 limit. You will describe the ritual, each step you take giving you a
 card. If your cards total at or above the threshold, the spell works. If

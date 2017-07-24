@@ -40,6 +40,8 @@ attention: London, Bath, and Brighton.
 
 .. todo:: Finish regions of England.
 
+.. todo:: Add a magical geography section.
+
 South East
 ~~~~~~~~~~
 

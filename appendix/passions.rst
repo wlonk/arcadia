@@ -10,6 +10,8 @@ Each passion gives you three things:
 -  a set of marks to choose from when you suffer consequences casting a
    spell.
 
+.. todo:: Clarify the above; repeat rules on how you get tokens, etc.
+
 Absolution
 ----------
 
