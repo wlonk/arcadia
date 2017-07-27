@@ -211,12 +211,14 @@ They all have unnatural abilities and powers:
 
 -  This one's flesh mends by night, no matter the wounds it suffers.
 -  This one keeps its vital organs hidden in a broken tree.
--  This one is made of living shadow, intangible except as it chooses.
--  This one moves lightly on its feet, no matter its great size and bulk.
 -  This one's skin is as hard as stone.
--  This one can take on a lovely human seeming, which only its voice betrays.
+-  This one can take on a lovely human seeming, which only its voice
+   betrays.
 -  This one's teeth and claws effortlessly tear flesh and bone.
--  This one can vomit out fire.
+-  This one can wound you by your shadow.
+-  This one breathes water, and has a grip like steel.
+-  This one sings a song more beautiful and alluring than any mortal
+   sound.
 -  And likewise, and likewise.
 
 .. todo::

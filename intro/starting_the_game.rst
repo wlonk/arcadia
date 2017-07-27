@@ -53,13 +53,17 @@ to any character who is of that family.
 -  **Yew blood:** you may draw an extra card in any exertion where you
    face death as a risk.
 
-.. todo::
-
-   Not all families are longstanding super-English. There are
-   immigrants, there are longstanding not-at-all-recent immigrants!
-   There are displaced French aristocrats, there are Jews, Italians,
-   travelers, and more. This is how to reinforce the sidebar on
-   diversity.
+Remember, England is not simply for and of the English. There are
+families from further abroad in this time and place. From the nearby
+Welsh, Scots and Irish, to the French---especially displaced French
+aristocrats who fled the Revolution---to the Jewish and Italian
+communities of artisans and craftsmen in London and elsewhere, many of
+whom were fleeing Napoleon. There are traveller communities like the
+Romanichal, there are families hailing from India (while the British
+crown did not yet rule in India, the East India Company still holds
+tremendous power there), and there are families of West Indian and
+African origin. From the age of Roman Britain on, England has been a
+crossroads of cultures and ethnicities.
 
 An Example
 ----------

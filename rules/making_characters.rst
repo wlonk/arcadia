@@ -88,15 +88,18 @@ Then choose a passion for your character. See :ref:`passions` for
 details. Passions determine how you replenish your sense of purpose, and
 what sort of magic you know and why.
 
-.. todo:: Design character sheet.
-
-.. todo:: What happens when you run out of either type of token?
-
 Your character starts with a number of social tokens based on their social
 role, and two :index:`passion tokens <passion tokens>`.
 
+If at any point during the game, you run out of social tokens, you have
+exhausted your good name for the time being; acquaintances are tired of
+you and friends may counsel you to lay low. If you run out of passion
+tokens, you are morose, melancholic, and listless.
+
 Be sure to ask and answer this for each character: why might they need magic?
 Why might a fairy take an interest in them?
+
+.. todo:: Design character sheet.
 
 .. topic:: So it's a bunch of rich white people, right?
 
