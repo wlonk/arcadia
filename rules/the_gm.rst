@@ -47,8 +47,34 @@ someone's been pushed into a spot where they might need a spell to get
 what they want. Basically, the arc of an *Arcadia* story should dip low
 quickly, then up-tick with the fairy's intervention, then wobble.
 
+Justice
+-------
+
+As the GM, you have one particular important, if unpleasant, role: it is
+your role to show the *injustice* of the setting. No time is truly just,
+and while the Enlightenment brought greater justice for some, most still
+suffered in one way or another. In particular in this game, characters
+may suffer along the dimensions of class and sex.
+
+But not everyone suffers along those dimensions. What of the Gentleman,
+the Officer, or others who may carry great social power? They may feel
+quite content with the world you present. This is as it should be,
+though perhaps the Gentleman's player might question their own
+complacency.
+
+Of course, power is a difficult tool to wield, and even a
+well-intentioned Gentleman may sow more problems with their attempts to
+help. This is a world that fights to preserve its order, and all too
+often will push back on high-minded ideals.
+
 Desperation
 -----------
+
+The counterpart to injustice is desperation. Injustice breeds
+desperation, but the actions that come of desperation can be dangerous,
+to say the least. As the GM, you must also, especially through the
+actions of the fairy, show a route for the desperate. When you are out
+of options, betting on chaos can be the rational bet.
 
 Let's be clear: you have to be desperate to make a deal with a fairy.
 Everyone, but *everyone*, knows better. But sometimes, you see no other
