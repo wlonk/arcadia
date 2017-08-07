@@ -81,3 +81,65 @@ small justice shown, and still less pity."
 London is the *axis mundi* of encroaching modernity. It is what pulls
 the land away from Arcadia, and towards the dark Satanic mills of
 Blake's vision.
+
+Religion
+--------
+
+Religion in the Regency deserves some particular mention. As many
+dissertations can and have been written on this subject, and on each
+religion mentioned here, this is necessarily an overview only.
+
+Anglicanism
+~~~~~~~~~~~
+
+The state religion of the United Kingdom at the time is Anglicanism.
+This is a branch of Christianity usually identified as Protestant,
+though some theologians in the period and before have insisted that it
+represented a middle way between Protestantism and Catholicism. The head
+of the Anglican church is actually the English monarch, but the *de
+facto* head and *primus inter pares* is the Archbishop of Canterbury.
+Anglican ministers not only can marry, but are expected to do so to set
+a good example for their parishioners.
+
+Catholicism
+~~~~~~~~~~~
+
+Catholicism is often seen in the period as a religion of the Continent,
+but it has, of course, deep roots in the British isles. It is at this
+point still the majority religion in Ireland, and widespread in England
+despite years of official repression. As of 1791, Catholic worship has
+been made legal again, but Catholics are still barred from certain
+public positions, such as sitting in parliament. Catholic marriages were
+not legally recognized, either.
+
+Presbyterianism
+~~~~~~~~~~~~~~~
+
+Scotland.
+
+Methodism and Nonconformism
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Wales.
+
+The Society of Friends (Quakers)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+George Fox, 1650.
+
+Judaism
+~~~~~~~
+
+Many from Sephardic families, by way of Spain or the Lowlands. After the
+1290 Edict of Expulsion, Cromwell re-admitted Jews in 1657. Things have
+been rocky, but getting more stable, since then.
+
+Islam
+~~~~~
+
+Mostly Navy men from what is now Bangladesh.
+
+Hinduism
+~~~~~~~~
+
+Very rare.

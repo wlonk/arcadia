@@ -136,29 +136,28 @@ Tell us who is:
 
 Initial social role tokens: 3
 
-Queen of Hearts: Governess (|female|)
+Queen of Hearts: Companion (|female|)
 -------------------------------------
 
 A young lady of indifferent family, but with enough education to hold a
-position with a wealthy family as not-quite-a-servant. Set a good
-example for the children. Demonstrate your refinement and
-accomplishments. Ensure the moral behavior of your charges.
+position with a wealthy family as not-quite-a-servant. Don't outshine
+the lady you attend. Demonstrate your refinement and accomplishments.
 
 +-------------------------------------------------+------------------+
 | Gain a role token when you                      | Unless you are   |
 +=================================================+==================+
-| defend the interests of your employer           | defiant          |
+| show your accomplishments                       | presumptuous     |
 +-------------------------------------------------+------------------+
-| help your pupils show themselves to advantage   | overcritical     |
+| make the lady you attend shine                  | duplicitous      |
 +-------------------------------------------------+------------------+
 | place yourself second                           | haughty          |
 +-------------------------------------------------+------------------+
 
-Tell us who is:
+Tell us who:
 
--  Your best friend
--  Your charge or charges
--  Your employer
+-  Fancies you
+-  Is your best friend
+-  Is your employer
 
 Initial social role tokens: 2
 
@@ -236,26 +235,27 @@ Tell us who is:
 
 Initial social role tokens: 2
 
-Jack of Hearts: Magician (|either|)
------------------------------------
+Jack of Hearts: Artisan (|either|)
+----------------------------------
 
-You are expected to be mysterious, wise, and unconventional.
+You are expected to be a master of your craft, and keep its secrets
+close. You must often work for "exposure".
 
 +-------------------------------------------+------------------+
 | Gain a role token when you                | Unless you are   |
 +===========================================+==================+
-| are weird and eccentric and off-putting   | a lunatic        |
+| extend credit to your social betters      | miserly          |
 +-------------------------------------------+------------------+
-| defend your secrets at any cost           | corrupted        |
+| surprise your betters with good manners   | reaching         |
 +-------------------------------------------+------------------+
-| offer magical help                        | a fraud          |
+| are relied upon for your expertise        | substandard      |
 +-------------------------------------------+------------------+
 
 Tell us who:
 
 -  Is your patron
--  Owes you the most for your magical aid
--  Wishes to be your student
+-  Owes you the most for your services
+-  Is your apprentice
 
 Initial social role tokens: 2
 

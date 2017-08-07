@@ -51,6 +51,7 @@ Et in Arcadia Ego
    intro/starting_the_game
    rules/making_characters
    rules/scenes
+   rules/outcomes
    rules/petition
    rules/exertion
    rules/impression
