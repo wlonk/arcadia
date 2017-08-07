@@ -79,3 +79,7 @@ Cost of a spell (passion, keep card):
 As the GM, you can make custom outcomes! Consider if someone's lost in
 the woods (or in a magical labyrinth). Outcomes can define how long it
 takes to get out, or how desperately lost you become, or similar.
+Similarly, you could make an outcome for financial risk: from ruin to
+hitting the jackpot.
+
+You can adjust the scale of actions as needed; sometimes zoom in or out.
