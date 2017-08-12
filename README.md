@@ -2,13 +2,12 @@
 
 To publish changes to the web:
 
-    make dirhtml
-    cd _build/dirhtml
     git commit -am "Whatever"
     git push
 
 To view the built docs locally while you work on them:
 
+    make dirhtml
     cd _build/dirhtml
     python -m SimpleHTTPServer 8000
 
