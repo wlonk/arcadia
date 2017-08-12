@@ -153,9 +153,6 @@ latex_elements = {
     # 'figure_align': 'htbp',
     'inputenc': '',
     'utf8extra': '',
-    'preamble': r'''
-\usepackage{palatcm}
-''',
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
