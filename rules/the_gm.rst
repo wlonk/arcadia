@@ -1,11 +1,42 @@
 .. _gm-rules:
 
-GMing
-=====
+Running the game
+================
 
-As the GM, you control the NPCs and provide adversity. It's your role to
-reinforce the strictures of society, the dangers of magic, and the
-difficulties of human connections. 
+Agenda:
+
+-  Make the world seem real.
+-  Make magic seem rooted in the world.
+-  Make the characters' lives worthy of the telling.
+-  Remember that nothing is written.
+
+Principles about the world:
+
+-  Show how the world is unjust.
+-  Show how hierarchy and power are an albatross about the neck.
+-  Show how everyone is obligated and bound.
+-  Remember that disaster lurks around the corner.
+-  Make consequences real: relationships break, people die, fortunes are
+   lost.
+-  Be a fan, not just a threat.
+-  Never worry about historical detail; as long as you all agree to it,
+   it's so.
+-  Show what will happen without action.
+
+Principles about magic:
+
+-  Let magic show up in the corner of your eye.
+-  Make magic have a will of its own.
+-  Make magic be old, feral, and of the land.
+
+Managing supporting characters is hard. There will be a lot of them.
+Make an index card for each one and use it to note down important facts,
+agreements, relationships. This is how you can make them seem like rich,
+real, and consistent people.
+
+.. todo::
+   Re-read the GM section, make an outline, and edit. Also make
+   principles.
 
 You should play to keep the world verisimilitudinous. You should play to
 keep the characters' lives complex and compelling. Your object is to
@@ -13,34 +44,15 @@ keep the characters in compelling situations, so that we can find out
 what they do. Not punishing situations, but challenging: challenging to
 their allegiances, values, beliefs.
 
-The GM should write down what we know about NPCs on their index cards,
-and particularly how they feel about the PCs and each other. This will
-help them drive the action from the NPCs' point of view. Remember to
-think about and communicate what will happen if the PCs don't act.
-
-NPCs also get starting social role tokens (from 3 to 5) based on their
-rank.
-
-In a conflict, an emotional outburst puts a PC's reputation at risk. If
-they never make an outburst, they stand a real chance of not getting
-what they want. So, outbursts are saying "this is worth the risk". And
-if it never is worth the risk for someone, *push harder*. Loveless
-marriages, disownment and penury, abusive masters, all this and more are
-real risks. Think about what will happen if the PCs don't intervene for
-their own interests, and push for that.
-
-*Yes this is a vicious cycle.* If you damage your reputation, getting
-more role tokens becomes harder, and thus you are more likely to have to
-risk your reputation in future.
-
-The PCs are showing you at every moment what they most fear losing or
-happening. Use that. Push at them. Make their world unstable, pulling
-apart at the seams. There is no stable *status quo* in Regency World!
+... And if it never is worth the risk for someone, *push harder*.
+Loveless marriages, disownment and penury, abusive masters, all this and
+more are real risks. Think about what will happen if the PCs don't
+intervene for their own interests, and push for that.
 
 Now, the fairy offers absolution, victory, revenge, power. But it is a
 cat playing with mice, a child playing with dolls. It has no real
 conception of your wants, only how you can amuse it. It half-listens,
-then give you the rope to hang yourself.
+then gives you the rope to hang yourself.
 
 The fairy should show up soon, but not immediately; basically as soon as
 someone's been pushed into a spot where they might need a spell to get
@@ -183,138 +195,3 @@ reaction out of you. He wants to know if you have feelings for her."
 interested in the inner lives of the characters you see at the table.
 Not in their victories or failures, *per se*, but in how those victories
 and failures let them show their true colors.
-
-.. _threats:
-
-Threats
--------
-
-Sometimes, threats will loom on the horizon. There is one threat that is
-always in play: the Fairy. Otherwise, create them as needed.
-
-You will want to keep track of threats as they approach. A convenient
-way to do this is with an index card. Write the name of the threat, and
-make a number of boxes or segments to fill in. As the threat approaches,
-fill in segments.
-
-How many segments should a threat have, and how many should you fill in
-at a time? This is largely a matter of judgment. An urgent threat might
-have four segments, a pressing one six, and a distant one eight. When
-something goes wrong, mark one segment, unless it has gone disastrously
-wrong, then mark two. They are very much like reputations on characters'
-social roles.
-
-It is really up to the GM to keep these cards in sync with the story,
-though, and you may sometimes find that you have not kept up, and may
-need to mark some more segments. And sometimes, rarely, the characters'
-actions may even push a threat further away, and you might erase a
-segment.
-
-Sometimes social missteps, awkward interactions, or snubs might cause
-you to mark segments. Sometimes, simple neglect of the problem might.
-Use your judgment, but remember to keep your agenda in mind: you are not
-here to punish the characters, but you are here to keep the world
-verisimilitudinous and to keep the characters' lives complex and
-compelling.
-
-(I will also sometimes use spare tokens, instead of segments, removing
-them as I count down to the threat's realization, but this is harder for
-keeping track across sessions.)
-
-The Fairy
-~~~~~~~~~
-
-The fairy is a very particular threat. It is present at the start of the
-game, and should have a number of segments based on how long you expect
-the game to run: four for a one-shot, up to eight for a long game.
-
-When the final segment is filled in, the fairy comes fully into its
-power: the game is over, and the fairy has won. It strikes down its
-foes, lifts up its favorites, and may rule in England as in Fairy, or
-perhaps pull the whole village---or county---into fairy. Everyone should
-contribute to an epilogue, and then go take a break or play another
-game.
-
-The fairy advances when any of the following happen:
-
--  A magician :ref:`casts a spell <magic>`, exceeds the limit, and opts
-   to empower the fairy.
--  The fairy achieves a significant goal: the defeat of an enemy or the
-   upraising of a favorite.
-
-The fairy threat is also used to track which mortals the fairy can
-influence. All the player characters, by virtue of their connection to
-magic, are vulnerable to the fairy to begin with. But the supporting
-characters live in a world of such mundanity that they are shielded from
-the fairy. That can change: whenever a magician casts a spell on a
-supporting character, or asks a fairy to do so, move that supporting
-character's card on to the fairy threat. They have been made vulnerable,
-and subject to whatever magic the fairy wishes to exercise on them.
-
-Penury
-~~~~~~
-
-In the words of Mr. Micawber:
-
-   Annual income twenty pounds, annual expenditure nineteen nineteen
-   six, result happiness. Annual income twenty pounds, annual
-   expenditure twenty pounds nought and six, result misery.
-
-When a character cannot afford the costs of their life, they approach
-*penury*. When this threat comes to pass, their lifestyle falls apart:
-without magical interference, they will be unable to pay for food and
-shelter, and may become a vagabond, or find themselves detained and
-thrown in the workhouse; you may bring Arrest into play. Vagrancy and
-penury are, of course, criminalized in this time and place.
-
-If you choose, you can avoid penury through bringing Debt into play.
-
-Debt
-~~~~
-
-Legally, there are two kinds of debt: a debt created through a legal
-instrument, such as a loan; and a debt incurred through gambling, or
-other activity outside the bounds of the law. The former are very
-binding, and can land a delinquent debtor in debtor's prison. The latter
-are not *actually* legally enforceable, and are called "debts of honour"
-as a result. However, *de facto*, sufficient debts of honour can easily
-lead to legally enforceable debt and debtor's prison.
-
-A character who is in Debt has exhausted their lines of credit, and may
-be very hard up indeed.
-
-Once this threat is realized, bring Arrest into play. You may also, if
-appropriate, bring in Shunning.
-
-Arrest
-~~~~~~
-
-As this threat comes to bear, the magistrates and bailiffs close in
-their pursuit of the character in question. Once it is in play, the
-character is imprisoned. Our modern conceptions of prisoners' rights
-very much do not apply. Depending on the prison and the conditions,
-perhaps bring Disease into play.
-
-Shunning
-~~~~~~~~
-
-The first time a character marks all three bad reputations, bring this
-threat directly into play. You can also bring it directly into play when
-something particularly damning comes to light about a character.
-
-A shunned character is avoided, snubbed, cut, and excluded at every
-turn.
-
-Disease
-~~~~~~~
-
-Bring this in to play when a character has been exposed to unwholesome
-conditions, such as in prison, or wandering the moors in inclement
-weather, or exposure to strange things in Arcadia.
-
-When a character succumbs to Disease, treat it as a :ref:`duel
-<dueling>` between them and the disease. It's not a fair fight, usually.
-The disease has the advantage, unless you're attended by doctors. If
-you're attended by the very best doctors, you have the advantage.
-
-Of course, a fight with a disease is to the death.

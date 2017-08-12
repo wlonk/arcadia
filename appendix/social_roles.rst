@@ -3,6 +3,8 @@
 Appendix: Social Roles
 ======================
 
+.. todo:: Write "how to run", focus on the problems for each role.
+
 King of Spades: Gentleman (|male|)
 ----------------------------------
 

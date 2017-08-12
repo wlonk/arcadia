@@ -53,9 +53,8 @@ limit. You will describe the ritual, each step you take giving you a
 card. If your cards total at or above the threshold, the spell works. If
 they surpass the limit, you have let too much into the world: your spell
 works, but beyond what you intended. You will also have to pay a cost:
-either increasing the power of the fairy (see :ref:`threats`), or
-risking your own soul and walking a step closer to becoming a
-:ref:`fetch`.
+either increasing the power of the fairy, or risking your own soul and
+walking a step closer to becoming a :ref:`fetch`.
 
 The threshold is 21. The limit is the GM's hand. After each draw on the
 spellcaster's part, the GM will draw, or stay put, depending: if they

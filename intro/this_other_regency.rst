@@ -143,3 +143,16 @@ Hinduism
 ~~~~~~~~
 
 Very rare.
+
+Terms of Address
+----------------
+
+Titles
+
+Among equals
+
+Addressing superiors
+
+Addressing inferiors
+
+Intimacy
