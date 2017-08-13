@@ -102,7 +102,7 @@ todo_include_todos = True
 # a list of builtin themes.
 #
 html_theme = "murray"
-html_theme_path = [murray.templates_path]
+html_theme_path = [murray.template_path]
 # For local development on the theme:
 # html_theme_path = ["/Users/kit/code/murray"]
 # TODO: include genindex?
