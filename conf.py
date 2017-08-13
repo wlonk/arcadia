@@ -20,6 +20,8 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+import murray
+
 
 def setup(app):
     app.add_stylesheet('css/custom.css')  # may also be an URL
@@ -100,6 +102,7 @@ todo_include_todos = True
 # a list of builtin themes.
 #
 html_theme = "murray"
+html_theme_path = [murray.get_html_theme_path()]
 # For local development on the theme:
 # html_theme_path = ["/Users/kit/code/murray"]
 # TODO: include genindex?
