@@ -64,7 +64,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Arcadia'
+project = u'Et in Arcadia ego'
 copyright = u'2017, Kit La Touche'
 author = u'Kit La Touche'
 
