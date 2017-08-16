@@ -83,4 +83,26 @@ Similarly, you could make an outcome for financial risk: from ruin to
 hitting the jackpot. Or perhaps you wish to communicate secretly:
 outcomes may include being misunderstood, or overheard.
 
+There are a few different scales:
+
+-  Binary:
+
+   -  Ace through seven: Bad
+   -  Eight through King: Good
+
+-  Ternary:
+
+   -  Ace through four: Bad
+   -  Five through nine: Compromised
+   -  Ten through King: Good
+
+-  Quaternary:
+
+   -  Ace or two: Disastrous
+   -  Three or four: Bad
+   -  Five through nine: Compromised
+   -  Ten through King: Good
+
 You can adjust the scale of actions as needed; sometimes zoom in or out.
+One test can cover an evening with a suitor, or a moment with them on
+the dance floor.
