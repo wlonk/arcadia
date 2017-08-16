@@ -14,17 +14,20 @@ Draw one card per outcome in play, plus one for any advantage or
 leverage you may have.
 
 Achievement (passion):
+----------------------
 
 -  Ace through seven: Failure.
 -  Eight through King: Success.
 
 NPC Entreaty (social):
+----------------------
 
 -  Ace through four: They refuse.
 -  Five through nine: They will, conditionally.
 -  Ten through King: They will.
 
 PC Entreaty (social):
+---------------------
 
 -  Ace through four: Their choice.
 -  Five through nine: Their choice, but if they don't, mark a reputation
@@ -33,6 +36,7 @@ PC Entreaty (social):
    of theirs. If they do, they get a social token.
 
 Bodily harm:
+------------
 
 -  Ace or two: You are mortally wounded.
 -  Three or four: You are gravely wounded.
@@ -40,6 +44,7 @@ Bodily harm:
 -  Ten through King: You are fine.
 
 Social harm (social):
+---------------------
 
 -  Ace through four: You embarrass yourself. Mark a reputation.
 -  Five through nine: You pass.
@@ -47,17 +52,20 @@ Social harm (social):
    with fewer than four marks if you wish.
 
 Keep calm:
+----------
 
 -  Ace through seven: Failure.
 -  Eight through King: Success.
 
 The power of magic grows:
+-------------------------
 
 -  Ace through four: It grows; mark two segments on the fairy.
 -  Five through nine: It grows; mark one segment on the fairy.
 -  Ten through King: It remains under control.
 
 The fairy is present:
+---------------------
 
 -  Ace or two: The fairy takes you into its power.
 -  Three or four: The fairy takes especial interest in you.
@@ -65,12 +73,14 @@ The fairy is present:
 -  Ten through King: You escape the fairy's interest.
 
 Effect of a spell (passion, keep card):
+---------------------------------------
 
 -  Ace through four: Sound a fury, signifying nothing.
 -  Five through nine: A weak effect.
 -  Ten through King: A strong effect.
 
 Cost of a spell (passion, keep card):
+-------------------------------------
 
 -  Ace through four: All the consequences, or take a mark.
 -  Five through nine: One of the consequences.
