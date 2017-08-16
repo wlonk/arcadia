@@ -20,12 +20,6 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-# import murray
-
-
-# def setup(app):
-#     app.add_stylesheet('css/custom.css')  # may also be an URL
-
 
 # -- General configuration ------------------------------------------------
 
@@ -48,7 +42,6 @@ rst_epilog = """
 # ones.
 extensions = [
     'sphinx.ext.todo',
-    'sphinx.ext.githubpages',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -101,11 +94,34 @@ todo_include_todos = True
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = "alabaster"
-# html_theme_path = [murray.template_path]
-# For local development on the theme:
-html_theme_path = ["/Users/kit/code/murray/murray"]
-# TODO: include genindex?
+MURRAY = False
+
+if MURRAY:
+    import murray
+    html_theme = "murray"
+    html_theme_path = [murray.get_html_theme_path()]
+    # TODO: include genindex?
+    # For local development on the theme:
+    # html_theme_path = ["/Users/kit/code/murray/murray"]
+else:
+    def setup(app):
+        app.add_stylesheet('css/custom.css')  # may also be an URL
+
+    html_theme = "alabaster"
+    html_theme_options = {
+        'body_text_align': 'justify',
+        'extra_nav_links': {
+            'Index': '/genindex/',
+        },
+        'show_related': True,
+    }
+    html_sidebars = {
+        '**': [
+            'navigation.html',
+            'relations.html',
+            'searchbox.html',
+        ],
+    }
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -113,26 +129,12 @@ html_theme_path = ["/Users/kit/code/murray/murray"]
 #
 # html_theme_options = {
 # }
-html_theme_options = {
-    'body_text_align': 'justify',
-    'extra_nav_links': {
-        'Index': '/genindex/',
-    },
-    'show_related': True,
-}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 html_favicon = '_static/favicon.ico'
-html_sidebars = {
-    '**': [
-        'navigation.html',
-        'relations.html',
-        'searchbox.html',
-    ],
-}
 
 
 # -- Options for HTMLHelp output ------------------------------------------
