@@ -8,6 +8,10 @@ course, aren't actually English. I will leave it to the reader to learn
 what subtler gradations of class and geography are encoded in these and
 other names.
 
+.. todo:: Find a way to make this section render in two columns.
+
+.. todo:: Make region-specific name lists?
+
 Masculine names may include:
 
 -  Charles
