@@ -8,7 +8,8 @@ of that sort to discard the card assigned and replace it with a draw
 after assigning outcomes.
 
 If it says "keep card", you keep the card until the end of the session
-in front of you.
+in front of you. If you have used tokens to re-draw the card, only the
+final card remains in front of you.
 
 Draw one card per outcome in play, plus one for any advantage or
 leverage you may have.

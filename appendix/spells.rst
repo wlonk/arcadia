@@ -249,7 +249,7 @@ Consequences include:
    anyone with magical sensitivity to see.
 
 This is magic that will imperil your soul. Whenever you cast it, include
-the following outcome:
+the following outcome (passion, keep card):
 
    -  Ace through seven: Take a mark.
    -  Eight through King: Do not take a new mark.
@@ -276,7 +276,7 @@ Consequences include:
    their mother tongue, and only speaks some of the dialects of Hell.
 
 This spell risks marking you as Death's own. When you cast it, include
-this outcome:
+this outcome (passion, keep card):
 
    -  Ace through seven: Change your last mark: it no longer reads
       "become a Fetch", but not "become a Wraith". If it already reads
