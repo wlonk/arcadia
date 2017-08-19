@@ -98,7 +98,7 @@ def setup(app):
 # a list of builtin themes.
 
 
-MURRAY = True
+MURRAY = False
 
 if MURRAY:
     # import murray
