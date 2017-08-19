@@ -16,8 +16,7 @@ To cast the spell, you must have:
 -  Something to follow, so you don't get lost between the worlds.
 -  Something to pay as a toll to the forces that guard the boundaries.
 
-If you surpass the limit, the GM will tell you which of these additional
-effects happen:
+Consequences include:
 
 -  You bring something or someone you did not intend to bring with you
    across the boundary between worlds.
@@ -38,8 +37,7 @@ To cast this spell, you must have:
 -  Something to intoxicate or befuddle your senses, to let you see past
    the world of your eyes.
 
-If you surpass the limit, the GM will tell you which of these additional
-effects happen:
+Consequences include:
 
 -  Someone near the vision feels watched.
 -  The vision is misleading in some particular. The GM will tell you
@@ -60,8 +58,7 @@ To cast this spell, you must have:
    vice versa.
 -  A token of your obeisance to one or more of the Winds.
 
-If you surpass the limit, the GM will tell you which of these additional
-effects happen:
+Consequences include:
 
 -  A most unsettling and unnatural mood descends upon the town, rife
    with ill omens and portents. People will not open up to you for fear
@@ -88,8 +85,7 @@ To cast this spell, you must have:
 -  A secret never heard by anyone else, whispered at the moment of
    casting. 
 
-If you surpass the limit, the GM will tell you which of these additional
-effects happen:
+Consequences include:
 
 -  The labyrinth will grow and encroach on more and more of the land
    around it.
@@ -109,8 +105,7 @@ To cast this spell, you must have:
 -  A path by which the summoned shall arrive.
 -  A gift to honour the summoned.
 
-If you surpass the limit, the GM will tell you which of these additional
-effects happen:
+Consequences include:
 
 -  They appear, but are worse for wear, and the journey has made them
    cross. Any interactions with them will be more difficult. 
@@ -132,8 +127,7 @@ To cast this spell, you must have:
    with one door, a cave with one entrance, a deep wood with one trail,
    a salt circle with one one gap.
 
-If you surpass the limit, the GM will tell you which of these additional
-effects happen:
+Consequences include:
 
 -  The imprisoned soul cannot leave, but they may be seen and heard from
    afar in someone’s dreams, and by the mad or dying.
@@ -156,8 +150,7 @@ To cast this spell, you must have:
    one you wish to copy, a portrait, or similar.
 -  A liminal space. A gateway, abandoned home, a border, or passageway.
 
-If you surpass the limit, the GM will tell you which of these additional
-effects happen:
+Consequences include:
 
 -  More of them bleeds into you than you wanted. The GM will tell you
    one of their passions, which is now yours.
@@ -179,8 +172,7 @@ To cast this spell, you must have:
 -  A branching path, to send your appearance down one way and your self
    down another.
 
-If you surpass the limit, the GM will tell you which of these additional
-effects happen:
+Consequences include:
 
 -  You may be unseen, but those who you are near feel a chill breeze and
    a strange presence.
@@ -205,8 +197,7 @@ To cast this spell, you must have:
 -  A deep pool, hidden from the sun, so you may shed your skin or put it
    back. 
 
-If you surpass the limit, the GM will tell you which of these additional
-effects happen:
+Consequences include:
 
 -  You will not suffer wounds; someone else will suffer yours in your
    stead. The GM will tell you who, but only upon your first injury.
@@ -220,14 +211,17 @@ effects happen:
 A spell to command attention
 ----------------------------
 
+This spell makes you irresistibly charismatic for as long as it lasts.
+Everyone would rather be talking with you, would rather wait on you,
+would rather win your affections.
+
 To cast this spell, you must have:
 
 -  Something to draw the eye.
 -  Something to lull the mind.
 -  Something to guard against distractions.
 
-If you surpass the limit, the GM will tell you which of these additional
-effects happen:
+Consequences include:
 
 -  Attention becomes obsession. Those caught will compete for your
    audience, and you will have to keep the chaos at bay to get what you
@@ -246,8 +240,7 @@ To cast this spell, you must have:
 -  Something to put in place of the memory.
 -  Something to identify the subject of the spell.
 
-If you surpass the limit, the GM will tell you which of these additional
-effects happen:
+Consequences include:
 
 -  The surgery is imprecise: either some additional memories are
    damaged, or some hints of the original memory are left.
@@ -255,9 +248,11 @@ effects happen:
 -  Sympathetic connections tie you to the subject of the spell, for
    anyone with magical sensitivity to see.
 
-This is magic that will imperil your soul. Draw a card for corruption
-whenever you cast it, regardless of whether you surpass the limit or
-not.
+This is magic that will imperil your soul. Whenever you cast it, include
+the following outcome:
+
+   -  Ace through seven: Take a mark.
+   -  Eight through King: Do not take a new mark.
 
 A spell to wake the dead
 ------------------------
@@ -271,8 +266,7 @@ To cast this spell, you must have:
 -  A familiar tune, known to the dead, that can guide them through
    death’s dark realm.
 
-If you surpass the limit, the GM will tell you which of these additional
-effects happen:
+Consequences include:
 
 -  You bring back more than you intended. Vengeful spirits act on their
    grievances.
@@ -281,15 +275,15 @@ effects happen:
 -  The dead speak strange tongues. The one you bring back has forgotten
    their mother tongue, and only speaks some of the dialects of Hell.
 
-This magic will not add to your corruption track. However, having broken
-the ultimate taboo for mortals (who must all obey Death’s laws) you
-become marked by Death and now belong to it. Should your corruption
-track ever fill, you ignore any outcome that would normally occur,
-instead becoming an agent of Death itself. In a violent, bloody, and
-harrowing transformation, the underworld swallows your flesh and weaves
-your naked spirit into a wraith. As a hungry and obedient spirit, you
-will hunt down others touched by magic and try to add them to Death’s
-ranks, to serve as a warning to others. 
+This spell risks marking you as Death's own. When you cast it, include
+this outcome:
+
+   -  Ace through seven: Change your last mark: it no longer reads
+      "become a Fetch", but not "become a Wraith". If it already reads
+      this way, take a mark. A wraith is a spirit without a body, doomed
+      to walk in unquenchable agony until the Final Judgment. They seek
+      the death of others to try to allay their pain.
+   -  Eight through King: Escape unscathed.
 
 A spell to enfeeble an enemy
 ----------------------------

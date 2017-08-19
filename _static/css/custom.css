@@ -11,3 +11,7 @@
   padding-left: 3px;
 }
 /* */
+
+.two-column {
+  column-count: 2;
+}

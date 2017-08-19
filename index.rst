@@ -49,7 +49,7 @@ Et in Arcadia Ego
    intro/what_a_game_looks_like
    intro/this_other_regency
    intro/the_magic_of_england
-   intro/starting_the_game
+   rules/starting_the_game
    rules/making_characters
    rules/scenes
    rules/outcomes

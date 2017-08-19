@@ -59,26 +59,25 @@ questions on your social role, and choose a passion.
 
 Now choose a personal boon:
 
--  **Jupiter:** Wealth is easy for you. You may draw an extra card in any
-   exertion where expenditure of money would facilitate matters.
--  **Luna:** You mirror the moods of those around you. You have leverage in any
-   situation where you agree with, mirror, and support what the other person
-   says.
--  **Mars:** You are strong. You may draw an extra card in any exertion where
-   raw physical force helps.
+-  **Sol:** You are dazzling. You may draw an extra card when you are
+   the center of attention.
+-  **Luna:** You mirror the moods of those around you. You may draw an
+   extra card when it is helpful that you agree with, mirror, and
+   support what the other person says.
 -  **Mercury:** You have a broad education, through formal or informal
-   channels. You may draw an extra card in any exertion where knowing just that
-   one weird thing would help.
--  **Saturn:** Your focus is unshakable. You may draw an extra card in any
-   exertion where you must overcome distractions.
--  **Sol:** You are dazzling. When making an impression, once per
-   session you may simply state one positive impression you leave,
-   whether you have any bad reputations or not.
--  **Uranus:** You have a spark of genius. You may draw an extra card in any
-   exertion where you seek to create or discover something new, unknown to the
+   channels. You may draw an extra card when knowing just that one weird
+   thing would help.
+-  **Venus:** You are incredibly beautiful. You may drawn an extra card
+   when your beauty helps.
+-  **Mars:** You are strong. You may draw an extra card in when raw
+   physical force helps.
+-  **Jupiter:** Wealth is easy for you. You may draw an extra card when
+   expenditure of money would facilitate matters.
+-  **Saturn:** Your focus is unshakable. You may draw an extra card
+   whenever you must overcome distractions.
+-  **Uranus:** You have a spark of genius. You may draw an extra card
+   whenever you seek to create or discover something new, unknown to the
    world at this point.
--  **Venus:** You are incredibly beautiful. You have leverage in any situation
-   where you are petitioning someone who would be swayed by your beauty.
 
 These boons and the family boons are not the sorts of things that the
 *characters* are aware of or discuss in-fiction. They are for you, the players,
@@ -98,8 +97,6 @@ tokens, you are morose, melancholic, and listless.
 
 Be sure to ask and answer this for each character: why might they need magic?
 Why might a fairy take an interest in them?
-
-.. todo:: Design character sheet.
 
 .. topic:: So it's a bunch of rich white people, right?
 

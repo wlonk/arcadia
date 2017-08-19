@@ -36,22 +36,21 @@ family name, where they live, a general sense of their wealth and
 status, and choose their *blood*. This is a boon that will be available
 to any character who is of that family.
 
--  **Ash blood:** you may draw an extra card in any exertion where your
-   creativity and inspiration is an asset.
--  **Hawthorn blood:** when you cast a spell, you may add two to the
-   limit. (See the rules for :ref:`magic` for more.)
--  **Hazel blood:** you may draw an extra card in any exertion where
-   your knowledge, intelligence, or reason is an asset.
--  **Holly blood:** if someone would have leverage over you in a
-   petition because of their superior rank, instead, they don't.
--  **Oaken blood:** you may draw an extra card in any exertion where
-   your stamina, heartiness, or durability is an asset.
--  **Rowan blood:** you may draw an extra card in any exertion where you
-   are resisting the effects of magic worked against you.
--  **Willow blood:** you may draw an extra card in any exertion where
-   your observational skill is an asset.
--  **Yew blood:** you may draw an extra card in any exertion where you
-   face death as a risk.
+-  **Rowan blood:** you may draw an extra card when you are resisting
+   the effects of magic worked against you.
+-  **Ash blood:** you may draw an extra card any time your creativity
+   and inspiration is an asset.
+-  **Willow blood:** you may draw an extra card when your observational
+   skill is an asset.
+-  **Hawthorn blood:** you may draw an extra card when you cast a spell.
+-  **Oaken blood:** you may draw an extra card when your stamina,
+   heartiness, or durability is an asset.
+-  **Holly blood:** if someone would have leverage over because of their
+   superior rank, instead, they don't.
+-  **Hazel blood:** you may draw an extra card when your knowledge,
+   intelligence, or reason is an asset.
+-  **Yew blood:** you may draw an extra card when you face death as a
+   risk.
 
 Remember, England is not simply for and of the English. There are
 families from further abroad in this time and place. From the nearby

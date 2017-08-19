@@ -91,22 +91,23 @@ todo_include_todos = True
 
 # -- Options for HTML output ----------------------------------------------
 
+def setup(app):
+    app.add_stylesheet('css/custom.css')  # may also be an URL
+
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-#
-MURRAY = False
+
+
+MURRAY = True
 
 if MURRAY:
-    import murray
+    # import murray
     html_theme = "murray"
-    html_theme_path = [murray.get_html_theme_path()]
+    # html_theme_path = [murray.get_html_theme_path()]
     # TODO: include genindex?
     # For local development on the theme:
-    # html_theme_path = ["/Users/kit/code/murray/murray"]
+    html_theme_path = ["/Users/kit/code/murray"]
 else:
-    def setup(app):
-        app.add_stylesheet('css/custom.css')  # may also be an URL
-
     html_theme = "alabaster"
     html_theme_options = {
         'body_text_align': 'justify',
