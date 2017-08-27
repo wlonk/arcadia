@@ -16,7 +16,7 @@ By the time you finish, each character will have:
 
    -  Reputations
    -  Relationships
-   -  And starting social tokens
+   -  And starting role tokens
 
 -  A Passion, which provides:
 
@@ -95,10 +95,10 @@ Next choose a personal boon:
 *characters* are aware of or discuss in-fiction. They are for you, the
 players, only.)
 
-Your character starts with a number of social tokens based on their social
+Your character starts with a number of role tokens based on their social
 role, and two :index:`passion tokens`.
 
-If at any point during the game, you run out of social tokens, you have
+If at any point during the game, you run out of role tokens, you have
 exhausted your good name for the time being; acquaintances are tired of
 you and friends may counsel you to lay low. If you run out of passion
 tokens, you are morose, melancholic, and listless.

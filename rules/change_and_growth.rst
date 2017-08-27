@@ -28,7 +28,7 @@ Change and growth
       trolls, and susceptibility to Corruption (again two edged: makes it
       easier to use your magic BUT it's burning you out at the same time)
 
-   Advance "our world" via social tokens spent, advance "their world" via
+   Advance "our world" via role tokens spent, advance "their world" via
    passion tokens spent.
 
 .. todo::

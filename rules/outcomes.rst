@@ -42,8 +42,8 @@ you.
 -  Ace through seven: Failure.
 -  Eight through King: Success.
 
-Entreaty of a supporting character (social)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Entreaty of a supporting character (role)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 When you may or may not convince a supporting character to act as you
 wish, use this outcome. Examples of accepting "conditionally" include
@@ -61,8 +61,8 @@ feelings are their own.
 -  Five through nine: They will, conditionally.
 -  Ten through King: They will.
 
-Entreaty of a main character (social)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Entreaty of a main character (role)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 When you attempt to convince another main character to act as you wish,
 *the choice is always theirs*, but you may exert some social pressure.
@@ -79,7 +79,7 @@ feelings are their own.
 -  Five through nine: Their choice, but if they don't, mark a reputation
    of theirs.
 -  Ten through King: Their choice, but if they don't, mark a reputation
-   of theirs. If they do, they get a social token.
+   of theirs. If they do, they get a role token.
 
 Bodily harm
 ~~~~~~~~~~~
@@ -92,8 +92,8 @@ When you may suffer wounds or illness, use this outcome. See
 -  Five through nine: You are injured.
 -  Ten through King: You are fine.
 
-Social risk (social)
-~~~~~~~~~~~~~~~~~~~~
+Social risk (role)
+~~~~~~~~~~~~~~~~~~
 
 When you may make a good or a bad impression, or acquit themselves with
 grace or with shame, use this outcome.
@@ -208,10 +208,10 @@ kinds: social, physical, and emotional. Under certain circumstances, you
 may also expose yourself to financial, mystical, or other impairment.
 
 Social harm results in degraded reputations and can hamper your ability
-to continue to get social tokens. When you have checked all four boxes
-on a reputation, it is destroyed. You cannot get it back, and you can
-never gain social tokens from that reputation again. If all your
-reputations are fully marked, you are ruined.
+to continue to get role tokens. When you have checked all four boxes on
+a reputation, it is destroyed. You cannot get it back, and you can never
+gain role tokens from that reputation again. If all your reputations are
+fully marked, you are ruined.
 
 Physical harm results in injury and potentially death. When you are
 injured, you will heal with time and rest (or, perhaps, with magic), but

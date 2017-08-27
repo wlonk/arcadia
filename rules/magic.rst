@@ -65,7 +65,7 @@ a dangerous and amoral *thing* with a limited lifespan.
 
 As a fetch, you keep as many :index:`passion tokens` as you had at the
 moment you transformed. Once these tokens are spent, the fetch's flame
-gutters out. Discard all your :index:`social tokens`; damaged
+gutters out. Discard all your :index:`role tokens`; damaged
 reputations and friendships no longer mean anything to you.
 
 As a fetch, you can cast spells more easily, too. You must simply pay a
