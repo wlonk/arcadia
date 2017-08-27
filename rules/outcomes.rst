@@ -241,6 +241,8 @@ Peripheral Outcomes
 There are certain outcomes that are common enough to include here, but
 are still a bit specialized.
 
+.. todo:: Fill out peripheral outcomes.
+
 Rumours
 ~~~~~~~
 
@@ -252,3 +254,5 @@ Gambling
 
 Promises
 ~~~~~~~~
+
+.. todo:: Can you spend a role token for a quick effect?

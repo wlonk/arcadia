@@ -33,7 +33,8 @@ role token.
    solitude may, under normal circumstances, be kept secret, in this
    Regency, there are people who speak the languages of the stones, the
    trees, and the birds. Unless you can swear them to secrecy, every
-   secret eventually finds its way out.
+   secret eventually finds its way out. Even then, a town where everyone
+   knows a secret but everyone is sworn to keep it is not uncommon!
 
 Reflection
 ----------

@@ -12,6 +12,8 @@ Playing as the Host
 
    Turn agenda and principles into real things.
 
+.. todo:: Talk about history panic, and how you can avoid it.
+
 Agenda:
 
 -  Make the world seem real.

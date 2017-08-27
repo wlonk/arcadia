@@ -175,11 +175,10 @@ pursue it wantonly, but will bide their time and strike when the moment
 is most ripe.
 
 Fetches also can use a form of magic that is neither quite human nor
-arcadian: they may perform any mortal spell, but in an instant. They do
-not need to worry about passing the threshold or exceeding the limit,
-either. However, since they are made of fairy-flame, each time they cast
-a spell, it consumes their fuel and brings them closer to their
-inevitable extinction.
+arcadian: they may perform any mortal spell, but in an instant. However,
+since they are made of fairy-flame, each time they cast a spell, it
+consumes their fuel and brings them closer to their inevitable
+extinction.
 
 (Specifically: a fetch starts with a number of passion tokens, and
 spends one each time they perform a spell. They cannot regain them. Once
@@ -219,4 +218,4 @@ They all have unnatural abilities and powers:
 
 .. todo::
    These lists are taken from Vincent Baker's *Apocalypse World: Dark
-   Age*, and should be updated.
+   Age*, and should be redone.

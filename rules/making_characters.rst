@@ -66,6 +66,18 @@ Once you have a social role, choose your family, you name, answer the
 relationship questions on your social role, and choose a passion. See
 :ref:`Appendix: Passions` for details.
 
+When answering the relationship questions, do this as a group. You
+should prioritize making up supporting characters to fill these roles,
+but sometimes another main character will be an obvious answer; that's
+OK, too. During this process, the Host should write down each new
+supporting character on their own index card, as they will have to keep
+track of these characters, their motivations, desires, and whether they
+are, say, stuck in a time-shifted parallel version of the old ruined
+abbey, or something of the sort. The Host should also be *particularly*
+attentive to the gender balance of the NPCs being created; the game runs
+best when there are an approximately equal number of male and female
+supporting characters. A range of class among them is also very helpful.
+
 .. index::
    single: boons
 

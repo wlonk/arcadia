@@ -263,6 +263,8 @@ this outcome (passion, keep card):
       the death of others to try to allay their pain.
    -  Eight through King: Escape unscathed.
 
+.. todo:: Complete the remaining spells.
+
 A spell to enfeeble an enemy
 ----------------------------
 

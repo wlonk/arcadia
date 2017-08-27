@@ -30,11 +30,6 @@ die. It will use violence without consulting you.
    promise as old as humanity, but an empty one. Some things are beyond
    even magical forces.
 
-.. todo::
-
-   How do you determine AoE and duration on spells? Do you wager passion
-   tokens on them? Or do you straight up spend passion tokens?
-
 Describe the ritual, being sure to include the components required for
 the spell. Be metaphorical and strange in your choice of components.  I
 have seen a love-letter used as "something that holds their spirit" for
@@ -77,8 +72,6 @@ Fairy Magic
 
 Fairy magic, of course, is different.
 
-.. todo:: Explain how fairy magic is different.
-
 .. epigraph::
 
    Only an obstinate prejudice about this period could blind us to a
@@ -100,6 +93,17 @@ Fairy magic, of course, is different.
    -- C. S. Lewis, *English Literature in the Sixteenth Century,
    Excluding Drama*
 
+.. todo:: Explain how fairy magic is different.
+
 .. todo:: Example:
 
    Add example of magic use.
+
+.. todo::
+
+   How do you determine AoE and duration on spells? Do you wager passion
+   tokens on them? Or do you straight up spend passion tokens?
+
+.. todo::
+
+   Can you spend a passion token for a quick cantrip effect?

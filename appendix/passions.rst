@@ -10,6 +10,11 @@ Each passion gives you three things:
 
 .. todo:: Clarify the above; repeat rules on how you get tokens, etc.
 
+.. todo::
+
+   Make sure top-tier passion rewards are about equally difficult. Also
+   consider the "they're the end of an arc" problem.
+
 Absolution
 ----------
 
