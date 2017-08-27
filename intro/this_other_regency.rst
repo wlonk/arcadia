@@ -154,3 +154,7 @@ Addressing superiors
 Addressing inferiors
 
 Intimacy
+
+.. todo:: Add currency section.
+
+   Units. Coins and bills. Purchasing power. Income disparity.

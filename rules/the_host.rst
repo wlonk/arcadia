@@ -14,6 +14,10 @@ Playing as the Host
 
 .. todo:: Talk about history panic, and how you can avoid it.
 
+.. todo:: Talk about bad outcomes and how delicious they can be.
+
+.. todo:: Talk about "fronts and threats".
+
 Agenda:
 
 -  Make the world seem real.
