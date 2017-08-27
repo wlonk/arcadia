@@ -1,5 +1,3 @@
-.. _weather:
-
 Weather
 =======
 

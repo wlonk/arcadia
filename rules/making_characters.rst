@@ -1,5 +1,3 @@
-.. _making-characters:
-
 Making characters
 =================
 
@@ -10,33 +8,46 @@ excitement together, though.
 By the time you finish, each character will have:
 
 -  A name
+-  A family, which provides:
+
+   - A family boon
+
 -  A social role, which provides:
 
    -  Reputations
    -  Relationships
-   -  Starting social tokens
+   -  And starting social tokens
 
--  A Passion and two starting passion tokens
--  A family, and thus a family boon
+-  A Passion, which provides:
+
+   -  Drives
+   -  A starting spell
+   -  Marks
+   -  and two starting passion tokens
+
 -  A personal boon
--  A spell
 
-There are two ways to choose your social role: the hardcore way, and the easy
-way. The difference is this: your choice of social role is constrained in the
-easy way, and you have *no* choice in the hardcore way.
+There are two ways to choose your social role: the hardcore way, and the
+easy way. The difference is this: your choice of social role is
+constrained in the easy way, and you have *no* choice in the hardcore
+way.
 
 For easy character creation, deal each player three social roles; they
 must choose from among them for their character. As there are twelve
-social roles, this only works with four or fewer players. While the game
-works with five players, I find that that strains matters sometimes, so
-maybe this is just as well. If you are playing with more than four, you
-can do this in rounds, dealing three to someone and taking the discarded
-roles and shuffling them back in before dealing three options to the
-next player.
+social roles, this only works well with four or fewer players. While the
+game works with five players, I find that that strains matters
+sometimes, so maybe this is just as well. If you are playing with more
+than four, you can do this in rounds, dealing three to someone and
+taking the discarded roles and shuffling them back in before dealing
+three options to the next player.
 
 For hardcore, deal each player one, and that is who they will play.
 
-.. sidebar:: Social role and gender
+To deal them out, you can either shuffle printed social role sheets, or
+simply take the face cards out of your deck of cards; each face card
+corresponds to one social role.
+
+.. topic:: Social role and gender
 
    There are twelve social roles. Four of them are male, four are female, and
    four can go either way.
@@ -49,15 +60,16 @@ For hardcore, deal each player one, and that is who they will play.
    You can surprise yourself by playing a character who has to face different
    challenges than you expected to face.
 
-(See :ref:`social-roles` for details.)
+See :ref:`Appendix: Social Roles` for details.
 
-Once you have a social role, choose your name, answer the relationship
-questions on your social role, and choose a passion.
+Once you have a social role, choose your family, you name, answer the
+relationship questions on your social role, and choose a passion. See
+:ref:`Appendix: Passions` for details.
 
 .. index::
    single: boons
 
-Now choose a personal boon:
+Next choose a personal boon:
 
 -  **Sol:** You are dazzling. You may draw an extra card when you are
    the center of attention.
@@ -79,24 +91,31 @@ Now choose a personal boon:
    whenever you seek to create or discover something new, unknown to the
    world at this point.
 
-These boons and the family boons are not the sorts of things that the
-*characters* are aware of or discuss in-fiction. They are for you, the players,
-only.
-
-Then choose a passion for your character. See :ref:`passions` for
-details. Passions determine how you replenish your sense of purpose, and
-what sort of magic you know and why.
+(These boons and the family boons are not the sorts of things that the
+*characters* are aware of or discuss in-fiction. They are for you, the
+players, only.)
 
 Your character starts with a number of social tokens based on their social
-role, and two :index:`passion tokens <passion tokens>`.
+role, and two :index:`passion tokens`.
 
 If at any point during the game, you run out of social tokens, you have
 exhausted your good name for the time being; acquaintances are tired of
 you and friends may counsel you to lay low. If you run out of passion
 tokens, you are morose, melancholic, and listless.
 
-Be sure to ask and answer this for each character: why might they need magic?
-Why might a fairy take an interest in them?
+Finally, your character starts with a spell. Each passion offers two
+spells to choose from. This spell was your introduction to the world of
+magic, and having worked it, you have drawn the fairy's attention, and
+helped to pull it back into this world.
+
+Decide also how you learned this spell. Perhaps it was from a dusty tome
+you inherited. Perhaps from an aged and mysterious traveler you gave
+hospitality. Maybe even you learned it from the birds and the clouds, or
+a prophetic vision.
+
+**Be sure to ask and answer this for each character:** why might they
+need magic? Why might a fairy take an interest in them? And how did they
+learn the spell they *do* know?
 
 .. topic:: So it's a bunch of rich white people, right?
 
@@ -120,21 +139,11 @@ Why might a fairy take an interest in them?
 
    Please, don't just play rich white people! There's so much more here.
 
-Finally, your character starts with a spell. Each passion offers two
-spells to choose from. This spell was your introduction to the world of
-magic, and having worked it, you have drawn the fairy's attention, and
-helped to pull it back into this world.
+An Example of making characters
+-------------------------------
 
-Decide also how you learned this spell. Perhaps it was from a dusty tome
-you inherited. Perhaps from an aged and mysterious traveler you gave
-hospitality. Maybe even you learned it from the birds and the clouds, or
-a prophetic vision.
-
-An Example
-----------
-
-Let's return to Anna, Beatriz, Cal, and Dan are playing, with Elias
-running, in the town of Stanham.
+Let's return to the previous examples. Anna, Beatriz, Cal, and Dan are
+playing, with Elias running, in the town of Stanham.
 
 Elias, running the game, won't be making a character, but he'll ask
 questions as everyone else makes their characters, and try to tie
@@ -157,7 +166,7 @@ country had been at war with Bonaparte for a good long time, and in
 addition to soldiers ready to ship out, there were militias standing
 ready to defend against a French invasion.)
 
-Beatriz gets the Queen of Hearts, the Governess. She names her character
+Beatriz gets the Queen of Hearts, the Companion. She names her character
 Miss Lucy Taylor, and makes her, of course, a Taylor, with *Holly
 blood*.
 
@@ -205,21 +214,20 @@ now, they're little more than names:
 
 Next, Beatriz's character, Miss Taylor. She must answer the following:
 
+-  Who fancies you?
 -  Who is your best friend?
--  Who is your charge or are your charges?
 -  Who is your employer?
 
 Her answers:
 
+-  She is fancied by someone who may be her best chance at marriage, but
+   then again may be below her: Mr. Colin Fogg, heir to the Foggs' farm.
 -  Her best friend is Miss Fitzgibbon. While the friendship grew out of
    pity, she has found that Miss Fitzgibbon (she does call her Rebecca
    when they're alone) has a keen mind, and sees the world in a way that
    always makes her think.
--  Her charge is Mr. Mason's young sibling, Master William Mason. He's a
-   terror, too smart for his own good, and always turning his mind
-   towards trouble.
--  Her employer, therefore, is Mr. Mason's father, Mr. Edward Mason the
-   elder.
+-  Her employer is Miss Grace Clearidge, a lady edging towards
+   spinsterhood yet showing no inclination to marry.
 
 Now Cal goes, with Miss Fitzgibbon. The questions are:
 

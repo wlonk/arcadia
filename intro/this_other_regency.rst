@@ -1,5 +1,3 @@
-.. _this-other-regency:
-
 This Other Regency
 ==================
 

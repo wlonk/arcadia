@@ -1,5 +1,3 @@
-.. _beastiary:
-
 Appendix: Arcadian Beings
 =========================
 
@@ -160,8 +158,6 @@ The Three Sisters
 Hecate, the phases of the moon, virgin goddesses, inseparable, wild
 mistresses of storms physical and social, demanding *amusement* and
 *secrets* before all else.
-
-.. _fetch:
 
 Fetch
 -----

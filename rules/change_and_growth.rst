@@ -1,5 +1,3 @@
-.. _change-and-growth:
-
 Change and growth
 =================
 

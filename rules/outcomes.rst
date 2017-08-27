@@ -85,7 +85,7 @@ Bodily harm
 ~~~~~~~~~~~
 
 When you may suffer wounds or illness, use this outcome. See
-:ref:`harm-and-healing` for more on wounds and impairment.
+:ref:`Harm and Healing` for more on wounds and impairment.
 
 -  Ace or two: You are mortally wounded.
 -  Three or four: You are gravely wounded.
@@ -107,7 +107,7 @@ Emotional risk
 ~~~~~~~~~~~~~~
 
 When a situation may result in emotional stress, use this outcome. See
-:ref:`harm-and-healing` for more on conditions.
+:ref:`Harm and Healing` for more on conditions.
 
 -  Ace through seven: You are shaken. Mark a condition.
 -  Eight through King: You hold it together.
@@ -199,8 +199,6 @@ There are a few different scales:
 You can adjust the scale of actions as needed; sometimes zoom in or out.
 One test can cover an evening with a suitor, or a moment with them on
 the dance floor.
-
-.. _harm-and-healing:
 
 Harm and Healing
 ----------------

@@ -1,5 +1,3 @@
-.. _scenes-and-sessions:
-
 Scenes and Sessions
 ===================
 

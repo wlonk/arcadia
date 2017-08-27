@@ -1,5 +1,3 @@
-.. _starting-the-game:
-
 Starting the game
 =================
 
@@ -64,8 +62,8 @@ tremendous power there), and there are families of West Indian and
 African origin. From the age of Roman Britain on, England has been a
 crossroads of cultures and ethnicities.
 
-An Example
-----------
+An Example of making a town
+---------------------------
 
 Anna, Beatriz, Cal, and Dan are playing, with Elias running.
 
