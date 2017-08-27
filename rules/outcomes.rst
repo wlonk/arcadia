@@ -256,3 +256,8 @@ Promises
 ~~~~~~~~
 
 .. todo:: Can you spend a role token for a quick effect?
+
+.. todo::
+
+   Design outcome sheets with a spot to put the card in. Probably
+   half-page size.

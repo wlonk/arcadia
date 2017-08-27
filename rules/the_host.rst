@@ -46,6 +46,7 @@ agreements, relationships. This is how you can make them seem like rich,
 real, and consistent people.
 
 .. todo::
+
    Re-read the Host section, make an outline, and edit. Also make
    principles.
 

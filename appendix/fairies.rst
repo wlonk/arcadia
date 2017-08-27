@@ -217,5 +217,6 @@ They all have unnatural abilities and powers:
 -  And likewise, and likewise.
 
 .. todo::
+
    These lists are taken from Vincent Baker's *Apocalypse World: Dark
    Age*, and should be redone.

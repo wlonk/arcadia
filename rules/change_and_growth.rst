@@ -1,19 +1,20 @@
 Change and growth
 =================
 
-.. todo:: Example:
-
-   Write change/growth example. This is how Darcy makes Wickham, right?
-
 .. todo:: Getting new spells.
 
    How do you? Is it like Fate in *Mythender*, where corruption unlocks
    new slots for you? Is that reputation-loss corruption, or
    soul-corruption?
 
-.. todo::
+.. todo:: "Cheevos"
 
-   Consider whether change and growth interacts with :ref:`weather`.
+   The idea came up that advancement could be under unlocking things
+   like prestige classes; the first to learn three spells gets The
+   Magician, or something. Someone else might, Vinculus-like, become The
+   Book. These give an extra little set of rules and maybe extend your
+   Marks list or unlock more spells? These should all be magic-oriented,
+   for sure.
 
 .. todo::
 
@@ -30,19 +31,3 @@ Change and growth
 
    Advance "our world" via role tokens spent, advance "their world" via
    passion tokens spent.
-
-.. todo::
-
-   Advance places and people. We currently have advancing people. Places
-   could inject some gothicness into this. Doing magic in  a place marks
-   the Arcadian advancement, doing normal socially acceptable things
-   publicly in a place makes it more human.
-
-   Perhaps there are hidden unlocks as you advance each track, via Host
-   prep, that show off some of the secret history in a Gothic way.
-
-   These unlocks can lead to things like "a fight in this house will
-   summon a storm", and thus very situated, not spell-driven, magic.
-
-   This also is a way to change the world. Review *How We Came to Live
-   Here*.

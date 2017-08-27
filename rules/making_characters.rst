@@ -1,6 +1,8 @@
 Making characters
 =================
 
+.. todo:: Write about age and marital status.
+
 Once you have made a village together, you can make your characters. This can
 be done more independently, but it's still worth talking and sharing ideas and
 excitement together, though.
@@ -303,3 +305,8 @@ earned the family a bit more stability. His friendship with Capt. Perry
 is underscored by this theme, as Perry has a good income as an officer
 of horse, and the chance at real glory should he be sent to the
 Peninsula. He chooses to start with a spell to open the ways to Arcadia.
+
+.. todo::
+
+   Make passion and social role sheets as half-sheets to print and
+   combine.
