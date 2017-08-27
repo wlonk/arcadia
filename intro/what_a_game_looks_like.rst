@@ -23,15 +23,17 @@ should push towards their particular agenda, while allowing room for
 contributions, suggestions, and consideration from everyone else at the
 table. All the rules of polite conversation apply as ever.
 
-Meanwhile, one player, call the *game master* or GM, manages the
-supporting characters, the world at large, and, very importantly, the
-forces of Arcadia that may tempt and may threaten and may help the main
+.. _index: Host
+
+Meanwhile, one player, called the *Host*, manages the supporting
+characters, the world at large, and, very importantly, the forces of
+Arcadia that may tempt and may threaten and may help the main
 characters.
 
-The GM is there to be force of adversity, but not hostility. It is only
-through adversity that we come to see someone's true character, after
-all, and if we are to tell a story worth the telling, it must have
-challenges, temptations, and setbacks. But as the GM has such great
+The Host is there to be force of adversity, but not hostility. It is
+only through adversity that we come to see someone's true character,
+after all, and if we are to tell a story worth the telling, it must have
+challenges, temptations, and setbacks. But as the Host has such great
 latitude to set the world against the characters, they must also behave
 with restraint and according to principles, that they may not be merely
 a cruel and capricious demiurge.

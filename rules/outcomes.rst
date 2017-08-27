@@ -1,5 +1,3 @@
-.. _outcomes:
-
 Outcomes
 ========
 
@@ -11,8 +9,21 @@ If it says "keep card", you keep the card until the end of the session
 in front of you. If you have used tokens to re-draw the card, only the
 final card remains in front of you.
 
-Draw one card per outcome in play, plus one for any advantage or
-leverage you may have.
+Draw one card per outcome in play. If any of the following pertain, you
+may draw one more card:
+
+-  Family boon
+-  Personal boon
+-  Leverage (including superior social status)
+-  Help from another character
+
+You don't draw one card per thing from that list; just one card if any
+of them pertain.
+
+Assign the cards to the outcomes at play as you wish, discarding any
+excess cards. Once the uncertainty is resolved, take all the cards and
+shuffle them back into the deck, except those that end up on outcomes
+that say "keep".
 
 Particular outcomes
 -------------------
@@ -39,6 +50,13 @@ wish, use this outcome. Examples of accepting "conditionally" include
 demanding repayment, either now or as an uncertain future debt, or
 requiring assurances or collateral.
 
+If the character agrees, it is that simple. If they resist, use this
+outcome.
+
+You may only entreat a character to an action, not to a feeling. You may
+beg forgiveness, and entreat them to *say* they offer it, but their
+feelings are their own.
+
 -  Ace through four: They refuse.
 -  Five through nine: They will, conditionally.
 -  Ten through King: They will.
@@ -49,6 +67,13 @@ Entreaty of a main character (social)
 When you attempt to convince another main character to act as you wish,
 *the choice is always theirs*, but you may exert some social pressure.
 Use this outcome to do so.
+
+If the character agrees, it is that simple. If they resist, use this
+outcome.
+
+You may only entreat a character to an action, not to a feeling. You may
+beg forgiveness, and entreat them to *say* they offer it, but their
+feelings are their own.
 
 -  Ace through four: Their choice.
 -  Five through nine: Their choice, but if they don't, mark a reputation
@@ -93,7 +118,7 @@ The power of the fairy grows
 When the game begins, the fairy is still working to brings its full
 powers to bear on the mortal world.
 
-At that point, when you work magic, use this outcome. The GM will keep
+At that point, when you work magic, use this outcome. The Host will keep
 track of the fairy's growth in power. When it has accumulated enough
 marks, it will have brought its full power into this world.
 
@@ -136,14 +161,15 @@ consequences; you may choose to take a magical mark (listed under your
 Passion) when you get the lowest outcome, or to take all the magical
 side-effects.
 
--  Ace through four: All the consequences, or take a mark.
+-  Ace or two: All the consequences, and take a mark.
+-  Three or four: All the consequences, or take a mark.
 -  Five through nine: One of the consequences.
 -  Ten through King: None of the consequences.
 
 Custom outcomes
 ---------------
 
-As the GM, you can make custom outcomes! Consider if someone's lost in
+As the Host, you can make custom outcomes! Consider if someone's lost in
 the woods (or in a magical labyrinth). Outcomes can define how long it
 takes to get out, or how desperately lost you become, or similar.
 Similarly, you could make an outcome for financial risk: from ruin to
@@ -210,3 +236,21 @@ might impede you, each one makes a different suit count as aces:
 *  Shaken: Diamonds
 
 These will go away with time and comfort.
+
+Peripheral Outcomes
+-------------------
+
+There are certain outcomes that are common enough to include here, but
+are still a bit specialized.
+
+Rumours
+~~~~~~~
+
+Dancing
+~~~~~~~
+
+Gambling
+~~~~~~~~
+
+Promises
+~~~~~~~~

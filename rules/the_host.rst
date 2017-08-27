@@ -1,7 +1,16 @@
-.. _gm-rules:
+Playing as the Host
+===================
 
-Running the game
-================
+.. todo:: Talk about supporting characters
+
+   Supporting characters are crucial. Don't let those generated from
+   chargen be the only ones, see all the people that enrich and reify
+   the world and show them. Make them want things of the main
+   characters, too!
+
+.. todo:: Edit and clarify the Host section
+
+   Turn agenda and principles into real things.
 
 Agenda:
 
@@ -35,7 +44,7 @@ agreements, relationships. This is how you can make them seem like rich,
 real, and consistent people.
 
 .. todo::
-   Re-read the GM section, make an outline, and edit. Also make
+   Re-read the Host section, make an outline, and edit. Also make
    principles.
 
 You should play to keep the world verisimilitudinous. You should play to
@@ -62,11 +71,11 @@ quickly, then up-tick with the fairy's intervention, then wobble.
 Justice
 -------
 
-As the GM, you have one particular important, if unpleasant, role: it is
-your role to show the *injustice* of the setting. No time is truly just,
-and while the Enlightenment brought greater justice for some, most still
-suffered in one way or another. In particular in this game, characters
-may suffer along the dimensions of class and sex.
+As the Host, you have one particular important, if unpleasant, role: it
+is your role to show the *injustice* of the setting. No time is truly
+just, and while the Enlightenment brought greater justice for some, most
+still suffered in one way or another. In particular in this game,
+characters may suffer along the dimensions of class and sex.
 
 But not everyone suffers along those dimensions. What of the Gentleman,
 the Officer, or others who may carry great social power? They may feel
@@ -84,7 +93,7 @@ Desperation
 
 The counterpart to injustice is desperation. Injustice breeds
 desperation, but the actions that come of desperation can be dangerous,
-to say the least. As the GM, you must also, especially through the
+to say the least. As the Host, you must also, especially through the
 actions of the fairy, show a route for the desperate. When you are out
 of options, betting on chaos can be the rational bet.
 
@@ -111,11 +120,11 @@ poverty aren't even the worst of it. When you bargain with a fairy, you
 risk your very soul and future---or that of those closest and dearest to
 you.
 
-As the GM, you should have some idea of what the worst thing facing each
-character is, and you should communicate it, too. Some characters may
-live a hair's breadth away from starvation, while others may sometimes
-risk only their reputation, but the mightiest, it is said, have the
-furthest to fall.
+As the Host, you should have some idea of what the worst thing facing
+each character is, and you should communicate it, too. Some characters
+may live a hair's breadth away from starvation, while others may
+sometimes risk only their reputation, but the mightiest, it is said,
+have the furthest to fall.
 
 Don't be coy about it, either: make sure that the players understand
 what they risk. But also, make sure that they know what they are hoping
@@ -191,7 +200,7 @@ you if you have heard the news from Hastings, that Miss Redgrave is
 apparently becoming very close with a Mr. Hawkins. He's trying to get a
 reaction out of you. He wants to know if you have feelings for her."
 
-**Play to make them reveal themselves:** As the GM, you are most
+**Play to make them reveal themselves:** As the Host, you are most
 interested in the inner lives of the characters you see at the table.
 Not in their victories or failures, *per se*, but in how those victories
 and failures let them show their true colors.

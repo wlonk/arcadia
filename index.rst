@@ -3,8 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. _root:
-
 =================
 Et in Arcadia Ego
 =================
@@ -53,15 +51,10 @@ Et in Arcadia Ego
    rules/making_characters
    rules/scenes
    rules/outcomes
-   rules/petition
-   rules/exertion
-   rules/impression
    rules/magic
-   rules/dueling
-   rules/faults
-   rules/change_and_growth
-   rules/the_gm
+   rules/the_host
    rules/weather
+   rules/change_and_growth
    appendix/passions
    appendix/social_roles
    appendix/fairies

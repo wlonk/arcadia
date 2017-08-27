@@ -17,8 +17,8 @@ take the waters? Is it a haven for smugglers bringing goods in through
 the twin perils of marauding French ships, and English revenue cutters?
 
 That decided, name your town, and put a few landmarks on a piece of
-paper in the middle of the table. Each player, including the GM, should
-get the chance to place at least one. This is not an exercise in
+paper in the middle of the table. Each player, including the Host,
+should get the chance to place at least one. This is not an exercise in
 cartography, but rather a quick sketch of the area. If the characters
 are all from this town, then the players should at least all be on the
 same page about what the area looks like.  For your landmarks, consider
@@ -30,7 +30,7 @@ Cerne Abbas Giant, or the stone circles all over England.
 .. index::
    single: blood
 
-Next, make families. Each player, the GM included, should add one
+Next, make families. Each player, the Host included, should add one
 family. The main characters will be from a subset of these. Choose a
 family name, where they live, a general sense of their wealth and
 status, and choose their *blood*. This is a boon that will be available

@@ -34,8 +34,8 @@ yourself to beg for their forgiveness.
 
 Choose a starting spell:
 
--  :ref:`spell--step-sideways`
--  :ref:`spell--labyrinth`
+-  :ref:`A spell to open the ways into Arcadia`
+-  :ref:`A spell to make a labyrinth`
 
 You may choose from the following marks each time a spell burns your
 soul:
@@ -68,8 +68,8 @@ might belittle others, or even sabotage them.
 
 Choose a starting spell:
 
--  :ref:`spell--bind`
--  :ref:`spell--presence`
+-  :ref:`A spell to bind someone`
+-  :ref:`A spell to command attention`
 
 You may choose from the following marks each time a spell burns your
 soul:
@@ -106,8 +106,8 @@ is a hydra. Choler, melancholy, or even a calm icy anger might come out.
 
 Choose a starting spell:
 
--  :ref:`spell--invisibility`
--  :ref:`spell--change-shape`
+-  :ref:`A spell to pass unseen`
+-  :ref:`A spell to change one’s face`
 
 You may choose from the following marks each time a spell burns your
 soul:
@@ -140,8 +140,8 @@ you will be wheedling, perhaps you will be profligate.
 
 Choose a starting spell:
 
--  :ref:`spell--labyrinth`
--  :ref:`spell--weather-control`
+-  :ref:`A spell to make a labyrinth`
+-  :ref:`A spell to control the weather`
 
 You may choose from the following marks each time a spell burns your
 soul:
@@ -178,8 +178,8 @@ absolute, or unbending.
 
 Choose a starting spell:
 
--  :ref:`spell--presence`
--  :ref:`spell--change-shape`
+-  :ref:`A spell to command attention`
+-  :ref:`A spell to change one’s face`
 
 You may choose from the following marks each time a spell burns your
 soul:
@@ -216,8 +216,8 @@ from top to bottom, and it must end!
 
 Choose a starting spell:
 
--  :ref:`spell--scrying`
--  :ref:`spell--invulnerability`
+-  :ref:`A spell to find something distant`
+-  :ref:`A spell to turn aside a foe’s blade`
 
 You may choose from the following marks each time a spell burns your
 soul:
@@ -249,8 +249,8 @@ When you have a passionate outburst, you basically pull a Fox Mulder.
 
 Choose a starting spell:
 
--  :ref:`spell--step-sideways`
--  :ref:`spell--summon`
+-  :ref:`A spell to open the ways into Arcadia`
+-  :ref:`A spell to summon someone`
 
 You may choose from the following marks each time a spell burns your
 soul:

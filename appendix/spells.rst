@@ -1,11 +1,7 @@
-.. _spells:
-
 Appendix: Spells
 ================
 
 Here are some spells that may be available to an English magician.
-
-.. _spell--step-sideways:
 
 A spell to open the ways into Arcadia
 -------------------------------------
@@ -25,8 +21,6 @@ Consequences include:
 -  The travel is exhausting or time consuming, and you arrive at your
    destination worse for wear.
 
-.. _spell--scrying:
-
 A spell to find something distant
 ---------------------------------
 
@@ -40,11 +34,9 @@ To cast this spell, you must have:
 Consequences include:
 
 -  Someone near the vision feels watched.
--  The vision is misleading in some particular. The GM will tell you
+-  The vision is misleading in some particular. The Host will tell you
    what.
 -  You have trouble bringing your senses back into this world.
-
-.. _spell--weather-control:
 
 A spell to control the weather
 ------------------------------
@@ -65,12 +57,10 @@ Consequences include:
    of what’s listening, and celebrations will have a desperate, menacing
    undercurrent.
 -  Your call is heard all too well. Rain becomes a flood, sun becomes a
-   heatwave, a storm becomes an act of god. The GM will tell you what,
+   heatwave, a storm becomes an act of god. The Host will tell you what,
    if anything, is different about the town in the aftermath. 
 -  Your changes call for an equal and opposite response between the
    principles of fire, water, earth and air.
-
-.. _spell--labyrinth:
 
 A spell to make a labyrinth
 ---------------------------
@@ -94,8 +84,6 @@ Consequences include:
 -  Anyone who enters the labyrinth (or anyone caught within it)
    instinctively knows the secret used to make the labyrinth. 
 
-.. _spell--summon:
-
 A spell to summon someone
 -------------------------
 
@@ -112,8 +100,6 @@ Consequences include:
 -  They appear, but are not compelled to stay; it is up to you to
    convince them to do so.
 -  They appear, but they do not appear alone.
-
-.. _spell--bind:
 
 A spell to bind someone
 -----------------------
@@ -133,11 +119,9 @@ Consequences include:
    afar in someone’s dreams, and by the mad or dying.
 -  A prison is an enticing thing to fairies, who know their occupants to
    be desperate, and they may offer the jailed a bargain for their
-   freedom. The GM will tell you when your quarry is free.
+   freedom. The Host will tell you when your quarry is free.
 -  Sympathetic connections tie you to the subject of the spell, for
    anyone with magical sensitivity to see.
-
-.. _spell--change-shape:
 
 A spell to change one's face
 ----------------------------
@@ -152,15 +136,13 @@ To cast this spell, you must have:
 
 Consequences include:
 
--  More of them bleeds into you than you wanted. The GM will tell you
+-  More of them bleeds into you than you wanted. The Host will tell you
    one of their passions, which is now yours.
 -  You have one tell-tale detail that is wrong, to those who know what
    to look for.
 -  You lose a piece of yourself in the thing that held your new face,
-   the GM will tell you what. Destroying it is the only way to get it
+   the Host will tell you what. Destroying it is the only way to get it
    back, but it ends the spell.
-
-.. _spell--invisibility:
 
 A spell to pass unseen
 ----------------------
@@ -180,8 +162,6 @@ Consequences include:
    you now.
 -  You leave residue: wet footprints, rime-frost, or a sulphurous smell.
 
-.. _spell--invulnerability:
-
 A spell to turn aside a foe's blade
 -----------------------------------
 
@@ -200,13 +180,11 @@ To cast this spell, you must have:
 Consequences include:
 
 -  You will not suffer wounds; someone else will suffer yours in your
-   stead. The GM will tell you who, but only upon your first injury.
+   stead. The Host will tell you who, but only upon your first injury.
 -  No arrow, nor blade, nor bullet will harm you. But water will wash
    away your skin, and you will be eager tinder to any fire. Beware. 
 -  The doll holding your true body goes missing, or has ideas of its
    own. 
-
-.. _spell--presence:
 
 A spell to command attention
 ----------------------------
@@ -270,8 +248,8 @@ Consequences include:
 
 -  You bring back more than you intended. Vengeful spirits act on their
    grievances.
--  You lose a piece of yourself. The GM will tell you how you’re marked
-   by death.
+-  You lose a piece of yourself. The Host will tell you how you're
+   marked by death.
 -  The dead speak strange tongues. The one you bring back has forgotten
    their mother tongue, and only speaks some of the dialects of Hell.
 

@@ -21,7 +21,7 @@ may call for *Gossip*. Take a momentary break, and discuss the scene
 that just happened as though you are the people in town, or the
 audience, mysteriously privy to all that happened. Each player may ask
 about any of the reputations on their character sheet, and the rest of
-the players (including the GM) should decide together whether that
+the players (including the Host) should decide together whether that
 character expressed or upheld that reputation. If they did, give them a
 role token.
 

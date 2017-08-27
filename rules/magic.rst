@@ -1,5 +1,3 @@
-.. _magic:
-
 Magic
 =====
 
@@ -12,23 +10,12 @@ dead, or creatures from the other worlds. It might even let you take on
 the shapes of animals, meld into the shadows, or curse someone to die
 alone and unloved.
 
-When a character goes to cast a spell, they have two options: either
-they ask a fairy to do the magic for them, or they risk casting the
-spell themselves. In the former case, it is necessary simply to find a
-fairy, and use the rules for :ref:`petition`.
-
-The latter case, though, is where things get interesting.
-
 Magic is a force of nature. Accessing magic is making cracks in this
 world to let some force in, and hopefully neither too little or too
 much. To do this, you have to do things that seem almost mundane:
 putting the right things in the right place, chanting, candles, midnight
 crossroads. Magic is wilderness. It does not care whether you live or
 die. It will use violence without consulting you.
-
-The player should describe the effect they desire, using either one of
-the existing spells (see :ref:`spells`) or making their own along those
-lines.
 
 .. topic:: The Limits of Magic
 
@@ -48,57 +35,49 @@ lines.
    How do you determine AoE and duration on spells? Do you wager passion
    tokens on them? Or do you straight up spend passion tokens?
 
-To cast the spell, you must know two numbers: the threshold, and the
-limit. You will describe the ritual, each step you take giving you a
-card. If your cards total at or above the threshold, the spell works. If
-they surpass the limit, you have let too much into the world: your spell
-works, but beyond what you intended. You will also have to pay a cost:
-either increasing the power of the fairy, or risking your own soul and
-walking a step closer to becoming a :ref:`fetch`.
+Describe the ritual, being sure to include the components required for
+the spell. Be metaphorical and strange in your choice of components.  I
+have seen a love-letter used as "something that holds their spirit" for
+:ref:`A spell to bind someone`. I have seen the sound of the bells of
+St. Nicholas' Church used as "something to follow" for :ref:`A spell to
+open the ways into Arcadia`. I have seen the smell of incense used to
+mark the correct path through a :ref:`labyrinth <A spell to make a
+labyrinth>`.
 
-The threshold is 21. The limit is the GM's hand. After each draw on the
-spellcaster's part, the GM will draw, or stay put, depending: if they
-have 16 or less, they must draw. If they have 17 or more, they must not
-draw. Basically, this is blackjack. But if you go bust (surpass the
-limit), you still get a magical effect. Also, side effects and
-corruption, so.
-
-.. todo::
-   Perhaps you wager passion tokens on effect size? And if you bust or
-   fail, you lose them, but otherwise, you keep them?
+Every time you cast a spell, there are some risks in play: you might
+gain the attention of the fairy, your spell might work not quite as
+intended, and you may mark your soul, and walk a step closer to becoming
+a :ref:`fetch`.
 
 When you cast a spell, whether it fails, works, or explodes in your
-face, the GM should describe the effect with as much attention to the
+face, the Host should describe the effect with as much attention to the
 land and the season as they can.
 
 Corruption
 ----------
 
-When a magician casts a spell and surpasses the limit, they open
-themselves to *corruption*. Draw a card and place it in front of you.
-Keep all cards you draw for corruption in front of you for the duration
-of the session; at the end of the session, return them to the deck.
-
-Each time you draw a card, if the cards in front of you total 16 or
-more, gain a mark. The marks available to you are determined by your
-Passion. Aces are 1, faces are 10. If the cards in front of you total 21
-or more, gain two marks.
-
-If you check the final mark (either because it is the only mark
+If you check your final mark (either because it is the only mark
 remaining, or because you have chosen to), magic has burnt out your
 soul, and you become a fetch, a human shell hollowed out and driven by
 fairy fire. Your soul is lost. Your character should be passed over to
-the GM to play, unless you wish to continue playing your character as a
-dangerous and amoral *thing* with a limited lifespan.
+the Host to play, unless you wish to continue playing your character as
+a dangerous and amoral *thing* with a limited lifespan.
 
-As a fetch, you keep as many :index:`passion tokens <passion tokens>` as
-they had at the moment they transformed. Once these tokens are spent,
-the fetch's flame gutters out.
+As a fetch, you keep as many :index:`passion tokens` as you had at the
+moment you transformed. Once these tokens are spent, the fetch's flame
+gutters out. Discard all your :index:`social tokens`; damaged
+reputations and friendships no longer mean anything to you.
+
+As a fetch, you can cast spells more easily, too. You must simply pay a
+single passion token, and the spell works without side-effects, and at
+the desired strength.
 
 Fairy Magic
 -----------
 
 Fairy magic, of course, is different.
+
+.. todo:: Explain how fairy magic is different.
 
 .. epigraph::
 
