@@ -49,7 +49,7 @@ To deal them out, you can either shuffle printed social role sheets, or
 simply take the face cards out of your deck of cards; each face card
 corresponds to one social role.
 
-.. topic:: Social role and gender
+.. sidebar:: Social role and gender
 
    There are twelve social roles. Four of them are male, four are female, and
    four can go either way.
