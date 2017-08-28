@@ -13,10 +13,20 @@ Everyone else will play the main characters in the story. It is their
 duty to play these characters faithfully and honestly, to pursue their
 dreams and to face their fears.
 
-When an outcome is uncertain, use the rules in :ref:`outcomes`. These
-rules can involve the playing cards and the tokens. The tokens should be
-of two clearly different varieties, one used for :index:`role tokens`,
-the other used for :index:`passion tokens`. The former represent how
-well your character has played the role society has given them, how well
-they fit society's demands. The latter represent how much strength your
-character has drawn from pursuing their actual passions.
+A game will consist of a few :index:`sessions`, perhaps three to six,
+depending on interest and where the story goes. Each session, everyone
+gathers and tells a story together, like a conversation. At certain
+points in the conversation, you will trigger particular rules, which
+will then shape what sorts of things you are expected and allowed to
+say.
+
+Those rules will involve using the cards, the tokens, and things written
+on your character sheet. More about the specifics later.
+
+The Host is there to be force of adversity, but not hostility. It is
+only through adversity that we come to see someone's true character,
+after all, and if we are to tell a story worth the telling, it must have
+challenges, temptations, and setbacks. But as the Host has such great
+latitude to set the world against the characters, they must also behave
+with restraint and according to principles, that they may not be merely
+a cruel and capricious demiurge.

@@ -35,7 +35,6 @@ Et in Arcadia Ego
 
    intro/what_is_this
    intro/how_do_we_play
-   intro/what_a_game_looks_like
    intro/this_other_regency
    intro/the_magic_of_england
    rules/starting_the_game
