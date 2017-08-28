@@ -99,15 +99,15 @@ def setup(app):
 # a list of builtin themes.
 
 
-MURRAY = False
+MURRAY = True
 
 if MURRAY:
-    # import murray
+    import murray
     html_theme = "murray"
-    # html_theme_path = [murray.get_html_theme_path()]
+    html_theme_path = [murray.get_html_theme_path()]
     # TODO: include genindex?
     # For local development on the theme:
-    html_theme_path = ["/Users/kit/code/murray"]
+    # html_theme_path = ["/Users/kit/code/murray"]
 else:
     html_theme = "alabaster"
     html_theme_options = {
