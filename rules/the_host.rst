@@ -49,6 +49,24 @@ Make an index card for each one and use it to note down important facts,
 agreements, relationships. This is how you can make them seem like rich,
 real, and consistent people.
 
+It's your job, but not exclusively your job, to frame scenes. Put
+characters together, break them apart, see how the main characters
+interact with supporting characters. Have supporting characters want,
+demand, or expect things of main characters, sometimes at odds with what
+other characters want from them.
+
+In the first session, to start things off, use the relationships
+everyone made during character creation to spot who wants something from
+a character, who can give something to a character, who can screw with a
+character. Use that.
+
+One great way to start is with a ball. You don't have to, but it often
+gets everyone in the same place with conflicting desires.
+
+----
+
+*The previous text, in need of editing:*
+
 .. todo::
 
    Re-read the Host section, make an outline, and edit. Also make
