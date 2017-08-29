@@ -48,6 +48,12 @@ When you cast a spell, whether it fails, works, or explodes in your
 face, the Host should describe the effect with as much attention to the
 land and the season as they can.
 
+Under all circumstances and at all times, the Host and the other players
+must not be *coy* about magic. If a character finds themselves
+mystically entrapped in their house, make it clear: "You feel a dread
+certainty that escape by any normal means is impossible," not "Well, you
+can't open the door."
+
 Corruption
 ----------
 

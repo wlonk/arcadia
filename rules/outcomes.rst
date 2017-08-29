@@ -263,3 +263,14 @@ Promises
 
    Design outcome sheets with a spot to put the card in. Probably
    half-page size.
+
+.. todo::
+
+   Reshape outcomes to frame them a bit more aggressively. Break up
+   "social harm" into "when you make a fool of yourself" and "when you
+   might come off badly", etc. Let there be judgment about just which
+   applies. Thus certain actions could put you in a position with fewer
+   and worse outcomes than others.
+
+   Otherwise, as it stands now, there's no good way to say "That's
+   socially *ruinous*" vs "That's socially risky".
