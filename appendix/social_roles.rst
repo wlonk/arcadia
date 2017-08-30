@@ -12,15 +12,15 @@ neither can you suffer insolence from them. Another gentleman insulting
 you, your family, or a lady of your close acquaintance is a stain on
 your honour.
 
-+---------------------------------------------+------------------+
-| Gain a role token when you                  | Unless you are   |
-+=============================================+==================+
-| act warm and welcoming                      | a libertine      |
-+---------------------------------------------+------------------+
-| defend the honour of someone close to you   | a bully          |
-+---------------------------------------------+------------------+
-| display good judgment                       | a fool           |
-+---------------------------------------------+------------------+
++-------------------------------------------+----------------+
+| Gain a role token when you                | Unless you are |
++===========================================+================+
+| act warm and welcoming                    | a libertine    |
++-------------------------------------------+----------------+
+| defend the honour of someone close to you | a bully        |
++-------------------------------------------+----------------+
+| display good judgment                     | a fool         |
++-------------------------------------------+----------------+
 
 Tell us who is:
 
@@ -37,15 +37,15 @@ You have seen the battlefields of the continent, led men into the
 cannon's roar, and on top of all that, can cut a fine figure in your red
 coat.
 
-+------------------------------------------------+------------------+
-| Gain a role token when you                     | Unless you are   |
-+================================================+==================+
-| are gallant towards ladies                     | a rake           |
-+------------------------------------------------+------------------+
-| display valour in the face of danger           | reckless         |
-+------------------------------------------------+------------------+
-| ensure that rank and precedence are observed   | a blowhard       |
-+------------------------------------------------+------------------+
++----------------------------------------------+----------------+
+| Gain a role token when you                   | Unless you are |
++==============================================+================+
+| are gallant towards ladies                   | a rake         |
++----------------------------------------------+----------------+
+| display valour in the face of danger         | reckless       |
++----------------------------------------------+----------------+
+| ensure that rank and precedence are observed | a blowhard     |
++----------------------------------------------+----------------+
 
 Tell us who is:
 
@@ -64,15 +64,15 @@ guide and teach them in Christian ways. Of course, you risk being seen
 as an *enthusiast*, or religious zealot, if you take any of this *too*
 seriously.
 
-+----------------------------------------------------------+------------------+
-| Gain a role token when you                               | Unless you are   |
-+==========================================================+==================+
-| enact charity and concern for the least in your parish   | haughty          |
-+----------------------------------------------------------+------------------+
-| offer sober counsel                                      | pompous          |
-+----------------------------------------------------------+------------------+
-| uphold Christian morals in your private life             | hypocritical     |
-+----------------------------------------------------------+------------------+
++--------------------------------------------------------+----------------+
+| Gain a role token when you                             | Unless you are |
++========================================================+================+
+| enact charity and concern for the least in your parish | haughty        |
++--------------------------------------------------------+----------------+
+| offer sober counsel                                    | pompous        |
++--------------------------------------------------------+----------------+
+| uphold Christian morals in your private life           | hypocritical   |
++--------------------------------------------------------+----------------+
 
 Tell us who is:
 
@@ -90,15 +90,15 @@ year, but you keep on the very forefront, with your hair in a "Bedford
 crop" or a "frightened owl", your legs in wetted buckskin breeches, and
 your nose in the air.
 
-+--------------------------------------------+------------------+
-| Gain a role token when you                 | Unless you are   |
-+============================================+==================+
-| crush someone with the perfect *bon mot*   | cruel            |
-+--------------------------------------------+------------------+
-| reveal some gossip before anyone else      | desperate        |
-+--------------------------------------------+------------------+
-| win, or lose, a great sum gambling         | a cheat          |
-+--------------------------------------------+------------------+
++------------------------------------------+----------------+
+| Gain a role token when you               | Unless you are |
++==========================================+================+
+| crush someone with the perfect *bon mot* | cruel          |
++------------------------------------------+----------------+
+| reveal some gossip before anyone else    | desperate      |
++------------------------------------------+----------------+
+| win, or lose, a great sum gambling       | a cheat        |
++------------------------------------------+----------------+
 
 Tell us who is:
 
@@ -118,15 +118,15 @@ it; being wanton, vain, shallow or crude can tarnish it. Be gentle and
 kind to those beneath you, and obedient and respectful to those above
 you.
 
-+---------------------------------------------+------------------+
-| Gain a role token when you                  | Unless you are   |
-+=============================================+==================+
-| choose an honorable path over an easy one   | prudish          |
-+---------------------------------------------+------------------+
-| demonstrate your accomplishments            | proud            |
-+---------------------------------------------+------------------+
-| make those around you feel at ease          | insipid          |
-+---------------------------------------------+------------------+
++-------------------------------------------+----------------+
+| Gain a role token when you                | Unless you are |
++===========================================+================+
+| choose an honorable path over an easy one | prudish        |
++-------------------------------------------+----------------+
+| demonstrate your accomplishments          | proud          |
++-------------------------------------------+----------------+
+| make those around you feel at ease        | insipid        |
++-------------------------------------------+----------------+
 
 Tell us who is:
 
@@ -143,15 +143,15 @@ A young lady of indifferent family, but with enough education to hold a
 position with a wealthy family as not-quite-a-servant. Don't outshine
 the lady you attend. Demonstrate your refinement and accomplishments.
 
-+-------------------------------------------------+------------------+
-| Gain a role token when you                      | Unless you are   |
-+=================================================+==================+
-| show your accomplishments                       | presumptuous     |
-+-------------------------------------------------+------------------+
-| make the lady you attend shine                  | duplicitous      |
-+-------------------------------------------------+------------------+
-| place yourself second                           | haughty          |
-+-------------------------------------------------+------------------+
++--------------------------------+----------------+
+| Gain a role token when you     | Unless you are |
++================================+================+
+| show your accomplishments      | presumptuous   |
++--------------------------------+----------------+
+| make the lady you attend shine | duplicitous    |
++--------------------------------+----------------+
+| place yourself second          | haughty        |
++--------------------------------+----------------+
 
 Tell us who:
 
@@ -168,15 +168,15 @@ A young lady who has been sent to live with relatives. Either her
 parents are dead, or simply unable to raise her in the proper fashion.
 She is in the family, but perhaps not quite *of* it.
 
-+------------------------------------------+-------------------+
-| Gain a role token when you               | Unless you are    |
-+==========================================+===================+
-| assist the family proper                 | ungrateful        |
-+------------------------------------------+-------------------+
-| do as you're told                        | willful           |
-+------------------------------------------+-------------------+
-| pursue marriage not above your station   | putting on airs   |
-+------------------------------------------+-------------------+
++----------------------------------------+-----------------+
+| Gain a role token when you             | Unless you are  |
++========================================+=================+
+| assist the family proper               | ungrateful      |
++----------------------------------------+-----------------+
+| do as you're told                      | willful         |
++----------------------------------------+-----------------+
+| pursue marriage not above your station | putting on airs |
++----------------------------------------+-----------------+
 
 Tell us who:
 
@@ -193,15 +193,15 @@ You are expected to deviate from your society's feminine ideal, have
 secret wealth or knowledge, and draw strength from your connections with
 other women.
 
-+----------------------------------------------+------------------+
-| Gain a role token when                       | Unless you are   |
-+==============================================+==================+
-| no one really listens to you                 | a blatherskite   |
-+----------------------------------------------+------------------+
-| you provide a compassionate ear for others   | two-faced        |
-+----------------------------------------------+------------------+
-| you speak a truth no one else will           | a liar           |
-+----------------------------------------------+------------------+
++--------------------------------------------+----------------+
+| Gain a role token when                     | Unless you are |
++============================================+================+
+| no one really listens to you               | a blatherskite |
++--------------------------------------------+----------------+
+| you provide a compassionate ear for others | two-faced      |
++--------------------------------------------+----------------+
+| you speak a truth no one else will         | a liar         |
++--------------------------------------------+----------------+
 
 Tell us who is:
 
@@ -217,15 +217,15 @@ Jack of Spades: Invalid (|either|)
 You are expected to be home-bound, solicitous of others' health, and grateful
 for the charity you receive.
 
-+--------------------------------------------+------------------+
-| Gain a role token when you                 | Unless you are   |
-+============================================+==================+
-| refuse to go out                           | paranoid         |
-+--------------------------------------------+------------------+
-| rely on others                             | a mooch          |
-+--------------------------------------------+------------------+
-| show gratitude for favors and assistance   | entitled         |
-+--------------------------------------------+------------------+
++------------------------------------------+----------------+
+| Gain a role token when you               | Unless you are |
++==========================================+================+
+| refuse to go out                         | paranoid       |
++------------------------------------------+----------------+
+| rely on others                           | a mooch        |
++------------------------------------------+----------------+
+| show gratitude for favors and assistance | entitled       |
++------------------------------------------+----------------+
 
 Tell us who is:
 
@@ -241,15 +241,15 @@ Jack of Hearts: Artisan (|either|)
 You are expected to be a master of your craft, and keep its secrets
 close. You must often work for "exposure".
 
-+-------------------------------------------+------------------+
-| Gain a role token when you                | Unless you are   |
-+===========================================+==================+
-| extend credit to your social betters      | miserly          |
-+-------------------------------------------+------------------+
-| surprise your betters with good manners   | reaching         |
-+-------------------------------------------+------------------+
-| are relied upon for your expertise        | substandard      |
-+-------------------------------------------+------------------+
++-----------------------------------------+----------------+
+| Gain a role token when you              | Unless you are |
++=========================================+================+
+| extend credit to your social betters    | miserly        |
++-----------------------------------------+----------------+
+| surprise your betters with good manners | reaching       |
++-----------------------------------------+----------------+
+| are relied upon for your expertise      | substandard    |
++-----------------------------------------+----------------+
 
 Tell us who:
 
@@ -267,15 +267,15 @@ nor heard, except when needed. Protect the honour of your master's house
 in the broader world. Discharge your duty to the family first; there is
 always more you can do.
 
-+----------------------------------------------------------+------------------+
-| Gain a role token when you                               | Unless you are   |
-+==========================================================+==================+
-| act on their needs before they ask you                   | controlling      |
-+----------------------------------------------------------+------------------+
-| keep your master's confidence                            | a gossip         |
-+----------------------------------------------------------+------------------+
-| subordinate your own interests to those of your master   | obsequious       |
-+----------------------------------------------------------+------------------+
++--------------------------------------------------------+----------------+
+| Gain a role token when you                             | Unless you are |
++========================================================+================+
+| act on their needs before they ask you                 | controlling    |
++--------------------------------------------------------+----------------+
+| keep your master's confidence                          | a gossip       |
++--------------------------------------------------------+----------------+
+| subordinate your own interests to those of your master | obsequious     |
++--------------------------------------------------------+----------------+
 
 Tell us who is:
 
@@ -295,15 +295,15 @@ always find work, and sometimes, life just deals you a bad set of cards.
 No one is as kind to a vagabond as they should be, but you do what you
 can to get by.
 
-+------------------------------+----------------------+
-| Gain a role token when you   | Unless you are       |
-+==============================+======================+
-| flake on a promise           | willfully indigent   |
-+------------------------------+----------------------+
-| offer odd jobs               | inept                |
-+------------------------------+----------------------+
-| show gratitude for charity   | toadying             |
-+------------------------------+----------------------+
++----------------------------+--------------------+
+| Gain a role token when you | Unless you are     |
++============================+====================+
+| flake on a promise         | willfully indigent |
++----------------------------+--------------------+
+| offer odd jobs             | inept              |
++----------------------------+--------------------+
+| show gratitude for charity | toadying           |
++----------------------------+--------------------+
 
 Tell us who:
 
