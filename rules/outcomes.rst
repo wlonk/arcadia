@@ -228,10 +228,10 @@ Emotional harm comes in the form of conditions. You have four
 conditions: angry, befuddled, embarrassed, shaken. When that condition
 might impede you, each one makes a different suit count as aces:
 
-*  Angry: Spades
-*  Befuddled: Hearts
-*  Embarrassed: Clubs
-*  Shaken: Diamonds
+-  Angry: Spades
+-  Befuddled: Hearts
+-  Embarrassed: Clubs
+-  Shaken: Diamonds
 
 These will go away with time and comfort.
 
