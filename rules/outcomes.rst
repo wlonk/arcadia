@@ -109,7 +109,7 @@ Emotional risk
 When a situation may result in emotional stress, use this outcome. See
 :ref:`Harm and Healing` for more on conditions.
 
--  Ace through seven: You are shaken. Mark a condition.
+-  Ace through seven: You are worse for wear. Mark a condition.
 -  Eight through King: You hold it together.
 
 The power of the fairy grows

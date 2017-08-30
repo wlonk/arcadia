@@ -42,8 +42,6 @@ Fairies
 These are the rulers of Arcadia, the nobles and dominions of that other
 land. One will be present in each game of *Arcadia*.
 
-.. todo:: Can fairies offer particular magical bargains to people?
-
 The Beast of the Moors
 ~~~~~~~~~~~~~~~~~~~~~~
 

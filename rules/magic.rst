@@ -78,6 +78,8 @@ Fairy Magic
 
 Fairy magic, of course, is different.
 
+.. todo:: Explain how fairy magic is different.
+
 .. epigraph::
 
    Only an obstinate prejudice about this period could blind us to a
@@ -99,16 +101,9 @@ Fairy magic, of course, is different.
    -- C. S. Lewis, *English Literature in the Sixteenth Century,
    Excluding Drama*
 
-.. todo:: Explain how fairy magic is different.
-
 .. todo:: Example:
 
    Add example of magic use.
-
-.. todo::
-
-   How do you determine AoE and duration on spells? Do you wager passion
-   tokens on them? Or do you straight up spend passion tokens?
 
 .. todo::
 

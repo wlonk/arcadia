@@ -1,5 +1,5 @@
-Weather
-=======
+Weather and Seasons
+===================
 
 Weather controls day to day life. Rain and sun each in their turn make
 the crops grow, and snows and floods can close roads and put one in a

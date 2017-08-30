@@ -43,7 +43,7 @@ Et in Arcadia Ego
    rules/outcomes
    rules/magic
    rules/the_host
-   rules/weather
+   rules/weather_and_seasons
    rules/change_and_growth
    appendix/passions
    appendix/social_roles
