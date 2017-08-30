@@ -159,8 +159,8 @@ Hecate, the phases of the moon, virgin goddesses, inseparable, wild
 mistresses of storms physical and social, demanding *amusement* and
 *secrets* before all else.
 
-Fetch
------
+Fetches
+-------
 
 *Fetches* are beings that look like humans, act like humans, but are no
 longer humans. They have so lost themselves to magic that their souls
@@ -191,32 +191,23 @@ Goblins
 All the lesser things, the common folk of Arcadia. They all have hungers
 that, to mortals, seem horrifying:
 
--  This one can eat a village's harvest for a meal.
--  This one craves human meat to eat.
--  This one grinds human bones for its bread.
--  This one loves the sounds of torture for music.
--  This one must steal and butcher a child each night or it cannot rest.
--  This one steals the breath of those who sleep.
--  This one vomits poison into springs and wells.
--  And likewise, and likewise.
+-  For food, enough to make the countryside starve.
+-  For blood, fresh from the neck of an innocent.
+-  For chaos, bickering, and hatred.
+-  For secrets, lies, and sorrows.
+-  For bones and dust.
+-  For breath, voices, laughter.
+-  Or whatever else your imagination can provide.
 
-Though their fairy masters can keep them in check, if they so choose.
+Though their fairy masters may keep them in check, if they so choose.
 
-They all have unnatural abilities and powers:
+They also all have strange unnatural powers:
 
--  This one's flesh mends by night, no matter the wounds it suffers.
--  This one keeps its vital organs hidden in a broken tree.
--  This one's skin is as hard as stone.
--  This one can take on a lovely human seeming, which only its voice
-   betrays.
--  This one's teeth and claws effortlessly tear flesh and bone.
--  This one can wound you by your shadow.
--  This one breathes water, and has a grip like steel.
--  This one sings a song more beautiful and alluring than any mortal
-   sound.
--  And likewise, and likewise.
-
-.. todo::
-
-   These lists are taken from Vincent Baker's *Apocalypse World: Dark
-   Age*, and should be redone.
+-  Skin as hard as iron.
+-  A heart hidden in a blasted three-topped oak.
+-  A tongue as sweet and honeyed as could make you forget all care.
+-  A grip that cannot be broken.
+-  Fetid and noxious breath, that kills any that breathe it.
+-  Knowledge of the language of the stones, trees, and streams.
+-  Skill to spin straw into gold, or similar.
+-  Or whatever else your imagination can provide.

@@ -42,7 +42,7 @@ labyrinth>`.
 Every time you cast a spell, there are some risks in play: you might
 gain the attention of the fairy, your spell might work not quite as
 intended, and you may mark your soul, and walk a step closer to becoming
-a :ref:`fetch`.
+a :ref:`fetch <fetches>`.
 
 When you cast a spell, whether it fails, works, or explodes in your
 face, the Host should describe the effect with as much attention to the
