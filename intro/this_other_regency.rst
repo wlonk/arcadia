@@ -158,3 +158,6 @@ Intimacy
 .. todo:: Add currency section.
 
    Units. Coins and bills. Purchasing power. Income disparity.
+
+   Also a money system. How much do you have, what you can get for it,
+   losing and gaining it. That won't go here, though.

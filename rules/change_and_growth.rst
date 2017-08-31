@@ -1,11 +1,29 @@
 Change and growth
 =================
 
-.. todo:: Getting new spells.
+Any time you learn something new, hidden, and important about another
+character, mark Secrets. When you have marked five Secrets, erase them
+and choose one:
 
-   How do you? Is it like Fate in *Mythender*, where corruption unlocks
-   new slots for you? Is that reputation-loss corruption, or
-   soul-corruption?
+.. todo:: Instead of every 5, maybe it's just "spend a Passion token".
+
+-  Learn a new spell (in consultation with the Host)
+-  Ask another character a question:
+
+   -  What do you really feel about X?
+   -  What really happened with X?
+   -  What do you wish I would do with respect to X?
+   -  How could I get you to do X?
+
+Any time anyone in your family does XXX, mark Esteem. When you have
+marked Esteem five times, erase them and choose one, as a family:
+
+-  Your family has made an advantageous connection: describe it, and
+   every family member gains two role tokens.
+-  Your family has gained land or wealth: describe it, and XXX (need
+   wealth system)
+-  Your family has grown: add a new relative to the set of supporting
+   characters.
 
 .. todo:: "Cheevos"
 
@@ -16,18 +34,4 @@ Change and growth
    Marks list or unlock more spells? These should all be magic-oriented,
    for sure.
 
-.. todo::
-
-   Dual tracks for social progress and magical progress, in indirect
-   competition. Get unlocks on each track.
-
-      Our World advancements could be social, financial, clearing out old
-      debts and grudges, two-edged defenses against fae influence (ie they
-      can't get to you but you can't call on them either)
-
-      Their World advancements could be magic, alliances, friendships with
-      trolls, and susceptibility to Corruption (again two edged: makes it
-      easier to use your magic BUT it's burning you out at the same time)
-
-   Advance "our world" via role tokens spent, advance "their world" via
-   passion tokens spent.
+   Maybe these could be for places/houses/families, too.
