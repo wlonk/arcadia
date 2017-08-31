@@ -10,10 +10,14 @@ and choose one:
 -  Learn a new spell (in consultation with the Host)
 -  Ask another character a question:
 
-   -  What do you really feel about X?
    -  What really happened with X?
    -  What do you wish I would do with respect to X?
+   -  How do you really feel about X?
    -  How could I get you to do X?
+
+If you ask a question, write down the answer. You can use that answer
+for an extra card (even above the one from help, boons, or leverage) in
+any outcome where it might help you.
 
 Any time anyone in your family does XXX, mark Esteem. When you have
 marked Esteem five times, erase them and choose one, as a family:
