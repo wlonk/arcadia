@@ -12,11 +12,14 @@ Playing as the Host
 
    Turn agenda and principles into real things.
 
+   "Create a villain who is exceptionally good at attacking your hero's
+   greatest strengths."
+
+   Talk about bad outcomes and how delicious they can be.
+
+   Talk about "fronts and threats".
+
 .. todo:: Talk about history panic, and how you can avoid it.
-
-.. todo:: Talk about bad outcomes and how delicious they can be.
-
-.. todo:: Talk about "fronts and threats".
 
 Agenda:
 
