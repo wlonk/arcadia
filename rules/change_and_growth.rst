@@ -5,7 +5,12 @@ Any time you learn something new, hidden, and important about another
 character, mark Secrets. When you have marked five Secrets, erase them
 and choose one:
 
-.. todo:: Instead of every 5, maybe it's just "spend a Passion token".
+.. todo::
+
+   Learning a spell out of nowhere can't be such an easy option.
+   Strange and Norrell required libraries of ancient and hard to find
+   tomes, and months of research. Sometimes Strange would assemble novel
+   spells, but still. It's more costly. How do we incorporate that?
 
 -  Learn a new spell (in consultation with the Host)
 -  Ask another character a question:
@@ -18,6 +23,8 @@ and choose one:
 If you ask a question, write down the answer. You can use that answer
 for an extra card (even above the one from help, boons, or leverage) in
 any outcome where it might help you.
+
+.. todo:: Determine how to gain family Esteem.
 
 Any time anyone in your family does XXX, mark Esteem. When you have
 marked Esteem five times, erase them and choose one, as a family:
@@ -37,5 +44,12 @@ marked Esteem five times, erase them and choose one, as a family:
    Book. These give an extra little set of rules and maybe extend your
    Marks list or unlock more spells? These should all be magic-oriented,
    for sure.
+
+   Actually, on consideration, "the magician" is all wrong. They should
+   all be Aurate magicians who you are like: the Prospero, the Merlin,
+   the Morgana, the Faustus. They give you different ways to learn
+   spells, different relationships with fairies and goblins, different
+   relationships with the land. Maybe even some only-you-can-cast-this
+   spells.
 
    Maybe these could be for places/houses/families, too.
