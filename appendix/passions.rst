@@ -45,7 +45,7 @@ Choose a starting spell:
 You may choose from the following marks each time a spell burns your
 soul:
 
-1. You develop stigmata like wounds that will not heal.
+1. You develop stigmata-like wounds that will not heal.
 2. Animals panic in your presence. (In a time full of horses, dogs, oxen
    and more, this must be taken seriously!)
 3. You cannot bear to set foot in a church.
@@ -124,7 +124,7 @@ soul:
 1. When you try to explain something important, all that comes out are
    ancient and irrelevant stories.
 2. Your tears leave black and inky stains.
-3. You develop a stigmata-like wound that will not heal.
+3. You develop stigmata-like wounds that will not heal.
 4. You feel like space stretches and shrinks unpredictably, and you
    often feel like you are falling.
 5. You become a fetch.
