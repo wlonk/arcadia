@@ -255,10 +255,6 @@ Gambling
 Promises
 ~~~~~~~~
 
-.. todo:: Can you spend a role token for a quick effect?
-
-.. todo:: How can you read-a-person?
-
 .. todo::
 
    Design outcome sheets with a spot to put the card in. Probably
