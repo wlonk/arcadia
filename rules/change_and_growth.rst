@@ -75,8 +75,14 @@ They may have only one.
 The Morgana
 ~~~~~~~~~~~
 
+You are nearly a peer to the fairies, capable of earning their respect
+and treating with them on equal footing.
+
 The Merlin
 ~~~~~~~~~~
+
+You’re good at making spells. Improvising, inventing, coming up with new
+magic.
 
 The Taliesin
 ~~~~~~~~~~~~
@@ -84,11 +90,20 @@ The Taliesin
 The Prospero
 ~~~~~~~~~~~~
 
+As a fairy can command goblins, so can you. You get Arcadian helpers,
+whose hungers you have to keep in check.
+
 The Faustus
 ~~~~~~~~~~~
 
+You are a fairy’s especial favorite, for good or ill. You get favors,
+and sometimes have to serve your patron.
+
 The Circe
 ~~~~~~~~~
+
+You are really damn good at a few spells, reliably doing them really
+well.
 
 The Boudicca
 ~~~~~~~~~~~~
