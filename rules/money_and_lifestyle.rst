@@ -16,6 +16,8 @@ the vagabond, are more likely to earn zero coin per session, though.
 The workhouse is a dangerous and harsh fate, and it is worth doing
 whatever you must to avoid.
 
+.. todo:: Make income rules for each social role.
+
 Lifestyle
 ---------
 
