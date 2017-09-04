@@ -51,6 +51,11 @@ This may put your reputation at risk.
 If your coin is in pounds
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. todo::
+
+   The pound tier should perhaps have 0, 1, 2, 3, with 2 being "normal"
+   and 1 and 0 being straitened, and 3 being indulgent.
+
 Spend 1 to maintain your lifestyle: a grand house, fashionable clothes,
 enough food to throw a ball or large dinner, a number of servants.
 
@@ -59,5 +64,6 @@ the latest fashions as befit a swell of the first stare, a ball as
 befits a royal duke.
 
 Spend 0 to be on hard times: very few servants, fashions falling behind
-the times, only enough to invite a few guests over. Your reputation and
-investments may be at risk.
+the times, only enough to invite a few guests over. You rely on the
+extension of credit and accrue debts. Your reputation and investments
+may be at risk.
