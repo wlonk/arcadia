@@ -12,6 +12,18 @@ and choose one:
    tomes, and months of research. Sometimes Strange would assemble novel
    spells, but still. It's more costly. How do we incorporate that?
 
+.. todo::
+
+   Given that I already have two competing incentive systems (role
+   triggers and passion triggers), I think adding a pair of XP
+   incentives is too busy. Also given that there seems to be a bit too
+   many tokens sloshing around after session one, I think that spending
+   tokens for advances would solve both problems. Additionally, getting
+   XP by learning secrets and spending them to learn secrets feels
+   weird. So that's a change to make.
+
+   Passion triggers need review to avoid the arc problem, too.
+
 -  Learn a new spell (in consultation with the Host)
 -  Ask another character a question:
 
@@ -53,3 +65,39 @@ marked Esteem five times, erase them and choose one, as a family:
    spells.
 
    Maybe these could be for places/houses/families, too.
+
+Magicianships
+-------------
+
+Each character may attain a particular status as a magician in England.
+They may have only one.
+
+The Morgana
+~~~~~~~~~~~
+
+The Merlin
+~~~~~~~~~~
+
+The Taliesin
+~~~~~~~~~~~~
+
+The Prospero
+~~~~~~~~~~~~
+
+The Faustus
+~~~~~~~~~~~
+
+The Circe
+~~~~~~~~~
+
+The Boudicca
+~~~~~~~~~~~~
+
+The Dee
+~~~~~~~
+
+The Urizen
+~~~~~~~~~~
+
+The Atlantes
+~~~~~~~~~~~~
