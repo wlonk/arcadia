@@ -22,6 +22,11 @@ and choose one:
    XP by learning secrets and spending them to learn secrets feels
    weird. So that's a change to make.
 
+   In that case, the correct cost for personal advances is 4; that way,
+   the 1/2/5 earns map nicely to it. Family advances probably are more
+   expensive, because family is harder to change, and to incentivize
+   more family members?
+
    Passion triggers need review to avoid the arc problem, too.
 
 -  Learn a new spell (in consultation with the Host)
