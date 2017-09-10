@@ -1,2 +1,2 @@
 Sphinx==1.6.3
-murray==0.4.1
+murray==0.5.0
