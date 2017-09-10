@@ -1,9 +1,10 @@
 Starting the game
 =================
 
-There are three things you need to start: a :index:`town`,
-:index:`families`, and :index:`characters`. Create them in that order,
-with everyone working together.
+.. index:: town, families, characters
+
+There are three things you need to start: a town, families, and
+characters. Create them in that order, with everyone working together.
 
 To create the town, decide where it is in England. Is it in the West
 Midlands, a sleepy market town surrounded by farmlands? Is it in the

@@ -109,8 +109,10 @@ Next choose a personal boon:
 *characters* are aware of or discuss in-fiction. They are for you, the
 players, only.)
 
+.. index:: ! passion tokens, ! role tokens
+
 Your character starts with a number of role tokens based on their social
-role, and two :index:`passion tokens`.
+role, and two passion tokens.
 
 If at any point during the game, you run out of role tokens, you have
 exhausted your good name for the time being; acquaintances are tired of

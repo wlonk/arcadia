@@ -64,10 +64,12 @@ fairy fire. Your soul is lost. Your character should be passed over to
 the Host to play, unless you wish to continue playing your character as
 a dangerous and amoral *thing* with a limited lifespan.
 
-As a fetch, you keep as many :index:`passion tokens` as you had at the
-moment you transformed. Once these tokens are spent, the fetch's flame
-gutters out. Discard all your :index:`role tokens`; damaged
-reputations and friendships no longer mean anything to you.
+.. index:: passion tokens, role tokens
+
+As a fetch, you keep as many passion tokens as you had at the moment you
+transformed. Once these tokens are spent, the fetch's flame gutters out.
+Discard all your role tokens; damaged reputations and friendships no
+longer mean anything to you.
 
 As a fetch, you can cast spells more easily, too. You must simply pay a
 single passion token, and the spell works without side-effects, and at
