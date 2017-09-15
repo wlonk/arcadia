@@ -1,57 +1,30 @@
 Change and growth
 =================
 
-Any time you learn something new, hidden, and important about another
-character, mark Secrets. When you have marked five Secrets, erase them
-and choose one:
+You may spend four passion tokens to change and deepen your relationship
+with someone by learning something new about them:
 
-.. todo::
-
-   Learning a spell out of nowhere can't be such an easy option.
-   Strange and Norrell required libraries of ancient and hard to find
-   tomes, and months of research. Sometimes Strange would assemble novel
-   spells, but still. It's more costly. How do we incorporate that?
-
-.. todo::
-
-   Given that I already have two competing incentive systems (role
-   triggers and passion triggers), I think adding a pair of XP
-   incentives is too busy. Also given that there seems to be a bit too
-   many tokens sloshing around after session one, I think that spending
-   tokens for advances would solve both problems. Additionally, getting
-   XP by learning secrets and spending them to learn secrets feels
-   weird. So that's a change to make.
-
-   In that case, the correct cost for personal advances is 4; that way,
-   the 1/2/5 earns map nicely to it. Family advances probably are more
-   expensive, because family is harder to change, and to incentivize
-   more family members?
-
-   Passion triggers need review to avoid the arc problem, too.
-
--  Learn a new spell (in consultation with the Host)
--  Ask another character a question:
-
-   -  What really happened with X?
-   -  What do you wish I would do with respect to X?
-   -  How do you really feel about X?
-   -  How could I get you to do X?
+-  What really happened with X?
+-  What do you wish I would do with respect to X?
+-  How do you really feel about X?
+-  How could I get you to do X?
 
 If you ask a question, write down the answer. You can use that answer
 for an extra card (even above the one from help, boons, or leverage) in
 any outcome where it might help you.
 
-.. todo:: Determine how to gain family Esteem.
-
-Any time anyone in your family does XXX, mark Esteem. When you have
-marked Esteem five times, erase them and choose one, as a family:
+You and other members of your family may, together, spend eight role
+tokens to strengthen your family's position:
 
 -  Your family has made an advantageous connection: describe it, and
-   every family member gains two role tokens.
--  Your family has gained land or wealth: describe it, and XXX (need
-   wealth system)
+   note it on the map.
+-  Your family has gained land or wealth: describe it, and family
+   members may add an appropriate source of income.
 -  Your family has grown: add a new relative to the set of supporting
    characters.
+
+Magicianships
+-------------
 
 .. todo:: "Cheevos"
 
@@ -71,8 +44,12 @@ marked Esteem five times, erase them and choose one, as a family:
 
    Maybe these could be for places/houses/families, too.
 
-Magicianships
--------------
+.. todo:: How do you learn new spells?
+
+   Learning a spell out of nowhere can't be such an easy option.
+   Strange and Norrell required libraries of ancient and hard to find
+   tomes, and months of research. Sometimes Strange would assemble novel
+   spells, but still. It's more costly. How do we incorporate that?
 
 Each character may attain a particular status as a magician in England.
 They may have only one.
@@ -121,3 +98,6 @@ The Urizen
 
 The Atlantes
 ~~~~~~~~~~~~
+
+The Weird Sisters
+~~~~~~~~~~~~~~~~~
