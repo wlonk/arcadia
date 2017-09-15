@@ -30,141 +30,132 @@ Particular outcomes
 
 Here are some things that can be uncertain.
 
-Achievement (passion)
-~~~~~~~~~~~~~~~~~~~~~
+.. admonition:: Achievement (passion)
 
-When you may or may not achieve a concrete goal you set out to do, use
-this outcome. Examples include hitting a target in an archery
-competition, winning a game of cards, or remaining hidden in a graveyard
-at midnight while the sexton and his rough-handed friends search for
-you.
+   When you may or may not achieve a concrete goal you set out to do,
+   use this outcome. Examples include hitting a target in an archery
+   competition, winning a game of cards, or remaining hidden in a
+   graveyard at midnight while the sexton and his rough-handed friends
+   search for you.
 
--  Ace through seven: Failure.
--  Eight through King: Success.
+   -  Ace through seven: Failure.
+   -  Eight through King: Success.
 
-Entreaty of a supporting character (role)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. admonition:: Entreaty of a supporting character (role)
 
-When you may or may not convince a supporting character to act as you
-wish, use this outcome. Examples of accepting "conditionally" include
-demanding repayment, either now or as an uncertain future debt, or
-requiring assurances or collateral.
+   When you may or may not convince a supporting character to act as you
+   wish, use this outcome. Examples of accepting "conditionally" include
+   demanding repayment, either now or as an uncertain future debt, or
+   requiring assurances or collateral.
 
-If the character agrees, it is that simple. If they resist, use this
-outcome.
+   If the character agrees, it is that simple. If they resist, use this
+   outcome.
 
-You may only entreat a character to an action, not to a feeling. You may
-beg forgiveness, and entreat them to *say* they offer it, but their
-feelings are their own.
+   You may only entreat a character to an action, not to a feeling. You
+   may beg forgiveness, and entreat them to *say* they offer it, but
+   their feelings are their own.
 
--  Ace through four: They refuse.
--  Five through nine: They will, conditionally.
--  Ten through King: They will.
+   -  Ace through four: They refuse.
+   -  Five through nine: They will, conditionally.
+   -  Ten through King: They will.
 
-Entreaty of a main character (role)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. admonition:: Entreaty of a main character (role)
 
-When you attempt to convince another main character to act as you wish,
-*the choice is always theirs*, but you may exert some social pressure.
-Use this outcome to do so.
+   When you attempt to convince another main character to act as you
+   wish, *the choice is always theirs*, but you may exert some social
+   pressure.  Use this outcome to do so.
 
-If the character agrees, it is that simple. If they resist, use this
-outcome.
+   If the character agrees, it is that simple. If they resist, use this
+   outcome.
 
-You may only entreat a character to an action, not to a feeling. You may
-beg forgiveness, and entreat them to *say* they offer it, but their
-feelings are their own.
+   You may only entreat a character to an action, not to a feeling. You
+   may beg forgiveness, and entreat them to *say* they offer it, but
+   their feelings are their own.
 
--  Ace through four: Their choice.
--  Five through nine: Their choice, but if they don't, mark a reputation
-   of theirs.
--  Ten through King: Their choice, but if they don't, mark a reputation
-   of theirs. If they do, they get a role token.
+   -  Ace through four: Their choice.
+   -  Five through nine: Their choice, but if they don't, mark a
+      reputation of theirs.
+   -  Ten through King: Their choice, but if they don't, mark a
+      reputation of theirs. If they do, they get a role token.
 
-Bodily harm
-~~~~~~~~~~~
+.. admonition:: Bodily harm
 
-When you may suffer wounds or illness, use this outcome. See
-:ref:`Harm and Healing` for more on wounds and impairment.
+   When you may suffer wounds or illness, use this outcome. See
+   :ref:`Harm and Healing` for more on wounds and impairment.
 
--  Ace or two: You are mortally wounded.
--  Three or four: You are gravely wounded.
--  Five through nine: You are injured.
--  Ten through King: You are fine.
+   -  Ace or two: You are mortally wounded.
+   -  Three or four: You are gravely wounded.
+   -  Five through nine: You are injured.
+   -  Ten through King: You are fine.
 
-Social risk (role)
-~~~~~~~~~~~~~~~~~~
+.. admonition:: Social risk (role)
 
-When you may make a good or a bad impression, or acquit themselves with
-grace or with shame, use this outcome.
+   When you may make a good or a bad impression, or acquit themselves
+   with grace or with shame, use this outcome.
 
--  Ace through four: You embarrass yourself. Mark a reputation.
--  Five through nine: You pass.
--  Ten through King: You shine. Clear one mark on a reputation with
-   fewer than four marks if you wish.
+   -  Ace through four: You embarrass yourself. Mark a reputation.
+   -  Five through nine: You pass.
+   -  Ten through King: You shine. Clear one mark on a reputation with
+      fewer than four marks if you wish.
 
-Emotional risk
-~~~~~~~~~~~~~~
+.. admonition:: Emotional risk
 
-When a situation may result in emotional stress, use this outcome. See
-:ref:`Harm and Healing` for more on conditions.
+   When a situation may result in emotional stress, use this outcome.
+   See :ref:`Harm and Healing` for more on conditions.
 
--  Ace through seven: You are worse for wear. Mark a condition.
--  Eight through King: You hold it together.
+   -  Ace through seven: You are worse for wear. Mark a condition.
+   -  Eight through King: You hold it together.
 
-The power of the fairy grows
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. admonition:: The power of the fairy grows
 
-When the game begins, the fairy is still working to brings its full
-powers to bear on the mortal world.
+   When the game begins, the fairy is still working to brings its full
+   powers to bear on the mortal world.
 
-At that point, when you work magic, use this outcome. The Host will keep
-track of the fairy's growth in power. When it has accumulated enough
-marks, it will have brought its full power into this world.
+   At that point, when you work magic, use this outcome. The Host will
+   keep track of the fairy's growth in power. When it has accumulated
+   enough marks, it will have brought its full power into this world.
 
--  Ace through four: It grows; give the fairy two marks.
--  Five through nine: It grows; give the fairy one mark.
--  Ten through King: The fairy is stymied for now.
+   -  Ace through four: It grows; give the fairy two marks.
+   -  Five through nine: It grows; give the fairy one mark.
+   -  Ten through King: The fairy is stymied for now.
 
-The fairy is present
-~~~~~~~~~~~~~~~~~~~~
+.. admonition:: The fairy is present
 
-Once the fairy has accumulated enough marks and fully come into the
-mortal world, it is free to take people into its power. These people may
-be dead, or stolen away to an Arcadian realm, or simply rendered into
-amusements for the fairy.
+   Once the fairy has accumulated enough marks and fully come into the
+   mortal world, it is free to take people into its power. These people
+   may be dead, or stolen away to an Arcadian realm, or simply rendered
+   into amusements for the fairy.
 
-If the fairy is fully in this world, and you work magic, use this
-outcome. The fairy feels the stirrings of magical power and is drawn to
-them.
+   If the fairy is fully in this world, and you work magic, use this
+   outcome. The fairy feels the stirrings of magical power and is drawn
+   to them.
 
--  Ace or two: The fairy takes you into its power.
--  Three or four: The fairy takes especial interest in you.
--  Five through nine: The fairy is pleased to interfere with you.
--  Ten through King: You escape the fairy's interest.
+   -  Ace or two: The fairy takes you into its power.
+   -  Three or four: The fairy takes especial interest in you.
+   -  Five through nine: The fairy is pleased to interfere with you.
+   -  Ten through King: You escape the fairy's interest.
 
-Effect of a spell (passion, keep card)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. admonition:: Effect of a spell (passion, keep card)
 
-When you cast a spell, use this outcome. A strong effect may be quicker,
-more reliable, more difficult to resist, or otherwise, as appropriate.
+   When you cast a spell, use this outcome. A strong effect may be
+   quicker, more reliable, more difficult to resist, or otherwise, as
+   appropriate.
 
--  Ace through four: Sound a fury, signifying nothing.
--  Five through nine: A weak effect.
--  Ten through King: A strong effect.
+   -  Ace through four: Sound a fury, signifying nothing.
+   -  Five through nine: A weak effect.
+   -  Ten through King: A strong effect.
 
-Cost of a spell (passion, keep card)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. admonition:: Cost of a spell (passion, keep card)
 
-When you cast a spell, use this outcome. Each spell will list
-consequences; you may choose to take a magical mark (listed under your
-Passion) when you get the lowest outcome, or to take all the magical
-side-effects.
+   When you cast a spell, use this outcome. Each spell will list
+   consequences; you may choose to take a magical mark (listed under
+   your Passion) when you get the lowest outcome, or to take all the
+   magical side-effects.
 
--  Ace or two: All the consequences, and take a mark.
--  Three or four: All the consequences, or take a mark.
--  Five through nine: One of the consequences.
--  Ten through King: None of the consequences.
+   -  Ace or two: All the consequences, and take a mark.
+   -  Three or four: All the consequences, or take a mark.
+   -  Five through nine: One of the consequences.
+   -  Ten through King: None of the consequences.
 
 Custom outcomes
 ---------------
@@ -243,17 +234,24 @@ are still a bit specialized.
 
 .. todo:: Fill out peripheral outcomes.
 
-Rumours
-~~~~~~~
+.. admonition::
 
-Dancing
-~~~~~~~
+   Rumours
+   ~~~~~~~
 
-Gambling
-~~~~~~~~
+   Todo
 
-Promises
-~~~~~~~~
+.. admonition:: Dancing
+
+   Todo
+
+.. admonition:: Gambling
+
+   Todo
+
+.. admonition:: Promises
+
+   Todo
 
 .. todo::
 
