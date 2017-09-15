@@ -3,6 +3,8 @@ Appendix: Spells
 
 Here are some spells that may be available to an English magician.
 
+.. todo:: Add basic effect descriptions to all spells.
+
 A spell to open the ways into Arcadia
 -------------------------------------
 
@@ -58,7 +60,7 @@ Consequences include:
    undercurrent.
 -  Your call is heard all too well. Rain becomes a flood, sun becomes a
    heatwave, a storm becomes an act of god. The Host will tell you what,
-   if anything, is different about the town in the aftermath. 
+   if anything, is different about the town in the aftermath.
 -  Your changes call for an equal and opposite response between the
    principles of fire, water, earth and air.
 
@@ -73,16 +75,16 @@ To cast this spell, you must have:
 -  Something to mark the correct path that only you may see.
 -  A place of power, near the center of the labyrinth.
 -  A secret never heard by anyone else, whispered at the moment of
-   casting. 
+   casting.
 
 Consequences include:
 
 -  The labyrinth will grow and encroach on more and more of the land
    around it.
 -  You lose something to the labyrinth, and if you want it back, you
-   will have to wander away from the true path. 
+   will have to wander away from the true path.
 -  Anyone who enters the labyrinth (or anyone caught within it)
-   instinctively knows the secret used to make the labyrinth. 
+   instinctively knows the secret used to make the labyrinth.
 
 A spell to summon someone
 -------------------------
@@ -96,7 +98,7 @@ To cast this spell, you must have:
 Consequences include:
 
 -  They appear, but are worse for wear, and the journey has made them
-   cross. Any interactions with them will be more difficult. 
+   cross. Any interactions with them will be more difficult.
 -  They appear, but are not compelled to stay; it is up to you to
    convince them to do so.
 -  They appear, but they do not appear alone.
@@ -172,19 +174,19 @@ To cast this spell, you must have:
 -  A lump of earth, which shall become your flesh. What you use matters:
    Iron is hard but brittle, and blades will spark upon striking you.
    Clay is easily cut, but easily mended, letting you piece yourself
-   back together. 
--  A doll of your resemblance, which shall hold your true flesh. 
+   back together.
+-  A doll of your resemblance, which shall hold your true flesh.
 -  A deep pool, hidden from the sun, so you may shed your skin or put it
-   back. 
+   back.
 
 Consequences include:
 
 -  You will not suffer wounds; someone else will suffer yours in your
    stead. The Host will tell you who, but only upon your first injury.
 -  No arrow, nor blade, nor bullet will harm you. But water will wash
-   away your skin, and you will be eager tinder to any fire. Beware. 
+   away your skin, and you will be eager tinder to any fire. Beware.
 -  The doll holding your true body goes missing, or has ideas of its
-   own. 
+   own.
 
 A spell to command attention
 ----------------------------
@@ -203,7 +205,7 @@ Consequences include:
 
 -  Attention becomes obsession. Those caught will compete for your
    audience, and you will have to keep the chaos at bay to get what you
-   want. 
+   want.
 -  Attention can turn up unwanted truths, or dangerous falsehoods.
    Rumours and secrets will spread, some true, some untrue.
 -  More than people turn their attention to you. Arcadian beings, and
@@ -227,7 +229,9 @@ Consequences include:
    anyone with magical sensitivity to see.
 
 This is magic that will imperil your soul. Whenever you cast it, include
-the following outcome (passion, keep card):
+the following outcome:
+
+.. admonition:: Soul scars (passion, keep card)
 
    -  Ace through seven: Take a mark.
    -  Eight through King: Do not take a new mark.
@@ -238,9 +242,9 @@ A spell to wake the dead
 To cast this spell, you must have:
 
 -  Something alive, killed by your hand, at the hour of sorcery. To
-   bring something out, you must send something in. 
+   bring something out, you must send something in.
 -  Desecrated ground, owned by no one, that the dead may pass through
-   freely. 
+   freely.
 -  A familiar tune, known to the dead, that can guide them through
    death’s dark realm.
 
@@ -254,7 +258,9 @@ Consequences include:
    their mother tongue, and only speaks some of the dialects of Hell.
 
 This spell risks marking you as Death's own. When you cast it, include
-this outcome (passion, keep card):
+this outcome:
+
+.. admonition:: Soul scars (passion, keep card)
 
    -  Ace through seven: Change your last mark: it no longer reads
       "become a Fetch", but not "become a Wraith". If it already reads
@@ -268,23 +274,159 @@ this outcome (passion, keep card):
 A spell to enfeeble an enemy
 ----------------------------
 
+To cast this spell, you must have:
+
+-  A symbol of servitude or submission.
+-  A connection of some sort to the target.
+-  Something to connect the two.
+
+Consequences include:
+
+-  ...
+-  ...
+-  ...
+
+This spell is physically taxing. When you cast it, include the Bodily
+harm outcome.
+
 A spell to visit the dreams of another
 --------------------------------------
+
+To cast this spell, you must have:
+
+-  Something to send your mind and soul out of this realm.
+-  Something to protect you from the things that lurk between dreams.
+-  Something to remind you that you are in the realm of dreams.
+
+Consequences include:
+
+-  ...
+-  ...
+-  ...
 
 A spell to command the loyalty of the land
 ------------------------------------------
 
+To cast this spell, you must have:
+
+-  A symbol of great authority.
+-  A claim to ancient privileges and rights.
+-  A way to identify what you wish of the land.
+
+Consequences include:
+
+-  ...
+-  ...
+-  ...
+
+This spell is very difficult to repeat; no modern magician has a
+*legitimate* claim to the loyalty of England itself. When you cast it,
+add this outcome:
+
+.. admonition:: Liar to the land
+
+   -  Ace through four: The land knows you are a fraud, and will never
+      listen to your claims again.
+   -  Five through nine: The land suspects you. To cast this again, you
+      must find wholly new components.
+   -  Ten through King: You pass, for now, as a legitimate claimant.
+
+
 A spell to throw magic back upon its source
 -------------------------------------------
+
+To cast this spell, you must have:
+
+-  Something reflective.
+-  Something encircling, to define the borders of the protection.
+-  Something to define the duration of the protection.
+
+Consequences include:
+
+-  When taking revenge, it is best to dig two graves. Their magic is
+   returned but you are not above its reach - you suffer a smaller,
+   lesser version of the spell. The Host will tell you how.
+-  The magic, incensed by your denial, runs amok. It strikes someone
+   nearby, or if no one is available, someone connected to you by deed,
+   passion, or blood.
+-  The Erinyes take notice, and wreak terrible slaughter. Something you
+   would not wish upon your worst enemy is inflicted upon the target of
+   the spell, and if this punishment is unjust or unwarranted, they come
+   for you next. If you can't come up with something fitting, assume the
+   magic reflects upon the original caster with all three consequences
+   activated at once, as though they played a 5 or below on their cast.
 
 A spell to see through magical deceptions
 -----------------------------------------
 
+To cast this spell, you must have:
+
+-  Something to carry the enchantment, that you can look through.
+-  Something that hates lies (bees are traditional).
+-  Something enduring and solid.
+
+Consequences include:
+
+-  The truth will not be contained - all can see through the illusion,
+   and all know instinctively that it's your doing. Keep in mind that
+   ugly truths and inconvenient breaches of fiction are often not met
+   with the gratitude they deserve.
+-  Truth and lies entwine like snakes in amorous congress, and while you
+   can see through the glamour, the rest of the world becomes a cypher,
+   and you cannot tell truth from fiction until you break the spell.
+-  The spell works all too well, and while you see the truth, you also
+   see many grim things you wish you could unsee. Bad omens, ill
+   portents, and grisly insights. Take a condition until you rest.
+
 A spell to alert one of present danger
 --------------------------------------
+
+To cast this spell, you must have:
+
+-  Something to define the boundaries.
+-  Something to get your attention, in case of danger.
+-  Something to assume the form of a guardian.
+
+Consequences include:
+
+-  ...
+-  ...
+-  ...
 
 A spell to change into an animal
 --------------------------------
 
+To cast this spell, you must have:
+
+-  Something to appease the spirit of the animal you wish to become.
+-  Something to remind you what it is to be human, that you may not be
+   lost in the animal's mind.
+-  Something to define the ending of the spell.
+
+Consequences include:
+
+-  ...
+-  ...
+-  ...
+
 A spell to assume the form of shadow
 ------------------------------------
+
+To cast this spell, you must have:
+
+-  Something beautiful, as a token of thanks to the dark that hides all
+   secrets.
+-  Someplace dark to store and anchor your true body.
+-  Something sharp, to cut your shadow free.
+
+Consequences include:
+
+-  You return to your body, but your shadow has other ideas. Nobody
+   knows why they are wont to wander, but everybody knows not to trust a
+   person with no shadow. People will instinctively mistrust you until
+   you are reunited.
+-  The night takes interest in you, and embraces you longer than you
+   want: people forget your actions as soon as they can. You cannot gain
+   social tokens from your role until you betray someone else's secret.
+-  Your identity remain secret, if indeed you meant it to be, but your
+   deeds while wrapped in shadow are unerringly discovered.
