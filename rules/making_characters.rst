@@ -51,16 +51,17 @@ corresponds to one social role.
 
 .. sidebar:: Social role and gender
 
-   There are twelve social roles. Four of them are male, four are female, and
-   four can go either way.
+   There are twelve social roles. Four of them are male, four are
+   female, and four can go either way.
 
-   With either approach to getting your social role, you may end up playing a
-   character who is not the gender or class you expected. Try it out!
+   With either approach to getting your social role, you may end up
+   playing a character who is not the gender or class you expected. Try
+   it out!
 
-   If it's really a problem, you and the other people at the table can work
-   things out. But do try playing a character who's not the one you thought!
-   You can surprise yourself by playing a character who has to face different
-   challenges than you expected to face.
+   If it's really a problem, you and the other people at the table can
+   work things out. But do try playing a character who's not the one you
+   thought!  You can surprise yourself by playing a character who has to
+   face different challenges than you expected to face.
 
 See :ref:`Appendix: Social Roles` for details.
 
