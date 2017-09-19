@@ -13,6 +13,9 @@ Top priority:
       learned magic?"
    -  Make starting spells smaller. Maybe an implicit cantrip/ritual
       divide? *Lady Blackbird* secrets?
+   -  I almost want something like the Fear, Rage, and Noble passions of
+      *Unknown Armies*. What do you most fear, what do you most love,
+      what do you most hate, how do these drive you to learn magic?
 
 2. Review social role relationships, make them pop more.
 3. Detail sources of income, and other things to do with coin.
@@ -30,12 +33,16 @@ Top priority:
    -  Can you graduate from your town? Can you change the world? What's
       a story-end look like? This ties into getting more magic.
    -  Between session play/prep, lonely fun.
+   -  Open with a bit of daily-life. Who are these main characters,
+      how do they feel about the supporting characters they interact
+      with? Show us the starts of their fear/rage/noble.
 
 7. Make that whole "becoming a magician" thing.
 8. Tokens: maybe not a reroll? Maybe a "spend-to-bump"? Maybe more cases
    where you can use them, or more cases where you must? People get a
    lot of tokens and don't spend them readily, and if they did/do, it
-   would just take away all bad outcomes.
+   would just take away all bad outcomes. Tokens are already a bit
+   confusing, so this might solve two birds with one stone.
 9. Add Outcomes about:
 
    -  Communicate secretly.
