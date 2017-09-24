@@ -148,14 +148,14 @@ htmlhelp_basename = 'Arcadia'
 
 # -- Options for LaTeX output ---------------------------------------------
 
+latex_engine = 'xelatex'
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
     # 'papersize': 'letterpaper',
 
     # The font size ('10pt', '11pt' or '12pt').
-    #
-    # 'pointsize': '10pt',
+    'pointsize': '11pt',
 
     # Additional stuff for the LaTeX preamble.
     #
@@ -166,6 +166,21 @@ latex_elements = {
     # 'figure_align': 'htbp',
     'inputenc': '',
     'utf8extra': '',
+
+    'preamble': r'''
+\usepackage[titles]{tocloft}
+\cftsetpnumwidth {1.25cm}\cftsetrmarg{1.5cm}
+\setlength{\cftchapnumwidth}{0.75cm}
+\setlength{\cftsecindent}{\cftchapnumwidth}
+\setlength{\cftsecnumwidth}{1.25cm}
+''',
+    'fontpkg': r'''
+\setmainfont[Mapping=tex-text,
+    ItalicFeatures={Alternate = 0},
+    Ligatures={Common,Rare,Historic},
+    Alternate=1]{Hoefler Text}
+\fontspec[Ligatures={Common, Rare}, Alternate=1]{Hoefler Text}
+''',
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
