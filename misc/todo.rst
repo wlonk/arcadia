@@ -4,24 +4,11 @@ To do
 
 Top priority:
 
-1. Review passions:
-
-   -  Make them have about-equal difficulty
-   -  Also address the Arc problem
-   -  Make them include drive and direction. *Lady Blackbird* keys?
-   -  Make them ask "what impossible thing did you want so much you
-      learned magic?"
-   -  Make starting spells smaller. Maybe an implicit cantrip/ritual
-      divide? *Lady Blackbird* secrets?
-   -  I almost want something like the Fear, Rage, and Noble passions of
-      *Unknown Armies*. What do you most fear, what do you most love,
-      what do you most hate, how do these drive you to learn magic?
-
-2. Review social role relationships, make them pop more.
-3. Detail sources of income, and other things to do with coin.
-4. Finish the spell list.
-5. How do you learn spells?
-6. The Host:
+1. Review social role relationships, make them pop more.
+2. Detail sources of income, and other things to do with coin.
+3. Finish the spell list.
+4. How do you learn spells?
+5. The Host:
 
    -  What constraints are there on the fairy? How does the GM *play*
       the fairy?
@@ -37,13 +24,13 @@ Top priority:
       how do they feel about the supporting characters they interact
       with? Show us the starts of their fear/rage/noble.
 
-7. Make that whole "becoming a magician" thing.
-8. Tokens: maybe not a reroll? Maybe a "spend-to-bump"? Maybe more cases
+6. Make that whole "becoming a magician" thing.
+7. Tokens: maybe not a reroll? Maybe a "spend-to-bump"? Maybe more cases
    where you can use them, or more cases where you must? People get a
    lot of tokens and don't spend them readily, and if they did/do, it
    would just take away all bad outcomes. Tokens are already a bit
    confusing, so this might solve two birds with one stone.
-9. Add Outcomes about:
+8. Add Outcomes about:
 
    -  Communicate secretly.
    -  Read a person.
