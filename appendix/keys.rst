@@ -1,6 +1,11 @@
 Appendix: Keys
 ==============
 
+.. todo:: Edit keys.
+
+   They're lifted right from the Lady Blackbird companion. These aren't
+   the ones I'll use, ultimately, but they're a good model.
+
 The Key of Addiction
 --------------------
 
