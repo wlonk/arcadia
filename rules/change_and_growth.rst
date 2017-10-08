@@ -44,13 +44,6 @@ Magicianships
 
    Maybe these could be for places/houses/families, too.
 
-.. todo:: How do you learn new spells?
-
-   Learning a spell out of nowhere can't be such an easy option.
-   Strange and Norrell required libraries of ancient and hard to find
-   tomes, and months of research. Sometimes Strange would assemble novel
-   spells, but still. It's more costly. How do we incorporate that?
-
 Each character may attain a particular status as a magician in England.
 They may have only one.
 
