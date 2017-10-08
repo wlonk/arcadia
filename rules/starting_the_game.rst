@@ -66,7 +66,7 @@ crossroads of cultures and ethnicities.
 An Example of making a town
 ---------------------------
 
-Anna, Beatriz, Cal, and Dan are playing, with Elias running.
+Anna, Beatriz, Cal, and Dan are playing, with Elias as the Host.
 
 They decide they want a sleepy, idyllic, rural town, a place like
 Highbury from Jane Austen's *Emma*. They roll with that: the town is

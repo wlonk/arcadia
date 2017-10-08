@@ -34,9 +34,7 @@ Et in Arcadia Ego
    :caption: Contents:
 
    intro/what_is_this
-   intro/how_do_we_play
    intro/this_other_regency
-   intro/the_magic_of_england
    rules/starting_the_game
    rules/making_characters
    rules/scenes
@@ -46,9 +44,9 @@ Et in Arcadia Ego
    rules/weather_and_seasons
    rules/money_and_lifestyle
    rules/change_and_growth
-   appendix/passions
-   appendix/social_roles
-   appendix/fairies
-   appendix/spells
    appendix/names
+   appendix/social_roles
+   appendix/keys
+   appendix/spells
+   appendix/fairies
    misc/todo

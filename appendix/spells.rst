@@ -1,12 +1,17 @@
-Appendix: Spells
-================
+Appendix: Magic
+===============
+
+Spells
+------
 
 Here are some spells that may be available to an English magician.
 
 .. todo:: Add basic effect descriptions to all spells.
 
+.. todo:: Organize into starting and advanced spells.
+
 A spell to open the ways into Arcadia
--------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To cast the spell, you must have:
 
@@ -24,7 +29,7 @@ Consequences include:
    destination worse for wear.
 
 A spell to find something distant
----------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To cast this spell, you must have:
 
@@ -41,7 +46,7 @@ Consequences include:
 -  You have trouble bringing your senses back into this world.
 
 A spell to control the weather
-------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To cast this spell, you must have:
 
@@ -65,7 +70,7 @@ Consequences include:
    principles of fire, water, earth and air.
 
 A spell to make a labyrinth
----------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This spell may be used to guard something (or someone) at the center of
 the labyrinth. Once, it was used to keep treasure, or even grain, safe.
@@ -87,7 +92,7 @@ Consequences include:
    instinctively knows the secret used to make the labyrinth.
 
 A spell to summon someone
--------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To cast this spell, you must have:
 
@@ -104,7 +109,7 @@ Consequences include:
 -  They appear, but they do not appear alone.
 
 A spell to bind someone
------------------------
+~~~~~~~~~~~~~~~~~~~~~~~
 
 To cast this spell, you must have:
 
@@ -126,7 +131,7 @@ Consequences include:
    anyone with magical sensitivity to see.
 
 A spell to change one's face
-----------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To cast this spell, you must have:
 
@@ -147,7 +152,7 @@ Consequences include:
    back, but it ends the spell.
 
 A spell to pass unseen
-----------------------
+~~~~~~~~~~~~~~~~~~~~~~
 
 To cast this spell, you must have:
 
@@ -165,7 +170,7 @@ Consequences include:
 -  You leave residue: wet footprints, rime-frost, or a sulphurous smell.
 
 A spell to turn aside a foe's blade
------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Fun fact, works on bullets too. Who knew?
 
@@ -189,7 +194,7 @@ Consequences include:
    own.
 
 A spell to command attention
-----------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This spell makes you irresistibly charismatic for as long as it lasts.
 Everyone would rather be talking with you, would rather wait on you,
@@ -212,7 +217,7 @@ Consequences include:
    perhaps even creatures in or of the landscape find you magnetic.
 
 A spell to banish memory
-------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 To cast this spell, you must have:
 
@@ -237,7 +242,7 @@ the following outcome:
    -  Eight through King: Do not take a new mark.
 
 A spell to wake the dead
-------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 To cast this spell, you must have:
 
@@ -272,7 +277,7 @@ this outcome:
 .. todo:: Complete the remaining spells.
 
 A spell to enfeeble an enemy
-----------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To cast this spell, you must have:
 
@@ -290,7 +295,7 @@ This spell is physically taxing. When you cast it, include the Bodily
 harm outcome.
 
 A spell to visit the dreams of another
---------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To cast this spell, you must have:
 
@@ -305,7 +310,7 @@ Consequences include:
 -  ...
 
 A spell to command the loyalty of the land
-------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To cast this spell, you must have:
 
@@ -331,9 +336,8 @@ add this outcome:
       must find wholly new components.
    -  Ten through King: You pass, for now, as a legitimate claimant.
 
-
 A spell to throw magic back upon its source
--------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To cast this spell, you must have:
 
@@ -357,7 +361,7 @@ Consequences include:
    activated at once, as though they played a 5 or below on their cast.
 
 A spell to see through magical deceptions
------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To cast this spell, you must have:
 
@@ -379,7 +383,7 @@ Consequences include:
    portents, and grisly insights. Take a condition until you rest.
 
 A spell to alert one of present danger
---------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To cast this spell, you must have:
 
@@ -394,7 +398,7 @@ Consequences include:
 -  ...
 
 A spell to change into an animal
---------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To cast this spell, you must have:
 
@@ -410,7 +414,7 @@ Consequences include:
 -  ...
 
 A spell to assume the form of shadow
-------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To cast this spell, you must have:
 
@@ -430,3 +434,40 @@ Consequences include:
    social tokens from your role until you betray someone else's secret.
 -  Your identity remain secret, if indeed you meant it to be, but your
    deeds while wrapped in shadow are unerringly discovered.
+
+Marks
+-----
+
+When you cast spells, it marks your soul.
+
+-  A creature of some sort (a fox, a raven, a black hare, or perhaps a
+   goat) comes to you, and accompanies you everywhere, no matter how you
+   might try to shoo it.
+-  Animals panic in your presence. (In a time full of horses, dogs, oxen
+   and more, this must be taken seriously!)
+-  Every room you enter becomes cold, damp, and dark, as long as you are
+   present.
+-  Milk, beer, and other drinks sour in your presence.
+-  When you try to explain something important, all that comes out are
+   ancient and irrelevant stories.
+-  You cannot bear to set foot in a church.
+-  You develop a constant craving for something grotesque (like
+   desiccated mice, grave dirt, or human blood).
+-  You develop a constant sensation of being watched.
+-  You develop stigmata-like wounds that will not heal.
+-  You feel like space stretches and shrinks unpredictably, and you
+   often feel like you are falling.
+-  You have a constant sensation of being watched.
+-  You no longer bleed when pricked or cut. You may, of course, still
+   die.
+-  Your reflection is wrong: it is faded, angled incorrectly, or simply
+   missing.
+-  Your shadow leaves an ashy residue, more the longer you stay put.
+-  Your tears leave black and inky stains.
+-  Your voice becomes hoarse and raspy from the power of the magical
+   words you have uttered.
+
+Finally, when you take your last (fifth) mark, if you have not already
+take this mark, you must take it:
+
+-  You become a fetch.

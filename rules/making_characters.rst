@@ -13,24 +13,24 @@ the most interesting situations.
 By the time you finish, each character will have:
 
 -  A name
--  A family, which provides:
-
-   - A family boon
-
+-  A family, which provides a family boon
 -  A social role, which provides:
 
    -  Reputations
    -  Relationships
    -  And starting role tokens
 
--  A Passion, which provides:
-
-   -  Drives
-   -  A starting spell
-   -  Marks
-   -  and two starting passion tokens
-
+-  A hope
+-  Two keys, which generate passion tokens in play
+-  A starting spell
+-  Space for five marks
 -  A personal boon
+-  Two starting passion tokens
+
+.. todo::
+
+   Make social role sheets with space for keys, drive, spells, and
+   marks.
 
 There are two ways to choose your social role: the hardcore way, and the
 easy way. The difference is this: your choice of social role is
@@ -64,13 +64,12 @@ corresponds to one social role.
    If it's really a problem, you and the other people at the table can
    work things out. But do try playing a character who's not the one you
    thought!  You can surprise yourself by playing a character who has to
-   face different challenges than you expected to face.
+   face different challenges and advantages than you expected to face.
 
 See :ref:`Appendix: Social Roles` for details.
 
-Once you have a social role, choose your family, you name, answer the
-relationship questions on your social role, and choose a passion. See
-:ref:`Appendix: Passions` for details.
+Once you have a social role, choose your family, your name, and answer
+the relationship questions on your social role.
 
 When answering the relationship questions, do this as a group. You
 should prioritize making up supporting characters to fill these roles,
@@ -113,20 +112,16 @@ Next choose a personal boon:
 *characters* are aware of or discuss in-fiction. They are for you, the
 players, only.)
 
-.. index:: ! passion tokens, ! role tokens
+Choose two keys for your character. Keys are the facets of your
+character that exist outside and beyond the role that society expects
+them to fill. They also are how you generate passion tokens, which you
+will use to work magic and to change and grow. For options, see
+:ref:`Appendix: Keys`.
 
-Your character starts with a number of role tokens based on their social
-role, and two passion tokens.
-
-If at any point during the game, you run out of role tokens, you have
-exhausted your good name for the time being; acquaintances are tired of
-you and friends may counsel you to lay low. If you run out of passion
-tokens, you are morose, melancholic, and listless.
-
-Finally, your character starts with a spell. Each passion offers two
-spells to choose from. This spell was your introduction to the world of
-magic, and having worked it, you have drawn the fairy's attention, and
-helped to pull it back into this world.
+Your character starts with a spell. This spell was your introduction to
+the world of magic, and having worked it, you have drawn the fairy's
+attention, and helped to pull it back into this world. For options, see
+:ref:`Appendix: Magic`.
 
 Decide also how you learned this spell. Perhaps it was from a dusty tome
 you inherited. Perhaps from an aged and mysterious traveler you gave
@@ -137,30 +132,79 @@ a prophetic vision.
 need magic? Why might a fairy take an interest in them? And how did they
 learn the spell they *do* know?
 
+And this brings us to the capstone of a character: their hope. Each
+character wants something, something human and foundational. It is up to
+you to decide what this is, taking in to account everything you know
+about your character and their world so far.
+
+Hope is why a character wakes up in the morning, why they put up with odious
+cousins and demeaning comments. Hope is why they pursue hidden truths and
+mystical secrets to learn how to change the world, and maybe make it just a bit
+better.
+
+For each character, write a hope:
+
+-  I hope to marry for love.
+-  I hope to be revenged upon _____.
+-  I hope to have land or money enough to live on.
+-  I hope to know and be known by my family.
+-  I hope to sleep with _____.
+-  I hope to be showered with glory.
+-  I hope to see justice for _____.
+-  ... or something else.
+
+Now, in collaboration with the rest of the table, figure out what stands in
+your way. This should emphasize social barriers: people and social norms and
+institutions that say that you should, rather, stay in your place, and do what
+is expected of you.
+
+The Host, in particular, should be sure to include supporting characters who
+exist to embody and realize these barriers. If you want money, who is unjustly
+demanding your labour, your money, your service? If you want justice, who is
+corrupt? If you want to marry for love, who is pressing you to marry for
+convenience? If you want glory, who cuts you down and bests you?
+
+.. index:: ! passion tokens, ! role tokens
+
+Tokens
+~~~~~~
+
+Your character starts with a number of role tokens based on their social
+role, and two passion tokens.
+
+If at any point during the game, you run out of role tokens, you have
+exhausted your good name for the time being; acquaintances are tired of
+you and friends may counsel you to lay low. If you run out of passion
+tokens, you are morose, melancholic, and listless.
+
 .. topic:: So it's a bunch of rich white people, right?
 
-   Nah. Sure, if you read Jane Austen, or see her books adapted to film, that's
-   most of what you get, and while there's a massive amount of social
-   commentary and complexity in her novels, there's not a lot of
-   *representation*. And yet, the time and place was not by any means just rich
-   white people! In Jo Baker's novel *Longbourn*, she expertly delves into the
-   lives of the servants at the eponymous house. In Susanna Clarke's *Jonathan
-   Strange & Mr Norrell*, the Black manservant of a member of parliament plays
-   a much greater role in affairs than his master does. In Amma Asante's film
-   *Belle*, based extensively on real characters and circumstances, the
-   mixed-race natural daughter of a British Navy officer is raised among the
-   gentry, albeit not without some difficulties that her white adoptive sister
-   does not face.
-
-   Closer to my own life, there were figures in the period such as Daniel
-   Mendoza, the prizefighter and inventor of "scientific boxing" (also known as
-   "getting out of the way when someone punches you") was the first Jew to be
-   granted an audience with the British monarch.
+   Nah. Sure, if you read Jane Austen, or see her books adapted to film,
+   that's most of what you get, and while there's a massive amount of
+   social commentary and complexity in her novels, there's not a lot of
+   *representation*. And yet, the time and place was not by any means
+   just rich white people! In Jo Baker's novel *Longbourn*, she expertly
+   delves into the lives of the servants at the eponymous house. In
+   Susanna Clarke's *Jonathan Strange & Mr Norrell*, the Black
+   manservant of a member of parliament plays a much greater role in
+   affairs than his master does. In Amma Asante's film *Belle*, based
+   extensively on real characters and circumstances, the mixed-race
+   natural daughter of a British Navy officer is raised among the
+   gentry, albeit not without some difficulties that her white adoptive
+   sister does not face. There were also figures in the period such as
+   Daniel Mendoza, the prizefighter and inventor of "scientific boxing"
+   (also known as "getting out of the way when someone punches you") was
+   the first Jew to be granted an audience with the British monarch.
 
    Please, don't just play rich white people! There's so much more here.
 
 An Example of making characters
 -------------------------------
+
+.. todo::
+
+   Redo the example of character creation to reflect the changes
+   introduced above.
 
 Let's return to the previous examples. Anna, Beatriz, Cal, and Dan are
 playing, with Elias running, in the town of Stanham.
@@ -311,8 +355,3 @@ earned the family a bit more stability. His friendship with Capt. Perry
 is underscored by this theme, as Perry has a good income as an officer
 of horse, and the chance at real glory should he be sent to the
 Peninsula. He chooses to start with a spell to open the ways to Arcadia.
-
-.. todo::
-
-   Make passion and social role sheets as half-sheets to print and
-   combine.
