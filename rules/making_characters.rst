@@ -1,11 +1,14 @@
 Making characters
 =================
 
-.. todo:: Write about age and marital status.
-
 Once you have made a village together, you can make your characters. This can
 be done more independently, but it's still worth talking and sharing ideas and
 excitement together, though.
+
+Each character, unless the table decides that there is a compelling
+reason otherwise, should be relatively young (perhaps 18 to 26?) and
+unmarried. This is not a hard requirement, but it does tend to lead to
+the most interesting situations.
 
 By the time you finish, each character will have:
 
