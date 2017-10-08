@@ -8,13 +8,6 @@ Each passion gives you three things:
 -  a set of marks to choose from when you suffer consequences casting a
    spell.
 
-.. todo:: Clarify the above; repeat rules on how you get tokens, etc.
-
-.. todo::
-
-   Make sure top-tier passion rewards are about equally difficult. Also
-   consider the "they're the end of an arc" problem.
-
 Absolution
 ----------
 
