@@ -148,9 +148,8 @@ Here are some things that can be uncertain.
 .. admonition:: Cost of a spell (passion, keep card)
 
    When you cast a spell, use this outcome. Each spell will list
-   consequences; you may choose to take a magical mark (listed under
-   your Passion) when you get the lowest outcome, or to take all the
-   magical side-effects.
+   consequences; you may choose to take a magical mark when you get the
+   lowest outcome, or to take all the magical side-effects.
 
    -  Ace or two: All the consequences, and take a mark.
    -  Three or four: All the consequences, or take a mark.

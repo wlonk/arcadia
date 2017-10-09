@@ -149,6 +149,7 @@ For each character, write a hope:
 -  I hope to have land or money enough to live on.
 -  I hope to know and be known by my family.
 -  I hope to sleep with _____.
+-  I hope to have my love for _____ returned.
 -  I hope to be showered with glory.
 -  I hope to see justice for _____.
 -  ... or something else.
