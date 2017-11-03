@@ -21,14 +21,21 @@ Playing as the Host
 
 .. todo:: Talk about history panic, and how you can avoid it.
 
-Agenda:
+As the Host, your role in the conversation is different from that of the
+other players. You are much more free, in many ways, but to balance that
+freedom and give you some support, you have an agenda you must pursue
+and a set of principles you must follow.
+
+Your agenda:
 
 -  Make the world seem real.
 -  Make magic seem rooted in the world.
 -  Make the characters' lives worthy of the telling.
 -  Remember that nothing is written.
+-  Push supporting characters' plans, ideas, and agendas on the main
+   characters.
 
-Principles about the world:
+Your principles concerning the world:
 
 -  Show how the world is unjust.
 -  Show how hierarchy and power are an albatross about the neck.
@@ -41,22 +48,26 @@ Principles about the world:
    it's so.
 -  Show what will happen without action.
 
-Principles about magic:
+Your principles concerning magic:
 
 -  Let magic show up in the corner of your eye.
 -  Make magic have a will of its own.
 -  Make magic be old, feral, and of the land.
 
+Things to bear in mind
+----------------------
+
 Managing supporting characters is hard. There will be a lot of them.
 Make an index card for each one and use it to note down important facts,
 agreements, relationships. This is how you can make them seem like rich,
-real, and consistent people.
+real, and consistent people. Also note down some character notes; are
+they foppish? Severe? Smart? Friendly? Rude?
 
-It's your job, but not exclusively your job, to frame scenes. Put
-characters together, break them apart, see how the main characters
-interact with supporting characters. Have supporting characters want,
-demand, or expect things of main characters, sometimes at odds with what
-other characters want from them.
+It's your job, but not exclusively your job, to frame scenes. Frame them
+hard. Put characters together, break them apart, see how the main
+characters interact with supporting characters. Have supporting
+characters want, demand, or expect things of main characters, sometimes
+at odds with what other characters want from them.
 
 In the first session, to start things off, use the relationships
 everyone made during character creation to spot who wants something from
@@ -66,169 +77,69 @@ character. Use that.
 One great way to start is with a ball. You don't have to, but it often
 gets everyone in the same place with conflicting desires.
 
-----
+What you can and cannot do
+--------------------------
 
-*The previous text, in need of editing:*
+As the host, you have great latitude to impose things on the main
+characters, and by extension the players. This isn't a conversation for
+you to monopolize, though. How can you be a fan if you are simply
+imposing your will on them?
 
-.. todo::
+So you don't spring it on them. You set it up, and let them react. The
+main characters' choices are what *reveal* them, and seeing how they act
+in times of stress and difficulty and joy and horror and uncertainty is
+how you see who they are, and be and become a fan of them.
 
-   Re-read the Host section, make an outline, and edit. Also make
-   principles.
+This can be hard. With normal people and social situations, it's a bit
+easier: you can just tell them. "If you don't do what she's hoping of
+you, Miss Hartley will tell the whole town about your love of Miss
+Quince. That'll damage your reputation, of course, and who knows how
+Miss Quince will react!"
 
-You should play to keep the world verisimilitudinous. You should play to
-keep the characters' lives complex and compelling. Your object is to
-keep the characters in compelling situations, so that we can find out
-what they do. Not punishing situations, but challenging: challenging to
-their allegiances, values, beliefs.
+With magic and fairies, it's a little harder. How do you keep magic
+mysterious, while still signalling what might happen? Well, don't try to
+make magic mysterious. Make it *weird*, but not mysterious. You can
+describe the effects and the context with this sideways feeling, but be
+very clear: "You feel a dread certainty that if you step over the
+threshold, you will not see the way back behind you." Again: a
+character's choices matter. They may not always choose what you would
+hope, but that is, after all, the point.
 
-... And if it never is worth the risk for someone, *push harder*.
-Loveless marriages, disownment and penury, abusive masters, all this and
-more are real risks. Think about what will happen if the PCs don't
-intervene for their own interests, and push for that.
+Between Sessions
+----------------
 
-Now, the fairy offers absolution, victory, revenge, power. But it is a
-cat playing with mice, a child playing with dolls. It has no real
-conception of your wants, only how you can amuse it. It half-listens,
-then gives you the rope to hang yourself.
+While hopefully everyone is thinking about the game a little between
+sessions of play, as the Host, it is your duty to do so particularly.
+After a session, take a little time and organize your thoughts. What
+happened that you're particularly curious about? What happened that left
+good openings and spots for you to push?
 
-The fairy should show up soon, but not immediately; basically as soon as
-someone's been pushed into a spot where they might need a spell to get
-what they want. Basically, the arc of an *Arcadia* story should dip low
-quickly, then up-tick with the fairy's intervention, then wobble.
+You've got to keep track of a lot of things at once, so taking a little
+time alone after the hurly-burly of the play session itself is valuable.
+Figure out what the fairy wants from the main characters for next time,
+and think about how it may pursue that. Figure out what the authority
+figures in their lives want from them. Figure out what their dependants
+and friends want from them.
 
-Justice
--------
+That's the reason for all these supporting characters, after all, right?
+To make demands of the main characters, either explicitly ("You *will*
+marry Mr. Eccleston!") or implicitly ("Your valet nods and says nothing,
+but you can see the pain on his face. To have him serve your guest, even
+for the week, may be more than he can bear."). The fairy is this taken
+to an extreme: they can demand, and give, things well outside what any
+normal person might consider.
 
-As the Host, you have one particular important, if unpleasant, role: it
-is your role to show the *injustice* of the setting. No time is truly
-just, and while the Enlightenment brought greater justice for some, most
-still suffered in one way or another. In particular in this game,
-characters may suffer along the dimensions of class and sex.
+When you're stuck
+-----------------
 
-But not everyone suffers along those dimensions. What of the Gentleman,
-the Officer, or others who may carry great social power? They may feel
-quite content with the world you present. This is as it should be,
-though perhaps the Gentleman's player might question their own
-complacency.
+Take a small break. Don't let it go on too long, or you'll have to get
+the momentum back up, but take the time you need to figure things out.
 
-Of course, power is a difficult tool to wield, and even a
-well-intentioned Gentleman may sow more problems with their attempts to
-help. This is a world that fights to preserve its order, and all too
-often will push back on high-minded ideals.
+Ask questions. Identify what you feel you don't know, and ask about it.
 
-Desperation
------------
+Look over your supporting characters. They will all have things they
+want of the main characters. Have one or more come in with demands and
+difficulties of their own.
 
-The counterpart to injustice is desperation. Injustice breeds
-desperation, but the actions that come of desperation can be dangerous,
-to say the least. As the Host, you must also, especially through the
-actions of the fairy, show a route for the desperate. When you are out
-of options, betting on chaos can be the rational bet.
-
-Let's be clear: you have to be desperate to make a deal with a fairy.
-Everyone, but *everyone*, knows better. But sometimes, you see no other
-choice---or rather, the other choice is *worse*.
-
-When you have one kind of power in a world that strips you of power, you
-will use it, you will exercise it, you will rely on it. If that is being
-trusted with secrets, you will wield secrets as a weapon. If you have
-sexual appeal, you will wield sexuality as a weapon. If you have no
-further to fall but to a sinful and unmourned grave, you will wield
-recklessness as a weapon.
-
-Not every character will be desperate! But at least one or two must be.
-And those are the ones to whom the fairy offers their fondest dreams.
-
-Perils of the Period
---------------------
-
-It is easy to think of the worst that could happen in *Arcadia* as
-somewhat gentle, but death, dishonour, disappointment, disease, and
-poverty aren't even the worst of it. When you bargain with a fairy, you
-risk your very soul and future---or that of those closest and dearest to
-you.
-
-As the Host, you should have some idea of what the worst thing facing
-each character is, and you should communicate it, too. Some characters
-may live a hair's breadth away from starvation, while others may
-sometimes risk only their reputation, but the mightiest, it is said,
-have the furthest to fall.
-
-Don't be coy about it, either: make sure that the players understand
-what they risk. But also, make sure that they know what they are hoping
-to achieve: a stable position serving in a great house may be a lofty
-goal for some, and a peerage and a wealthy marriage may be within reach
-of others.
-
-Knowing what's at stake will help you with every other part of the
-system, in particular offering bargains as a fairy.
-
-Fairy stories
--------------
-
-So, this is a game about people who gain the notice of a fairy. That is,
-it is a game of fairy stories. You might be forgiven for asking why. To
-my mind, fairy stories are stories that warn against easy answers and
-simplistic understanding. They remind us of the complexities of the
-situations we can find ourselves in. Wishing and hoping and having a
-fairy "fix" things for you rarely turns out well, no matter how valid
-your wishes and hopes may be. That is to say: fairy stories are about
-the value of *doing the work* and the risks of trying to take
-short-cuts.
-
-How, then, do you do that in this game? Especially given that everyone
-knows better than to trust what a fairy says, how do you make the
-temptation real?
-
-There are two parts, ultimately: the carrot and the stick. The stick is
-obvious: for all but the most privileged, life in Regency England is a
-collection of restraints and constraints, disappointments and
-compromises. The carrot is this: the fairy must offer real fixes for
-small problems, so that when they offer dangerous and broken fixes for
-larger problems, they have a trustworthy track record to back them up.
-They are not a constant exercise in deception and punishment. They are a
-pusher, offering what you want now, such that when you *need* them, they
-can demand more than you can pay.
-
-Techniques and Tools
---------------------
-
-**Acting is Reacting:** keep the camera on the listener, not the
-speaker. Show their reactions.
-
-**Breathing Space:** not every scene should involve "that won't be so
-easy". Scenes like that tend to be dramatic up-beats, where the
-character faces the things that make their story interesting and their
-life difficult. After, allow them a scene of downtime, showcasing their
-passions or their social role. Then cut to another character and focus
-on their story a little.
-
-**Let them be human:** the social norms of the period are real and
-present, but even in Austen's work, you sometimes see people breaking
-these norms without remark. Humans are humans and every supposed rule of
-a society has occasional exceptions. Sometimes first names are used,
-sometimes servants aren't woken in the middle of the night.
-
-**Understatement:** you can achieve a feeling of magical realism by
-maintaining understatement, a calm matter-of-fact aspect to describing
-magic. To paraphrase Mark Twain, do not "glance around from face to
-face, collecting applause". This is what Gabriel García Márquez
-describes as speaking "with a brick face". You are simply observing
-these wondrous things, but not being awed by them. Conversely, if you
-want the game to feel more like a Gothic novel, do just the opposite:
-make it clear how overcome you are by what you are describing.
-
-**Elide the small-talk:** It's easy to think of empty small-talk as a
-staple of the Austenian genre, but you'll notice that, with the notable
-exception of *Emma*, where it serves a particular purpose, small-talk is
-usually quoted only indirectly: "they talked of the weather" rather than
-a blow-by-blow direct quotation. You can do that too. "After
-pleasantries are exchanged, Col. Colquhoun gets to his purpose, and asks
-you if you have heard the news from Hastings, that Miss Redgrave is
-apparently becoming very close with a Mr. Hawkins. He's trying to get a
-reaction out of you. He wants to know if you have feelings for her."
-
-**Play to make them reveal themselves:** As the Host, you are most
-interested in the inner lives of the characters you see at the table.
-Not in their victories or failures, *per se*, but in how those victories
-and failures let them show their true colors.
+Consider the fairy. This is your omnitool. Fairies give you much more
+latitude than any other character on the table. Use it.

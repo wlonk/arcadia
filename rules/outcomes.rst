@@ -233,10 +233,7 @@ are still a bit specialized.
 
 .. todo:: Fill out peripheral outcomes.
 
-.. admonition::
-
-   Rumours
-   ~~~~~~~
+.. admonition:: Rumours
 
    Todo
 

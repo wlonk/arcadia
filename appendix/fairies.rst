@@ -42,6 +42,14 @@ Fairies
 These are the rulers of Arcadia, the nobles and dominions of that other
 land. One will be present in each game of *Arcadia*.
 
+When you as the Host are playing the fairy, you must resist the
+temptation to be coy. Fairies are not ashamed of who they are, nor are
+they frightened of a mere mortal magician. In a world bound by social
+norms, the fairy is your chance to say what no one else will say, to
+take decisive and inhuman action, and to ensure that, despite the best
+efforts of these little people living their little lives, change and
+chaos will prevail.
+
 The Beast of the Moors
 ~~~~~~~~~~~~~~~~~~~~~~
 
