@@ -50,6 +50,11 @@ take decisive and inhuman action, and to ensure that, despite the best
 efforts of these little people living their little lives, change and
 chaos will prevail.
 
+.. todo::
+
+   Detail the magical powers of each fairy. What can they do without
+   thinking, what can they do with great effort?
+
 The Beast of the Moors
 ~~~~~~~~~~~~~~~~~~~~~~
 

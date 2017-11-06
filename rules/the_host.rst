@@ -1,26 +1,6 @@
 Playing as the Host
 ===================
 
-.. todo:: Talk about supporting characters
-
-   Supporting characters are crucial. Don't let those generated from
-   chargen be the only ones, see all the people that enrich and reify
-   the world and show them. Make them want things of the main
-   characters, too!
-
-.. todo:: Edit and clarify the Host section
-
-   Turn agenda and principles into real things.
-
-   "Create a villain who is exceptionally good at attacking your hero's
-   greatest strengths."
-
-   Talk about bad outcomes and how delicious they can be.
-
-   Talk about "fronts and threats".
-
-.. todo:: Talk about history panic, and how you can avoid it.
-
 As the Host, your role in the conversation is different from that of the
 other players. You are much more free, in many ways, but to balance that
 freedom and give you some support, you have an agenda you must pursue
@@ -53,6 +33,42 @@ Your principles concerning magic:
 -  Let magic show up in the corner of your eye.
 -  Make magic have a will of its own.
 -  Make magic be old, feral, and of the land.
+
+Threats and Promises
+--------------------
+
+As the group makes the village and main characters, you should be asking
+questions and noting down things that interest you. After a little
+consideration, turn these notes into threats: bad things that could come
+to pass for the main characters. These threats are for everyone to know;
+a character who doesn't know what horrible fate might await her is is
+hardly driven to action by the fact.
+
+Some threats may not pertain directly to a character: if your sister has
+set her cap at a known rakehell and womanizer, *that affects you*. When
+your sister goes from dancing with him, to flirting with him over
+dinner, to meeting with him privately, to eloping with him, to being
+abandoned by him and shunned by society, you have only yourself to blame
+for not at least trying to intervene. (Obviously, you can blame *him*
+too, and maybe you have more means to exact your revenge than most
+Regency heroines would... but that's your story to play out.)
+
+That last example illustrates an important point: going directly from
+"your sister is eyeing Mr. Montgomery" to "she is abandoned and her
+reputation ruined" is much less interesting than going step-by-step.
+You should communicate to the players what is immediately at risk as the
+threat progresses. This is a promise of sorts: "If you do nothing, this
+will happen."
+
+Write these promises down, and track them. You will have an easier time
+tracking what has gone before, and thus determining what might happen
+next, if you do so.
+
+This is especially vital around the fairy. You don't have to tip the
+fairy's entire hand, but show more of it than, perhaps, the characters
+themselves quite understand. If fairies have one weakness, it is that
+they underestimate mortal humans, and never worry about telling them
+their plans.
 
 Things to bear in mind
 ----------------------
@@ -143,3 +159,27 @@ difficulties of their own.
 
 Consider the fairy. This is your omnitool. Fairies give you much more
 latitude than any other character on the table. Use it.
+
+Supporting Characters
+---------------------
+
+The supporting characters give life and motion to the world and the
+game. Don't let the supporting characters created at the outset of the
+game be the only ones. As you need more, make them. If they recur or
+seem especially compelling, note them down. Especially make them as your
+threats demand a face.
+
+History Panic
+-------------
+
+Sometimes, people shy away from historical games, because the fear of
+getting something *wrong* about the time and place is paralytic. This
+phenomenon is often termed "history panic".
+
+All I can say is this: there is no better place to get things wrong than
+in an RPG, at a table with friends, collaborating on making something
+interesting and engaging to you all. If something that you agree on at
+your table turns out, in later research, to be "wrong" for the period,
+remember also that this a game where you play magicians and struggle
+against fairies; it is reasonable that the particulars of the period may
+be a little different!
