@@ -168,7 +168,7 @@ convenience? If you want glory, who cuts you down and bests you?
 .. index:: ! passion tokens, ! role tokens
 
 Tokens
-~~~~~~
+------
 
 Your character starts with a number of role tokens based on their social
 role, and two passion tokens.
