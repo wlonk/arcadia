@@ -1,6 +1,12 @@
 Money and Lifestyle
 ===================
 
+.. note::
+
+   The following system is optional, and should only be invoked when a
+   character's financial situation is perilous, uncertain, or
+   interesting.
+
 In *Arcadia*, money is somewhat abstracted. Characters may accrue and
 spend *coin*, which exists in three tiers: pence, shillings, and pounds.
 These are not literal pence, shillings, and pounds, but a notional set

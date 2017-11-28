@@ -1,6 +1,27 @@
 Playing as the Host
 ===================
 
+.. epigraph::
+
+   |  THE HOST is riding from Knocknarea
+   |  And over the grave of Clooth-na-bare;
+   |  Caolte tossing his burning hair
+   |  And Niamh calling *Away, come away:*
+   |  *Empty your heart of its mortal dream.*
+   |  *The winds awaken, the leaves whirl round,*
+   |  *Our cheeks are pale, our hair is unbound,*
+   |  *Our breasts are heaving, our eyes are a-gleam,*
+   |  *Our arms are waving, our lips are apart;*
+   |  *And if any gaze on our rushing band,*
+   |  *We come between him and the deed of his hand,*
+   |  *We come between him and the hope of his heart.*
+   |  *The host is rushing ’twixt night and day,*
+   |  *And where is there hope or deed as fair?*
+   |  *Caolte tossing his burning hair,*
+   |  *And Niamh calling Away, come away.*
+
+   -- *The Hosting of the Sidhe*, W.M. Yeats
+
 As the Host, your role in the conversation is different from that of the
 other players. You are much more free, in many ways, but to balance that
 freedom and give you some support, you have an agenda you must pursue
@@ -44,6 +65,13 @@ to pass for the main characters. These threats are for everyone to know;
 a character who doesn't know what horrible fate might await her is is
 hardly driven to action by the fact.
 
+The first threats you have are the grim fates for each character. Write
+them down, and put them in front of you, where everyone can see them.
+These are the fundamental threats that you will return to time and
+again. While everyone will risk their reputation with emotional
+outbursts, and their soul and freedom by dealing with a fairy, these
+threats should show up time and again.
+
 Some threats may not pertain directly to a character: if your sister has
 set her cap at a known rakehell and womanizer, *that affects you*. When
 your sister goes from dancing with him, to flirting with him over
@@ -60,9 +88,9 @@ You should communicate to the players what is immediately at risk as the
 threat progresses. This is a promise of sorts: "If you do nothing, this
 will happen."
 
-Write these promises down, and track them. You will have an easier time
-tracking what has gone before, and thus determining what might happen
-next, if you do so.
+Write these promises down, and track them where all can see. You will
+have an easier time tracking what has gone before, and thus determining
+what might happen next, if you do so.
 
 This is especially vital around the fairy. You don't have to tip the
 fairy's entire hand, but show more of it than, perhaps, the characters
@@ -121,6 +149,10 @@ threshold, you will not see the way back behind you." Again: a
 character's choices matter. They may not always choose what you would
 hope, but that is, after all, the point.
 
+Remember that the fairy can do more and more without restraint to a
+character as they become more entangled in the fairy's web. Do not
+overstep your bounds with the fairy's power over a character.
+
 Between Sessions
 ----------------
 
@@ -152,6 +184,9 @@ Take a small break. Don't let it go on too long, or you'll have to get
 the momentum back up, but take the time you need to figure things out.
 
 Ask questions. Identify what you feel you don't know, and ask about it.
+
+Look over your threats. How have they developed? What will happen next
+with whichever ones the characters have let lie?
 
 Look over your supporting characters. They will all have things they
 want of the main characters. Have one or more come in with demands and

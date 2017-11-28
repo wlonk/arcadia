@@ -156,6 +156,16 @@ Here are some things that can be uncertain.
    -  Five through nine: One of the consequences.
    -  Ten through King: None of the consequences.
 
+.. admonition:: Magical discovery (passion)
+
+   When you may learn mystical secrets, use this outcome.
+
+   -  Ace or two: You learn something you shouldn't have. The fairy
+      gains a strand on you.
+   -  Three or four: Nothing of note.
+   -  Five through nine: Gain one secret towards learning a new spell.
+   -  Ten through King: Gain two secrets towards learning a new spell.
+
 Custom outcomes
 ---------------
 
@@ -242,6 +252,14 @@ are still a bit specialized.
    Todo
 
 .. admonition:: Gambling
+
+   Todo
+
+.. admonition:: Read a person
+
+   Todo
+
+.. admonition:: Communicate secretly
 
    Todo
 

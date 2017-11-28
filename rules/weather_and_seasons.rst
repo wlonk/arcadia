@@ -1,6 +1,11 @@
 Weather and Seasons
 ===================
 
+.. note::
+
+   The following system is optional, and should only be invoked when the
+   particulars of the weather are perilous, uncertain, or interesting.
+
 Weather controls day to day life. Rain and sun each in their turn make
 the crops grow, and snows and floods can close roads and put one in a
 position to overstay one's welcome. However much the English may

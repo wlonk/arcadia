@@ -115,8 +115,7 @@ players, only.)
 Choose two keys for your character. Keys are the facets of your
 character that exist outside and beyond the role that society expects
 them to fill. They also are how you generate passion tokens, which you
-will use to work magic and to change and grow. For options, see
-:ref:`Appendix: Keys`.
+will use to work magic. For options, see :ref:`Appendix: Keys`.
 
 Your character starts with a spell. This spell was your introduction to
 the world of magic, and having worked it, you have drawn the fairy's
@@ -165,6 +164,12 @@ demanding your labour, your money, your service? If you want justice, who is
 corrupt? If you want to marry for love, who is pressing you to marry for
 convenience? If you want glory, who cuts you down and bests you?
 
+Once your hope is clear, the Host will define for themselves exactly the
+worst thing that could come of that hope, the way it could fail or twist
+into something horrible. That is your grim fate, and if you do nothing,
+it will come to pass. You may be able to avert or change it, but at the
+outset of the story, it is visible on the horizon, bearing down on you.
+
 .. index:: ! passion tokens, ! role tokens
 
 Tokens
@@ -176,7 +181,8 @@ role, and two passion tokens.
 If at any point during the game, you run out of role tokens, you have
 exhausted your good name for the time being; acquaintances are tired of
 you and friends may counsel you to lay low. If you run out of passion
-tokens, you are morose, melancholic, and listless.
+tokens, you are morose, melancholic, and listless. But take heart! Both
+situations are only temporary, and you will recover.
 
 .. topic:: So it's a bunch of rich white people, right?
 

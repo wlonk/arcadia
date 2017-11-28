@@ -4,7 +4,7 @@ Appendix: Arcadian Beings
 There are many creatures native to Arcadia, a few of which characters
 may encounter, and one of which they may even become.
 
-All arcadian beings are inherently magical. That is, it is in their
+All Arcadian beings are inherently magical. That is, it is in their
 nature to manipulate the world around them in ways alien to us, as they
 can plead and bargain with forces and powers and objects that we
 consider inanimate. This may be the origin of the belief that, while
@@ -14,7 +14,7 @@ simply be profoundly different.
 
 There are two major kinds of being native to Arcadia: *fairies*, and
 *goblins*. There are also creatures that are hybrids of mortal and
-arcadian, called *fetches*.
+Arcadian, called *fetches*.
 
 Fairies are the grander of the two kinds, possessing vast magical
 powers, and ruling over kingdoms, duchies, or clans in Arcadia. They
@@ -49,6 +49,35 @@ norms, the fairy is your chance to say what no one else will say, to
 take decisive and inhuman action, and to ensure that, despite the best
 efforts of these little people living their little lives, change and
 chaos will prevail.
+
+When the fairy is invoked or involved in a moment of uncertainty, add
+this outcome:
+
+.. admonition:: The fairy's web
+
+   The more you draw a fairy's attention or take a fairy's favours, the
+   more it can and will interfere with you and take control of your
+   life. Track all those under the fairy's power on the fairy's card.
+
+   -  Ace through four: Mark two strands.
+   -  Five through nine: Mark one strand.
+   -  Ten through King: Mark no strands.
+
+The fairy's power over you grows as the number of strands they have on
+you grow:
+
+1. They may show up unannounced in your presence.
+2. They may hide themselves from your senses, or hide you from the
+   senses of others.
+3. They may warp your senses in small ways, showing you horrific or
+   tempting visions.
+4. They may influence light, weather, and fortune around you.
+5. They may transport you with them to other places in the mortal world.
+6. They may compel you to give them trinkets and tokens belonging to
+   others, thus taking a strand on that person.
+7. They may take you away to their lands in Fairy, and warp your
+   memories and perceptions such that you think you are where you wish
+   to be.
 
 .. todo::
 
