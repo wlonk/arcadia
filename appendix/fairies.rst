@@ -81,6 +81,12 @@ you grow:
 
 .. todo::
 
+   Change the fairy's power-growing to four checkboxes; four is the
+   magic number here. Also make the fairy's web (a) use a correct
+   metaphor; (b) maybe not have a 2x increase option?
+
+.. todo::
+
    Detail the magical powers of each fairy. What can they do without
    thinking, what can they do with great effort?
 
