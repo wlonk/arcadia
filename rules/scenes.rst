@@ -4,8 +4,8 @@ Scenes and Sessions
 A game consists of a series of *scenes*, over a series of *sessions*. At
 the end of each, there are particular rules.
 
-Gossip
-------
+End of scene: Gossip
+--------------------
 
 .. epigraph::
    Remember that we are English... every man is surrounded by a
@@ -38,4 +38,11 @@ role token.
 
 .. todo:: Example:
 
-   Add examples of Gossip and Reflection.
+   Add examples of Gossip.
+
+End of session: Reshuffle the deck
+----------------------------------
+
+Just that: all removed cards are put back in to the deck at the end of
+the session. No one wants to try to keep a deck separate for the time
+between one session and another!

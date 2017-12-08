@@ -180,20 +180,18 @@ normal person might consider.
 When you're stuck
 -----------------
 
-Take a small break. Don't let it go on too long, or you'll have to get
-the momentum back up, but take the time you need to figure things out.
-
-Ask questions. Identify what you feel you don't know, and ask about it.
-
-Look over your threats. How have they developed? What will happen next
-with whichever ones the characters have let lie?
-
-Look over your supporting characters. They will all have things they
-want of the main characters. Have one or more come in with demands and
-difficulties of their own.
-
-Consider the fairy. This is your omnitool. Fairies give you much more
-latitude than any other character on the table. Use it.
+ - Take a small break. Don't let it go on too long, or you'll have to
+   get the momentum back up, but take the time you need to figure things
+   out.
+ - Ask questions. Identify what you feel you don't know, and ask about
+   it.
+ - Look over your threats. How have they developed? What will happen
+   next with whichever ones the characters have let lie?
+ - Look over your supporting characters. They will all have things they
+   want of the main characters. Have one or more come in with demands
+   and difficulties of their own.
+ - Consider the fairy. This is your omnitool. Fairies give you much more
+   latitude than any other character on the table. Use it.
 
 Supporting Characters
 ---------------------
