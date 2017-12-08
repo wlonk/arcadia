@@ -1,3 +1,4 @@
+=================
 Making characters
 =================
 
@@ -90,7 +91,7 @@ will use to work magic. For options, see :ref:`Appendix: Keys`.
 Your character starts with a spell. This spell was your introduction to
 the world of magic, and having worked it, you have drawn the fairy's
 attention, and helped to pull it back into this world. For options, see
-:ref:`Appendix: Magic`.
+:ref:`Appendix: Spells and Marks`.
 
 Decide also how you learned this spell. Perhaps it was from a dusty tome
 you inherited. Perhaps from an aged and mysterious traveler you gave

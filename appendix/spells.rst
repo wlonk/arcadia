@@ -1,5 +1,6 @@
-Appendix: Magic
-===============
+==========================
+Appendix: Spells and Marks
+==========================
 
 Spells
 ------
