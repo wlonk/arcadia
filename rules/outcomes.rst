@@ -1,36 +1,65 @@
 Outcomes
 ========
 
-If an outcome lists a token type in parentheses, you can spend a token
-of that sort to discard the card assigned and replace it with a draw
-after assigning outcomes.
+As you play, you'll describe what you do, say, and feel, and the Host
+will describe how the supporting characters act, how the world around
+you is, and so on. When you do something risky, uncertain, or just
+*important*, you'll have to use the playing cards to determine some
+outcomes.
 
-If it says "keep card", you keep the card until the end of the session
-in front of you. If you have used tokens to re-draw the card, only the
-final card remains in front of you.
+The Host will, in collaboration with everyone else at the table, figure
+out which outcomes are relevant. Typically, they will choose between
+three and five outcomes, though sometimes fewer and rarely, more. Every
+once in a while, they may need to come up with a custom outcome on the
+spot, and should make clear what the options on that outcome are.
 
-Draw one card per outcome in play. If any of the following pertain, you
-may draw one more card:
+Then, the Host should ask the player whether they are doing the thing at
+hand *recklessly* or *politely*. (There are some restrictions on this
+question, see below.) If they have barged into a room shouting, and say
+that they are doing it politely, the table is free to insist otherwise,
+and they may amend their description of their recent actions to better
+suit how they intend to approach the moment of uncertainty. Or,
+contrariwise, if they have sat patiently and spoken cautiously, the
+table can ask how that could be reckless, and it is up to the player to
+adjust or explain.
 
--  Family boon
--  Personal boon
--  Leverage (including superior social status)
--  Help from another character
+Then, the player draws, but does not look at, one card per outcome. They
+may choose to spend tokens to draw additional cards: role tokens if they
+are acting politely, and passion tokens if they are acting recklessly.
+If they are acting recklessly, they draw one additional card as long as
+they spend one token. (So, with one token, they draw two extras, and
+with two tokens, they draw three, and so on.)
 
-You don't draw one card per thing from that list; just one card if any
-of them pertain.
+They then look at the cards they have drawn, and assign them to
+outcomes. Any excess cards they can discard. If they have acted
+recklessly, they *must* play the lowest-valued card in their hand on to
+one outcome.
 
-Assign the cards to the outcomes at play as you wish, discarding any
-excess cards. Once the uncertainty is resolved, take all the cards and
-shuffle them back into the deck, except those that end up on outcomes
-that say "keep".
+If the player has any conditions or wounds that apply, then certain
+suits will count as Aces *once they have been played*. There is a subtle
+interaction here: say you have the condition "befuddled" and all hearts
+count as aces. Say you have acted recklessly, and drawn five cards for
+three outcomes: K|hearts|, Q|spades|, 9|clubs|, 8|clubs|, 6|diamonds|.
+The King would count as an Ace when you play it, but it does not count
+as an Ace for the purposes of determining the lowest card in your hand,
+which you must play somewhere because you acted recklessly. So you must
+play the six, and then you may choose whichever two other cards you wish
+to play (but you probably don't want to play the King!)
+
+If an outcome says "keep", the card you play on it is removed from the
+deck and kept separately until the end of the session.
+
+When you cast a spell, the question is not do you do it "recklessly or
+politely", but rather, "recklessly or cautiously". In the former case,
+you may spend passion tokens for extra cards, but in the latter case,
+you may not spend anything for extra cards.
 
 Particular outcomes
 -------------------
 
 Here are some things that can be uncertain.
 
-.. admonition:: Achievement (passion)
+.. admonition:: Achievement
 
    When you may or may not achieve a concrete goal you set out to do,
    use this outcome. Examples include hitting a target in an archery
@@ -41,7 +70,7 @@ Here are some things that can be uncertain.
    -  Ace through seven: Failure.
    -  Eight through King: Success.
 
-.. admonition:: Entreaty of a supporting character (role)
+.. admonition:: Entreaty of a supporting character
 
    When you may or may not convince a supporting character to act as you
    wish, use this outcome. Examples of accepting "conditionally" include
@@ -59,7 +88,7 @@ Here are some things that can be uncertain.
    -  Five through nine: They will, conditionally.
    -  Ten through King: They will.
 
-.. admonition:: Entreaty of a main character (role)
+.. admonition:: Entreaty of a main character
 
    When you attempt to convince another main character to act as you
    wish, *the choice is always theirs*, but you may exert some social
@@ -88,7 +117,7 @@ Here are some things that can be uncertain.
    -  Five through nine: You are injured.
    -  Ten through King: You are fine.
 
-.. admonition:: Social risk (role)
+.. admonition:: Social risk
 
    When you may make a good or a bad impression, or acquit themselves
    with grace or with shame, use this outcome.
@@ -135,7 +164,7 @@ Here are some things that can be uncertain.
    -  Five through nine: The fairy is pleased to interfere with you.
    -  Ten through King: You escape the fairy's interest.
 
-.. admonition:: Effect of a spell (passion, keep card)
+.. admonition:: Effect of a spell (keep card)
 
    When you cast a spell, use this outcome. A strong effect may be
    quicker, more reliable, more difficult to resist, or otherwise, as
@@ -145,18 +174,7 @@ Here are some things that can be uncertain.
    -  Five through nine: A weak effect.
    -  Ten through King: A strong effect.
 
-.. admonition:: Cost of a spell (passion, keep card)
-
-   When you cast a spell, use this outcome. Each spell will list
-   consequences; you may choose to take a magical mark when you get the
-   lowest outcome, or to take all the magical side-effects.
-
-   -  Ace or two: All the consequences, and take a mark.
-   -  Three or four: All the consequences, or take a mark.
-   -  Five through nine: One of the consequences.
-   -  Ten through King: None of the consequences.
-
-.. admonition:: Magical discovery (passion)
+.. admonition:: Magical discovery
 
    When you may learn mystical secrets, use this outcome.
 
@@ -225,13 +243,13 @@ intervention. You may have time for some last words, and to reconcile
 yourself to whatever fate your God keeps for those who work magic.
 
 Emotional harm comes in the form of conditions. You have four
-conditions: angry, befuddled, embarrassed, shaken. When that condition
+conditions: angry, befuddled, shaken, embarrassed. When that condition
 might impede you, each one makes a different suit count as aces:
 
 -  Angry: Spades
 -  Befuddled: Hearts
--  Embarrassed: Clubs
--  Shaken: Diamonds
+-  Shaken: Clubs
+-  Embarrassed: Diamonds
 
 These will go away with time and comfort.
 

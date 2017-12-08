@@ -6,6 +6,21 @@ Spells
 
 Here are some spells that may be available to an English magician.
 
+.. todo::
+   No generic "cost" outcome, instead specific costs for specific
+   spells.
+
+   .. admonition:: Cost of a spell (keep card)
+
+      When you cast a spell, use this outcome. Each spell will list
+      consequences; you may choose to take a magical mark when you get the
+      lowest outcome, or to take all the magical side-effects.
+
+      1.  Ace or two: All the consequences, and take a mark.
+      2.  Three or four: All the consequences, or take a mark.
+      3.  Five through nine: One of the consequences.
+      4.  Ten through King: None of the consequences.
+
 .. todo:: Add basic effect descriptions to all spells.
 
 .. todo:: Organize into starting and advanced spells.

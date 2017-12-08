@@ -13,7 +13,7 @@ the most interesting situations.
 By the time you finish, each character will have:
 
 -  A name
--  A family, which provides a family boon
+-  A family
 -  A social role, which provides:
 
    -  Reputations
@@ -24,7 +24,6 @@ By the time you finish, each character will have:
 -  Two keys, which generate passion tokens in play
 -  A starting spell
 -  Space for five marks
--  A personal boon
 -  Two starting passion tokens
 
 .. todo::
@@ -82,35 +81,6 @@ abbey, or something of the sort. The Host should also be *particularly*
 attentive to the gender balance of the NPCs being created; the game runs
 best when there are an approximately equal number of male and female
 supporting characters. A range of class among them is also very helpful.
-
-.. index::
-   single: boons
-
-Next choose a personal boon:
-
--  **Sol:** You are dazzling. You may draw an extra card when you are
-   the center of attention.
--  **Luna:** You mirror the moods of those around you. You may draw an
-   extra card when it is helpful that you agree with, mirror, and
-   support what the other person says.
--  **Mercury:** You have a broad education, through formal or informal
-   channels. You may draw an extra card when knowing just that one weird
-   thing would help.
--  **Venus:** You are incredibly beautiful. You may drawn an extra card
-   when your beauty helps.
--  **Mars:** You are strong. You may draw an extra card in when raw
-   physical force helps.
--  **Jupiter:** Wealth is easy for you. You may draw an extra card when
-   expenditure of money would facilitate matters.
--  **Saturn:** Your focus is unshakable. You may draw an extra card
-   whenever you must overcome distractions.
--  **Uranus:** You have a spark of genius. You may draw an extra card
-   whenever you seek to create or discover something new, unknown to the
-   world at this point.
-
-(These boons and the family boons are not the sorts of things that the
-*characters* are aware of or discuss in-fiction. They are for you, the
-players, only.)
 
 Choose two keys for your character. Keys are the facets of your
 character that exist outside and beyond the role that society expects

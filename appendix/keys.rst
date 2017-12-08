@@ -6,6 +6,43 @@ Appendix: Keys
    They're lifted right from the Lady Blackbird companion. These aren't
    the ones I'll use, ultimately, but they're a good model.
 
+.. todo:: See about including these as keys:
+
+   1.  **Rowan blood:** you may draw an extra card when you are resisting
+       the effects of magic worked against you.
+   2.  **Ash blood:** you may draw an extra card any time your creativity
+       and inspiration is an asset.
+   3.  **Willow blood:** you may draw an extra card when your observational
+       skill is an asset.
+   4.  **Hawthorn blood:** you may draw an extra card when you cast a spell.
+   5.  **Oaken blood:** you may draw an extra card when your stamina,
+       heartiness, or durability is an asset.
+   6.  **Holly blood:** if someone would have leverage over because of their
+       superior rank, instead, they don't.
+   7.  **Hazel blood:** you may draw an extra card when your knowledge,
+       intelligence, or reason is an asset.
+   8.  **Yew blood:** you may draw an extra card when you face death as a
+       risk.
+   9.  **Sol:** You are dazzling. You may draw an extra card when you are
+       the center of attention.
+   10.  **Luna:** You mirror the moods of those around you. You may draw an
+        extra card when it is helpful that you agree with, mirror, and
+        support what the other person says.
+   11.  **Mercury:** You have a broad education, through formal or informal
+        channels. You may draw an extra card when knowing just that one weird
+        thing would help.
+   12.  **Venus:** You are incredibly beautiful. You may drawn an extra card
+        when your beauty helps.
+   13.  **Mars:** You are strong. You may draw an extra card in when raw
+        physical force helps.
+   14.  **Jupiter:** Wealth is easy for you. You may draw an extra card when
+        expenditure of money would facilitate matters.
+   15.  **Saturn:** Your focus is unshakable. You may draw an extra card
+        whenever you must overcome distractions.
+   16.  **Uranus:** You have a spark of genius. You may draw an extra card
+        whenever you seek to create or discover something new, unknown to the
+        world at this point.
+
 The Key of Addiction
 --------------------
 

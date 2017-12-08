@@ -26,30 +26,10 @@ sorts with names which act as the seats of major families.  Consider
 also the strange and ancient spots: places like Wistman's Wood, the
 Cerne Abbas Giant, or the stone circles all over England.
 
-.. index::
-   single: blood
-
 Next, make families. Each player, the Host included, should add one
 family. The main characters will be from a subset of these. Choose a
-family name, where they live, a general sense of their wealth and
-status, and choose their *blood*. This is a boon that will be available
-to any character who is of that family.
-
--  **Rowan blood:** you may draw an extra card when you are resisting
-   the effects of magic worked against you.
--  **Ash blood:** you may draw an extra card any time your creativity
-   and inspiration is an asset.
--  **Willow blood:** you may draw an extra card when your observational
-   skill is an asset.
--  **Hawthorn blood:** you may draw an extra card when you cast a spell.
--  **Oaken blood:** you may draw an extra card when your stamina,
-   heartiness, or durability is an asset.
--  **Holly blood:** if someone would have leverage over because of their
-   superior rank, instead, they don't.
--  **Hazel blood:** you may draw an extra card when your knowledge,
-   intelligence, or reason is an asset.
--  **Yew blood:** you may draw an extra card when you face death as a
-   risk.
+family name, where they live, and a general sense of their wealth and
+status.
 
 Remember, England is not simply for and of the English. There are
 families from further abroad in this time and place. From the nearby
