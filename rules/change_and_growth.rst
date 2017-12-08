@@ -1,6 +1,8 @@
 Change and growth
 =================
 
+.. todo:: Review change and growth, see it if makes sense still.
+
 You may spend four passion tokens to change and deepen your relationship
 with someone by learning something new about them:
 
