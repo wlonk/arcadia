@@ -41,6 +41,7 @@ Et in Arcadia Ego
    rules/outcomes
    rules/magic
    rules/the_host
+   rules/arcadia
    rules/weather_and_seasons
    rules/money_and_lifestyle
    rules/change_and_growth
