@@ -85,8 +85,8 @@ supporting characters. A range of class among them is also very helpful.
 
 Choose two keys for your character. Keys are the facets of your
 character that exist outside and beyond the role that society expects
-them to fill. They also are how you generate passion tokens, which you
-will use to work magic. For options, see :ref:`Appendix: Keys`.
+them to fill. They also are how you generate passion tokens. For
+options, see :ref:`Appendix: Keys`.
 
 Your character starts with a spell. This spell was your introduction to
 the world of magic, and having worked it, you have drawn the fairy's

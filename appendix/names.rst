@@ -5,7 +5,8 @@ Appendix: Names
 There is a very particular character to English names. Many of these, of
 course, aren't actually English. I will leave it to the reader to learn
 what subtler gradations of class and geography are encoded in these and
-other names.
+other names. Good resources include Leslie Dunkling's *Guiness Book of
+Names*, and Shelley Keen's *Stufflebeem, Brockway & Sturt*.
 
 .. todo:: Make region-specific name lists?
 

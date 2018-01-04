@@ -5,6 +5,15 @@ Scenes and Sessions
 A game consists of a series of *scenes*, over a series of *sessions*. At
 the end of each, there are particular rules.
 
+During a scene: Passions
+------------------------
+
+If, during a scene, you get into trouble or difficulty because of one of
+your keys, take a passion token. If you subvert, reject, or resolve the
+key in the process, you can take two passion tokens, and mark it as
+"challenged".  You can't use it again until the end of the session, when
+you can rewrite or reset it.
+
 End of scene: Gossip
 --------------------
 
@@ -40,6 +49,19 @@ role token.
 .. todo:: Example:
 
    Add examples of Gossip.
+
+End of session: Introspection
+-----------------------------
+
+At the end of the session, go around and ask each player to set a very
+short scene of their character in an introspective moment: perhaps
+walking the moors, writing a journal or a letter to a confidant, saying
+their prayers before sleeping, or something else. This is a chance to
+show some of the character's inner life, and give the other players at
+the table some insight they can play towards next session.
+
+If you have challenged any key, you can reset it or rewrite it now. You
+also gain one passion token.
 
 End of session: Reshuffle the deck
 ----------------------------------

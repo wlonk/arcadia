@@ -16,6 +16,10 @@
   column-count: 2;
 }
 
+.two-column ul {
+  margin-top: 0;
+}
+
 .passions td:first-child {
   text-align: center;
 }
