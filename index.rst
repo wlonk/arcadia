@@ -11,7 +11,6 @@ Et in Arcadia Ego
 
 .. figure:: /_static/marlay_house.jpg
    :align: center
-   :width: 650px
    :alt: Marlay House, Dublin
 
 .. topic:: What am I looking for here?

@@ -22,7 +22,6 @@ Geography
 
 .. figure:: /_static/ppengmap.png
    :align: center
-   :width: 650px
    :alt: Jane Austen's England
    
    Image courtesy of `The Republic of Pemberley`_.
