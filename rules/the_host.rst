@@ -21,7 +21,7 @@ Playing as the Host
    |  *Caolte tossing his burning hair,*
    |  *And Niamh calling Away, come away.*
 
-   -- *The Hosting of the Sidhe*, W.M. Yeats
+   -- *The Hosting of the Sidhe*, W.B. Yeats
 
 As the Host, your role in the conversation is different from that of the
 other players. You are much more free, in many ways, but to balance that
