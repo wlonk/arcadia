@@ -10,12 +10,6 @@ Top priority:
    -  Maybe make that whole "becoming a magician" thing?
 
 3. Review social role relationships, make them pop more.
-4. Review outcomes, make them compellingly specific?
-
-   -  Make them orthogonal; they'll be recombined in lots of ways.
-   -  What do we do about proposals?
-   -  What do we do about family reputation?
-   -  Rename outcomes to risks? Maybe "hazards"?
 
 Fairies and stuff:
 
@@ -39,5 +33,8 @@ Fairies and stuff:
 -  Write more about fairy itself. Write a bit of setting, as it were.
 -  Remember that fairies *want* real things from mortals. The Leannán Sí
    for example needs that mortal lover.
+-  Tell the Host to write a sheet for the fairy: what its weakness is,
+   what its favorite and hated demeanours and looks are, what it needs
+   from the mortal realm
 
 .. todolist::

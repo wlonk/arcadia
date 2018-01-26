@@ -40,12 +40,12 @@ If the player has any conditions or wounds that apply, then certain
 suits will count as Aces *once they have been played*. There is a subtle
 interaction here: say you have the condition "befuddled" and all hearts
 count as aces. Say you have acted recklessly, and drawn five cards for
-three outcomes: K|hearts|, Q|spades|, 9|clubs|, 8|clubs|, 6|diamonds|.
-The King would count as an Ace when you play it, but it does not count
-as an Ace for the purposes of determining the lowest card in your hand,
-which you must play somewhere because you acted recklessly. So you must
-play the six, and then you may choose whichever two other cards you wish
-to play (but you probably don't want to play the King!)
+three outcomes: K |hearts|, Q |spades|, 9 |clubs|, 8 |clubs|, 6
+|diamonds|. The King would count as an Ace when you play it, but it does
+not count as an Ace for the purposes of determining the lowest card in
+your hand, which you must play somewhere because you acted recklessly.
+So you must play the six, and then you may choose whichever two other
+cards you wish to play (but you probably don't want to play the King!)
 
 If an outcome says "keep", the card you play on it is removed from the
 deck and kept separately until the end of the session.
@@ -68,102 +68,74 @@ Here are some things that can be uncertain.
    graveyard at midnight while the sexton and his rough-handed friends
    search for you.
 
-   -  Ace through seven: Failure.
-   -  Eight through King: Success.
+   -  With a face, you do it with distinction: someone present is
+      impressed.
+   -  With a 6 to 10, you do what you set out to do.
+   -  With an A to 5, you fail as badly as possible.
 
 .. admonition:: Entreaty of a supporting character
 
    When you may or may not convince a supporting character to act as you
-   wish, use this outcome. Examples of accepting "conditionally" include
-   demanding repayment, either now or as an uncertain future debt, or
-   requiring assurances or collateral.
-
-   If the character agrees, it is that simple. If they resist, use this
-   outcome.
+   wish, use this outcome. If the character agrees, it is that simple.
+   If they resist, use this outcome.
 
    You may only entreat a character to an action, not to a feeling. You
    may beg forgiveness, and entreat them to *say* they offer it, but
    their feelings are their own.
 
-   -  Ace through four: They refuse.
-   -  Five through nine: They will, conditionally.
-   -  Ten through King: They will.
+   -  With a face, they will do what you wish on the strength of your
+      word or friendship.
+   -  With a 6 to 10, they will do what you ask if you provide a
+      compelling reason, collateral, or assurance.
+   -  With an A to 5, they will reject your request.
 
 .. admonition:: Entreaty of a main character
 
    When you attempt to convince another main character to act as you
    wish, *the choice is always theirs*, but you may exert some social
-   pressure.  Use this outcome to do so.
-
-   If the character agrees, it is that simple. If they resist, use this
-   outcome.
+   pressure. Use this outcome to do so. If the character agrees, it is
+   that simple. If they resist, use this outcome.
 
    You may only entreat a character to an action, not to a feeling. You
    may beg forgiveness, and entreat them to *say* they offer it, but
    their feelings are their own.
 
-   -  Ace through four: Their choice.
-   -  Five through nine: Their choice, but if they don't, mark a
-      reputation of theirs.
-   -  Ten through King: Their choice, but if they don't, mark a
-      reputation of theirs. If they do, they get a role token.
+   -  With a face, if they do what you ask, they gain a role token. If
+      they refuse, you may mark a reputation of theirs.
+   -  With a 6 to 10, choose one: the gain a role token if they do it,
+      you mark a reptuation of theirs if they do not.
+   -  With an A to 5, you have no particular leverage.
 
 .. admonition:: Bodily harm
 
    When you may suffer wounds or illness, use this outcome. See
    :ref:`Harm and Healing` for more on wounds and impairment.
 
-   -  Ace or two: You are mortally wounded.
-   -  Three or four: You are gravely wounded.
-   -  Five through nine: You are injured.
-   -  Ten through King: You are fine.
+   -  With a face, you avoid injury.
+   -  With a 6 to 10, you suffer a lesser form of the injury at hand.
+   -  With an A to 5, you suffer the full form of the injury at hand.
 
 .. admonition:: Social risk
 
-   When you may make a good or a bad impression, or acquit themselves
-   with grace or with shame, use this outcome.
+   When you may make a good or a bad impression, or acquit yourself with
+   grace or with shame, use this outcome.
 
-   -  Ace through four: You embarrass yourself. Mark a reputation.
-   -  Five through nine: You pass.
-   -  Ten through King: You shine. Clear one mark on a reputation with
-      fewer than four marks if you wish.
+   -  With a face, you may erase a mark from one of your reputations, if
+      it has fewer than four marks already.
+   -  With a 6 to 10, you don't mark a reputation.
+   -  With an A to 5, you will at least mark a reputation, and the Host
+      may describe worse outcomes.
 
 .. admonition:: Emotional risk
 
    When a situation may result in emotional stress, use this outcome.
    See :ref:`Harm and Healing` for more on conditions.
 
-   -  Ace through seven: You are worse for wear. Mark a condition.
-   -  Eight through King: You hold it together.
-
-.. admonition:: The power of the fairy grows
-
-   When the game begins, the fairy is still working to brings its full
-   powers to bear on the mortal world.
-
-   At that point, when you work magic, use this outcome. The Host will
-   keep track of the fairy's growth in power. When it has accumulated
-   enough marks, it will have brought its full power into this world.
-
-   -  Ace through four: It grows; give the fairy two marks.
-   -  Five through nine: It grows; give the fairy one mark.
-   -  Ten through King: The fairy is stymied for now.
-
-.. admonition:: The fairy is present
-
-   Once the fairy has accumulated enough marks and fully come into the
-   mortal world, it is free to take people into its power. These people
-   may be dead, or stolen away to an Arcadian realm, or simply rendered
-   into amusements for the fairy.
-
-   If the fairy is fully in this world, and you work magic, use this
-   outcome. The fairy feels the stirrings of magical power and is drawn
-   to them.
-
-   -  Ace or two: The fairy takes you into its power.
-   -  Three or four: The fairy takes especial interest in you.
-   -  Five through nine: The fairy is pleased to interfere with you.
-   -  Ten through King: You escape the fairy's interest.
+   -  With a face, you keep your cool.
+   -  With a 6 to 10, choose: mark a condition, or make an unseemly
+      outburst.
+   -  With an A to 5, you will at least mark a condition, and the Host
+      may describe worse outcomes.
 
 .. admonition:: Effect of a spell (keep card)
 
@@ -171,19 +143,77 @@ Here are some things that can be uncertain.
    quicker, more reliable, more difficult to resist, or otherwise, as
    appropriate.
 
-   -  Ace through four: Sound a fury, signifying nothing.
-   -  Five through nine: A weak effect.
-   -  Ten through King: A strong effect.
+   -  With a face, the spell is strong and controlled.
+   -  With a 6 to 10, the spell is strong or controlled, your choice.
+   -  With an A to 5, the Host will tell you how it goes wrong.
 
 .. admonition:: Magical discovery
 
    When you may learn mystical secrets, use this outcome.
 
-   -  Ace or two: You learn something you shouldn't have. The fairy
-      gains a strand on you.
-   -  Three or four: Nothing of note.
-   -  Five through nine: Gain one secret towards learning a new spell.
-   -  Ten through King: Gain two secrets towards learning a new spell.
+   -  With a face, mark a secret.
+   -  With a 6 to 10, you are stymied.
+   -  With an A to 5, mark a secret, and the fairy gains a strand on
+      you.
+
+.. admonition:: Rumours
+
+   When you ...
+
+   -  With a face, no rumours will take hold.
+   -  With a 6 to 10, many will not believe the rumours.
+   -  With an A to 5, the rumours that spread are all too plausible.
+
+.. admonition:: Gambling
+
+   When you ...
+
+   -  With a face, you win as much as you might reasonably win.
+   -  With a 6 to 10, you lose only a small amount.
+   -  With an A to 5, you lose more than you hoped you might.
+
+.. admonition:: Insight
+
+   When you ...
+
+   -  With a face, ask two questions from the list below.
+   -  With a 6 to 10, ask one question from the list below.
+   -  With an A to 5, you reveal more of yourself than you read of
+      someone else.
+
+   Questions:
+
+   -  are you speaking the truth?
+   -  what do you wish I would do?
+   -  what do you intend to do?
+   -  how do you feel about this?
+   -  how could I get you to...?
+
+.. admonition:: Secret Communication
+
+   When you ...
+
+   -  With a face, you communicate clearly and secretly.
+   -  With a 6 to 10, choose: something crucial is misunderstood (their
+      choice); someone else picks up on the message; it is clear that
+      you are communicating secretly.
+   -  With an A to 5, the worst comes to pass.
+
+.. admonition:: Capture
+
+   When you ...
+
+   -  With a face, you make headway: the fairy loses a strand on you.
+   -  With a 6 to 10, you resist the fairy for now.
+   -  With an A to 5, you are captured and may *disappear*.
+
+.. admonition:: Disappear
+
+   When you ...
+
+   -  With a face, you hold on to your hopes, memories, and loves.
+   -  With a 6 to 10, you lose something to Arcadia: a memory, a hope, a love.
+   -  With an A to 5, you are lost forever to the fairy's realm.
 
 Custom outcomes
 ---------------
@@ -195,25 +225,8 @@ Similarly, you could make an outcome for financial risk: from ruin to
 hitting the jackpot. Or perhaps you wish to communicate secretly:
 outcomes may include being misunderstood, or overheard.
 
-There are a few different scales:
-
--  Binary:
-
-   -  Ace through seven: Bad
-   -  Eight through King: Good
-
--  Ternary:
-
-   -  Ace through four: Bad
-   -  Five through nine: Compromised
-   -  Ten through King: Good
-
--  Quaternary:
-
-   -  Ace or two: Disastrous
-   -  Three or four: Bad
-   -  Five through nine: Compromised
-   -  Ten through King: Good
+Generally an outcome is like this: A to 5, the worst possible result. 6
+to 10, middling, compromised, or contingent. Face, best possible.
 
 You can adjust the scale of actions as needed; sometimes zoom in or out.
 One test can cover an evening with a suitor, or a moment with them on
@@ -253,43 +266,6 @@ might impede you, each one makes a different suit count as aces:
 -  Embarrassed: Diamonds
 
 These will go away with time and comfort.
-
-Peripheral Outcomes
--------------------
-
-There are certain outcomes that are common enough to include here, but
-are still a bit specialized.
-
-.. todo:: Fill out peripheral outcomes.
-
-.. admonition:: Rumours
-
-   Todo
-
-.. admonition:: Dancing
-
-   Todo
-
-.. admonition:: Gambling
-
-   Todo
-
-.. admonition:: Read a person
-
-   Todo
-
-.. admonition:: Communicate secretly
-
-   Todo
-
-.. admonition:: Promises
-
-   Todo
-
-.. todo::
-
-   Design outcome sheets with a spot to put the card in. Probably
-   half-page size.
 
 .. todo::
 
