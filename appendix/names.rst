@@ -8,8 +8,6 @@ what subtler gradations of class and geography are encoded in these and
 other names. Good resources include Leslie Dunkling's *Guiness Book of
 Names*, and Shelley Keen's *Stufflebeem, Brockway & Sturt*.
 
-.. todo:: Make region-specific name lists?
-
 Masculine names may include:
 
 .. container:: two-column

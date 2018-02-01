@@ -27,11 +27,6 @@ By the time you finish, each character will have:
 -  Space for five marks
 -  Two starting passion tokens
 
-.. todo::
-
-   Make social role sheets with space for keys, drive, spells, and
-   marks.
-
 There are two ways to choose your social role: the hardcore way, and the
 easy way. The difference is this: your choice of social role is
 constrained in the easy way, and you have *no* choice in the hardcore

@@ -4,12 +4,11 @@ To do
 
 Top priority:
 
-1. Make Host reference sheet to track threats and fairy.
-2. Finish the spell list.
+1. Finish the spell list.
 
    -  Maybe make that whole "becoming a magician" thing?
 
-3. Review social role relationships, make them pop more.
+2. Review social role relationships, make them pop more.
 
 Fairies and stuff:
 

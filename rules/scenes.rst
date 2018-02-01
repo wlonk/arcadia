@@ -46,9 +46,7 @@ role token.
    secret eventually finds its way out. Even then, a town where everyone
    knows a secret but everyone is sworn to keep it is not uncommon!
 
-.. todo:: Example:
-
-   Add examples of Gossip.
+.. todo:: Add examples of Gossip.
 
 End of session: Introspection
 -----------------------------

@@ -43,7 +43,6 @@ Et in Arcadia Ego
    rules/arcadia
    rules/weather_and_seasons
    rules/money_and_lifestyle
-   rules/change_and_growth
    appendix/names
    appendix/social_roles
    appendix/keys

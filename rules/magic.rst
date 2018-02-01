@@ -107,7 +107,3 @@ Fairy magic, of course, is different.
 .. todo:: Example:
 
    Add example of magic use.
-
-.. todo::
-
-   Can you spend a passion token for a quick cantrip effect?
