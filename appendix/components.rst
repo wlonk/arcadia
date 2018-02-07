@@ -1,6 +1,6 @@
-==========
-Components
-==========
+====================
+Appendix: Components
+====================
 
 .. admonition:: Bells
 
