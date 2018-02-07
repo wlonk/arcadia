@@ -53,7 +53,7 @@ Under all circumstances and at all times, the Host and the other players
 must not be *coy* about magic. If a character finds themselves
 mystically entrapped in their house, make it clear: "You feel a dread
 certainty that escape by any normal means is impossible," not "Well, you
-can't open the door."
+can't open the door." Always say what honesty demands.
 
 Corruption
 ----------

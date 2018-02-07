@@ -63,6 +63,10 @@ corresponds to one social role.
 
 See :ref:`Appendix: Social Roles` for details.
 
+.. todo::
+
+   Break the character creation into clearly marked steps.
+
 Once you have a social role, choose your family, your name, and answer
 the relationship questions on your social role.
 
@@ -96,6 +100,8 @@ a prophetic vision.
 **Be sure to ask and answer this for each character:** why might they
 need magic? Why might a fairy take an interest in them? And how did they
 learn the spell they *do* know?
+
+.. todo:: Do hopes still matter? If so, how?
 
 And this brings us to the capstone of a character: their hope. Each
 character wants something, something human and foundational. It is up to
@@ -135,6 +141,10 @@ worst thing that could come of that hope, the way it could fail or twist
 into something horrible. That is your grim fate, and if you do nothing,
 it will come to pass. You may be able to avert or change it, but at the
 outset of the story, it is visible on the horizon, bearing down on you.
+
+.. todo::
+
+   How do roots and stars figure?
 
 .. index:: ! passion tokens, ! role tokens
 

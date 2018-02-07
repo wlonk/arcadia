@@ -24,6 +24,20 @@ contrariwise, if they have sat patiently and spoken cautiously, the
 table can ask how that could be reckless, and it is up to the player to
 adjust or explain.
 
+.. sidebar:: Conditions and Wounds
+
+   If the player has any conditions or wounds that apply, then certain
+   suits will count as Aces *once they have been played*. There is a
+   subtle interaction here: say you have the condition "befuddled" and
+   all hearts count as aces. Say you have acted recklessly, and drawn
+   five cards for three outcomes: K |hearts|, Q |spades|, 9 |clubs|, 8
+   |clubs|, 6 |diamonds|. The King would count as an Ace when you play
+   it, but it does not count as an Ace for the purposes of determining
+   the lowest card in your hand, which you must play somewhere because
+   you acted recklessly. So you must play the six, and then you may
+   choose whichever two other cards you wish to play (but you probably
+   don't want to play the King!)
+
 Then, the player draws, but does not look at, one card per outcome. They
 may choose to spend tokens to draw additional cards: role tokens if they
 are acting politely, and passion tokens if they are acting recklessly.
@@ -35,17 +49,6 @@ They then look at the cards they have drawn, and assign them to
 outcomes. Any excess cards they can discard. If they have acted
 recklessly, they *must* play the lowest-valued card in their hand on to
 one outcome.
-
-If the player has any conditions or wounds that apply, then certain
-suits will count as Aces *once they have been played*. There is a subtle
-interaction here: say you have the condition "befuddled" and all hearts
-count as aces. Say you have acted recklessly, and drawn five cards for
-three outcomes: K |hearts|, Q |spades|, 9 |clubs|, 8 |clubs|, 6
-|diamonds|. The King would count as an Ace when you play it, but it does
-not count as an Ace for the purposes of determining the lowest card in
-your hand, which you must play somewhere because you acted recklessly.
-So you must play the six, and then you may choose whichever two other
-cards you wish to play (but you probably don't want to play the King!)
 
 If an outcome says "keep", the card you play on it is removed from the
 deck and kept separately until the end of the session.
@@ -277,3 +280,7 @@ These will go away with time and comfort.
 
    Otherwise, as it stands now, there's no good way to say "That's
    socially *ruinous*" vs "That's socially risky".
+
+.. todo::
+
+   How do stars and roots pertain?

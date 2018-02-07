@@ -2,6 +2,8 @@
 Scenes and Sessions
 ===================
 
+.. todo:: Move this after outcomes?
+
 A game consists of a series of *scenes*, over a series of *sessions*. At
 the end of each, there are particular rules.
 

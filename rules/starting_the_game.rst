@@ -4,6 +4,10 @@ Starting the game
 
 .. index:: town, families, characters
 
+.. todo::
+
+   Adapt this for premade town playsets?
+
 There are three things you need to start: a town, families, and
 characters. Create them in that order, with everyone working together.
 
