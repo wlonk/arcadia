@@ -46,6 +46,7 @@ Et in Arcadia Ego
    appendix/names
    appendix/social_roles
    appendix/keys
+   appendix/components
    appendix/spells
    appendix/fairies
    misc/todo

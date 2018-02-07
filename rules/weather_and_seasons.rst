@@ -83,12 +83,12 @@ fertility and light. May Day is also Lá Bealtaine, the feast of the
 warding bonfires. Midsummer itself remains largely unchanged since
 ancient days. Lammas is Lúnasa, a feast to Lú Ildánach, the many-skilled
 warrior god. Michaelmas is the bounteous harvest festival at the autumn
-equinox with no name. All Hallow's is Samhain (pronounced like "sound"
-without the "d"), when the souls of the dead, and the fairies, could
-pass into this world without trouble. Christmas is Yule, a holy period
-celebrated with mead, ale, poetry, and light. Finally, Candlemas is
-Imbolg, the feast of the goddess Bríg, the poet, healer, and smith, and
-a night of powerful prophesy.
+equinox with no name. All Hallow's is Samhain (pronounced much like
+"sound" without the "d"), when the souls of the dead, and the fairies,
+could pass into this world without trouble. Christmas is Yule, a holy
+period celebrated with mead, ale, poetry, and light. Finally, Candlemas
+is Imbolg, the feast of the goddess Bríg, the poet, healer, and smith,
+and a night of powerful prophesy.
 
 On any given day in the game, if you are unsure what the weather should
 be, draw a card. The lower the value, the colder (within the bounds of
