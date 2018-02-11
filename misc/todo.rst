@@ -4,11 +4,13 @@ To do
 
 Top priority:
 
-1. Finish the spell list.
+1. Stars and roots.
+2. Magical marks (and non-component magical outcomes)
+3. Finish the spell list.
 
    -  Maybe make that whole "becoming a magician" thing?
 
-2. Review social role relationships, make them pop more.
+4. Review social role relationships, make them pop more.
 
 Fairies and stuff:
 
