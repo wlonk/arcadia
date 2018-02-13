@@ -4,13 +4,18 @@ To do
 
 Top priority:
 
-1. Stars and roots.
+1. Stars and roots. Maybe they're just starting spells? But I want them
+   to be recurring touchstones. Maybe they're how a fairy likes you,
+   too?
 2. Magical marks (and non-component magical outcomes)
 3. Finish the spell list.
 
    -  Maybe make that whole "becoming a magician" thing?
 
 4. Review social role relationships, make them pop more.
+5. Consider changing tokens: passion for extra cards (1:1) and social
+   for bumping outcomes (1-point-per).
+6. Consider making conditions less harsh?
 
 Fairies and stuff:
 
