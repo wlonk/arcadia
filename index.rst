@@ -13,40 +13,24 @@ Et in Arcadia Ego
    :align: center
    :alt: Marlay House, Dublin
 
-.. topic:: What am I looking for here?
-
-   I've got two main questions for readers.
-
-   The big one is this: what's unclear and what's missing? I have the
-   distinct feeling that there are things that have not made it from my
-   head to the page, and if you feel like there's a beat missing, or an
-   idea insufficiently explained, please tell me.
-
-   Second: does this excite you? Would you want to play a couple games
-   in this world, can you imagine characters whose situations and
-   development would keep you interested?
-
-   Thanks!
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   intro/what_is_this
-   intro/this_other_regency
-   rules/starting_the_game
-   rules/making_characters
-   rules/scenes
-   rules/outcomes
-   rules/magic
+   rules/introduction
+   rules/making_characters_and_town
    rules/the_host
-   rules/arcadia
-   rules/weather_and_seasons
-   rules/money_and_lifestyle
-   appendix/names
-   appendix/social_roles
-   appendix/keys
-   appendix/components
-   appendix/spells
-   appendix/fairies
-   misc/todo
+   rules/starting_the_game
+   rules/moments_of_uncertainty
+   rules/spells
+   rules/gossip
+   rules/recovery_growth_and_change
+
+   appendices/towns
+   appendices/social_roles
+   appendices/spells
+   appendices/fairies_and_goblins
+   appendices/outcomes
+
+   reference_materials
+   afterword

@@ -4,3 +4,5 @@
 .*.swp
 _build
 doctrees
+.DS_Store
+.oldthings/
