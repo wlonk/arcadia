@@ -26,6 +26,7 @@ Et in Arcadia Ego
    rules/gossip
    rules/recovery_growth_and_change
 
+   appendices/geography_and_culture
    appendices/towns
    appendices/social_roles
    appendices/spells
@@ -34,3 +35,19 @@ Et in Arcadia Ego
 
    reference_materials
    afterword
+
+To do
+-----
+
+Fill out:
+
+ * The Host
+ * Spells
+ * Appendices
+ * A couple examples
+
+Edit pass:
+
+ * Outcomes
+
+.. todolist::
