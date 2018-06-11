@@ -42,16 +42,23 @@ To do
 Fill out:
 
  * The Host
- * Spells
  * Appendices
  * A couple examples
 
 Edit pass:
 
  * Outcomes
+ * Magical tools
 
 Relayout:
 
- * Outcomes
+ * Outcomes.pdf
+ * Spellcasting.pdf
+ * Pitch.pdf
+
+Fix Indesign file structure:
+
+ * Social Roles.pdf
+ * Town - \*.pdf
 
 .. todolist::
