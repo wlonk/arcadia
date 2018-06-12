@@ -39,6 +39,8 @@ Comfort someone
 
 Use this when you have a meaningful heart-to-heart with someone.
 
+.. todo:: How does "comfort someone" work for a supporting character?
+
 *Face*: If they accept your comfort, they may clear a passion. You may
 also clear a passion.
 
@@ -119,6 +121,8 @@ Tempt someone
 Use this when you wish to convince another main character to do
 something.
 
+.. todo:: How does "tempt someone" work for a supporting character?
+
 *Face*: If they do what you want, they gain a token. If they don't, they
 mark a reputation.
 
@@ -138,8 +142,16 @@ Use this when you may discover something meaningful about magic.
 
 *A-5*: The fairy marks a strand on you.
 
-TODO reward 1
+Make a splash
 ~~~~~~~~~~~~~
+
+...
+
+*Face*: ...
+
+*6-10*: ...
+
+*A-5*: ...
 
 TODO reward 2
 ~~~~~~~~~~~~~
