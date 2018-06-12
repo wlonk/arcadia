@@ -151,9 +151,9 @@ Use this when you could be hurt.
 
 *Face*: No wounds.
 
-*6-10*: Take a flesh wound.
+*6-10*: Mark a slight wound or worse.
 
-*A-5*: Mark a wound.
+*A-5*: Mark a grave wound or worse.
 
 A grievous wound
 ~~~~~~~~~~~~~~~~
@@ -162,9 +162,9 @@ Use this when you could be mortally wounded.
 
 *Face*: No wounds.
 
-*6-10*: Mark one wound.
+*6-10*: Mark a grave wound or worse.
 
-*A-5*: Mark two wounds.
+*A-5*: Mark a mortal wound.
 
 Being upset
 ~~~~~~~~~~~
