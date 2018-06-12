@@ -41,7 +41,6 @@ To do
 
 Fill out:
 
- * The Host
  * Appendices
  * A couple examples
 
