@@ -51,7 +51,7 @@ Choose at least one weakness:
 
 Choose at least one tell:
 
- - Golden eyes and a wicket smile.
+ - Golden eyes and a wicked smile.
  - A cow's tail.
  - A scabrous hide and bulging muscles.
  - ...
