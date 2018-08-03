@@ -2,3 +2,257 @@
 Appendix: Outcomes
 ==================
 
+Cast aspersions
+===============
+
+Use this when you wish to make someone look bad in the eyes of society.
+
+ - Face: They mark a reputation and lose a token if a main character,
+   they suffer a blow to their reputation if a supporting character.
+ - 6-10: They mark a reputation if a main character, they are put off
+   balance if a supporting character.
+ - A-5: No effect.
+
+Gain insight
+============
+
+Use this when you observe someone closely.
+
+ - Face: Ask two questions from the list.
+ - 6-10: Ask one question from the list.
+ - A-5: No effect.
+
+Insight Questions
+-----------------
+
+These are the questions you may ask with the Insight outcome.
+
+ - are you speaking the truth?
+ - what do you wish I would do?
+ - what do you intend to do?
+ - how do you feel about this?
+ - how could I get you to...?
+
+Strike someone down
+===================
+
+Use this when you may do bodily harm to someone.
+
+ - Face: You wound them grievously.
+ - 6-10: You wound them.
+ - A-5: You do not wound them.
+
+Comfort someone
+===============
+
+Use this when you have a meaningful heart-to-heart with someone.
+
+ - Face: If they accept your comfort, they may clear a condition. You
+   may also clear a condition.
+ - 6-10: If they accept your comfort, you may clear a condition.
+ - A-5: No effect.
+
+Gamble well
+===========
+
+Use this when you hope to make money on a game of chance.
+
+ - Face: You win a lot.
+ - 6-10: You break even.
+ - A-5: You lose more than you intended.
+
+Tempt someone
+=============
+
+Use this when you wish to convince another main character to do
+something.
+
+ - Face: If they do what you want, they gain a token. If they don't,
+   they mark a reputation.
+ - 6-10: Choose one: If they do what you want, they gain a token. If
+   they don't, they mark a reputation.
+ - A-5: No leverage
+
+Defend someone
+==============
+
+Use this when you try to stop someone harming or maligning another.
+
+ - Face: You turn the attack on the attacker.
+ - 6-10: You deflect the attack.
+ - A-5: No effect.
+
+Speak secretly
+==============
+
+Use this when you wish to hide the details or fact of your
+communication.
+
+ - Face: You communicate what you intend to who you intend.
+ - 6-10: You communicate what you intend, but someone else picks up on
+   it.
+ - A-5: No effect.
+
+Uncover magical secrets
+=======================
+
+Use this when you may discover something meaningful about magic.
+
+ - Face: Mark a Secret.
+ - 6-10: Mark a Secret, and the fairy marks you.
+ - A-5: The fairy marks a strand on you.
+
+A grievous wound
+================
+
+Use this when you could be mortally wounded.
+
+ - Face: No wounds
+ - 6-10: Mark one wound
+ - A-5: Mark two wounds
+
+Capture by a fairy
+==================
+
+Use this when you could fall deeper into a fairy's power.
+
+ - Face: No strands
+ - 6-10: The fairy gains a strand on you
+ - A-5: In the fairy's thrall
+
+Starting a rumour
+=================
+
+Use this when you could have your actions misinterpreted.
+
+ - Face: No rumours
+ - 6-10: A muddled rumour
+ - A-5: A terrible rumour
+
+Being shaken
+============
+
+Use this when you could be upset.
+
+ - Face: No conditions
+ - 6-10: Mark a condition for the scene
+ - A-5: Mark a condition
+
+Embarrassing yourself
+=====================
+
+Use this when you could step truly outside the bounds of propriety.
+
+ - Face: No reputations
+ - 6-10: Mark a reputation
+ - A-5: Mark two reputations
+
+Su ering injury
+===============
+
+Use this when you could be hurt.
+
+ - Face: No wounds
+ - 6-10: Take a flesh wound
+ - A-5: Mark a wound
+
+Being rocked
+============
+
+Use this when you could be deeply distressed.
+
+ - Face: No conditions
+ - 6-10: Mark a condition
+ - A-5: Mark two conditions
+
+Making a misstep
+================
+
+Use this when you could behave better.
+
+ - Face: No reputations
+ - 6-10: Lose a token.
+ - A-5: Mark a reputation
+
+Magical corruption
+==================
+
+Use this when you could harm your soul with magic.
+
+ - Face: No mark
+ - 6-10: Take a mark for the scene
+ - A-5: Take a permanent mark
+
+Letting slip a secret
+=====================
+
+Use this when you could reveal something you shouldn't.
+
+ - Face: You keep it in
+ - 6-10: You drop a heavy hint
+ - A-5: You make it clear
+
+Dishonouring your family
+========================
+
+Use this when you could put your whole family at risk.
+
+ - Face: You uphold your family honour
+ - 6-10: Your behavior is considered questionable
+ - A-5: Your behavior is considered reprehensible
+
+Death magic
+===========
+
+If your spell deals with death, spirits, grief, use this.
+
+ - Face: ??
+ - 6-10: ??
+ - A-5: ??
+
+Transgressive magic
+===================
+
+If your spell deals with sexuality, blurring class boundaries,
+sacrifice, use this.
+
+ - Face: ??
+ - 6-10: ??
+ - A-5: ??
+
+Treacherous magic
+=================
+
+If your spell deals with lies, betrayal, deceit, use this.
+
+ - Face: ??
+ - 6-10: ??
+ - A-5: ??
+
+Ancient magic
+=============
+
+If your spell deals with fairy-things, eternal truths, royal rights, use
+this.
+
+ - Face: ??
+ - 6-10: ??
+ - A-5: ??
+
+Harsh magic
+===========
+
+If your spell deals with violence, ruthlessness, privation, use this.
+
+ - Face: ??
+ - 6-10: ??
+ - A-5: ??
+
+Feral magic
+===========
+
+If your spell deals with beasts, ferocity, wildness, use this.
+
+ - Face: ??
+ - 6-10: ??
+ - A-5: ??
