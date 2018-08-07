@@ -123,6 +123,14 @@ will help you remember how to portray that character, as while playing
 you'll be asked to switch context very often, and no one wants all the
 supporting characters blending into each other.
 
+It may seem counter-intuitive, but don't try to make their character
+deeper than a note or two for now. Only once the players express
+interest in a character and get to know them more should you make them
+deeper and more complex. At the best, you would have wasted effort on a
+character who never shows up in more than a bit part, and at the worst,
+you'd make a character who's strikingly inappropriate for where the game
+ends up going.
+
 Motivations
 ~~~~~~~~~~~
 
