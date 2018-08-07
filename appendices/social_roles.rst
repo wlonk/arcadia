@@ -409,8 +409,8 @@ more what people would expect from you.
 Marriage is a powerful state for a lady, but perhaps magic, carefully
 guarded and practiced, can put you in an even better position.
 
-Invalid (|female| or |male|)
-----------------------------
+Invalid (|either|)
+------------------
 
 You start with 2 role tokens.
 
@@ -461,8 +461,8 @@ Some of the greatest magicians of the golden age were invalids, but they
 never seemed to heal themselves with magic. No one knows why, and the
 able-bodied tend not to even wonder.
 
-Upper servant (|female| or |male|)
-----------------------------------
+Upper servant (|either|)
+------------------------
 
 You start with 2 role tokens.
 
@@ -513,8 +513,8 @@ Many of the greatest magicians' upper servants were, in fact, fairies.
 Lord Ramsay in the 14th c. kept a fairy seneschal, who knew how to greet
 and serve fairy guests. Could you do as well?
 
-Lower servant (|female| or |male|)
-----------------------------------
+Lower servant (|either|)
+------------------------
 
 You start with 1 role token.
 
@@ -566,8 +566,8 @@ The old stories say that fairies always seem to take a shine to the
 lower servants. They often feel a sympathy for those who are good and
 clever and must work for a master.
 
-Vagabond (|female| or |male|)
------------------------------
+Vagabond (|either|)
+-------------------
 
 You start with 1 role token.
 
