@@ -2,7 +2,7 @@ Appendix: Social roles
 ======================
 
 Gentleman (|male|)
-==================
+------------------
 
 You start with 3 role tokens.
 
@@ -52,7 +52,7 @@ look. What makes you a little bit of a misfit? That is, why did magic
 find you?
 
 Officer (|male|)
-================
+----------------
 
 You start with 2 role tokens.
 
@@ -105,7 +105,7 @@ An officer-magician would be expected to never use magic to kill; the
 only honourable thing would be to use it for logistics.
 
 Clergyman (|male|)
-==================
+------------------
 
 You start with 2 role tokens.
 
@@ -153,7 +153,7 @@ the Church, and magicians. Now those lines are old and muddy, but it
 can't be appropriate for a man of the cloth to also be a magician.
 
 Dandy (|male|)
-==============
+--------------
 
 You start with 2 role tokens.
 
@@ -205,7 +205,7 @@ Living as you do, every edge is valuable. And magic is the ultimate
 edge. But how can you not be seen to cheat by it?
 
 Lady (|female|)
-===============
+---------------
 
 You start with 3 role tokens.
 
@@ -255,7 +255,7 @@ the court. Perhaps it might be appropriate again? Or perhaps you dream
 bigger.
 
 Companion (|female|)
-====================
+--------------------
 
 You start with 2 role tokens.
 
@@ -308,7 +308,7 @@ suddenly, they are opening up. What dream deferred might magic enable
 for you?
 
 Ward (|female|)
-===============
+---------------
 
 You start with 2 role tokens.
 
@@ -361,7 +361,7 @@ Magic is a way out, but you know what happened to "uppity" young women
 who too clearly showed their magic. You'll have to be careful.
 
 Spinster (|female|)
-===================
+-------------------
 
 You start with 2 role tokens.
 
@@ -410,7 +410,7 @@ Marriage is a powerful state for a lady, but perhaps magic, carefully
 guarded and practiced, can put you in an even better position.
 
 Invalid (|female| or |male|)
-============================
+----------------------------
 
 You start with 2 role tokens.
 
@@ -462,7 +462,7 @@ never seemed to heal themselves with magic. No one knows why, and the
 able-bodied tend not to even wonder.
 
 Upper servant (|female| or |male|)
-==================================
+----------------------------------
 
 You start with 2 role tokens.
 
@@ -514,7 +514,7 @@ Lord Ramsay in the 14th c. kept a fairy seneschal, who knew how to greet
 and serve fairy guests. Could you do as well?
 
 Lower servant (|female| or |male|)
-==================================
+----------------------------------
 
 You start with 1 role token.
 
@@ -567,7 +567,7 @@ lower servants. They often feel a sympathy for those who are good and
 clever and must work for a master.
 
 Vagabond (|female| or |male|)
-=============================
+-----------------------------
 
 You start with 1 role token.
 
