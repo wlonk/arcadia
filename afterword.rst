@@ -10,6 +10,8 @@ without the following games:
  * *Masks: a New Generation*, by Brendan Conway
  * *Monsterhearts*, by Avery Alder
 
+Thanks also to Zoe Bloom for "how to spot a scene end".
+
 I also owe not just the authors and designers above, but a number of
 people in my life who have listened to me talk about, fret about, and
 dream about this game for far too long, and have provided a lot of
