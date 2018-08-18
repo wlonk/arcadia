@@ -73,4 +73,18 @@ have also earned a new one, and a new way to earn role tokens.
 How to write a new reputation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. todo:: How to write a new reputation.
+Writing a new reputation is a chance to change the role society has for
+you, and thus what society can accept. However, society does not change
+rapidly and readily. When writing a new reputation, the player and the
+Host should collaborate, in good faith as always, to write one that will
+still present an interesting and difficult set of trade-offs for the
+character.
+
+Over the course of play, the characters' actions and the changes those
+actions work on society may loosen this, but at the outset, Regency
+England is a classist and sexist society, among other things. Any
+reputation for a woman or a lower-class person will expect them to put
+their own goals aside for those around them with more power and
+privilege. Upending this in one go with a new reputation is usually much
+less satisfying than gradually breaking down barriers and rewriting your
+role in the world.

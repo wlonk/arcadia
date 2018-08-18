@@ -43,4 +43,13 @@ be recovered and changed. See :ref:`Recovery, Growth, and Change`.
 How to spot a scene end
 -----------------------
 
-.. todo:: How to spot a scene end.
+As the Host, you should in particular keep an eye out for the end of a
+scene, and remind people to call for Gossip.
+
+Knowing where to cut a scene is a lifelong practice, but there are a few
+things to watch for:
+
+ * A revelation.
+ * A changed relationship.
+ * A decisive assertion of power.
+ * A decisive upset.

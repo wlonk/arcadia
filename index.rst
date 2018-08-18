@@ -36,18 +36,21 @@ Et in Arcadia Ego
    reference_materials
    afterword
 
+Thanks and influences
+---------------------
+
+Thanks to Zoe Bloom for "how to spot a scene end".
+
+Thanks to Meg Baker for *Psi*Run* and all the inspiration that gave.
+
 To do
 -----
-
-Fill out:
-
- * Appendices
- * A couple examples
 
 Edit pass:
 
  * Outcomes
  * Magical tools
+ * Appendices
 
 Relayout:
 
