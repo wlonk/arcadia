@@ -233,7 +233,7 @@ Clarity and Glamour, and hope to learn Affray some later day. She
 learned her spells through her father's ghost visiting her in dreams.
 
 Bridget chooses "I hope for glory and recognition for recovering Mr.
-Wycliff's work, and restoring English magic again." Though he never new
+Wycliff's work, and restoring English magic again." Though he never knew
 Wycliff, he has absconded from Oxford with some of the man's ciphered
 journals, and hopes to use his skill with languages to unlock them. His
 root is Rowan, his star is Jupiter. He has learned magic from the few
