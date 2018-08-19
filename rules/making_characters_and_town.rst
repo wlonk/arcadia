@@ -123,7 +123,7 @@ you learn your spells?
 Now, you should be ready to play.
 
 An example
-==========
+----------
 
 Angelo, Bridget, Carl, and Dianne are playing, with Harper as the Host.
 They have decided that the attempt to revive English magic came from an
