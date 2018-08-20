@@ -71,6 +71,8 @@ are struck by inspiration, then edit, change, reassign.
 Premade towns
 =============
 
+.. todo:: Include premade towns.
+
 Little Norlea (Southeast)
 -------------------------
 

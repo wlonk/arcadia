@@ -39,21 +39,23 @@ Et in Arcadia Ego
 To do
 -----
 
-Edit pass:
-
- * Outcomes
- * Magical tools
- * Appendices
-
 Relayout:
 
  * Outcomes.pdf
  * Spellcasting.pdf
  * Pitch.pdf
 
-Fix Indesign file structure:
+Fix InDesign file structure:
 
  * Social Roles.pdf
  * Town - \*.pdf
+
+Make good PDF output.
+
+Index document.
+
+Get external editor.
+
+Get art.
 
 .. todolist::

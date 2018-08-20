@@ -18,6 +18,8 @@ late in the game, or when a magician summons one.
 Goblins
 =======
 
+.. todo:: Finish goblins.
+
 When you make a goblin, you must choose its hunger, powers, weaknesses,
 and tells.
 
@@ -59,6 +61,14 @@ Choose at least one tell:
 Fairies
 =======
 
+.. todo:: Edit fairies.
+
+.. todo::
+
+   Detail the magical powers of each fairy. What can they do without
+   thinking, what can they do with great effort?
+
+
 These are the rulers of Arcadia, the nobles and dominions of that other
 land.
 
@@ -69,11 +79,6 @@ norms, the fairy is your chance to say what no one else will say, to
 take decisive and inhuman action, and to ensure that, despite the best
 efforts of these little people living their little lives, change and
 chaos will prevail.
-
-.. todo::
-
-   Detail the magical powers of each fairy. What can they do without
-   thinking, what can they do with great effort?
 
 The Beast of the Moors
 ----------------------
@@ -192,6 +197,8 @@ mistresses of storms physical and social, demanding *amusement* and
 
 Fetches and Wraiths
 ===================
+
+.. todo:: Expand rules for fetches and wraiths.
 
 When a magician irreparably damages their soul with magic, they may
 become a fetch or a wraith. These things bridge the border between

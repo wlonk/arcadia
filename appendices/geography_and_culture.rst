@@ -2,6 +2,8 @@
 Appendix: Geography & Culture
 =============================
 
+.. todo:: Rewrite this to match current material.
+
 The year is 1812. England is at war, with Wellington keeping the French
 at bay in the Peninsula. The king, George III, has gone mad, and his
 son, Prince George, has been appointed Prince Regent. Jane Austen's

@@ -88,3 +88,8 @@ their own goals aside for those around them with more power and
 privilege. Upending this in one go with a new reputation is usually much
 less satisfying than gradually breaking down barriers and rewriting your
 role in the world.
+
+Examples
+--------
+
+.. todo:: Examples of recovery, growth, and change

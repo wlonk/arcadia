@@ -2,6 +2,8 @@
 The Host
 ========
 
+.. todo:: Edit the Host section.
+
 As the Host, you have some particular duties and particular rules to
 follow. Your role is in some ways more difficult, and in some ways
 easier than everyone else's.

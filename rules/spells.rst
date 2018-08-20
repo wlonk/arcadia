@@ -88,3 +88,8 @@ describe together how the spell works.
 Take all the cards you've assigned and remove them from the deck for the
 remainder of the session. Shuffle the unassigned cards back in to the
 deck.
+
+An example
+----------
+
+.. todo:: Example of spellcasting

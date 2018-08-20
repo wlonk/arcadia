@@ -204,6 +204,8 @@ Use this when you could put your whole family at risk.
 Death magic
 ===========
 
+.. todo:: Describe effects for Masterwork spell outcomes.
+
 If your spell deals with death, spirits, grief, use this.
 
  - Face: ??

@@ -316,7 +316,7 @@ Interpret the outcomes based on the cards you've put on them, then
 shuffle all the cards you drew back into the deck.
 
 An example
-~~~~~~~~~~
+----------
 
 Jenny, the chamber maid (with the Lower Servant role), wants to convince
 the butler, Mr. Goff, to let her bring a friend (and fellow main

@@ -53,3 +53,8 @@ things to watch for:
  * A changed relationship.
  * A decisive assertion of power.
  * A decisive upset.
+
+An example
+----------
+
+.. todo:: Example of gossip
