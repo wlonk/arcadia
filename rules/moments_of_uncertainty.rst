@@ -21,6 +21,8 @@ Risks & rewards
 There are a particular set of risks and rewards to bring to bear in this
 game.
 
+.. todo:: Synthesize these with the appendix, move all content there.
+
 Cast aspersions
 ~~~~~~~~~~~~~~~
 
@@ -317,6 +319,8 @@ shuffle all the cards you drew back into the deck.
 
 An example
 ----------
+
+.. todo:: Rewrite this example to use the recurring characters.
 
 Jenny, the chamber maid (with the Lower Servant role), wants to convince
 the butler, Mr. Goff, to let her bring a friend (and fellow main

@@ -94,4 +94,5 @@ role in the world.
 Examples
 --------
 
-.. todo:: Examples of recovery, growth, and change
+.. todo:: Examples of recovery, growth, and change, using the recurring
+   characters.

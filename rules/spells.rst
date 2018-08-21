@@ -92,4 +92,4 @@ deck.
 An example
 ----------
 
-.. todo:: Example of spellcasting
+.. todo:: Example of spellcasting, using the recurring characters.

@@ -34,10 +34,10 @@ useful advice and input when I needed it:
 
 Finally, I owe some books a great debt. These include:
 
- * *Jane Austen, the Secret Radical* by Helena Kelly
- * *A Jane Austen Education*, by William Deresiewicz
- * *What Matters in Jane Austen*, by John Mullan
  * *Jane Austen, Game Theorist*, by Michael Chwe
+ * *A Jane Austen Education*, by William Deresiewicz
+ * *Jane Austen, the Secret Radical* by Helena Kelly
+ * *What Matters in Jane Austen*, by John Mullan
  * All of the works of Jane Austen herself
  * And finally and most importantly, *Jonathan Strange & Mr Norrell* and
    *The Ladies of Grace Adieu*, by Susanna Clarke

@@ -57,4 +57,48 @@ things to watch for:
 An example
 ----------
 
-.. todo:: Example of gossip
+A scene with Miss Bellamy, Ben Cull, and the supporting character Jane
+Cull has just come to a close. Miss Bellamy was talking furtively with
+Jane near the kitchens at Longford, when Ben came up to confront his
+sister Jane. Miss Bellamy leapt to her maidservant's defense, and Ben
+told her he knew just as well what she was up to, speaking with fairies
+an' all. She reminded him of his place, and told him he had better keep
+quiet, and leave his sister alone, as who would believe a groom over the
+Squire's granddaughter?
+
+The two players involved in the scene each go over their reputations,
+asking the table whether they lived up to them. First, Miss Bellamy:
+"Did I assist the family proper?" Everyone else at the table discusses:
+
+"Well, you were sorting out a disagreement between the servants, and
+that's helpful."
+
+"But would the family have even noticed if two of their servants, a
+groom and a chamber maid with airs, were having trouble? Would they
+care?"
+
+"If Miss Bellamy hadn't stepped in and put her foot down, there'd be
+talk in town, if someone saw Jane red-eyed or worried later."
+
+That last decides it: Miss Bellamy gets a token for helping the family.
+
+Next, "Did I do as I was told?" Well, the table agree quickly that she
+did not, not least of all because there was no one socially her superior
+to tell her what to do. Same with being "seen and not heard": she very
+much asserted herself.
+
+Now, it is Ben's turn: "Did I do as I was told?" There's a laugh of
+agreement at the table, "Absolutely you did, you backed down when she
+reminded you of your social status. Take a token."
+
+"Did I keep a confidence?" The table murmurs. "No, it didn't really come
+up, but if it had, threatening to tell what your sister and the Squire's
+ward are up to would hardly count, even if you don't carry through on
+that threat."
+
+"Did I put my own needs last?" This is a hard one, and after much
+discussion of what Ben's needs actually *are* at this moment, the table
+decides that he did, by conceding to Miss Bellamy, though it was clearly
+under duress. Still, he gets another token. Getting two tokens to Miss
+Bellamy's one isn't a bad trade-off for failing to get what he hoped for
+in the scene.

@@ -67,3 +67,8 @@ Myrddin Wyllt, it was the last blow in a battle for control and
 stewardship of English magic. The Ladies of the Lake managed it from
 then on. Myrddin Wyllt was an agent of chaos and half-demon and could
 not be trusted! The almost-fairy Ladies of the Lake could be.
+
+.. todo:: Write sidebar about Austen and romcoms.
+   Mention how much of an Austen nerd I am, re: voice I write in. Talk
+   about common themes in stories of manners, in this period and beyond,
+   and how this can make this accessible.
