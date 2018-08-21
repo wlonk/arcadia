@@ -166,9 +166,9 @@ and take them to their realm.
 
 Save fairies for late in the game, or when a magician invokes one. Once
 a fairy is introduced, it becomes *the* fairy, and you should take a
-moment to envision it. You can find many suggestions in :ref:`Appendix:
-Fairies and goblins`, and feel free to use them verbatim, or to create
-your own.
+moment to envision it. You can find many suggestions in
+:ref:`appendix-Fairies and goblins`, and feel free to use them verbatim,
+or to create your own.
 
 Certain outcomes will say that the fairy gains a "strand" on a magician.
 This is how they steal magicians, and represents a bit of obligation and

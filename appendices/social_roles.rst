@@ -28,7 +28,8 @@ Your best accomplishment is...
 
 Your age is 20 to 29.
 
-.. rubric:: *Quick facts*
+Quick facts
+~~~~~~~~~~~
 
 You make your income from rents. You have land, and tenants who farm it.
 
@@ -79,7 +80,8 @@ Your best accomplishment is...
 
 Your age is 18 to 27.
 
-.. rubric:: *Quick facts*
+Quick facts
+~~~~~~~~~~~
 
 Britain is, and has been, at war with Napoleon Bonaparte. Most soldiers
 and sailors are pressed into service, with very little choice in the
@@ -131,7 +133,8 @@ Your best accomplishment is...
 
 Your age is 23 to 32.
 
-.. rubric:: *Quick facts*
+Quick facts
+~~~~~~~~~~~
 
 The state religion is Anglicanism. Catholicism is legal again, but
 looked down on.
@@ -179,7 +182,8 @@ Your best accomplishment is...
 
 Your age is 18 to 27.
 
-.. rubric:: *Quick facts*
+Quick facts
+~~~~~~~~~~~
 
 This is an era of highly demanding fashion: trousers are getting long,
 wigs are out, waistcoats are in.
@@ -231,7 +235,8 @@ Your best accomplishment is...
 
 Your age is 18 to 24.
 
-.. rubric:: *Quick facts*
+Quick facts
+~~~~~~~~~~~
 
 The goal for any young lady is a good marriage. You're not property, but
 you're hardly free, and society expects you to go from your father to
@@ -281,7 +286,8 @@ Your best accomplishment is...
 
 Your age is 20 to 26.
 
-.. rubric:: *Quick facts*
+Quick facts
+~~~~~~~~~~~
 
 A paid companion is not a servant, but is not part of the family.
 Everyone keeps up the polite fiction that you're a live-in friend who
@@ -334,7 +340,8 @@ Your best accomplishment is...
 
 Your age is 16 to 21.
 
-.. rubric:: *Quick facts*
+Quick facts
+~~~~~~~~~~~
 
 You don't have to be an orphan to be a ward, but it helps. There's no
 formal adoption, but often a wealthier relative will take over the
@@ -387,7 +394,8 @@ Your best accomplishment is...
 
 Your age is 25 to 29.
 
-.. rubric:: *Quick facts*
+Quick facts
+~~~~~~~~~~~
 
 A lady can't propose, but she can always refuse. Have you never gotten a
 proposal, or have you refused all that you've gotten? Either way, why?
@@ -436,7 +444,8 @@ Your best accomplishment is...
 
 Your age is 18 to 27.
 
-.. rubric:: *Quick facts*
+Quick facts
+~~~~~~~~~~~
 
 There's any number of things that can leave one an invalid: consumption
 (tuberculosis), ague (malaria), gout, or more. Health without modern
@@ -488,7 +497,8 @@ Your best accomplishment is...
 
 Your age is 20 to 29.
 
-.. rubric:: *Quick facts*
+Quick facts
+~~~~~~~~~~~
 
 There's as strict a hierarchy downstairs as upstairs. The upper servants
 are the butler, housekeeper (always "Mrs" whether married or not),
@@ -541,7 +551,8 @@ Your best accomplishment is...
 
 Your age is 16 to 25.
 
-.. rubric:: *Quick facts*
+Quick facts
+~~~~~~~~~~~
 
 Among the downstairs folks, you're at the bottom: a footman, housemaid,
 groom, kitchen maid, or similar.
@@ -594,7 +605,8 @@ Your best accomplishment is...
 
 Your age is 16 to 29.
 
-.. rubric:: *Quick facts*
+Quick facts
+~~~~~~~~~~~
 
 Vagrancy is a crime itself, but if you're unattached and poor,
 everything you do is criminalized anyway.

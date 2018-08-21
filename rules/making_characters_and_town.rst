@@ -47,7 +47,7 @@ community. "Three or four families in a country village is the very
 thing to work on," as Jane Austen said.
 
 You can either use a premade town, or make your own. There are rules for
-making a town in :ref:`Appendix: Towns`, but for now, let's assume you
+making a town in :ref:`appendix-Towns`, but for now, let's assume you
 have a completed town.
 
 A town provides three crucial things: families, connections, and

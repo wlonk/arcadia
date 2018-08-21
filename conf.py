@@ -42,7 +42,7 @@ rst_epilog = """
 # ones.
 extensions = [
     'sphinx.ext.todo',
-    'sphinx.ext.autosectionlabel',
+    # 'sphinx.ext.autosectionlabel',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -198,7 +198,7 @@ latex_documents = [
 ]
 
 latex_additional_files = [
-    'murray.sty',
+    'murray.cls',
 ]
 
 

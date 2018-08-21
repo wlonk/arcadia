@@ -1,3 +1,5 @@
+.. _appendix-Fairies and goblins:
+
 =============================
 Appendix: Fairies and goblins
 =============================

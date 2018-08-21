@@ -1,3 +1,5 @@
+.. _appendix-Spells:
+
 ================
 Appendix: Spells
 ================

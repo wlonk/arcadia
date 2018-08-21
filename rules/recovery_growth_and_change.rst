@@ -1,3 +1,5 @@
+.. _recovery, growth, and change:
+
 ============================
 Recovery, Growth, and Change
 ============================

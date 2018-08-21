@@ -22,7 +22,7 @@ master tier, you must learn the journeyman. Before you can learn the
 journeyman, you must learn the apprentice. At the start of the game, you
 should know two arts at the apprentice level.
 
-For details on the arts and spells, see :ref:`Appendix: Spells`.
+For details on the arts and spells, see :ref:`appendix-Spells`.
 
 Magical tools
 -------------
