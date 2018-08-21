@@ -3,7 +3,7 @@ Gossip
 ======
 
 .. epigraph::
-   Remember that we are English... every man is surrounded by a
+   Remember that we are English... every man is surrounded by a
    neighbourhood of voluntary spies.
 
    -- Henry Tilney, in *Northanger Abbey* by Jane Austen

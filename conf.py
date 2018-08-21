@@ -191,14 +191,14 @@ latex_documents = [
     (
         master_doc,
         'Arcadia.tex',
-        u'Et in Arcadia Ego Rules',
+        u'Et in Arcadia Ego',
         u'Kit La Touche',
         'book',
     ),
 ]
 
 latex_additional_files = [
-    'murray.cls',
+    'murray.sty',
 ]
 
 
@@ -207,7 +207,7 @@ latex_additional_files = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'arcadia', u'Et in Arcadia Ego Rules',
+    (master_doc, 'arcadia', u'Et in Arcadia Ego',
      [author], 1)
 ]
 
@@ -218,7 +218,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Arcadia', u'Et in Arcadia Ego Rules',
+    (master_doc, 'Arcadia', u'Et in Arcadia Ego',
      author, 'Arcadia', 'A game of Magic, Manners, and Madness',
      'Miscellaneous'),
 ]

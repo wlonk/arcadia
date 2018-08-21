@@ -7,7 +7,7 @@
 Et in Arcadia Ego
 =================
 
-*A game of magic, manners, and madness in Jane Austen's England.*
+*A game of magic, manners, and madness in Regency England.*
 
 .. figure:: /_static/marlay_house.jpg
    :align: center
