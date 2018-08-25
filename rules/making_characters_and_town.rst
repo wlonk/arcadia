@@ -90,6 +90,15 @@ down for their own record-keeping. One of your answers should touch on
 the magical: either the person or the nature of your connection should
 include a magical element.
 
+.. todo:: Write sidebar about how your hope is necessarily in conflict
+   with society: society either prohibits or requires something of you,
+   and you would do otherwise. This is your hope. A character without
+   problems and insecurities is not worth playing.
+
+   Each main character will provide a lens onto the problems of the era,
+   from sexism, to classism, to the constraints of a state religion, to
+   the horrors of a nation at war.
+
 Now that you know some of who you are and how you fit into the
 community, choose a hope. This is your heart's desire. The thing you
 would give your very world for. Choose:
