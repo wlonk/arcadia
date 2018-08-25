@@ -1,3 +1,5 @@
+.. _appendix-Outcomes:
+
 ==================
 Appendix: Outcomes
 ==================
@@ -45,6 +47,8 @@ Use this when you may do bodily harm to someone.
 Comfort someone
 ===============
 
+.. todo:: How does "comfort someone" work for a supporting character?
+
 Use this when you have a meaningful heart-to-heart with someone.
 
  - Face: If they accept your comfort, they may clear a condition. You
@@ -63,6 +67,8 @@ Use this when you hope to make money on a game of chance.
 
 Tempt someone
 =============
+
+.. todo:: How does "tempt someone" work for a supporting character?
 
 Use this when you wish to convince another main character to do
 something.
@@ -102,12 +108,23 @@ Use this when you may discover something meaningful about magic.
  - 6-10: Mark a Secret, and the fairy marks you.
  - A-5: The fairy marks a strand on you.
 
+Make a splash
+=============
+
+.. todo:: Write "Make a splash".
+
+...
+
+ - Face: ...
+ - 6-10: ...
+ - A-5: ...
+
 A grievous wound
 ================
 
 Use this when you could be mortally wounded.
 
- - Face: No wounds
+ - Face: No effect
  - 6-10: Mark one wound
  - A-5: Mark two wounds
 
@@ -116,27 +133,27 @@ Capture by a fairy
 
 Use this when you could fall deeper into a fairy's power.
 
- - Face: No strands
+ - Face: No effect
  - 6-10: The fairy gains a strand on you
- - A-5: In the fairy's thrall
+ - A-5: You are in the fairy's thrall
 
 Starting a rumour
 =================
 
 Use this when you could have your actions misinterpreted.
 
- - Face: No rumours
+ - Face: No effect
  - 6-10: A muddled rumour
  - A-5: A terrible rumour
 
-Being shaken
-============
+Being upset
+===========
 
 Use this when you could be upset.
 
- - Face: No conditions
- - 6-10: Mark a condition for the scene
- - A-5: Mark a condition
+ - Face: No effect
+ - 6-10: Mark a passion for the scene
+ - A-5: Mark a passion
 
 Embarrassing yourself
 =====================
@@ -147,12 +164,12 @@ Use this when you could step truly outside the bounds of propriety.
  - 6-10: Mark a reputation
  - A-5: Mark two reputations
 
-Su ering injury
-===============
+Suffering injury
+================
 
 Use this when you could be hurt.
 
- - Face: No wounds
+ - Face: No effect
  - 6-10: Take a flesh wound
  - A-5: Mark a wound
 
@@ -161,16 +178,16 @@ Being rocked
 
 Use this when you could be deeply distressed.
 
- - Face: No conditions
- - 6-10: Mark a condition
- - A-5: Mark two conditions
+ - Face: No effect
+ - 6-10: Mark a passion
+ - A-5: Mark two passions
 
 Making a misstep
 ================
 
 Use this when you could behave better.
 
- - Face: No reputations
+ - Face: No effect
  - 6-10: Lose a token.
  - A-5: Mark a reputation
 
@@ -179,8 +196,8 @@ Magical corruption
 
 Use this when you could harm your soul with magic.
 
- - Face: No mark
- - 6-10: Take a mark for the scene
+ - Face: No effect
+ - 6-10: Take a mark for the session
  - A-5: Take a permanent mark
 
 Letting slip a secret

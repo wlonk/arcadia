@@ -350,3 +350,41 @@ Master: Reflect a spell upon its source
 
 The next spell cast upon the magician, or one they touch, will bounce
 back on to the caster instead.
+
+Marks
+=====
+
+When you cast spells, it marks your soul.
+
+ - A creature of some sort (a fox, a raven, a black hare, or perhaps a
+   goat) comes to you, and accompanies you everywhere, no matter how you
+   might try to shoo it.
+ - Animals panic in your presence. (In a time full of horses, dogs, oxen
+   and more, this must be taken seriously!)
+ - Every room you enter becomes cold, damp, and dark, as long as you are
+   present.
+ - Milk, beer, and other drinks sour in your presence.
+ - When you try to explain something important, all that comes out are
+   ancient and irrelevant stories.
+ - You cannot bear to set foot in a church.
+ - You develop a constant craving for something grotesque (like
+   desiccated mice, grave dirt, or human blood).
+ - You develop a constant sensation of being watched.
+ - You develop stigmata-like wounds that will not heal.
+ - You feel like space stretches and shrinks unpredictably, and you
+   often feel like you are falling.
+ - You have a constant sensation of being watched.
+ - You no longer bleed when pricked or cut. You may, of course, still
+   die.
+ - Your reflection is wrong: it is faded, angled incorrectly, or simply
+   missing.
+ - Your shadow leaves an ashy residue, more the longer you stay put.
+ - Your tears leave black and inky stains.
+ - Your voice becomes hoarse and raspy from the power of the magical
+   words you have uttered.
+
+Finally, when you take your last (fifth) mark, even if the ones before
+it are only temporary marks, if you have not already take this mark, you
+must take it:
+
+ - You become a fetch.
