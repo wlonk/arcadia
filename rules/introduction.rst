@@ -72,3 +72,19 @@ not be trusted! The almost-fairy Ladies of the Lake could be.
    Mention how much of an Austen nerd I am, re: voice I write in. Talk
    about common themes in stories of manners, in this period and beyond,
    and how this can make this accessible.
+
+.. todo:: Write a setion on romance in this genre; Austen, Heyer,
+   others. Incorporate
+   https://rpg.stackexchange.com/questions/208/how-should-a-gm-deal-with-sexuality-in-an-rpg/36824#36824
+   and Austin's points:
+
+    - Giving players the chance to interact with NPCs in relatively
+      normal situations, as well as situations with a celebratory aspect
+      that foster intimacy and shared experience.
+    - So a good deal is situational, environmental.
+    - You also need to trust the GM, which is maybe the biggest part of
+      that.
+    - But also having the NPCs be just a little forward helps a lot, it
+      signals a lot to the players.
+    - And I think having the NPCs feel like they’re independent and
+      autonomous and have their own life going on is irreplaceable.
