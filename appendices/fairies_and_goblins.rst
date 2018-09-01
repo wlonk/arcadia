@@ -20,16 +20,17 @@ late in the game, or when a magician summons one.
 Goblins
 =======
 
-.. todo:: Finish goblins.
-
 When you make a goblin, you must choose its hunger, powers, weaknesses,
 and tells.
 
 Choose one or two hungers:
 
- - Secrets, lies, and sorrows
- - Chaos, bickering and hatred
- - ...
+ - Secrets, lies, and sorrows.
+ - Chaos, bickering, and hatred.
+ - Wealth, jewels, and luxuries.
+ - Praise, adoration, and obeisance.
+ - Blood, flesh, and bone.
+ - ... or something else.
 
 Choose two or three powers:
 
@@ -42,7 +43,7 @@ Choose two or three powers:
  - To lull people to sleep with their song.
  - To shrug off the fiercest blow.
  - To make anyone who looks at them feel love.
- - ...
+ - ... or something else.
 
 Choose at least one weakness:
 
@@ -51,14 +52,23 @@ Choose at least one weakness:
  - The touch of rowan.
  - Holy words.
  - Iron nails.
- - ...
+ - Spilled milk.
+ - Horse shoes.
+ - Their true name.
+ - Salt.
+ - Red ribbon.
+ - ... or something else.
 
 Choose at least one tell:
 
  - Golden eyes and a wicked smile.
  - A cow's tail.
  - A scabrous hide and bulging muscles.
- - ...
+ - Long ears and a long nose.
+ - No shadow.
+ - The sound of wind in the trees.
+ - The smell of rain on tilled earth.
+ - ... or something else.
 
 Fairies
 =======
@@ -200,9 +210,36 @@ mistresses of storms physical and social, demanding *amusement* and
 Fetches and Wraiths
 ===================
 
-.. todo:: Expand rules for fetches and wraiths.
-
 When a magician irreparably damages their soul with magic, they may
 become a fetch or a wraith. These things bridge the border between
 Arcadians and mortals: they were mortal, but now are creatures of magic,
 and so have lost all the moral foundation available to mortals.
+
+A fetch is a mind and a body, but it has lost its soul: this has been
+replaced with fairy-fire, which will eventually consume both the mind
+and the soul, but until then provides a powerful source of magic.
+
+When you become a fetch, you should consult with the Host about whether
+you will continue to play the character. While the fetch has all the
+memories of the person it once was, it has none of the moral character,
+and this may be a hard switch to make. The Host, who has practice
+playing amoral characters, may prefer to take over.
+
+A newly-formed fetch starts with five *fuel*, and consumes one fuel at
+the change of each season, or whenever it casts a spell. Any spell it
+casts will be perfect, as though it had drawn only face cards, without
+having to draw any. If it would consume a fuel and has none to consume,
+it destroys itself instead, in a flare of fairy-fire.
+
+A fetch can gain fuel by serving a fairy, which can dole out fuel, or by
+consuming another mortal being in fairy-fire.
+
+A wraith, contrariwise, is a soul and a mind, but no body. Its curse is,
+in some ways, the opposite of the curse of a fetch: rather than
+consuming itself, it will linger, impossibly, and in suffering. A wraith
+can only be seen by those who are magically sensitive (magicians, cats,
+the very young, the very old, the very ill, and so on), and cannot work
+its will on the world except through casting spells it knew in life.
+Further, because a wraith is, in many ways, dead, it can only cast
+spells if it is given a source of magic: either by serving a fairy, or
+by magician knowingly giving their own blood (and taking a wound).

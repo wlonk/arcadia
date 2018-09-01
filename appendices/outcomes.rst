@@ -47,14 +47,15 @@ Use this when you may do bodily harm to someone.
 Comfort someone
 ===============
 
-.. todo:: How does "comfort someone" work for a supporting character?
-
 Use this when you have a meaningful heart-to-heart with someone.
 
  - Face: If they accept your comfort, they may clear a condition. You
    may also clear a condition.
  - 6-10: If they accept your comfort, you may clear a condition.
  - A-5: No effect.
+
+If you are comforting a supporting character, the Host will interpret
+their response appropriately.
 
 Gamble well
 ===========
@@ -68,8 +69,6 @@ Use this when you hope to make money on a game of chance.
 Tempt someone
 =============
 
-.. todo:: How does "tempt someone" work for a supporting character?
-
 Use this when you wish to convince another main character to do
 something.
 
@@ -78,6 +77,15 @@ something.
  - 6-10: Choose one: If they do what you want, they gain a token. If
    they don't, they mark a reputation.
  - A-5: No leverage
+
+Use this version when you wish yo convince a supporting character to do
+something.
+
+ - Face: They'll do as you suggest, until and unless something betrays
+   the reasons you gave or the situation really changes.
+ - 6-10: They'll do as you suggest if you offer concrete reassurances or
+   sureties.
+ - A-5: They won't do as you ask.
 
 Defend someone
 ==============
@@ -111,13 +119,11 @@ Use this when you may discover something meaningful about magic.
 Make a splash
 =============
 
-.. todo:: Write "Make a splash".
+Use this when you want to make an entrance or an impression.
 
-...
-
- - Face: ...
- - 6-10: ...
- - A-5: ...
+ - Face: Almost everyone is impressed.
+ - 6-10: One particular person notes what you do. Who?
+ - A-5: You draw no particular attention.
 
 A grievous wound
 ================

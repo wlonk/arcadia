@@ -10,11 +10,11 @@ son, Prince George, has been appointed Prince Regent.
 
    1811: The revival fails when the revivalist vanishes.
 
-   1814: Now, the current moment. In April, Napoleon admits defeat and
-   is banished to Elba.
+   1814: *Now*. In April, Napoleon admits defeat and is banished to
+   Elba.
 
    1815: In March, Napoleon escapes Elba and begins the Hundred Days,
-   culminating in June at Waterloo.
+   culminating in his defeat in June at Waterloo.
 
    1816: The Year without a Summer.
 
@@ -33,12 +33,13 @@ The magician who tried it vanished, the magic they worked fell apart.
 Maybe it was never real. But you know better. English magic has been
 reawakened, and you have access to it.
 
-We know that magic left England because the Ladies of the Lake took it.
-Perhaps they took it because:
+Magic left England because the Ladies of the Lake took it. Perhaps they
+took it because:
 
  * It was dying and needed care in distant Avalon, like Arthur.
- * Henry VIII offended one of them personally.
- * Anne Boleyn was a powerful changeling and they were protecting it
+ * Henry personally offended one of the Ladies, and this was how they
+   punished him.
+ * Anne Boleyn was a powerful changeling and they were protecting magic
    from her.
  * The long relationship between monastic mysticism and the Ladies meant
    that Henry's feud with and destruction of the monasteries led to
@@ -55,18 +56,18 @@ returning:
    England and Fairy.
  * Fairies suddenly need things from the mortal realm again in their own
    political games.
- * The magicians of the revival never actually failed, but their spell
-   caused them to disappear and unworked their other spells.
- * Wellington actually *is* the *rex quondam, rexque futurus* and this
-   is Britain's hour of need, and the Ladies are obliged to return.
+ * The magician of the revival never actually failed, but vanished and
+   unworked their other spells.
+ * Wellington actually is the *rex quondam, rexque futurus* and this is
+   Britain's hour of need.
  * Myrddin Wyllt has gotten free, and is bringing back his dangerous
    magics with him.
 
 Most scholars agree that back in Arthurian times, when Nineve imprisoned
-Myrddin Wyllt, it was the last blow in a battle for control and
-stewardship of English magic. The Ladies of the Lake managed it from
-then on. Myrddin Wyllt was an agent of chaos and half-demon and could
-not be trusted! The almost-fairy Ladies of the Lake could be.
+Myrddin, it was the last blow in a battle for control and stewardship of
+English magic. The Ladies of the Lake managed it from then on. Myrddin
+Wyllt was an agent of chaos and half-demon and could not be trusted! The
+almost-fairy Ladies of the Lake could be.
 
 .. todo:: Write sidebar about Austen and romcoms.
    Mention how much of an Austen nerd I am, re: voice I write in. Talk
@@ -88,3 +89,15 @@ not be trusted! The almost-fairy Ladies of the Lake could be.
       signals a lot to the players.
     - And I think having the NPCs feel like they’re independent and
       autonomous and have their own life going on is irreplaceable.
+
+   And:
+
+    - out-of-character explicit consent, and discussion of how far the
+      scene might go (veiled or not), is important.
+    - If you have feelings for someone out of game, and you’re in a
+      romantic scene with them, don’t try to use the scene to like
+      explore those feelings or whatever, it’ll mean a different thing
+      to you than to them and that’s a bad recipe. You’re much more
+      likely to have romantic feels out of character for another player
+      than you are to want revenge on them, so this comes up more often
+      in a romance context.

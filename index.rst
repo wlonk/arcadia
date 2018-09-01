@@ -42,15 +42,13 @@ To do
 Relayout:
 
  * Outcomes.pdf
- * Spellcasting.pdf
- * Pitch.pdf
 
 Fix InDesign file structure:
 
  * Social Roles.pdf
  * Town - \*.pdf
 
-Make good PDF output.
+Make good PDF Sphinx output.
 
 Index document.
 
