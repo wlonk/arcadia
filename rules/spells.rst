@@ -92,8 +92,6 @@ deck.
 An example
 ----------
 
-.. todo:: Example of spellcasting, using the recurring characters.
-
 Miss Bellamy intends to cast a spell. She hopes to sneak out at night to
 the militia encampment, and get a sense of the soldiers' life, and maybe
 come back with a prize. This is dangerous on so many fronts: she might

@@ -68,6 +68,39 @@ everything's riding on this moment. Everyone will play and collaborate
 and it will be good. But you, as the Host, do have a particular
 responsibility here.
 
+There's a strange phenomenon, I find, where unless and until there are
+obstacles in their way, the players may not pursue their characters'
+goals. Once they know what forces are arrayed against them, or what
+other pressing matters vie for their attention, they are more likely to
+begin the pursuit. And so, as the Host, you may wish to start the game
+with an urgent situation, an inciting incident, a "bang" as it were,
+that drives the characters to *react*, and interferes with their ability
+to start pursuing their goals.
+
+You don't have to start with one perfect incident that will make or
+break the game. You can throw out many possible hooks, as you explore
+the characters and their daily lives, and see which the players latch on
+to. Perhaps, though, this is a useful way to look at the problem: the
+players have spent a bunch of time setting up a *status quo*, albeit
+with tensions and uncertainties, but with a certain amount of
+established norms. It is up to you as the host to start to upset that
+*status quo* in ways that the players can understand as putting their
+characters at risk.
+
+Has a character been hiding in rural solitude from his creditors in
+London? Perhaps a strange man with a staff and a blue jacket has been
+seen poking around the village. Has a character been hoping to receive a
+proposal from a well-to-do gentleman? Perhaps another house in the
+village is let to a family with three wealthy and beautiful daughters.
+Has a character been treating his vicarage as a sinecure, and neglecting
+the parishioners? Perhaps a group of Methodists or Quakers show up,
+providing an alternative and populist religious outlet. Has a character
+been struggling to make ends meet, and keep a roof over their aged
+parents? Perhaps the local landholder begins a process of enclosure,
+denying people access to the common land.
+
+Some more concrete examples of beginnings:
+
 An option: "Mr. Reynolds, it is a fine spring day. Who are you walking
 out to visit?" "Oh, uh, I think I might see how Miss Fanshaw is today."
 (She is another main character.) "Ah, good. As you're walking to the

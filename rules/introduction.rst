@@ -68,36 +68,3 @@ Myrddin, it was the last blow in a battle for control and stewardship of
 English magic. The Ladies of the Lake managed it from then on. Myrddin
 Wyllt was an agent of chaos and half-demon and could not be trusted! The
 almost-fairy Ladies of the Lake could be.
-
-.. todo:: Write sidebar about Austen and romcoms.
-   Mention how much of an Austen nerd I am, re: voice I write in. Talk
-   about common themes in stories of manners, in this period and beyond,
-   and how this can make this accessible.
-
-.. todo:: Write a setion on romance in this genre; Austen, Heyer,
-   others. Incorporate
-   https://rpg.stackexchange.com/questions/208/how-should-a-gm-deal-with-sexuality-in-an-rpg/36824#36824
-   and Austin's points:
-
-    - Giving players the chance to interact with NPCs in relatively
-      normal situations, as well as situations with a celebratory aspect
-      that foster intimacy and shared experience.
-    - So a good deal is situational, environmental.
-    - You also need to trust the GM, which is maybe the biggest part of
-      that.
-    - But also having the NPCs be just a little forward helps a lot, it
-      signals a lot to the players.
-    - And I think having the NPCs feel like they’re independent and
-      autonomous and have their own life going on is irreplaceable.
-
-   And:
-
-    - out-of-character explicit consent, and discussion of how far the
-      scene might go (veiled or not), is important.
-    - If you have feelings for someone out of game, and you’re in a
-      romantic scene with them, don’t try to use the scene to like
-      explore those feelings or whatever, it’ll mean a different thing
-      to you than to them and that’s a bad recipe. You’re much more
-      likely to have romantic feels out of character for another player
-      than you are to want revenge on them, so this comes up more often
-      in a romance context.

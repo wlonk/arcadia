@@ -25,6 +25,7 @@ Et in Arcadia Ego
    rules/spells
    rules/gossip
    rules/recovery_growth_and_change
+   rules/sex_class_romance_and_genre
 
    appendices/geography_and_culture
    appendices/towns
@@ -39,21 +40,42 @@ Et in Arcadia Ego
 To do
 -----
 
-Relayout:
+ * Examples (with recurring characters):
+   
+   + Recovery, Growth, and Change
 
- * Outcomes.pdf
+ * Essays:
 
-Fix InDesign file structure:
+   + Comedy of Manners and Arcadia
+   + Romance in this genre
+   + Sex and class
 
- * Social Roles.pdf
- * Town - \*.pdf
+ * Content:
+   
+   + Premade towns
+   + Masterwork spell outcomes
 
-Make good PDF Sphinx output.
+ * Appendices:
 
-Index document.
+   + Regions of England
+   + Magical geography
+   + Currency
 
-Get external editor.
+ * Edit and relayout:
 
-Get art.
+   + The Host
+   + Fairies
+   + Outcomes.pdf
+   + Spellcasting.pdf
+
+ * Fix InDesign file structure:
+
+   + Social Roles.pdf
+   + Town - \*.pdf
+
+ * Make good PDF Sphinx output.
+ * Index document.
+ * Get external editor.
+ * Get art.
 
 .. todolist::

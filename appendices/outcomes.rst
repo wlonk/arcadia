@@ -233,7 +233,7 @@ If your spell deals with death, spirits, grief, use this.
 
  - Face: ??
  - 6-10: ??
- - A-5: ??
+ - A-5: Change your last mark to "Become a wraith".
 
 Transgressive magic
 ===================

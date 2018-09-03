@@ -90,18 +90,10 @@ down for their own record-keeping. One of your answers should touch on
 the magical: either the person or the nature of your connection should
 include a magical element.
 
-.. todo:: Write sidebar about how your hope is necessarily in conflict
-   with society: society either prohibits or requires something of you,
-   and you would do otherwise. This is your hope. A character without
-   problems and insecurities is not worth playing.
-
-   Each main character will provide a lens onto the problems of the era,
-   from sexism, to classism, to the constraints of a state religion, to
-   the horrors of a nation at war.
-
 Now that you know some of who you are and how you fit into the
 community, choose a hope. This is your heart's desire. The thing you
-would give your very world for. Choose:
+would give your very world for. The thing that makes it worth it for
+you to pursue the dangerous practice of magic. Choose:
 
  * I hope to marry for love.
  * I hope to be revenged upon (here name someone beyond your station).
@@ -113,6 +105,11 @@ would give your very world for. Choose:
  * I hope to be showered with glory.
  * I hope to see justice for (here name a supporting character).
  * ... or something else.
+
+It would not be wrong to say that your hope is necessarily in conflict
+with society's expectations for you. Otherwise, you might simply achieve
+it, or be on the way to doing so. It should still be something you can
+maybe, just maybe, see your way to accomplishing, though.
 
 Next, turn to the inside of your role book. Here you will find the
 personal and magical. First, your character has two boons: a star,

@@ -8,6 +8,13 @@ As the Host, you have some particular duties and particular rules to
 follow. Your role is in some ways more difficult, and in some ways
 easier than everyone else's.
 
+.. todo:: Maybe it should default to "hostess"? I lose the Fairy Host
+   pun, but there's a good argument to default that way. Almack's, even.
+
+Note also that although I use the term "Host" throughout, that should be
+be construed to omit the possibility of a *hostess*, or any other
+variation.
+
 Agenda
 ------
 
