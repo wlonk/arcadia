@@ -231,7 +231,7 @@ Death magic
 
 If your spell deals with death, spirits, grief, use this.
 
- - Face: ??
+ - Face: No ill effects.
  - 6-10: ??
  - A-5: Change your last mark to "Become a wraith".
 
@@ -262,7 +262,8 @@ this.
 
  - Face: ??
  - 6-10: ??
- - A-5: ??
+ - A-5: You owe the land a tribute: either find a suitable sacrifice, or
+   sacrifice yourself.
 
 Harsh magic
 ===========

@@ -75,14 +75,27 @@ Premade towns
 
 .. todo:: Include premade towns.
 
-Little Norlea (Southeast)
--------------------------
+Little Norlea (Surrey)
+----------------------
 
 Porthwas (Cornwall)
 -------------------
 
-Mistlethwaite (North)
----------------------
+Mistlethwaite (Yorkshire)
+-------------------------
 
-Egdon Heath (West Midlands)
----------------------------
+Egdon Heath (Dorset)
+--------------------
+
+(Norfolk)
+---------
+
+(Shropshire)
+------------
+
+(Northumberland)
+----------------
+
+(Wiltshire)
+-----------
+

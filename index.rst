@@ -40,6 +40,11 @@ Et in Arcadia Ego
 To do
 -----
 
+ * Design:
+
+   + How do we communicate to players the range of possible things they
+     can do? What are the basic moves, what the peripheral?
+
  * Examples (with recurring characters):
    
    + Recovery, Growth, and Change
