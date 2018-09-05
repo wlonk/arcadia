@@ -96,14 +96,12 @@ would give your very world for. The thing that makes it worth it for
 you to pursue the dangerous practice of magic. Choose:
 
  * I hope to marry for love.
- * I hope to be revenged upon (here name someone beyond your station).
+ * I hope to be revenged upon (here name another character).
  * I hope to have land or money enough to live on.
  * I hope to know and be known by my family.
- * I hope to sleep with (here name someone beyond your station).
- * I hope to have my love for (here name a supporting character)
-   returned.
+ * I hope to have my love for (here name another character) returned.
  * I hope to be showered with glory.
- * I hope to see justice for (here name a supporting character).
+ * I hope to see justice for (here name another character).
  * ... or something else.
 
 It would not be wrong to say that your hope is necessarily in conflict
@@ -122,7 +120,7 @@ mark one root together. Then, individually, choose and mark a star.
 Finally, choose two spells. The spells are organized into arts, within
 which there are tiers. The first tier is the apprentice, then the
 journeyman, then the master. Choose an apprentice spell from each of two
-arts. Why are you a magician? What do you want, what are you, that
+arts. Why are you a magician? What do you want, what are you that
 society cannot accept and that drives you to understand magic? How did
 you learn your spells?
 

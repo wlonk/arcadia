@@ -35,13 +35,15 @@ people who do what they are not supposed to.
 The second thing to say is that Jane Austen did not write romantic
 comedies, and this game is not a game of romantic comedy.
 
-Jane Austen's heroines end up with a suitable romantic match, it is
-true, and the screen adaptations of her work always bend the story to
-fit the demands of this genre we know so well. But in her books, her
-characters find themselves making difficult choices that pit them
-against the expectations of society, and they don't simply fall for a
-*romantic* hero, but rather someone who can be an equal, a complement,
-and a collaborator.
+She wrote love stories, yes. Jane Austen's heroines end up with a
+suitable romantic match. But the screen adaptations of her work always
+bend the story to fit the demands of the similar-but-different genre of
+romantic comedy. In her books, romance is not merely fated: it is sought
+and it is chosen over alternatives of security, stability, suitability.
+Her characters find themselves making difficult choices that sometimes
+pit them against the expectations of society, and they don't simply fall
+for a *romantic* hero, but rather someone who can be an equal, a
+complement, and a collaborator.
 
 This game, though, is perhaps more tragic. While the characters are by
 no means doomed to a bad ending, the road they travel is a hard one, and
