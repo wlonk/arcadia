@@ -142,10 +142,38 @@ Addressing inferiors
 
 Intimacy
 
-.. todo:: Add currency section.
+Currency
+--------
 
-   Units. Coins and bills. Purchasing power. Income disparity.
-   Enclosures.
+The currency of England at this time can be notoriously confusing, but a
+little guide should help. What's crucial is to remember that this is a
+pre-decimalized currency, but that there is an essential unit and
+subdivisions, just like you're used to.
+
+The basic unit is the pound, which is divided into twenty shillings,
+each of which are in turn divided into twelve pence. An amount of two
+pounds, four shillings, and sixpence might be written £2 4s 6d, or £2/
+4/6, and said as "two pounds, four shillings and sixpence", or "two
+pounds, four and six".
+
+The penny, the smallest unit, was sometimes further divided into halves
+and quarters, the ha'penny or the farthing. That even a quarter of a
+penny had some purchasing power should indicate first the inflation that
+has happened since (one pound in the period is roughly the equivalent of
+fifty pounds today) and the extreme wealth disparity present in England
+at the time. The working poor would expect never to handle a bank note,
+as seeing that much money together at one time would be rare, while the
+wealthiest landlords would expect tens of thousands of pounds a year
+simply from rents and investments. This situation was exacerbated by
+landholders engaging in the practice of enclosure, that is, removing
+access to what was formerly common land, and reserving it for their own
+private use.
+
+Where many stumble with English currency is that many peculiar coins had
+nicknames, from the groat (a four-pence coin), to the crown (five
+shillings), to the guinea (a pound and a shilling, traditionally used to
+include a tip for any artisan whose services were expensive enough to
+merit a price in pounds).
 
 The Magic of England
 --------------------

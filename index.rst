@@ -43,7 +43,9 @@ To do
  * Design:
 
    + How do we communicate to players the range of possible things they
-     can do? What are the basic moves, what the peripheral?
+     can do? What are the basic moves, what the peripheral? Perhaps just
+     a small "you may want to try for these outcomes first" on each
+     character sheet?
 
  * Examples (with recurring characters):
    
@@ -52,7 +54,6 @@ To do
  * Essays:
 
    + Comedy of Manners and Arcadia
-   + Romance in this genre
    + Sex and class
 
  * Content:
@@ -64,7 +65,6 @@ To do
 
    + Regions of England
    + Magical geography
-   + Currency
 
  * Edit and relayout:
 

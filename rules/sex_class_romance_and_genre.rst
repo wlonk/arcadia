@@ -51,41 +51,67 @@ an alienating one. No magician settles down to a happily-ever-after.
 Even a romance between magicians is a relationship defined around the
 work, and the risks and hazards that come with it.
 
+Playing with Romance
+====================
+
+Romance. It's the natural next word after "Regency". Whether you're
+talking about the Romantic movement or Georgette Heyer's novels,
+"Regency" and "Romance" go together. 
+
+It's a time when passions and feelings and untamed nature are all
+increasingly valued, or at least given lip service. But it comes on the
+heels of a couple centuries of rationality and duty and family
+obligation. And so a tension is coming to the fore, the tension between
+marriage as a contract between two families, and marriage as an
+expression of the love of two individuals.
+
+The notion of love between individuals as the basis of marriage frees
+marriage to be, mean, and do different things than it had heretofore.
+Suddenly, people could seriously contemplate marrying well above (or
+below) their station. They could imagine marrying without parental
+consent. They could dream of marriage as a private and personal choice.
+Not that all this was impossible before, or perfectly acceptable now,
+but there was a social change underway.
+
+So if love and marriage involves the *feelings of individuals*, how do
+you incorporate that into your game?
+
+First, with the explicit consent of all involved. You can't force a
+player to have their character fall in love with another. But if you
+talk about it, suggesting "Hey, I'd be really interested in exploring a
+romance between these characters," you might get the buy-in you seek.
+Keep checking in and communicating as you go.
+
+Then, to explore these characters' feelings about each other, be sure to
+have some chances for the characters to interact in relatively *normal*
+situations, not fraught with family expectation, deadly smugglers, or
+conniving fairies. And then, also, explore how these characters get
+along in moments of extreme stress: with rivals, with misunderstandings,
+with fairies.
+
+In many romantic stories, the couple in question are destined for each
+other. In an improvisational game like this, you have to be open to the
+possibility that this could equally be a story of love found, love lost,
+or love from beginning to end. Don't decide on an outcome and play to
+it, play and see how it turns out.
+
+Finally, consider the themes, tropes, and constraints of the genre:
+heterosocial contact is limited, and homosexual love is prohibited.
+Characters frequently deal with romance in the face of
+misunderstandings, mistaken identities, secret engagements,
+"understandings", cads, rakes, and conniving "friends".
+
+To this I would like to add a caveat: if you have feelings for another
+*player*, do not explore those feelings through your *characters*
+without their full, explicit, and *informed* consent. Otherwise your
+interactions could lead to very different things. I would repeat this
+warning if you have, say, a desire for murderous revenge on another
+player, too, but I think romantic feelings are much more likely.
+
 The Comedy of Manners
 =====================
 
 .. todo:: Write about Comedy of Manners and Arcadia.
-
-Playing with Romance
-====================
-
-.. todo:: Write a setion on romance in this genre; Austen, Heyer,
-   others. Incorporate
-   https://rpg.stackexchange.com/questions/208/how-should-a-gm-deal-with-sexuality-in-an-rpg/36824#36824
-   and Austin's points:
-
-    - Giving players the chance to interact with NPCs in relatively
-      normal situations, as well as situations with a celebratory aspect
-      that foster intimacy and shared experience.
-    - So a good deal is situational, environmental.
-    - You also need to trust the GM, which is maybe the biggest part of
-      that.
-    - But also having the NPCs be just a little forward helps a lot, it
-      signals a lot to the players.
-    - And I think having the NPCs feel like they’re independent and
-      autonomous and have their own life going on is irreplaceable.
-
-   And:
-
-    - out-of-character explicit consent, and discussion of how far the
-      scene might go (veiled or not), is important.
-    - If you have feelings for someone out of game, and you’re in a
-      romantic scene with them, don’t try to use the scene to like
-      explore those feelings or whatever, it’ll mean a different thing
-      to you than to them and that’s a bad recipe. You’re much more
-      likely to have romantic feels out of character for another player
-      than you are to want revenge on them, so this comes up more often
-      in a romance context.
 
 Sex, class, and privilege
 =========================
