@@ -47,10 +47,6 @@ To do
      a small "you may want to try for these outcomes first" on each
      character sheet?
 
- * Examples (with recurring characters):
-   
-   + Recovery, Growth, and Change
-
  * Essays:
 
    + Comedy of Manners and Arcadia

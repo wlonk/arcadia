@@ -8,8 +8,8 @@ Over play, characters will acquire various scars: magical marks, damaged
 reputations, wounds, and runaway emotions. You have to be able to
 recover, right?
 
-Conditions and wounds
----------------------
+Passions and wounds
+-------------------
 
 Recovering passions is relatively straightforward: either be comforted,
 or do a particular kind of thing, depending on the passion.
@@ -37,6 +37,14 @@ scene, check:
    being can pull you back. Otherwise, speak your last words, you are on
    death's door.
 
+An Example
+~~~~~~~~~~
+
+The Dandy, Mr. Hawkes, has spent some time under the burden of a morose
+passion. He decides that, to wallow in an indulgence, he will retreat to
+his chambers and indulge in laudanum, leaving him useless and
+intoxicated when Mr. Nightingale comes to visit him.
+
 Magical marks
 -------------
 
@@ -56,7 +64,9 @@ unless you wish to continue playing your character as a dangerous and
 amoral *thing* with a limited lifespan.
 
 Certain spells can change your final mark from "become a fetch" to
-other, stranger things.
+other, stranger things. These include a *wraith*, a spirit and mind
+without a body, cursed to linger on Earth, or *Glatisant*, the questing
+beast pursued tirelessly by the Wild Hunt.
 
 Damaged reputations
 -------------------
@@ -91,8 +101,19 @@ privilege. Upending this in one go with a new reputation is usually much
 less satisfying than gradually breaking down barriers and rewriting your
 role in the world.
 
-Examples
---------
+An Example
+~~~~~~~~~~
 
-.. todo:: Examples of recovery, growth, and change, using the recurring
-   characters.
+The Clergyman, Mr. Nightingale, has earned himself a reputation as
+*haughty*, and can no longer gain tokens through charity. If he spends a
+session simply ignoring this fact, nothing changes. If he suffers for
+his reputation for haughtiness, perhaps with his attempts at good deeds
+being misinterpreted as self-interest or condescension, and makes
+restitution, humbling himself before someone he has wronged, he can
+rewrite the reputation.
+
+Instead of being expected to show charity and concern, now, with the
+collaboration of the others at the table, he is expected to stand up for
+the least against the greatest, lest he become a *coward*. He writes the
+new reputation, with four clean boxes, on his sheet, and begins his new
+existence as a radical preacher.
