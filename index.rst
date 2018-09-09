@@ -59,7 +59,6 @@ To do
  * Content:
    
    + Premade towns
-   + Masterwork spell outcomes
 
  * Appendices:
 

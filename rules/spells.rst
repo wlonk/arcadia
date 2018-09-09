@@ -68,7 +68,10 @@ Having selected a spell to cast from those you know, you should select
 the two, three, or four magical tools you will use to cast the spell.
 The Host will put down cards for those tools, and some related outcomes.
 Always at least "magical corruption", and possibly one or two others,
-like "uncover magical secrets" or "suffer an injury".
+like "uncover magical secrets" or "suffer an injury". If you are casting
+a master-level spell, the Host will also choose an outcome from among
+the masterwork spell outcomes: death magic, transgressive magic,
+treacherous magic, ancient magic, harsh magic, feral magic.
 
 Draw one card per tool and outcome in front of you, plus one because you
 are a magician. If there is a fairy present, you can bargain away

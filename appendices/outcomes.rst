@@ -227,13 +227,13 @@ Use this when you could put your whole family at risk.
 Death magic
 ===========
 
-.. todo:: Describe effects for Masterwork spell outcomes.
-
 If your spell deals with death, spirits, grief, use this.
 
- - Face: No ill effects.
- - 6-10: ??
- - A-5: Change your last mark to "Become a wraith".
+ - Face: You are beloved by Death, and he will not touch you for a year
+   and a day.
+ - 6-10: No effect.
+ - A-5: Change your last mark to "Become a wraith". If it already is,
+   take a permanent mark.
 
 Transgressive magic
 ===================
@@ -241,18 +241,24 @@ Transgressive magic
 If your spell deals with sexuality, blurring class boundaries,
 sacrifice, use this.
 
- - Face: ??
- - 6-10: ??
- - A-5: ??
+ - Face: You attain the blessing of the peccadillo: take one reputation
+   on your sheet and cross out the boxes, cross out the bad reputation.
+   Nothing you can do will damage this reputation again. You may not
+   always enact it, but you cannot lose it.
+ - 6-10: No effect.
+ - A-5: The Three Sisters claim your dreams. Their refined tortures and
+   pleasures are reserved for you, whenever you sleep.
 
 Treacherous magic
 =================
 
 If your spell deals with lies, betrayal, deceit, use this.
 
- - Face: ??
- - 6-10: ??
- - A-5: ??
+ - Face: The Hanged God silvers your tongue, and until you tell a truth,
+   all will believe your lies.
+ - 6-10: No effect.
+ - A-5: The Hanged God splits your tongue, and no one will believe you
+   until the seasons turn.
 
 Ancient magic
 =============
@@ -260,8 +266,10 @@ Ancient magic
 If your spell deals with fairy-things, eternal truths, royal rights, use
 this.
 
- - Face: ??
- - 6-10: ??
+ - Face: You are (mistakenly?) crowned by the hills and the rivers: this
+   land, to its natural borders, is yours until the land realizes its
+   mistake.
+ - 6-10: No effect.
  - A-5: You owe the land a tribute: either find a suitable sacrifice, or
    sacrifice yourself.
 
@@ -270,15 +278,20 @@ Harsh magic
 
 If your spell deals with violence, ruthlessness, privation, use this.
 
- - Face: ??
- - 6-10: ??
- - A-5: ??
+ - Face: You are blood-marked, and the Horned God knows you for his own.
+   You have the right to demand a duel of Arcadian beings.
+ - 6-10: No effect.
+ - A-5: Change your last mark to "become Glatisant". If it already is,
+   take a permanent mark.
 
 Feral magic
 ===========
 
 If your spell deals with beasts, ferocity, wildness, use this.
 
- - Face: ??
- - 6-10: ??
- - A-5: ??
+ - Face: The beasts of the wild recognize in you their sovereign: they
+   will treat you with respect and deference, though not always loyalty.
+ - 6-10: No effect.
+ - A-5: The wilderness claims what was yours: your house, your lands,
+   your name are covered in thorns and briars, and there is no safe
+   passage through.

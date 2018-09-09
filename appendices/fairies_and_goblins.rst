@@ -68,6 +68,7 @@ Choose at least one tell:
  - No shadow.
  - The sound of wind in the trees.
  - The smell of rain on tilled earth.
+ - A form no more substantial than mist.
  - ... or something else.
 
 Fairies
