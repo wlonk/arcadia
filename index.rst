@@ -46,6 +46,8 @@ To do
      can do? What are the basic moves, what the peripheral? Perhaps just
      a small "you may want to try for these outcomes first" on each
      character sheet?
+   + Idea: list the basic outcomes on the sheet inside, highlight
+     particularly relevant ones for each social role.
 
  * Essays:
 
@@ -77,5 +79,8 @@ To do
  * Index document.
  * Get external editor.
  * Get art.
+
+   + Emma Jacobs?
+   + Dylan Meconis?
 
 .. todolist::

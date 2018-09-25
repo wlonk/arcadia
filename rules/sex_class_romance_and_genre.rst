@@ -51,6 +51,9 @@ an alienating one. No magician settles down to a happily-ever-after.
 Even a romance between magicians is a relationship defined around the
 work, and the risks and hazards that come with it.
 
+.. [#] Though it is only "seeming"; all her characters have deep and
+   urgent problems if you scratch beneath the surface.
+
 Playing with Romance
 ====================
 
@@ -108,10 +111,33 @@ interactions could lead to very different things. I would repeat this
 warning if you have, say, a desire for murderous revenge on another
 player, too, but I think romantic feelings are much more likely.
 
-The Comedy of Manners
-=====================
+The Comedy or Tragedy of Manners
+================================
 
-.. todo:: Write about Comedy of Manners and Arcadia.
+The stories we tell with *Arcadia* are mannered stories: the characters
+exist in a world constrained by social expectation, each character
+expected to act in certain ways and potentially being punished for
+stepping outside that role. And yet, that in no way constrains what
+these characters might *want*; passions never exist merely within
+society's expectations.
+
+The genre that might leap to mind, then, for some people is the comedy
+of manners, a genre in which the audience can observe and criticize the
+morals and manners of the day. This game is not that, at least not
+directly. We may look at our modern manners and morals through the lens
+of historical ones, but we don't know when we begin a game of *Arcadia*
+whether it will have a happy or a sad ending. It may as well be a
+tragedy of manners as a comedy. When a character is driven by passions
+but bound by manners, there's a very real possibility of tragedy no
+matter which course they take.
+
+Your characters' reputations and social roles should give you some
+guidelines for what society expects of you, and help you to see how and
+when to step outside those bounds safely, and how and when to do so
+unsafely. But we're modern players, playing a modern game, so if you
+need to express something in modern terms, don't be afraid to do so.
+Like all stories about history, we tell them to make sense of our own
+times.
 
 Sex, class, and privilege
 =========================
@@ -119,6 +145,3 @@ Sex, class, and privilege
 .. todo:: Write about sex and class. Queens and Jacks are not
    unpeople, entirely constrained by the roles society expects them to
    fill.
-
-.. [#] Though it is only "seeming"; all her characters have deep and
-   urgent problems if you scratch beneath the surface.
