@@ -142,6 +142,36 @@ times.
 Sex, class, and privilege
 =========================
 
-.. todo:: Write about sex and class. Queens and Jacks are not
-   unpeople, entirely constrained by the roles society expects them to
-   fill.
+In portraying characters (whether as a main character, or as the Host
+portraying supporting characters), you must navigate a Scylla and
+Charybdis: remember that those with privilege still have problems, and
+those without privilege still have agency. Here, let us talk about the
+latter case.
+
+The social roles in *Arcadia* come in three flavours: powerful and
+privileged men, women of some standing, and those of lower classes. Both
+the female and the lower-class roles still have agency and goals and
+desires, despite a society that seeks to push them into convenient and
+pliant caricatures.
+
+When you play an upper class man, there is very little distance between
+what you must do to pursue your desires, and what society rewards you
+for. The other roles do not have this luxury, and must find ways to
+get what they want while appearing always to be what society expects of
+them. When we consume media that portrays women and servants as only
+perfect exemplars of Regency mores, it can be easy to fall into the trap
+of playing such characters that way ourselves.
+
+How society's expectations restrict behavior manifests differently for
+upper class women and lower class people, and of course for lower class
+women, the intersection puts them in a particularly difficult spot.
+Generally, the female roles will be expected to react, and the lower
+class roles will be expected to obey.
+
+But you must remember, at every turn, that these are people whose wants
+and needs are every bit as real as those with power and privilege, even
+if the ways they can pursue those wants and needs are constrained. Every
+time you find yourself stepping into the shoes of a character lacking
+privilege, take a moment to imagine them fully, and find the ways in
+which, even if they act on the surface like a perfect example of period
+propriety, they do not, in fact, fit perfectly into that mold.

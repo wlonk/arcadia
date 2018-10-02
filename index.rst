@@ -49,11 +49,6 @@ To do
    + Idea: list the basic outcomes on the sheet inside, highlight
      particularly relevant ones for each social role.
 
- * Essays:
-
-   + Comedy of Manners and Arcadia
-   + Sex and class
-
  * Content:
    
    + Premade towns
