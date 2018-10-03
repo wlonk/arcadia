@@ -40,15 +40,6 @@ Et in Arcadia Ego
 To do
 -----
 
- * Design:
-
-   + How do we communicate to players the range of possible things they
-     can do? What are the basic moves, what the peripheral? Perhaps just
-     a small "you may want to try for these outcomes first" on each
-     character sheet?
-   + Idea: list the basic outcomes on the sheet inside, highlight
-     particularly relevant ones for each social role.
-
  * Content:
    
    + Premade towns
