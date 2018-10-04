@@ -23,39 +23,51 @@ For our purposes, we'll divide England into a few macro-regions, and
 talk about each. Then, there are three cities that deserve special
 attention: London, Bath, and Brighton.
 
-.. todo:: Finish regions of England.
-
 .. todo:: Add a magical geography section.
 
 South East
 ~~~~~~~~~~
 
 Consisting of the counties of Berkshire, Buckinghamshire, Hampshire,
-Kent, Oxfordshire, Surrey and Sussex, this is very much what you think
+Kent, Oxfordshire, Surrey, and Sussex, this is very much what you think
 of when you think of Jane Austen's England. Rich farmland supports many
 small towns. There's Canterbury, there's Brighton.
+
+.. todo:: Expand South East.
 
 South West
 ~~~~~~~~~~
 
 Consisting of the counties of Gloucestershire, Wiltshire, Somerset,
-Dorset, Devon and Cornwall, the cities of Bristol and Bath are here.
+Dorset, Devon, and Cornwall, the cities of Bristol and Bath are here.
 Piracy, smuggling, tin, Dartmoor.
+
+.. todo:: Expand South West. Should it include Monmouthshire?
 
 East England
 ~~~~~~~~~~~~
 
 Consisting of the counties of Bedfordshire, Cambridgeshire, Essex,
-Hertfordshire, Norfolk and Suffolk
+Hertfordshire, Huntingdonshire, Norfolk, and Suffolk.
 
-West Midlands
-~~~~~~~~~~~~~
+.. todo:: Expand East England.
 
-East Midlands
-~~~~~~~~~~~~~
+Midlands
+~~~~~~~~
+
+Consisting of the counties of Derbyshire, Herefordshire, Leicestershire,
+Lincolnshire, Northamptonshire, Nottinghamshire, Rutland, Shropshire,
+Staffordshire, Warwickshire, and Worcestershire.
+
+.. todo:: Expand Midlands.
 
 The North
 ~~~~~~~~~
+
+Consisting of the counties of Cheshire, Cumberland, Durham, Lancashire,
+Northumberland, Westmorland, and York.
+
+.. todo:: Expand the North.
 
 London
 ~~~~~~
@@ -66,6 +78,8 @@ small justice shown, and still less pity."
 London is the *axis mundi* of encroaching modernity. It is what pulls
 the land away from Arcadia, and towards the dark Satanic mills of
 Blake's vision.
+
+.. todo:: Expand London.
 
 Religion
 --------
@@ -102,15 +116,49 @@ Presbyterianism
 
 Scotland.
 
-Methodism and Nonconformism
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. todo:: Expand Presbyterianism.
 
-Wales.
+Methodism and its cousins
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In the early 18th century, Anglican priests John Wesley and his brother
+Charles developed a theology and practice of Christianity that they
+insisted was entirely in line with the Church of England, but which the
+Church saw as a threat to its power structure. Because of their
+reputation at school for following a strict code of holy behavior, they,
+and eventually their followers, were labeled "methodists".
+
+While superficially similar to Calvinism, in that they preached
+salvation through faith alone, they believed in free will and the
+ability to choose faith. They were known for preaching in the open air
+and to the poor and those that the Church of England neglected, and
+without regard to parish boundaries. This last point, and their
+encouragement of lay preachers, made the official power structure of the
+Church resent and suspect them.
+
+At this point, Methodism is present all over the country, but has begun
+to really take off in Wales.
 
 The Society of Friends (Quakers)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-George Fox, 1650.
+In the middle of the 17th century, a man from Leicestershire named
+George Fox came to understand that it was possible for anyone to have a
+direct experience of Christ, without the intercession of clergy. He
+started a movement, and his followers formed a small but weighty set of
+people throughout England. While they had especial success in the
+now-independent American colonies, a surprising number of notable
+merchants and craftspeople in England counted themselves as members of
+the Religious Society of Friends, or Quakers as others called them.
+
+The Quakers rejected the hierarchy and structure of the Church of
+England, and preached and practiced a life of material simplicity,
+honesty, and peace. Many of them rejected slave-produced goods, like
+cotton and sugar, and many of them advocated for abolition of the
+practice of slavery in England's colonies, such as the West Indies.
+
+While they were never very many in number, their impact on England of
+this time was outsized.
 
 Judaism
 ~~~~~~~
@@ -119,15 +167,21 @@ Many from Sephardic families, by way of Spain or the Lowlands. After the
 1290 Edict of Expulsion, Cromwell re-admitted Jews in 1657. Things have
 been rocky, but getting more stable, since then.
 
+.. todo:: Expand Judaism.
+
 Islam
 ~~~~~
 
 Mostly Navy men from what is now Bangladesh.
 
+.. todo:: Expand Islam.
+
 Hinduism
 ~~~~~~~~
 
 Very rare.
+
+.. todo:: Expand Hinduism.
 
 Terms of Address
 ----------------
@@ -141,6 +195,8 @@ Addressing superiors
 Addressing inferiors
 
 Intimacy
+
+.. todo:: Expand terms of address.
 
 Currency
 --------
