@@ -278,7 +278,7 @@ The Manor
 ~~~~~~~~~
 
 Each room opens up on to the next, an endless series of chambers and
-hallways and galleries. The windows look out onto enclosed courtyards,
+galleries in enfilade. The windows look out onto enclosed courtyards,
 offering no escape from this endless architecture. The courtyards
 contain sculpted topiaries, in the French style, and fountains, and
 statues that look just a little too lifelike for a magician to be
