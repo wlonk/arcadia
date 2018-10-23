@@ -111,13 +111,6 @@ been made legal again, but Catholics are still barred from certain
 public positions, such as sitting in parliament. Catholic marriages were
 not legally recognized, either.
 
-Presbyterianism
-~~~~~~~~~~~~~~~
-
-Scotland.
-
-.. todo:: Expand Presbyterianism.
-
 Methodism and its cousins
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -160,43 +153,51 @@ practice of slavery in England's colonies, such as the West Indies.
 While they were never very many in number, their impact on England of
 this time was outsized.
 
-Judaism
-~~~~~~~
+Others
+~~~~~~
 
-Many from Sephardic families, by way of Spain or the Lowlands. After the
-1290 Edict of Expulsion, Cromwell re-admitted Jews in 1657. Things have
-been rocky, but getting more stable, since then.
-
-.. todo:: Expand Judaism.
-
-Islam
-~~~~~
-
-Mostly Navy men from what is now Bangladesh.
-
-.. todo:: Expand Islam.
-
-Hinduism
-~~~~~~~~
-
-Very rare.
-
-.. todo:: Expand Hinduism.
+There are many other religions and denominations to be found in England
+at this time: Presbyterians (mostly from Scotland), a decent Jewish
+population (mostly of Sephardic descent, from Spain and the Lowlands,
+and mostly living in or near London), and some Muslims (mostly lascars
+originally from Bengal and Gujarat, now living in port towns). Look up
+Daniel Mendoza, the inventor of Scientific Boxing, or Sake Dean Mahomed,
+who introduced shampoo to England.
 
 Terms of Address
 ----------------
 
-Titles
+A major point of etiquette in this time and place concerns how two
+people might address each other. Titles, family names, and personal
+names all play a part, as do relative social standing and intimacy.
 
-Among equals
+First, if you are addressing someone with an actual title (such as the
+duke, marquess, earl, viscount, or baron of, say, *Newland*), "my lady"
+or "my lord", or "Lady *Newland*" or "Lord *Newland*" will suffice. A
+baronet or knight may be "Sir *John*", and a baronetess or dame would be
+"Dame Mary".
 
-Addressing superiors
+Most people, however, neither have titles themselves, nor regularly
+interact with those who do. For addressing a superior, or an equal with
+whom you are not especially intimate, "Mr." or "Miss" or "Mrs", and then
+their surname, would be appropriate. This includes clergy; while you
+might address a letter to "the Reverend Smith", you would address him in
+conversation as "Mr. Smith".
 
-Addressing inferiors
+When talking about siblings, it is normal to use the first name to make
+clear who you mean, such as "Miss Elizabeth Smith", or perhaps even just
+"Miss Elizabeth" if you are intimate and the context is casual, but the
+eldest daughter would usually simply be "Miss Smith".
 
-Intimacy
+When you are close with a man, and the context is intimate, it is normal
+to use simply his surname: "Smith". For a woman, one might use simply
+her personal name, "Mary", but this demands a much greater degree of
+intimacy, especially if used by a man.
 
-.. todo:: Expand terms of address.
+Social inferiors may be referred to simply by their personal name, and
+if they are a servant with an unusual or noteworthy personal name, it is
+not unusual to instead call them by one more mundane, so an "Ichabod"
+may end up being called "Jacob", or similar.
 
 Currency
 --------
@@ -251,3 +252,34 @@ is the renewal of worship of old king Ludd in the North. Perhaps it is
 simply that the stars are right. But the Old Roads are opening, mirrors
 and rivers and clouds and rain once again bring visitors. Magic is
 returning to England.
+
+There are a number of fairy realms that the magicians of old wrote
+about, some of which are still remembered, and some of which may be
+accessible to the new magicians of the age.
+
+The Iron Coast
+~~~~~~~~~~~~~~
+
+The skeletons of ships broken along the hidden shoals, endless mists and
+howling winds, riches untold hoarded by the merfolk below the surface,
+with beautiful features and the teeth of eels. Most travel by rowboat,
+as it is safer than being at the mercy of the winds, and safer than
+traveling the winding track along the clifftops.
+
+Naddercott, the serpents' wood
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+What is tree and what is snake is hard to tell, and round the roots the
+adders dwell. Light and shadow play around, as serpents slither o'er the
+ground. But Adder's wise, as well as fell, and if you pay, he'll secrets
+tell.
+
+The Manor
+~~~~~~~~~
+
+Each room opens up on to the next, an endless series of chambers and
+hallways and galleries. The windows look out onto enclosed courtyards,
+offering no escape from this endless architecture. The courtyards
+contain sculpted topiaries, in the French style, and fountains, and
+statues that look just a little too lifelike for a magician to be
+certain that they weren't once living people.

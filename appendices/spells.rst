@@ -363,6 +363,7 @@ When you cast spells, it marks your soul.
    and more, this must be taken seriously!)
  - Every room you enter becomes cold, damp, and dark, as long as you are
    present.
+ - Dry, dead leaves gather wherever you linger.
  - Milk, beer, and other drinks sour in your presence.
  - When you try to explain something important, all that comes out are
    ancient and irrelevant stories.
