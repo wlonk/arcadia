@@ -176,7 +176,7 @@ First, if you are addressing someone with an actual title (such as the
 duke, marquess, earl, viscount, or baron of, say, *Newland*), "my lady"
 or "my lord", or "Lady *Newland*" or "Lord *Newland*" will suffice. A
 baronet or knight may be "Sir *John*", and a baronetess or dame would be
-"Dame Mary".
+"Dame *Mary*".
 
 Most people, however, neither have titles themselves, nor regularly
 interact with those who do. For addressing a superior, or an equal with
