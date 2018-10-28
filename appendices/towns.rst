@@ -498,15 +498,1024 @@ Vagabond
 Mistlethwaite (Yorkshire)
 -------------------------
 
+.. todo:: Description
+
+People
+~~~~~~
+
+The XXX of YYY (ZZZ)
+
+ - ... XXX (f)
+ - ... XXX (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+
+The AAA of BBB (CCC)
+
+ - ... AAA (m)
+ - ... AAA (f)
+ - ...(f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+
+The NNN (MMM)
+
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+
+The Town
+~~~~~~~~
+
+People in the town might be:
+
+ - A ...
+ - A ...
+ - A ...
+ - A ...
+ - A ...
+ - A ...
+ - A ...
+
+People in the town might be named:
+
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+
+Locations
+~~~~~~~~~
+
+YYY
+"""
+
+.. todo:: Description.
+
+BBB
+"""
+
+.. todo:: Description
+
+OOO
+"""
+
+.. todo:: Description
+
+OOO
+"""
+
+.. todo:: Description
+
+OOO
+"""
+
+.. todo:: Description
+
+OOO
+"""
+
+.. todo:: Description
+
+Connections
+~~~~~~~~~~~
+
+For 2 players, pick all four. For 3 or 4 players, pick three. For 5
+players, pick two. Make one of them magical in some way: a ghost, a
+fairy, or someone touched by one of those.
+
+Gentleman
+"""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Officer
+"""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Clergyman
+"""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Dandy
+"""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Lady
+""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Companion
+"""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Ward
+""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Spinster
+""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Invalid
+"""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Upper Servant
+"""""""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Lower Servant
+"""""""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Vagabond
+""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
 Egdon Heath (Dorset)
 --------------------
+
+.. todo:: Description
+
+People
+~~~~~~
+
+The XXX of YYY (ZZZ)
+
+ - ... XXX (f)
+ - ... XXX (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+
+The AAA of BBB (CCC)
+
+ - ... AAA (m)
+ - ... AAA (f)
+ - ...(f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+
+The NNN (MMM)
+
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+
+The Town
+~~~~~~~~
+
+People in the town might be:
+
+ - A ...
+ - A ...
+ - A ...
+ - A ...
+ - A ...
+ - A ...
+ - A ...
+
+People in the town might be named:
+
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+
+Locations
+~~~~~~~~~
+
+YYY
+"""
+
+.. todo:: Description.
+
+BBB
+"""
+
+.. todo:: Description
+
+OOO
+"""
+
+.. todo:: Description
+
+OOO
+"""
+
+.. todo:: Description
+
+OOO
+"""
+
+.. todo:: Description
+
+OOO
+"""
+
+.. todo:: Description
+
+Connections
+~~~~~~~~~~~
+
+For 2 players, pick all four. For 3 or 4 players, pick three. For 5
+players, pick two. Make one of them magical in some way: a ghost, a
+fairy, or someone touched by one of those.
+
+Gentleman
+"""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Officer
+"""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Clergyman
+"""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Dandy
+"""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Lady
+""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Companion
+"""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Ward
+""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Spinster
+""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Invalid
+"""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Upper Servant
+"""""""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Lower Servant
+"""""""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Vagabond
+""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
 
 Thorpe Michael (Norfolk)
 ------------------------
 
+.. todo:: Description
+
+People
+~~~~~~
+
+The XXX of YYY (ZZZ)
+
+ - ... XXX (f)
+ - ... XXX (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+
+The AAA of BBB (CCC)
+
+ - ... AAA (m)
+ - ... AAA (f)
+ - ...(f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+
+The NNN (MMM)
+
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+
+The Town
+~~~~~~~~
+
+People in the town might be:
+
+ - A ...
+ - A ...
+ - A ...
+ - A ...
+ - A ...
+ - A ...
+ - A ...
+
+People in the town might be named:
+
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+
+Locations
+~~~~~~~~~
+
+YYY
+"""
+
+.. todo:: Description.
+
+BBB
+"""
+
+.. todo:: Description
+
+OOO
+"""
+
+.. todo:: Description
+
+OOO
+"""
+
+.. todo:: Description
+
+OOO
+"""
+
+.. todo:: Description
+
+OOO
+"""
+
+.. todo:: Description
+
+Connections
+~~~~~~~~~~~
+
+For 2 players, pick all four. For 3 or 4 players, pick three. For 5
+players, pick two. Make one of them magical in some way: a ghost, a
+fairy, or someone touched by one of those.
+
+Gentleman
+"""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Officer
+"""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Clergyman
+"""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Dandy
+"""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Lady
+""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Companion
+"""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Ward
+""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Spinster
+""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Invalid
+"""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Upper Servant
+"""""""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Lower Servant
+"""""""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Vagabond
+""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
 Hexwick (Northumberland)
 ------------------------
+
+.. todo:: Description
+
+People
+~~~~~~
+
+The XXX of YYY (ZZZ)
+
+ - ... XXX (f)
+ - ... XXX (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+
+The AAA of BBB (CCC)
+
+ - ... AAA (m)
+ - ... AAA (f)
+ - ...(f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+
+The NNN (MMM)
+
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+
+The Town
+~~~~~~~~
+
+People in the town might be:
+
+ - A ...
+ - A ...
+ - A ...
+ - A ...
+ - A ...
+ - A ...
+ - A ...
+
+People in the town might be named:
+
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+
+Locations
+~~~~~~~~~
+
+YYY
+"""
+
+.. todo:: Description.
+
+BBB
+"""
+
+.. todo:: Description
+
+OOO
+"""
+
+.. todo:: Description
+
+OOO
+"""
+
+.. todo:: Description
+
+OOO
+"""
+
+.. todo:: Description
+
+OOO
+"""
+
+.. todo:: Description
+
+Connections
+~~~~~~~~~~~
+
+For 2 players, pick all four. For 3 or 4 players, pick three. For 5
+players, pick two. Make one of them magical in some way: a ghost, a
+fairy, or someone touched by one of those.
+
+Gentleman
+"""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Officer
+"""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Clergyman
+"""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Dandy
+"""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Lady
+""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Companion
+"""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Ward
+""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Spinster
+""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Invalid
+"""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Upper Servant
+"""""""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Lower Servant
+"""""""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Vagabond
+""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
 
 Crickworth (Wiltshire)
 ----------------------
 
+.. todo:: Description
+
+People
+~~~~~~
+
+The XXX of YYY (ZZZ)
+
+ - ... XXX (f)
+ - ... XXX (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+
+The AAA of BBB (CCC)
+
+ - ... AAA (m)
+ - ... AAA (f)
+ - ...(f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+
+The NNN (MMM)
+
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+
+The Town
+~~~~~~~~
+
+People in the town might be:
+
+ - A ...
+ - A ...
+ - A ...
+ - A ...
+ - A ...
+ - A ...
+ - A ...
+
+People in the town might be named:
+
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+ - ... (f)
+ - ... (m)
+
+Locations
+~~~~~~~~~
+
+YYY
+"""
+
+.. todo:: Description.
+
+BBB
+"""
+
+.. todo:: Description
+
+OOO
+"""
+
+.. todo:: Description
+
+OOO
+"""
+
+.. todo:: Description
+
+OOO
+"""
+
+.. todo:: Description
+
+OOO
+"""
+
+.. todo:: Description
+
+Connections
+~~~~~~~~~~~
+
+For 2 players, pick all four. For 3 or 4 players, pick three. For 5
+players, pick two. Make one of them magical in some way: a ghost, a
+fairy, or someone touched by one of those.
+
+Gentleman
+"""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Officer
+"""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Clergyman
+"""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Dandy
+"""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Lady
+""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Companion
+"""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Ward
+""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Spinster
+""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Invalid
+"""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Upper Servant
+"""""""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Lower Servant
+"""""""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...
+
+Vagabond
+""""""""
+
+ - ...
+ - ...
+ - ...
+ - ...

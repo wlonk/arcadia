@@ -23,8 +23,6 @@ For our purposes, we'll divide England into a few macro-regions, and
 talk about each. Then, there are three cities that deserve special
 attention: London, Bath, and Brighton.
 
-.. todo:: Add a magical geography section.
-
 South East
 ~~~~~~~~~~
 
@@ -42,7 +40,7 @@ Consisting of the counties of Gloucestershire, Wiltshire, Somerset,
 Dorset, Devon, and Cornwall, the cities of Bristol and Bath are here.
 Piracy, smuggling, tin, Dartmoor.
 
-.. todo:: Expand South West. Should it include Monmouthshire?
+.. todo:: Expand South West.
 
 East England
 ~~~~~~~~~~~~
@@ -80,6 +78,9 @@ the land away from Arcadia, and towards the dark Satanic mills of
 Blake's vision.
 
 .. todo:: Expand London.
+
+While the action of a game may *move* to London, I strongly encourage
+you to not set a game here.
 
 Religion
 --------
@@ -253,18 +254,24 @@ simply that the stars are right. But the Old Roads are opening, mirrors
 and rivers and clouds and rain once again bring visitors. Magic is
 returning to England.
 
+The Realms of Fairy
+-------------------
+
 There are a number of fairy realms that the magicians of old wrote
 about, some of which are still remembered, and some of which may be
-accessible to the new magicians of the age.
+accessible to the new magicians of the age. As no mortal has been to
+Fairy in three hundred years, and time moves very differently in Fairy,
+these places may be very different by now.
 
 The Iron Coast
 ~~~~~~~~~~~~~~
 
 The skeletons of ships broken along the hidden shoals, endless mists and
 howling winds, riches untold hoarded by the merfolk below the surface,
-with beautiful features and the teeth of eels. Most travel by rowboat,
-as it is safer than being at the mercy of the winds, and safer than
-traveling the winding track along the clifftops.
+with beautiful features and the teeth of eels. Most non-aquatic people
+here travel by rowboat, as it is safer than being at the mercy of the
+winds, and safer than traveling the narrow winding track along the
+clifftops.
 
 Naddercott, the serpents' wood
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -283,3 +290,15 @@ offering no escape from this endless architecture. The courtyards
 contain sculpted topiaries, in the French style, and fountains, and
 statues that look just a little too lifelike for a magician to be
 certain that they weren't once living people.
+
+The Greenspace
+~~~~~~~~~~~~~~
+
+Somewhere in Fairy, if you stray and don't think about where you're
+going, you may find a glade in the forest. It's always summer, and the
+weather is always perfect. There's a white stag you can see if you're
+lucky, just flitting off into the trees. This is where fairies sign
+their treaties and meet with no weapons in their hands. This place is
+sacred, and a mortal trespassing in it will earn a death sentence. But
+as long as they remain in the Greenspace, no fairy may lift a finger
+against them.

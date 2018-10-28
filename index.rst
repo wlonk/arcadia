@@ -46,7 +46,6 @@ To do
 
  * Appendices:
 
-   + Regions of England
    + Magical geography
 
  * Edit and relayout:
