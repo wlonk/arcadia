@@ -179,7 +179,7 @@ or to create your own.
 
 Certain outcomes will say that the fairy gains a "strand" on a magician.
 This is how they steal magicians, and represents a bit of obligation and
-control that the fairy has over the magician. Once a fairy has four
+control that the fairy has over the magician. Once a fairy has five
 strands on a magician, they may steal them away to their fairy realm at
 their pleasure. No one has escaped from fairyland under their own power,
 but there are stories of magicians rescuing their loved ones from fairy,

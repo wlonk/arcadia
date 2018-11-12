@@ -44,21 +44,10 @@ To do
    
    + Premade towns
 
- * Appendices:
-
-   + Magical geography
-
- * Edit and relayout:
+ * Edit:
 
    + The Host
    + Fairies
-   + Outcomes.pdf
-   + Spellcasting.pdf
-
- * Fix InDesign file structure:
-
-   + Social Roles.pdf
-   + Town - \*.pdf
 
  * Make good PDF Sphinx output.
  * Index document.
