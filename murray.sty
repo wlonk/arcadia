@@ -42,6 +42,8 @@
 
 %%% Table of Contents (ToC) styles
 
+% TODO: Space out Roman numeral and section title in TOC.
+
 %%% Chapter headings styles
 
 \usepackage{titlesec}
@@ -71,14 +73,21 @@
 \RequirePackage{titlesec}
 \titleformat{\section}[block]{\scshape}{}{1em}{}
 \titleformat{\subsection}[block]{\scshape}{}{1em}{}
+% TODO: Differentiate these:
+\titleformat{\subsubsection}[block]{\scshape}{}{1em}{}
+\titleformat{\paragraph}[block]{\scshape}{}{1em}{}
 
 %%% Unordered list styles
 
+% TODO: Improve this:
 \renewcommand{\labelitemi}{---}
 
 %%% Table styles
 
 %%% Image/Figure styles
+
+% TODO: something like this?
+% \DeclareFloatingEnvironment{figure}
 
 %%% Sidebars, topics, todos styles
 

@@ -66,7 +66,10 @@ amoral *thing* with a limited lifespan.
 Certain spells can change your final mark from "become a fetch" to
 other, stranger things. These include a *wraith*, a spirit and mind
 without a body, cursed to linger on Earth, or *Glatisant*, the questing
-beast pursued tirelessly by the Wild Hunt.
+beast pursued tirelessly by the Wild Hunt. In any case, the same
+applies as for a fetch: unless you want to play a very different
+character, pass your character to the Host, and they will know the
+constraints governing your character's new existence.
 
 Damaged reputations
 -------------------
