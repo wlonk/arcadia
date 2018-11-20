@@ -2,13 +2,20 @@
 \ProvidesPackage{murray}[2018/01/04 v0.1.0 Murray package]
 
 %%% Basics
-\setmainfont[
+\usepackage{fontspec}
+\usepackage[Latin, MiscellaneousSymbols]{ucharclasses}
+
+\newfontfamily{\symbolsfont}{Apple Symbols}
+\setmainfont{Hoefler Text}[
 	Mapping=tex-text,
-	ItalicFeatures={Alternate=0},
-	Ligatures={Common,Rare},
+    ItalicFeatures={Alternate=0,Ligatures={Common,Rare}},
+	Ligatures={Common},
 	Alternate=1,
 	Numbers=OldStyle
-]{Hoefler Text}
+]
+
+\setTransitionTo{MiscellaneousSymbols}{\symbolsfont}
+\setTransitionFrom{MiscellaneousSymbols}{\normalfont}
 
 \RequirePackage[defaultlines=2,all]{nowidow}
 
@@ -38,11 +45,21 @@
 
 % TODO: Chapter initial drop caps. Lettrine?
 
+% Commonly used:
+\usepackage{adforn}
+\usepackage{pgfornament}
+
 %%% Title page styles
 
 %%% Table of Contents (ToC) styles
 
-% TODO: Space out Roman numeral and section title in TOC.
+\usepackage{titletoc}
+ 
+\titlecontents{chapter}[3em]
+   {}
+   {\contentslabel{3em}}
+   {}
+   {\titlerule*[1pc]{.}\contentspage}
 
 %%% Chapter headings styles
 
@@ -63,7 +80,6 @@
 } % before-code
 [
 \vspace{-0.5ex}%
-\rule{\textwidth}{0.3pt}
 ] % after-code
 
 \renewcommand{\thechapter}{\@Roman\c@chapter}
@@ -71,16 +87,13 @@
 %%% Headings styles
 
 \RequirePackage{titlesec}
-\titleformat{\section}[block]{\scshape}{}{1em}{}
-\titleformat{\subsection}[block]{\scshape}{}{1em}{}
-% TODO: Differentiate these:
-\titleformat{\subsubsection}[block]{\scshape}{}{1em}{}
-\titleformat{\paragraph}[block]{\scshape}{}{1em}{}
+\titleformat{\section}[block]{\Large}{}{0em}{}
+\titleformat{\subsection}[block]{\large}{}{0em}{}
+\titleformat{\subsubsection}[block]{\itshape\large}{}{0em}{}
+\titleformat{\paragraph}[block]{\scshape}{}{0em}{}
 
 %%% Unordered list styles
-
-% TODO: Improve this:
-\renewcommand{\labelitemi}{---}
+\renewcommand{\labelitemi}{\adforn{36}}
 
 %%% Table styles
 
@@ -94,19 +107,22 @@
 \usepackage{newfloat}
 
 \DeclareFloatingEnvironment{sidebar}
-\setlength{\unitlength}{0.6\textwidth}
+\setlength{\unitlength}{0.8\textwidth}
+\setlength{\parindent}{2em}
+\setlength{\parskip}{0em}
 
 \renewenvironment{sphinxShadowBox}
   {
     \begin{sidebar}
     \begin{center}
-	{\resizebox*{\unitlength}{\baselineskip}{\rotatebox{90}{$\}$}}}\\[\baselineskip]
+        \pgfornament[scale=0.3]{88}
     \end{center}
+    \setlength{\parindent}{2em}
   }
   {
     \vspace{1ex}
     \begin{center}
-	{\resizebox*{\unitlength}{\baselineskip}{\rotatebox{-90}{$\}$}}}
+        \pgfornament[scale=0.3]{88}
     \end{center}
     \end{sidebar}
   }

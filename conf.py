@@ -23,6 +23,7 @@
 
 # -- General configuration ------------------------------------------------
 
+
 rst_epilog = """
 .. |either| unicode:: U+26A5 .. male and female sign
 .. |female| unicode:: U+2640 .. female sign
@@ -59,7 +60,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Et in Arcadia ego'
-copyright = u'2017, Kit La Touche'
+copyright = u'2018, Kit La Touche'
 author = u'Kit La Touche'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -87,7 +88,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 pygments_style = 'sphinx'
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
-todo_include_todos = True
+todo_include_todos = False
 
 
 # -- Options for HTML output ----------------------------------------------
@@ -148,6 +149,7 @@ htmlhelp_basename = 'Arcadia'
 
 # -- Options for LaTeX output ---------------------------------------------
 
+latex_engine = 'xelatex'
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     # 'papersize': 'letterpaper',
@@ -180,8 +182,6 @@ latex_elements = {
     # \fontspec[Ligatures={Common, Rare}, Alternate=1]{Hoefler Text}
     # ''',
 }
-
-latex_engine = 'xelatex'
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
