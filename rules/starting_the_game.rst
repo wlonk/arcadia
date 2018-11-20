@@ -119,4 +119,4 @@ And here, suddenly, is a chance to hatch a plan, and make clear how the
 two characters feel about each other and Mr. Grosvenor.
 
 You see the pattern? It's two characters with a relationship to a third,
-in a situation intended to force some reaction to that relationship.
+in a situation that will force a reaction.

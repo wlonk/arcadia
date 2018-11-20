@@ -6,6 +6,15 @@ The year is 1814. England is at war, with Wellington keeping the French
 at bay in the Peninsula. The king, George III, has gone mad, and his
 son, Prince George, has been appointed Prince Regent.
 
+The well-to-do members of the *bon ton* spend their summers at their
+country houses, and their winters in London, during the season. They
+take trips to Bath, or to the newly-fashionable seaside resorts such as
+Brighton. They attend balls and eat feasts and then the ladies withdraw
+to the drawing room while the men smoke and pass the port.
+
+But this is not simply the England of the Regency; it is altogether more
+magical.
+
 .. sidebar:: Timeline
 
    1811: The revival fails when the revivalist vanishes.
@@ -17,15 +26,6 @@ son, Prince George, has been appointed Prince Regent.
    culminating in his defeat in June at Waterloo.
 
    1816: The Year without a Summer.
-
-The well-to-do members of the *bon ton* spend their summers at their
-country houses, and their winters in London, during the season. They
-take trips to Bath, or to the newly-fashionable seaside resorts such as
-Brighton. They attend balls and eat feasts and then the ladies withdraw
-to the drawing room while the men smoke and pass the port.
-
-But this is not simply the England of the Regency; it is altogether more
-magical.
 
 Three centuries ago, English magic faded, as the Ladies of the Lake left
 the mortal realm. Three years ago, the revival of English magic failed.
