@@ -1,6 +1,6 @@
-============================
-Making Characters and a Town
-============================
+==========================
+Making Characters & a Town
+==========================
 
 When you sit down to play, one person will play the role of the *Host*,
 and will be responsible for adversity, supporting characters, fairies

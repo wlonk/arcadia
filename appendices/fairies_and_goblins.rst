@@ -1,8 +1,8 @@
 .. _appendix-Fairies and goblins:
 
-=============================
-Appendix: Fairies and goblins
-=============================
+===========================
+Appendix: Fairies & goblins
+===========================
 
 The beings of Arcadia are divided by mortal scholars into two
 categories: the powerful, noble, and inscrutable fairies, and the base,
@@ -74,14 +74,6 @@ Choose at least one tell:
 Fairies
 =======
 
-.. todo:: Edit fairies.
-
-.. todo::
-
-   Detail the magical powers of each fairy. What can they do without
-   thinking, what can they do with great effort?
-
-
 These are the rulers of Arcadia, the nobles and dominions of that other
 land.
 
@@ -149,7 +141,7 @@ in surprising places. He sees deeds of arms and valour as the evidence
 of this nobility. He desires nothing so much as to destroy the low-born
 cullions and varlets who are putting on airs of greatness with their
 newfound money. To do this, he is happy to break machinery, but happier
-to break men.
+yet to break men.
 
 Choose among the highest status characters present. One is his nemesis,
 in whom he sees nothing but baseness. He will seek that character's
@@ -161,8 +153,9 @@ strength. No, he must help them towards their destiny.
 The Lady in the Lake
 --------------------
 
-The Lady in the Lake is a figure of surpassing beauty and wisdom. Those
-she befriends will prosper, and those she hates will stumble and fall.
+The Lady in the Lake (not to be confused with the half-fairy Ladies *of*
+the Lake) is a figure of surpassing beauty and wisdom. Those she
+befriends will prosper, and those she hates will stumble and fall.
 While she would never *admit* that she was the same who gave King Arthur
 his power, she does not deny it, either.
 
@@ -170,7 +163,7 @@ She is tall and willowy, wearing diaphanous white gowns of the latest
 fashion. Her hair falls in golden tresses, like light shining off a
 brook. She is exacting in her demands, and never forgives a
 transgression. Obedience is the highest virtue in her world, and while
-she would never make an *unreasonable* demand, neither must her
+she would never make an *unreasonable* demand, neither may her
 requirements be questioned.
 
 Old Iron-boots
@@ -204,12 +197,19 @@ her false friends.
 The Three Sisters
 -----------------
 
-Hecate, the phases of the moon, virgin goddesses, inseparable, wild
-mistresses of storms physical and social, demanding *amusement* and
-*secrets* before all else.
+Some say that these were the weird sisters that Macbeth saw upon the
+heath. Some say that they are the goddess Hecate, or whatever inspired
+her legends. They are also the phases of the moon, but above all,
+spirits of the storm. They revel in chaos, in order turned upside-down
+and ships and lives broken upon the rocks. They love secrets, and giving
+them out in half-measures to those who will misunderstand them. They are
+inseparable, and they do not need words to communicate with each other.
 
-Fetches and Wraiths
-===================
+They will usually find a champion and promise them their heart's desire,
+and never make clear how the path there is bloody and doomed.
+
+Fetches, Wraiths, & Glatisant
+=============================
 
 When a magician irreparably damages their soul with magic, they may
 become a fetch or a wraith. These things bridge the border between
@@ -244,3 +244,14 @@ its will on the world except through casting spells it knew in life.
 Further, because a wraith is, in many ways, dead, it can only cast
 spells if it is given a source of magic: either by serving a fairy, or
 by magician knowingly giving their own blood (and taking a wound).
+
+Finally, Glatisant is the Questing Beast, the object of the Wild Hunt.
+All the lords and ladies of Fairy, but most particularly the Horned God,
+participate in the Hunt from time to time. A Glatisant may take whatever
+form their magics allow them, but they are cursed in two ways: first,
+they may never rest as the Wild Hunt pursues them, and second they can
+only speak in barks and yelps; the tongues of mortals, fairies, and Hell
+are all beyond their ability. They must serve in this role until they
+are caught, killed, and butchered by the Hunt, or some other poor
+magician stumbles into the role. Glatisant, of course, never ages and
+can die in no way but at the hands of the Hunt.

@@ -49,14 +49,8 @@ To do
    
    + Premade towns
 
- * Edit:
-
-   + The Host
-   + Fairies
-
- * Make good PDF Sphinx output.
- * Index document.
  * Get external editor.
+ * Index document.
  * Get art.
 
    + Emma Jacobs?

@@ -1,6 +1,6 @@
-==============================
-Sex, Class, Romance, and Genre
-==============================
+============================
+Sex, Class, Romance, & Genre
+============================
 
 What follows are some essays on a few matters of particular concern to
 the players of *Arcadia*.

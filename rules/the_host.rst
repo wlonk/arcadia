@@ -2,8 +2,6 @@
 The Host
 ========
 
-.. todo:: Edit the Host section.
-
 As the Host, you have some particular duties and particular rules to
 follow. Your role is in some ways more difficult, and in some ways
 easier than everyone else's.
@@ -29,7 +27,11 @@ That means *verisimilitudinous*, and that means that supporting
 characters should act with some sort of consistent psychological
 reality, and socially damaging actions should have repercussions and
 supporting characters should pursue their own agendas even when not on
-stage.
+stage. It does not mean that you or anyone else should demand the exact
+proper forms of address and the proper placement of silverware. Inasmuch
+as those help express characters, their desires, and their
+relationships, they are valuable, but as a cudgel to use on the other
+players at the table, they are worse than useless.
 
 Make magic seem rooted in the world
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -38,7 +40,10 @@ Magic is a force with a will. It is an ancient and inscrutable and
 enormous thing. But it is a thing that is, ultimately, of this world. It
 is the way the world expresses itself, and some humans have just found a
 way to converse with it. It is the trees and the rivers, the rain and
-the hills. It is not abstract, scientific, mechanical.
+the hills. It is not abstract, scientific, mechanical. Magic does not
+like being treated as a vending machine, as a process that can be relied
+upon with no *quid pro quo*. Magic lives among the trees, on the wind,
+and in the stones.
 
 Make the characters' lives worthy of the telling
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -47,7 +52,8 @@ This isn't, and shouldn't be, a story about people defeating Napoleon on
 the battlefield, but the characters' lives should be interesting for
 their own sake. If you would put down this book, then step back a moment
 and try to see how things could be more interesting. Then push in that
-direction.
+direction. This is a game where you are not saving the world, but
+perhaps saving yourselves.
 
 Remember that nothing is written
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -72,6 +78,11 @@ defined by mutual obligation, and the main characters are not exempt
 from this simply because they wield magic. Every supporting character
 will have plans for them, and it is up to you to push those plans.
 
+This goes in both directions, too: a social superior may easily try to
+exert pressure on a main character, as Lady Catherine does to Lizzy, but
+a servant may as easily try to shape their master's behavior for their
+own benefit.
+
 Principles concerning the world
 -------------------------------
 
@@ -82,9 +93,11 @@ particular.
  * Show how the world is unjust.
  * Show how everyone is obligated and bound.
  * Remember that disaster lurks around the corner.
- * Make consequences real: relationships break, people die, fortunes are lost.
+ * Make consequences real: relationships break, people die, fortunes are
+   lost.
  * Be a fan, not just a threat.
- * Never worry about historical detail; as long as you all agree to it, it's so.
+ * Never worry about historical detail; as long as you all agree to it,
+   it's so.
  * Show what will happen if the main characters do not act.
 
 Principles concerning magic
@@ -163,7 +176,7 @@ broken, to see someone murdered, to hear the cries of a lost and lonely
 child, to see good wheat rotting in the field.
 
 Fairies, though, all at root share an esoteric desire: to possess and
-steal away magicians. There are stories of magicians with fairy
+steal away mortal magicians. There are stories of magicians with fairy
 assistants back in the golden age of magic, but these magicians, even
 when they understood quite well what they were doing, walked a razor's
 edge. The reasons a fairy might want to possess magicians might vary: as

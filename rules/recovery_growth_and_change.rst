@@ -1,8 +1,8 @@
 .. _recovery, growth, and change:
 
-============================
-Recovery, Growth, and Change
-============================
+==========================
+Recovery, Growth, & Change
+==========================
 
 Over play, characters will acquire various scars: magical marks, damaged
 reputations, wounds, and runaway emotions. You have to be able to
