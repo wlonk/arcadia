@@ -42,6 +42,7 @@ Choose two or three powers:
  - To make worthless things look like gold.
  - To lull people to sleep with their song.
  - To shrug off the fiercest blow.
+ - To squeeze through the smallest opening.
  - To make anyone who looks at them feel love.
  - ... or something else.
 

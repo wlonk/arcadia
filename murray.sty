@@ -1,10 +1,16 @@
 \NeedsTeXFormat{LaTeX2e}[1995/12/01]
 \ProvidesPackage{murray}[2018/01/04 v0.1.0 Murray package]
 
-%%% Basics
 \usepackage{fontspec}
 \usepackage[Latin, MiscellaneousSymbols]{ucharclasses}
+\usepackage{fancyhdr}
+\usepackage{adforn}
+\usepackage{pgfornament}
+\usepackage{titletoc}
+\usepackage{titlesec}
+\usepackage{newfloat}
 
+%%% Basics
 \newfontfamily{\symbolsfont}{Apple Symbols}
 \setmainfont{Hoefler Text}[
 	Mapping=tex-text,
@@ -24,17 +30,20 @@
 \geometry{papersize={6in,9in}, layoutsize={5.5in,8.5in}, twoside=true}
 
 %%% Footer styles
-\usepackage{fancyhdr}
- 
 \pagestyle{fancy}
 \fancyhf{}
 \fancyfoot[LE,RO]{\thepage}
 \renewcommand{\headrulewidth}{0pt}
 
 \fancypagestyle{plain}{%
-\fancyhf{} % clear all header and footer fields
-\fancyfoot[LE,RO]{\thepage}
-\renewcommand{\headrulewidth}{0pt}
+    \fancyhf{} % clear all header and footer fields
+    \fancyfoot[LE,RO]{\thepage}
+    \renewcommand{\headrulewidth}{0pt}
+}
+\fancypagestyle{normal}{%
+    \fancyhf{} % clear all header and footer fields
+    \fancyfoot[LE,RO]{\thepage}
+    \renewcommand{\headrulewidth}{0pt}
 }
 
 % TODO: lay out text block area.
@@ -45,16 +54,9 @@
 
 % TODO: Chapter initial drop caps. Lettrine?
 
-% Commonly used:
-\usepackage{adforn}
-\usepackage{pgfornament}
-
 %%% Title page styles
 
 %%% Table of Contents (ToC) styles
-
-\usepackage{titletoc}
- 
 \titlecontents{chapter}[3em]
    {}
    {\contentslabel{3em}}
@@ -62,9 +64,6 @@
    {\titlerule*[1pc]{.}\contentspage}
 
 %%% Chapter headings styles
-
-\usepackage{titlesec}
- 
 \titleformat
 {\chapter} % command
 [display] % shape
@@ -103,9 +102,6 @@
 % \DeclareFloatingEnvironment{figure}
 
 %%% Sidebars, topics, todos styles
-
-\usepackage{newfloat}
-
 \DeclareFloatingEnvironment{sidebar}
 \setlength{\unitlength}{0.8\textwidth}
 \setlength{\parindent}{2em}

@@ -22,10 +22,10 @@ In addition to the fact that her work is edited, and therefore can have
 a kind of tightness and attention to detail that an improvisational
 medium like a game can never achieve, she is also perhaps one of the
 best writers in all of English literature. She can make characters who
-seem [#]_ to have no problems engaging, which is a feat that I would not
-suggest any player attempt. A character with problems and insecurities
-is one with immediate needs and drives, and keeps you as a player
-urgently engaged with the events of the game.
+seem [#]_ to have no problems still be engaging, which is a feat that I
+would not suggest any player attempt. A character with problems and
+insecurities is one with immediate needs and drives, and keeps you as a
+player urgently engaged with the events of the game.
 
 If you must take a Jane Austen character as a model, think of Lydia
 Bennet, Catherine Morland, Marianne Dashwood. Think of Frank Churchill,
