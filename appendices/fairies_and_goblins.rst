@@ -132,7 +132,7 @@ his eye as *quarry*.
 King Ludd
 ---------
 
-The Old King of the North, Ludd (or Llud of the Silver Hand) cuts a
+The Old King of the North, Ludd (or Lludd of the Silver Hand) cuts a
 regal figure, adorned in robes and brocades all of the finest fabrics
 and furs. His right arm or hand is a silver prosthetic, worked with
 exquisite filigree, and perfectly functional.

@@ -29,43 +29,98 @@ South East
 Consisting of the counties of Berkshire, Buckinghamshire, Hampshire,
 Kent, Oxfordshire, Surrey, and Sussex, this is very much what you think
 of when you think of Jane Austen's England. Rich farmland supports many
-small towns. There's Canterbury, there's Brighton.
+small towns. You're not too far from London, and so the rich who spend
+the Season in London and the off-Season at their country houses are most
+likely to be found in this region. The seat of the foremost of Anglican
+bishops is here, too, at Canterbury.
 
-.. todo:: Expand South East.
+You have also the closest thing that England has to pleasant beaches,
+and as sea-bathing has become a fashionable medical (or quasi-medical)
+cure, towns like Brighton have begun to boom. But this coast is also
+where a French invasion would be most likely, and so the Navy patrols
+extensively, and militiamen walk the coast keeping an eye out for enemy
+sails. Meanwhile, the men of the *Cinque Ports* believe their ancient
+rights let them import luxury goods like brandy and silk from France
+without tax, while the Revenue men brand them smugglers.
 
 South West
 ~~~~~~~~~~
 
 Consisting of the counties of Gloucestershire, Wiltshire, Somerset,
-Dorset, Devon, and Cornwall, the cities of Bristol and Bath are here.
-Piracy, smuggling, tin, Dartmoor.
+Dorset, Devon, and Cornwall, the South West covers a range of landscapes
+and lifestyles. In Cornwall, life is hard and local politics is very
+corrupt. Mine-owners seek to extract what tin and copper remain, while
+fishermen turn to smuggling and piracy to make ends meet. But in the
+north and east of this region, the land is more giving and there are
+even fashionable resorts, like Bath and Lyme Regis, and the wealthy
+trading port of Bristol. While any slave who once walks on English soil
+is free, that same privilege does not extend to British holdings in the
+West Indies, and many abolitionists decry Bristol as a city made rich
+through great injustice.
 
-.. todo:: Expand South West.
+Perhaps the most striking natural feature of this region is Dartmoor, a
+large area of moorland in the middle of Devon. It is covered with sparse
+vegetation and hills topped with granite pillars known as *tors*. At
+night the mists lie heavily on the moor, and locals say you can hear the
+fairy-hounds baying and the Wild Hunt riding through the air.
 
 East England
 ~~~~~~~~~~~~
 
 Consisting of the counties of Bedfordshire, Cambridgeshire, Essex,
-Hertfordshire, Huntingdonshire, Norfolk, and Suffolk.
+Hertfordshire, Huntingdonshire, Norfolk, and Suffolk, the East is marked
+by low-lying fens and extensive waterways, and few here are not
+comfortable on a boat. Much of the land is even reclaimed bogs. But it
+is fertile land, and the farmers of the East have long been proud of
+their wealth and position. That is changing, as the mills of the North
+and the Midlands begin to eclipse the wealth one can find in sheep and
+horses.
 
-.. todo:: Expand East England.
+No one likes to see their stability and status vanish, and those who
+live in East Anglia are no different. They are trying to diversify, and
+trying to use the force of government and law to shore up their
+position. The East was a stronghold of the Puritan Parliamentarians
+during the civil war, though, and their factions ultimate loss has not
+left them with much credit among the subsequent monarchs. So the
+landholders will go to great lengths to emphasize their loyalty to the
+crown.
 
 Midlands
 ~~~~~~~~
 
 Consisting of the counties of Derbyshire, Herefordshire, Leicestershire,
 Lincolnshire, Northamptonshire, Nottinghamshire, Rutland, Shropshire,
-Staffordshire, Warwickshire, and Worcestershire.
-
-.. todo:: Expand Midlands.
+Staffordshire, Warwickshire, and Worcestershire, the Midlands are
+divided east-to-west by the line of the old Danelaw. The region is home
+to a mixture of the rich farmlands of the south, the growing industrial
+power of the north, and a foment of natural, spiritual, and mystical
+philosophy all its own. Great minds like that of Sir Isaac Newton,
+Erasmus Darwin, and James Watt all call or called this area home, and
+while the philosophical Lunar Society of Birmingham has collapsed, its
+influence is still felt.
 
 The North
 ~~~~~~~~~
 
 Consisting of the counties of Cheshire, Cumberland, Durham, Lancashire,
-Northumberland, Westmorland, and York.
+Northumberland, Westmorland, and York. The North has for a long time had
+a distinct identity from the rest of England. In the aftermath of the
+Norman invasion, and William the Conqueror taking the throne, many of
+the Northern lords refused to bend the knee to him, and rallied behind
+the last Anglo-Danish claimant to the throne. When they lost, their
+lands were ravaged, their people killed, their treasures taken. This
+wrong has not been forgotten, and a kind of distrust and enmity remain
+between Northerners and Southerners, though many no longer quite know
+why.
 
-.. todo:: Expand the North.
+Compounding matters, the hardscrabble land of the North is now yielding
+a new kind of wealth, a wealth derived from mines and factories.
+Textiles, coal, and iron are making a new set of people in the North
+rich, and driving yet others into more abject poverty. The followers of
+old King Ludd, the ancient fairy king of the North, have been breaking
+the industrial looms to protest this oppression, and the government has
+held show-trials in this past year, and made "machine breaking" a crime
+punishable by death.
 
 London
 ~~~~~~
@@ -73,14 +128,45 @@ London
 Famously, the poet Shelley once said "Hell is a city much like London...
 small justice shown, and still less pity."
 
-London is the *axis mundi* of encroaching modernity. It is what pulls
-the land away from Arcadia, and towards the dark Satanic mills of
-Blake's vision.
-
-.. todo:: Expand London.
+London is the driving force of encroaching modernity. If anything will
+close the gates to magic and Fairyland again, it will come from London.
+Magicians find it more difficult to cast spells in London, just as they
+do when they are further from England's shores.
 
 While the action of a game may *move* to London, I strongly encourage
 you to not set a game here.
+
+Bath
+~~~~
+
+Perhaps no city more fully captures the spirit of the age than Bath.
+Once a Roman city named *Aquae Sulis*, the city has endured and changed
+for centuries, always drawing people with its healing waters. Now, Bath
+has become the most fashionable destination for the gentry who wish to
+escape the stench and hazards of London.
+
+If you wish to see and be seen, you could do worse than attending a
+dance at the Assembly Rooms, or drinking the waters at the Grand Pump
+Room, or taking a walk along the Royal Crescent in front of the
+Palladian townhouses. Anyone who is anyone will be there.
+
+Brighton
+~~~~~~~~
+
+The town of Brighton was in a steep decline until two events caused it
+to surge upward again: the increasing popularity of sea-air and
+sea-bathing as medical advice, and the presence of the Prince Regent
+himself in the town. Many other luminaries have gathered here as a
+result, including the great Indian surgeon Sake Dean Mahomed, who has
+just moved back to Brighton to open his Indian Medicated Vapour Bath,
+where he uses his technique of *shampooing* as a medical treatment.
+
+The Prince Regent, meanwhile, has made his home-away-from-home here in
+the form of the Royal Pavilion, where he holds great parties for his
+inner circle, and meets not-so-discreetly with his mistress, Mrs.
+Fitzherbert. The Pavilion is built in a neoclassical style, but the
+Prince Regent has been considering rebuilding it in an Indian style to
+match the stables.
 
 Religion
 --------
