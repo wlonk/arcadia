@@ -21,7 +21,7 @@ people. But there's still a lot of regional variation.
 
 For our purposes, we'll divide England into a few macro-regions, and
 talk about each. Then, there are three cities that deserve special
-attention: London, Bath, and Brighton.
+attention as noteworthy cities of the age: London, Bath, and Brighton.
 
 South East
 ~~~~~~~~~~
@@ -42,6 +42,10 @@ extensively, and militiamen walk the coast keeping an eye out for enemy
 sails. Meanwhile, the men of the *Cinque Ports* believe their ancient
 rights let them import luxury goods like brandy and silk from France
 without tax, while the Revenue men brand them smugglers.
+
+Local legends speak of the sons of the giant Goemagot, slain by the
+first Trojans on English soil, who stalk the hills at night seeking
+vengeance for their father.
 
 South West
 ~~~~~~~~~~
@@ -85,6 +89,11 @@ left them with much credit among the subsequent monarchs. So the
 landholders will go to great lengths to emphasize their loyalty to the
 crown.
 
+The fens hold many ancient secrets, from the bodies of the first Danes
+to land on English soil, to the great one-eyed ghostly dog the locals
+call "Black Shuck". He protects the souls of the dead, but ushers more
+into their number whenever he appears.
+
 Midlands
 ~~~~~~~~
 
@@ -98,6 +107,10 @@ philosophy all its own. Great minds like that of Sir Isaac Newton,
 Erasmus Darwin, and James Watt all call or called this area home, and
 while the philosophical Lunar Society of Birmingham has collapsed, its
 influence is still felt.
+
+It is said that the most powerful and malicious fairy of the Midlands,
+Black Annis, was trapped in her cave in the Dane Hills when a powerful
+magician of the previous age barred the entrance with a great oak tree.
 
 The North
 ~~~~~~~~~
@@ -120,7 +133,9 @@ rich, and driving yet others into more abject poverty. The followers of
 old King Ludd, the ancient fairy king of the North, have been breaking
 the industrial looms to protest this oppression, and the government has
 held show-trials in this past year, and made "machine breaking" a crime
-punishable by death.
+punishable by death. Ludd's followers, however, seem to have some kind
+of fairy blessing, though, and time and again slip through the hands of
+the constables.
 
 London
 ~~~~~~
@@ -187,6 +202,13 @@ facto* head and *primus inter pares* is the Archbishop of Canterbury.
 Anglican ministers not only can marry, but are expected to do so to set
 a good example for their parishioners.
 
+As the emergence of the Anglican church more or less coincided with the
+disappearance of English magic, the church has never had to come to an
+official policy on the matter in any real way. Mostly, Church doctrine
+borrows from the earlier stance of the Catholic church in England: it is
+unseemly for a man of the cloth to practice magic, but it is not as
+though magic is itself sinful or wicked.
+
 Catholicism
 ~~~~~~~~~~~
 
@@ -197,6 +219,12 @@ despite years of official repression. As of 1791, Catholic worship has
 been made legal again, but Catholics are still barred from certain
 public positions, such as sitting in parliament. Catholic marriages were
 not legally recognized, either.
+
+While the Mother Church in Rome looks down on magic, it has usually
+looked down at least as much on the idea of witch-hunters. English
+Catholics in particular though tend to accept the ancient laws by which
+magic might be practiced, as long as it didn't interfere with the
+activities of the Church.
 
 Methodism and its cousins
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -214,10 +242,13 @@ ability to choose faith. They were known for preaching in the open air
 and to the poor and those that the Church of England neglected, and
 without regard to parish boundaries. This last point, and their
 encouragement of lay preachers, made the official power structure of the
-Church resent and suspect them.
+Church resent and suspect them. At this point, Methodism is present all
+over the country, but has begun to really take off in Wales.
 
-At this point, Methodism is present all over the country, but has begun
-to really take off in Wales.
+Methodists have had precious little time to come to any conclusions
+about English magic, but so far the general consensus is that it is a
+practice that makes it all too easy to sin, and therefore should be
+avoided by all who wish to enter Heaven.
 
 The Society of Friends (Quakers)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -239,6 +270,12 @@ practice of slavery in England's colonies, such as the West Indies.
 
 While they were never very many in number, their impact on England of
 this time was outsized.
+
+The Quakers are riven in two on the question of English magic. Some see
+it as a natural and therefore Godly English practice which is being
+revived. Others see it in light of the biblical Witch of Endor, as a
+practice which God forbade to humans. However, no Quaker would lift a
+hand to a magician either way, letting any judgment be God's to give.
 
 Others
 ~~~~~~
