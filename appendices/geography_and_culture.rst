@@ -26,26 +26,27 @@ attention as noteworthy cities of the age: London, Bath, and Brighton.
 South East
 ~~~~~~~~~~
 
-Consisting of the counties of Berkshire, Buckinghamshire, Hampshire,
-Kent, Oxfordshire, Surrey, and Sussex, this is very much what you think
-of when you think of Jane Austen's England. Rich farmland supports many
-small towns. You're not too far from London, and so the rich who spend
-the Season in London and the off-Season at their country houses are most
-likely to be found in this region. The seat of the foremost of Anglican
-bishops is here, too, at Canterbury.
+Consisting of the counties of Bedfordshire, Berkshire, Buckinghamshire,
+Essex, Hampshire, Hertfordshire, Kent, Oxfordshire, Surrey, and Sussex,
+this is very much what you think of when you think of Jane Austen's
+England. Rich farmland supports many small towns. You're not too far
+from London, and so the rich who spend the Season in London and the
+off-Season at their country houses are most likely to be found in this
+region. The seat of the foremost of Anglican bishops is here, too, at
+Canterbury.
 
-You have also the closest thing that England has to pleasant beaches,
-and as sea-bathing has become a fashionable medical (or quasi-medical)
-cure, towns like Brighton have begun to boom. But this coast is also
-where a French invasion would be most likely, and so the Navy patrols
-extensively, and militiamen walk the coast keeping an eye out for enemy
-sails. Meanwhile, the men of the *Cinque Ports* believe their ancient
-rights let them import luxury goods like brandy and silk from France
-without tax, while the Revenue men brand them smugglers.
+This is also where some of the most popular beaches in England are to be
+found, and as sea-bathing has become a fashionable medical (or
+quasi-medical) cure, towns like Brighton have begun to boom. But this
+coast is also where a French invasion would be most likely, and so the
+Navy patrols extensively, and militiamen walk the coast keeping an eye
+out for enemy sails. Meanwhile, the men of the *Cinque Ports* believe
+their ancient rights let them import luxury goods like brandy and silk
+from France without tax, while the Revenue men brand them smugglers.
 
-Local legends speak of the sons of the giant Goemagot, slain by the
-first Trojans on English soil, who stalk the hills at night seeking
-vengeance for their father.
+Local legends speak of the sons of the giant Goemagot, who stalk the
+hills at night seeking vengeance for their father, who was slain by one
+of the first of English kings.
 
 South West
 ~~~~~~~~~~
@@ -71,14 +72,13 @@ fairy-hounds baying and the Wild Hunt riding through the air.
 East England
 ~~~~~~~~~~~~
 
-Consisting of the counties of Bedfordshire, Cambridgeshire, Essex,
-Hertfordshire, Huntingdonshire, Norfolk, and Suffolk, the East is marked
-by low-lying fens and extensive waterways, and few here are not
-comfortable on a boat. Much of the land is even reclaimed bogs. But it
-is fertile land, and the farmers of the East have long been proud of
-their wealth and position. That is changing, as the mills of the North
-and the Midlands begin to eclipse the wealth one can find in sheep and
-horses.
+Consisting of the counties of Cambridgeshire, Huntingdonshire, Norfolk,
+and Suffolk, the East is marked by low-lying fens and extensive
+navigable waterways called the Broads, and few here are not comfortable
+on a boat. Much of the land is even reclaimed wetlands. But it is
+fertile land, and the farmers of the East have long been proud of their
+wealth and position. That is changing, as the mills of the North and the
+Midlands begin to eclipse the wealth one can find in sheep and horses.
 
 No one likes to see their stability and status vanish, and those who
 live in East Anglia are no different. They are trying to diversify, and
@@ -126,16 +126,16 @@ wrong has not been forgotten, and a kind of distrust and enmity remain
 between Northerners and Southerners, though many no longer quite know
 why.
 
-Compounding matters, the hardscrabble land of the North is now yielding
-a new kind of wealth, a wealth derived from mines and factories.
-Textiles, coal, and iron are making a new set of people in the North
-rich, and driving yet others into more abject poverty. The followers of
-old King Ludd, the ancient fairy king of the North, have been breaking
-the industrial looms to protest this oppression, and the government has
-held show-trials in this past year, and made "machine breaking" a crime
-punishable by death. Ludd's followers, however, seem to have some kind
-of fairy blessing, though, and time and again slip through the hands of
-the constables.
+Compounding matters, the land of the North is now yielding a new kind of
+wealth, a wealth derived from mines and factories. Textiles, coal, and
+iron are making a new set of people in the North rich, and driving yet
+others into more abject poverty. The followers of old King Ludd, the
+ancient fairy king of the North, have been breaking the industrial looms
+to protest this oppression, and the government has held show-trials in
+this past year, and made "machine breaking" a crime punishable by death.
+The government is hoping that by the brutal and indiscriminate
+application of violence, they may suppress the movement and leave mill
+owners secure in their position.
 
 London
 ~~~~~~
@@ -145,8 +145,8 @@ small justice shown, and still less pity."
 
 London is the driving force of encroaching modernity. If anything will
 close the gates to magic and Fairyland again, it will come from London.
-Magicians find it more difficult to cast spells in London, just as they
-do when they are further from England's shores.
+Magicians find it more difficult and dangerous to cast spells in London,
+just as they do when they are further from England's shores.
 
 While the action of a game may *move* to London, I strongly encourage
 you to not set a game here.
@@ -161,24 +161,24 @@ has become the most fashionable destination for the gentry who wish to
 escape the stench and hazards of London.
 
 If you wish to see and be seen, you could do worse than attending a
-dance at the Assembly Rooms, or drinking the waters at the Grand Pump
-Room, or taking a walk along the Royal Crescent in front of the
-Palladian townhouses. Anyone who is anyone will be there.
+dance at the Assembly Rooms, drinking the waters at the Grand Pump Room,
+or taking a walk along the Royal Crescent in front of the Palladian
+townhouses. Anyone who is anyone will be there.
 
 Brighton
 ~~~~~~~~
 
 The town of Brighton was in a steep decline until two events caused it
 to surge upward again: the increasing popularity of sea-air and
-sea-bathing as medical advice, and the presence of the Prince Regent
-himself in the town. Many other luminaries have gathered here as a
-result, including the great Indian surgeon Sake Dean Mahomed, who has
-just moved back to Brighton to open his Indian Medicated Vapour Bath,
-where he uses his technique of *shampooing* as a medical treatment.
+sea-bathing, and the presence of the Prince Regent himself in the town.
+Many other luminaries have gathered here as a result, including the
+great Indian surgeon Sake Dean Mahomed, who has just moved back to
+Brighton to open his Indian Medicated Vapour Bath, where he uses his
+technique of *shampooing* as a medical treatment.
 
 The Prince Regent, meanwhile, has made his home-away-from-home here in
 the form of the Royal Pavilion, where he holds great parties for his
-inner circle, and meets not-so-discreetly with his mistress, Mrs.
+inner circle, and meets not-so-discreetly with his secret wife, Mrs.
 Fitzherbert. The Pavilion is built in a neoclassical style, but the
 Prince Regent has been considering rebuilding it in an Indian style to
 match the stables.

@@ -2,6 +2,12 @@
 Spells
 ======
 
+.. epigraph::
+   You can't make things right by magic. You can only stop making them
+   wrong.
+
+   -- Granny Weatherwax, in *Witches Abroad* by Sir Terry Pratchett
+
 Of course, the main characters are also magicians. That means that they
 will cast spells.
 
