@@ -498,104 +498,125 @@ Vagabond
 Mistlethwaite (Yorkshire)
 -------------------------
 
-.. todo:: Description
+Mistlethwaite is a village on the edge of the vast Yorkshire Dales. The
+village is along a rill in a rich valley, and has long been a green and
+pleasant place to live. Now, though, a coal pit has opened on the edge
+of town, and some of those who once lived by the land are now digging
+the coal. The two major families of the town, the Earnshaws and
+Raines, are split on the matter of which way the town's future lies, in
+the mines or in the fields.
 
 People
 ~~~~~~
 
-The XXX of YYY (ZZZ)
+The Earnshaws of Stardon Hall (ZZZ)
 
- - ... XXX (f)
- - ... XXX (m)
- - ... (f)
- - ... (m)
- - ... (f)
- - ... (m)
- - ... (f)
- - ... (m)
+ - Mrs. Augusta Earnshaw (f)
+ - Mr. Robert Earnshaw (m)
+ - Hester (f)
+ - William (m)
+ - Caroline (f)
+ - John (m)
+ - Grace (f)
+ - George (m)
 
-The AAA of BBB (CCC)
+The Raines of Wakecross (CCC)
 
- - ... AAA (m)
- - ... AAA (f)
- - ...(f)
- - ... (m)
- - ... (f)
- - ... (m)
- - ... (f)
- - ... (m)
+ - Mr. Montagu Raines (m)
+ - Mrs. Martha Raines (f)
+ - Susan (f)
+ - Henry (m)
+ - Emma (f)
+ - Miles (m)
+ - Louisa (f)
+ - John Michael (m)
 
-The NNN (MMM)
+The Wades (MMM)
 
- - ... (f)
- - ... (m)
- - ... (f)
- - ... (m)
- - ... (f)
- - ... (m)
+ - Ellen (f)
+ - Martin (m)
+ - Beatrice (f)
+ - Lawrence (m)
+ - Rebecca (f)
+ - Edmund (m)
 
 The Town
 ~~~~~~~~
 
 People in the town might be:
 
- - A ...
- - A ...
- - A ...
- - A ...
- - A ...
- - A ...
- - A ...
+ - A collier
+ - A farmer
+ - A publican
+ - A curate
+ - A working widow
+ - A peddler
+ - A musician
 
 People in the town might be named:
 
- - ... (f)
- - ... (m)
- - ... (f)
- - ... (m)
- - ... (f)
- - ... (m)
- - ... (f)
- - ... (m)
- - ... (f)
- - ... (m)
- - ... (f)
- - ... (m)
- - ... (f)
- - ... (m)
+ - Sally (f)
+ - Stephen (m)
+ - Penelope (Penny) (f)
+ - Mark (m)
+ - Althea (f)
+ - Guy (m)
+ - Julia (f)
+ - Simon (m)
+ - Peg (f)
+ - Septimus (m)
+ - Nancy (f)
+ - Percy (m)
+ - Moll (f)
+ - Adam (m)
 
 Locations
 ~~~~~~~~~
 
-YYY
-"""
+Stardon Hall
+""""""""""""
 
 .. todo:: Description.
 
-BBB
-"""
+The old house of the Earnshaw family retains its Tudor design, with
+half-timbering and high-ceilinged halls. It is far from the height of
+fashion, but its palpable age does lend a certain gravitas.
 
-.. todo:: Description
+Wakecross
+"""""""""
 
-OOO
-"""
+The seat of the Raine family, Wakecross is a modest but fashionable new
+house, with a stream running near it through the carefully "wild" and
+"natural" grounds.
 
-.. todo:: Description
+St. Mary's
+""""""""""
 
-OOO
-"""
+Legends say the old parish church was built on the site of an ancient
+pagan temple, from before the arrival of Christianity.
 
-.. todo:: Description
+The Falls
+"""""""""
 
-OOO
-"""
+One of the reasons the new "tourists" might venture to Mistlethwaite,
+which is otherwise quite off the beaten path, is the spectacular
+waterfall just upriver from the town, said to have once been the home of
+a fairy queen.
 
-.. todo:: Description
+The Pit
+"""""""
 
-OOO
-"""
+Dug into the hills near town is the new coal mine, going hundreds of
+feet deep into the seam, and belching smoke from the steam engines that
+drive breathable air down and pull noxious gases out. Coal is carted out
+by the wagonload.
 
-.. todo:: Description
+The Cross Scythes
+"""""""""""""""""
+
+The center of working-class social life in Mistlethwaite is the old pub,
+where music can be found most evenings and the men of the town discuss
+how they feel about the changes happening to their town.
 
 Connections
 ~~~~~~~~~~~
@@ -607,66 +628,66 @@ fairy, or someone touched by one of those.
 Gentleman
 """""""""
 
- - ...
- - ...
- - ...
- - ...
+ - Who is your creditor
+ - Who is your advisor
+ - Who is your rival
+ - Who you go to for fun
 
 Officer
 """""""
 
- - ...
- - ...
- - ...
- - ...
+ - Who has your eye
+ - Who hangs on your words
+ - Who you must show deference to
+ - Who you thinks they're better than you
 
 Clergyman
 """""""""
 
- - ...
- - ...
- - ...
- - ...
+ - Who thinks you are at their command
+ - Who loves you but shouldn't
+ - Who are you teaching
+ - Who thinks you don't deserve the parish
 
 Dandy
 """""
 
- - ...
- - ...
- - ...
- - ...
+ - Who keeps you here
+ - Who thinks they look better with you there
+ - Who won't keep out of your business
+ - Who imitates you
 
 Lady
 """"
 
- - ...
- - ...
- - ...
- - ...
+ - Who do you trust
+ - Who do you enjoy
+ - Who makes you laugh, despite yourself
+ - Who fascinates you
 
 Companion
 """""""""
 
- - ...
- - ...
- - ...
- - ...
+ - Who snubs you
+ - Who keeps asking you for financial assistance
+ - Who courts you
+ - Who confides in you
 
 Ward
 """"
 
- - ...
- - ...
- - ...
- - ...
+ - Who refuses to believe you're not a child anymore
+ - Who treats you like furniture
+ - Who is your co-conspirator
+ - Who have you not seen since you were both much younger
 
 Spinster
 """"""""
 
- - ...
- - ...
- - ...
- - ...
+ - Who thinks they know best for you
+ - Who thinks you owe them for the care they show you
+ - Who can you be honest with
+ - Who thinks you're still a prospect for them
 
 Invalid
 """""""
