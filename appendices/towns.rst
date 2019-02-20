@@ -509,7 +509,7 @@ the mines or in the fields.
 People
 ~~~~~~
 
-The Earnshaws of Stardon Hall (ZZZ)
+The Earnshaws of Stardon Hall (Ash)
 
  - Mrs. Augusta Earnshaw (f)
  - Mr. Robert Earnshaw (m)
@@ -520,7 +520,7 @@ The Earnshaws of Stardon Hall (ZZZ)
  - Grace (f)
  - George (m)
 
-The Raines of Wakecross (CCC)
+The Raines of Wakecross (Yew)
 
  - Mr. Montagu Raines (m)
  - Mrs. Martha Raines (f)
@@ -531,7 +531,7 @@ The Raines of Wakecross (CCC)
  - Louisa (f)
  - John Michael (m)
 
-The Wades (MMM)
+The Wades (Holly)
 
  - Ellen (f)
  - Martin (m)
