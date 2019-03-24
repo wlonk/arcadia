@@ -1,6 +1,6 @@
-======================
-Moments of Uncertainty
-======================
+========================
+Leaving things to Chance
+========================
 
 As you play, there will be moments where the outcome is uncertain, and
 you will not find the host simply deciding based on their principles

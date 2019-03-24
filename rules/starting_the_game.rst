@@ -5,8 +5,9 @@ Starting the Game
 You've all just spent some time talking and brainstorming and hashing
 out ideas, but not embodying characters and situations, and now it's
 time to switch, and start the conversation not about *what has happened*
-but *what happens*. The transition can be difficult, but it is not
-impossible!
+but *what happens*. The transition can be difficult, but treat it gently
+and know that you are all collaborating, and you will find yourself past
+it.
 
 The first session
 -----------------
@@ -23,11 +24,11 @@ what stands in the way of the main characters' hopes and aspirations.
    worry!
 
    First: no one will judge your accuracy except the people you're
-   playing with. So set expectations, together, at the ouset. Some folks
-   at the table will be deeply interested in and knowledgable about the
-   period, others will not be. The rule is, and must be: add or correct
-   period detail only when it enriches, and when you have not already
-   done so enough. Do not monopolize the conversation.
+   playing with. So set expectations, together, at the outset. Some
+   folks at the table will be deeply interested in and knowledgable
+   about the period, others will not be. The rule is, and must be: add
+   or correct period detail only when it enriches, and when you have not
+   already done so enough. Do not monopolize the conversation.
 
    Second: this is a game of Regency *fantasy*; while verisimilitude is
    desirable, accuracy is impossible. All of the Regency setting exists

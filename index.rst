@@ -45,15 +45,8 @@ Et in Arcadia Ego
 To do
 -----
 
- * Content:
-   
-   + Premade towns
-
  * Get external editor.
  * Index document.
  * Get art.
-
-   + Emma Jacobs?
-   + Dylan Meconis?
 
 .. todolist::

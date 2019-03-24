@@ -64,11 +64,10 @@ Make the main characters
 ------------------------
 
 Once you have a context, make your characters. The first step is to
-**choose a role**. If you have concerns about playing any of the twelve
-social roles, feel free to select one. If you feel you are up for a
-challenge, draw two at random, and choose one from between those two.
-You don't always get to have the role in life you hoped for, and this
-can provoke you to play a surprising character.
+**choose a role**. If you are ready to be surprised by the character you
+may play, draw two at random, and choose one. If you know who you want
+to play, you may simply play a role of your choice. I encourage you to
+consider the first option.
 
 Once you have your role, **choose your given name and family name**
 (perhaps using a family name from the town sheet), briefly describe your
@@ -133,25 +132,25 @@ Angelo, Bridget, Carl, and Dianne are playing, with Harper as the Host.
 They have decided that the attempt to revive English magic came from an
 academic at Oxford, a scholar there named Wycliff. He began as an
 historian of English magic, but succumbed to the temptation many before
-him have, and tried his hand at practical magic. The difference is, it
-worked. He helped the government for less than a year before vanishing.
-All his papers were in a cipher, and half of them were missing, and so
-the government (and the country) have doubled down on practicality and
-the stiff upper lip, and given up entirely on magic. Most people think
-magic is a distraction, and that England has become better and stronger
-for its absence. Of course, perhaps people only think that because it
-has failed.
+him have, and tried his hand at practical magic. Unlike all his
+predecessors attempts, it worked. He helped the government for less than
+a year before vanishing.  All his papers were in a cipher, and half of
+them were missing, and so the government (and the country) have doubled
+down on practicality and the stiff upper lip, and given up entirely on
+magic. Most people think magic is a distraction, and that England has
+become better and stronger for its absence. Of course, perhaps people
+only think that because it has failed.
 
 They have decided to play in the town of Little Norlea, in the
 Southeast, not far from London, but out of the way. Angelo, Bridget,
-Carl and Dianne now choose their roles. They all choose the challenging
-route, drawing roles at random. Angelo draws the Ward and the Officer,
-Bridget draws the Gentleman and Clergyman, Carl draws the Invalid and
-Lower Servant, Dianne draws the Dandy and Companion. After some
-discussion and figuring out which roles most appeal to each of them, and
-which dynamics between them are most interesting, they settle on these
-roles: Angelo as the Ward, Bridget as the Clergyman, Carl as the Lower
-Servant, and Dianne as the Dandy.
+Carl and Dianne now choose their roles. They all choose the random
+route, drawing two roles and choosing one. Angelo draws the Ward and the
+Officer, Bridget draws the Gentleman and Clergyman, Carl draws the
+Invalid and Lower Servant, Dianne draws the Dandy and Companion. After
+some discussion and figuring out which roles most appeal to each of
+them, and which dynamics between them are most interesting, they settle
+on these roles: Angelo as the Ward, Bridget as the Clergyman, Carl as
+the Lower Servant, and Dianne as the Dandy.
 
 The Ward is Sophia Bellamy, daughter to the late Captain Lucas Bellamy
 and granddaughter and ward to Squire Jonas Bellamy. She is pretty but
