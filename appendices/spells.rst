@@ -85,7 +85,8 @@ Apprentice: Make an ephemeral glamour
 
 The magician may make an illusion affecting one sense out of materials
 at hand, lasting until the next dawn or dusk. The sound of running water
-may seem to be conversation, or rain may appear to be ships.
+may seem to be conversation, or rain on the water may appear to be
+ships.
 
 Journeyman: Make a substantial glamour
 --------------------------------------
@@ -120,8 +121,8 @@ Until the next turning of the seasons, the magician or one they touch
 cannot remember a specific event or detail, lasting no longer than a
 dinner.
 
-Master: R ewrite memory
------------------------
+Master: Rewrite memory
+----------------------
 
 Until the next turning of the seasons, the magician or one they touch
 has a specific memory replaced with one of the magician’s detailing.
@@ -212,8 +213,8 @@ Apprentice: Pass unnoticed
 --------------------------
 
 Until the next dawn or dusk, the magician or one they touch simply
-passes from view. Only the most observant may notice that something is
-afoot.
+passes from view while standing still. Only the most observant may
+notice that something is afoot.
 
 Journeyman: Assume the form of shadow
 -------------------------------------
@@ -251,7 +252,7 @@ Master: Imprison someone in a place
 
 Until the next turning of the seasons, someone the magician touches
 cannot leave the confines of the defined place they are in (a house, a
-field, a forest).
+field, a forest, an oak tree).
 
 Therianthropy
 =============
@@ -293,16 +294,16 @@ until the next dawn or dusk.
 Journeyman: Transmute common materials
 --------------------------------------
 
-The magician may transmute a worked or composite material (such as
-ceramic, glass, brick, or leather) they touch into another worked or
-composite material, until the next dawn or dusk.
+The magician may transmute a simple, worked or composite material (such
+as ceramic, glass, brick, or leather) they touch into another simple,
+worked or composite material, until the next dawn or dusk.
 
 Master: Transmute noble materials
 ---------------------------------
 
-The magician may transmute a rare or precious material (such as rubies,
-gold, or ivory) that they touch into another rare or precious material,
-until the next dawn or dusk.
+The magician may transmute a simple, worked, rare or precious material
+(such as rubies, gold, or ivory) that they touch into another simple,
+worked, rare or precious material, until the next dawn or dusk.
 
 Vitality
 ========
@@ -318,7 +319,8 @@ healed as though by miracle: the lame may walk and the blind may see.
 Journeyman: Close wounds
 ------------------------
 
-The magician or one they touch heals one wound.
+The magician or one they touch heals one wound. Disabilities can be
+permanently healed.
 
 Master: Wake the dead
 ---------------------
@@ -374,7 +376,6 @@ When you cast spells, it marks your soul.
  - You develop stigmata-like wounds that will not heal.
  - You feel like space stretches and shrinks unpredictably, and you
    often feel like you are falling.
- - You have a constant sensation of being watched.
  - You no longer bleed when pricked or cut. You may, of course, still
    die.
  - Your reflection is wrong: it is faded, angled incorrectly, or simply

@@ -36,12 +36,12 @@ Making families
 
    -- Jane Austen, in a letter to Anna Austen Lefroy
 
-Everyone is part of, or attached to, a family. So the families of the
+Everyone is part of, or attached to, a family, so the families of the
 town are a vital starting place. Two at a bare minimum, five at a
 maximum, but usually three or four families, with a family name, a few
 noteworthy members, some names for other possible members, and a
-standing in terms of wealth and status. Finally, decide which root each
-family possesses.
+standing in terms of wealth and status. Finally, decide which of the
+eight roots each family possesses.
 
 Making locations
 ----------------

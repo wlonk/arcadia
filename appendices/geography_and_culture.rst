@@ -311,7 +311,7 @@ conversation as "Mr. Smith".
 When talking about siblings, it is normal to use the first name to make
 clear who you mean, such as "Miss Elizabeth Smith", or perhaps even just
 "Miss Elizabeth" if you are intimate and the context is casual, but the
-eldest daughter would usually simply be "Miss Smith".
+eldest unmarried daughter would usually simply be "Miss Smith".
 
 When you are close with a man, and the context is intimate, it is normal
 to use simply his surname: "Smith". For a woman, one might use simply

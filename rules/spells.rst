@@ -16,8 +16,8 @@ Magic is wild, natural, romantic, and English.
 There are two great laws to magic: first, it cannot create something out
 of nothing. Second, it cannot hold something inherently protean in
 place. While you can change the shape of a fairy or the quality of an
-emotion with magic, it will last but an instant, before it returns to
-what it was.
+emotion with magic, it will twist and bend out of any magician's grasp,
+and be what it was before the spell even finishes.
 
 Spells, arts and tiers
 ----------------------
@@ -26,7 +26,7 @@ Every spell is part of an art, and every spell is either the apprentice,
 journeyman, or master expression of that art. Before you can learn the
 master tier, you must learn the journeyman. Before you can learn the
 journeyman, you must learn the apprentice. At the start of the game, you
-should know two arts at the apprentice level.
+know two arts at the apprentice level.
 
 For details on the arts and spells, see :ref:`appendix-Spells`.
 
@@ -103,9 +103,10 @@ An example
 
 Miss Bellamy intends to cast a spell. She hopes to sneak out at night to
 the militia encampment, and get a sense of the soldiers' life, and maybe
-come back with a prize. This is dangerous on so many fronts: she might
-be found by her guardians, the sentries at the camp, or footpads on the
-road at night. So she prepares by casting the apprentice spell of
+find a way that she could become a soldier herself; she dreams of
+military valour, after all. This is dangerous on so many fronts: she
+might be found by her guardians, the sentries at the camp, or footpads
+on the road at night. So she prepares by casting the apprentice spell of
 Clarity, a spell to alert one of present danger.
 
 As it is an apprentice spell, it requires two tools. She wishes to cast

@@ -57,14 +57,14 @@ things to watch for:
 An example
 ----------
 
-A scene with Miss Bellamy, Ben Cull, and the supporting character Jane
-Cull has just come to a close. Miss Bellamy was talking furtively with
-Jane near the kitchens at Longford, when Ben came up to confront his
-sister Jane. Miss Bellamy leapt to her maidservant's defense, and Ben
-told her he knew just as well what she was up to, speaking with fairies
-an' all. She reminded him of his place, and told him he had better keep
-quiet, and leave his sister alone, as who would believe a groom over the
-Squire's granddaughter?
+A scene with the main characters Miss Bellamy and Ben Cull, and the
+supporting character Jane Cull has just come to a close. Miss Bellamy
+was talking furtively with Jane near the kitchens at Longford, when Ben
+came up to confront his sister Jane. Miss Bellamy leapt to her
+maidservant's defense, and Ben told her he knew just as well what she
+was up to, speaking with fairies an' all. She reminded him of his place,
+and told him he had better keep quiet, and leave his sister alone, as
+who would believe a groom over the Squire's granddaughter?
 
 The two players involved in the scene each go over their reputations,
 asking the table whether they lived up to them. First, Miss Bellamy:

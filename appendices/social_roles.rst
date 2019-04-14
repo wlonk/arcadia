@@ -26,7 +26,7 @@ Your best accomplishment is...
  - Dancing
  - Shooting
 
-Your age is 20 to 29.
+Your age is 20 to 49.
 
 Quick facts
 ~~~~~~~~~~~
@@ -131,7 +131,7 @@ Your best accomplishment is...
  - Natural Philosophy
  - Comportment
 
-Your age is 23 to 32.
+Your age is 23 to 40.
 
 Quick facts
 ~~~~~~~~~~~
@@ -249,7 +249,8 @@ You also need to seem morally spotless, and this means the rest of your
 family has to appear moral, too.
 
 Finally, you have to be able to meet eligible men. Balls and socializing
-aren't just for fun, they're a way to secure your future.
+aren't just for fun, they're a way to secure your future. You are a
+saleswoman, and your product is yourself as a wife.
 
 Society puts ladies up on a pedestal, though. You always decide the
 degree of acquaintance, you are implicitly responsible for managing
@@ -392,7 +393,7 @@ Your best accomplishment is...
  - Thrift
  - Writing
 
-Your age is 25 to 29.
+Your age is 25 to 39.
 
 Quick facts
 ~~~~~~~~~~~
@@ -442,7 +443,7 @@ Your best accomplishment is...
  - Natural Philosophy
  - Writing
 
-Your age is 18 to 27.
+Your age is 18 to 49.
 
 Quick facts
 ~~~~~~~~~~~
@@ -495,7 +496,7 @@ Your best accomplishment is...
  - Listening
  - Thrift
 
-Your age is 20 to 29.
+Your age is 20 to 49.
 
 Quick facts
 ~~~~~~~~~~~
@@ -603,7 +604,7 @@ Your best accomplishment is...
  - Inconspicuousness
  - Bargaining
 
-Your age is 16 to 29.
+Your age is 16 to 59.
 
 Quick facts
 ~~~~~~~~~~~

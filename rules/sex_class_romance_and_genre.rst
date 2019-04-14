@@ -65,8 +65,9 @@ It's a time when passions and feelings and untamed nature are all
 increasingly valued, or at least given lip service. But it comes on the
 heels of a couple centuries of rationality and duty and family
 obligation. And so a tension is coming to the fore, the tension between
-marriage as a contract between two families, and marriage as an
-expression of the love of two individuals.
+*marriage as a contract between two families*, and *marriage as an
+expression of the love of two individuals*. Marriage is changing from a
+business matter to a personal matter.
 
 The notion of love between individuals as the basis of marriage frees
 marriage to be, mean, and do different things than it had heretofore.
@@ -104,12 +105,13 @@ Characters frequently deal with romance in the face of
 misunderstandings, mistaken identities, secret engagements,
 "understandings", cads, rakes, and conniving "friends".
 
-To this I would like to add a caveat: if you have feelings for another
-*player*, do not explore those feelings through your *characters*
-without their full, explicit, and *informed* consent. Otherwise your
-interactions could lead to very different things. I would repeat this
-warning if you have, say, a desire for murderous revenge on another
-player, too, but I think romantic feelings are much more likely.
+To this I would like to add a caveat, for this or any other game: if you
+have feelings for another *player*, do not explore those feelings
+through your *characters* without their full, explicit, and *informed*
+consent. Otherwise your interactions could lead to very different
+things. I would repeat this warning if you have, say, a desire for
+murderous revenge on another player, too, but I think romantic feelings
+are much more likely.
 
 The Comedy or Tragedy of Manners
 ================================
